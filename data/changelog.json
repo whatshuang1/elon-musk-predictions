@@ -1,0 +1,3164 @@
+{
+ "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
+ "retrieved": "2026-10-26",
+ "schema_version": "2.0",
+ "schema": "https://twoweeks.lol/data/schema.json",
+ "claims": 348,
+ "statements": 462,
+ "count": 394,
+ "note": "Newest first. Same entries as /feed.xml.",
+ "changes": [
+  {
+   "date": "2026-10-26",
+   "kind": "prediction",
+   "slug": "highway-on-ramp-to-exit-without-touching-controls-2015",
+   "claim_id": "c2",
+   "change": "Verdict: Partial → Delivered late. Tesla's Full Self-Driving (Supervised) now follows highway on-ramps and exits without the driver holding the wheel, using the cabin camera for attention.",
+   "url": "https://twoweeks.lol/predictions/90-autopilot-capable-by-2015/#highway-on-ramp-to-exit-without-touching-controls-2015"
+  },
+  {
+   "date": "2026-10-23",
+   "kind": "prediction",
+   "slug": "spacex-ai-revenue-exceeds-rest-september-2026",
+   "claim_id": "c406",
+   "change": "Verdict: Missed → Delivered late. SpaceX's third-quarter results showed AI revenue at $7.6 billion, ahead of Starlink and launch combined.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-ai-revenue-exceeds-rest-september-2026"
+  },
+  {
+   "date": "2026-10-23",
+   "kind": "prediction",
+   "slug": "optimus-v3-production-august-2026",
+   "claim_id": "c135",
+   "change": "Verdict: Missed → Delivered late. Tesla confirmed Optimus production has begun on Fremont high-volume lines, after the July/August start it had targeted.",
+   "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/"
+  },
+  {
+   "date": "2026-10-23",
+   "kind": "prediction",
+   "slug": "dragon-to-space-station-in-2010",
+   "claim_id": "c424",
+   "change": "Verdict: Missed → Delivered late. Dragon first reached the space station in May 2012, about a year and a half after the 2010 target.",
+   "url": "https://twoweeks.lol/predictions/first-dragon-on-falcon-9-end-of-2009/#dragon-to-space-station-in-2010"
+  },
+  {
+   "date": "2026-10-23",
+   "kind": "prediction",
+   "slug": "solar-roof-spanish-tile-french-slate-early-2018",
+   "claim_id": "c380",
+   "change": "Verdict: Missed → Cancelled. Tesla discontinued Solar Roof in August 2026, so the Spanish-tile and French-slate styles that never shipped are now shelved.",
+   "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-spanish-tile-french-slate-early-2018"
+  },
+  {
+   "date": "2026-10-23",
+   "kind": "prediction",
+   "slug": "solar-roof-1000-per-week-end-2019",
+   "claim_id": "c287",
+   "change": "Verdict: Missed → Cancelled. Tesla killed Solar Roof in August 2026, ending the 1,000-roofs-a-week production goal.",
+   "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-1000-per-week-end-2019"
+  },
+  {
+   "date": "2026-10-22",
+   "kind": "prediction",
+   "slug": "fremont-optimus-factory-million-units",
+   "claim_id": "c52",
+   "change": "Verdict: Pending → Partial. Tesla confirmed Optimus production on the converted Fremont high-volume line, still far short of a million robots a year.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#fremont-optimus-factory-million-units"
+  },
+  {
+   "date": "2026-10-21",
+   "kind": "prediction",
+   "slug": "optimus-unscripted-video-month-or-two",
+   "claim_id": "c515",
+   "change": "Elon Musk said Tesla may release a video of Optimus doing unscripted tasks in a month or two.",
+   "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/#optimus-unscripted-video-month-or-two"
+  },
+  {
+   "date": "2026-10-21",
+   "kind": "prediction",
+   "slug": "tesla-5-million-vehicles-a-year-2030",
+   "claim_id": "c514",
+   "change": "Elon Musk said Tesla is aiming for 5 million vehicles a year by about 2030.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-5-million-vehicles-a-year-2030"
+  },
+  {
+   "date": "2026-10-21",
+   "kind": "prediction",
+   "slug": "fsd-eu-wide-approval-by-q1-2027",
+   "claim_id": "c513",
+   "change": "Elon Musk said he would be surprised if EU-wide FSD approval takes longer than the first quarter of 2027.",
+   "url": "https://twoweeks.lol/predictions/fsd-beta-europe-summer-2022/#fsd-eu-wide-approval-by-q1-2027"
+  },
+  {
+   "date": "2026-10-21",
+   "kind": "prediction",
+   "slug": "ai5-in-optimus-april-2027",
+   "claim_id": "c86",
+   "change": "Elon Musk said Tesla's AI5 chip should go into Optimus around April 2027.",
+   "url": "https://twoweeks.lol/predictions/tesla-ai5-chip-production-q2-2027/#ai5-in-optimus-april-2027"
+  },
+  {
+   "date": "2026-10-21",
+   "kind": "prediction",
+   "slug": "terafab-useful-chips-at-volume-q3-2028",
+   "claim_id": "c267",
+   "change": "Elon Musk said Terafab aims to make useful chips at volume around the third quarter of 2028.",
+   "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#terafab-useful-chips-at-volume-q3-2028"
+  },
+  {
+   "date": "2026-10-21",
+   "kind": "prediction",
+   "slug": "optimus-fremont-20000-a-week-2027",
+   "claim_id": "c50",
+   "change": "Elon Musk said Fremont's Optimus line should reach 20,000 robots a week in at least a year, maybe a little longer.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-fremont-20000-a-week-2027"
+  },
+  {
+   "date": "2026-10-21",
+   "kind": "prediction",
+   "slug": "optimus-outside-customers-end-2027",
+   "claim_id": "c50",
+   "change": "Elon Musk said Tesla expects to start delivering Optimus to companies outside Tesla around the end of 2027.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-outside-customers-end-2027"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "starship-weekly-h1-twice-weekly-h2-2027",
+   "claim_id": "c473",
+   "change": "Elon Musk said Starship should fly weekly in the first half of 2027 and twice weekly or more by the end of 2027.",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-weekly-h1-twice-weekly-h2-2027"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "starship-flight-15-catch-booster-and-ship-november-2026",
+   "claim_id": "c224",
+   "change": "Elon Musk said Starship Flight 15 should fly next month and will try to catch both the booster and the ship with the tower.",
+   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-flight-15-catch-booster-and-ship-november-2026"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "grok-bot-enterprise-wide-deployment-few-weeks",
+   "claim_id": "c506",
+   "change": "Elon Musk said Grok Bot should be in wide deployment for enterprise customers within a few weeks.",
+   "url": "https://twoweeks.lol/predictions/grok-bot-enterprise-wide-deployment-few-weeks/"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "starlink-100x-bandwidth-within-three-years",
+   "claim_id": "c505",
+   "change": "Elon Musk said Starlink will probably have about 100 times its current bandwidth within three years.",
+   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-100x-bandwidth-within-three-years"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "spacex-arr-500-billion-to-1-trillion-end-2027",
+   "claim_id": "c504",
+   "change": "Elon Musk said SpaceX's annual recurring revenue should be between $500 billion and $1 trillion by the end of 2027.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-arr-500-billion-to-1-trillion-end-2027"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "spacex-440k-vera-rubin-training-cluster-q2-2027",
+   "claim_id": "c503",
+   "change": "Elon Musk said SpaceX plans to have a 440,000-chip Vera Rubin training cluster online by the end of Q2 2027.",
+   "url": "https://twoweeks.lol/predictions/spacex-13-gigawatts-ai-compute-end-2027/#spacex-440k-vera-rubin-training-cluster-q2-2027"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "spacex-200k-gb300-per-month-rest-of-2026",
+   "claim_id": "c502",
+   "change": "Elon Musk said SpaceX is on track to bring about 200,000 GB300 chips online every month for the rest of 2026.",
+   "url": "https://twoweeks.lol/predictions/spacex-13-gigawatts-ai-compute-end-2027/#spacex-200k-gb300-per-month-rest-of-2026"
+  },
+  {
+   "date": "2026-10-20",
+   "kind": "prediction",
+   "slug": "spacex-13-gigawatts-ai-compute-end-2027",
+   "claim_id": "c501",
+   "change": "Elon Musk said he expects SpaceX to have about 13 gigawatts of AI compute online by the end of 2027.",
+   "url": "https://twoweeks.lol/predictions/spacex-13-gigawatts-ai-compute-end-2027/"
+  },
+  {
+   "date": "2026-10-19",
+   "kind": "prediction",
+   "slug": "spacex-shares-to-every-kid-in-america",
+   "claim_id": "c500",
+   "change": "Elon Musk posted that next year he will give one of his SpaceX shares to every kid in America, and that it will be the first of many.",
+   "url": "https://twoweeks.lol/predictions/spacex-shares-to-every-kid-in-america/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "las-vegas-loop-opens-in-a-month-or-two",
+   "claim_id": "c390",
+   "change": "Verdict: Missed → Delivered late. It happened late: the Las Vegas Convention Center Loop carried its first convention visitors in June 2021.",
+   "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#las-vegas-loop-opens-in-a-month-or-two"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "first-supercharger-sf-la-jan-feb-2012",
+   "claim_id": "c410",
+   "change": "Verdict: Missed → Delivered late. It happened late: the first Superchargers opened on the SF-LA corridor on September 24 2012.",
+   "url": "https://twoweeks.lol/predictions/la-to-ny-superchargers-end-2013/#first-supercharger-sf-la-jan-feb-2012"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "new-factory-locations-announced-end-of-2022",
+   "claim_id": "c418",
+   "change": "Verdict: Missed → Delivered late. It happened late: Tesla announced Giga Mexico at Investor Day on March 1 2023.",
+   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#new-factory-locations-announced-end-of-2022"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "eelv-certification-in-2014",
+   "claim_id": "c482",
+   "change": "Verdict: Missed → Delivered late. It happened late: the Air Force certified Falcon 9 on May 26 2015.",
+   "url": "https://twoweeks.lol/predictions/eelv-certification-in-2014/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "mars-transport-architecture-presented-end-of-2015",
+   "claim_id": "c487",
+   "change": "Verdict: Missed → Delivered late. It happened late: Musk presented the Mars architecture at IAC on September 27 2016.",
+   "url": "https://twoweeks.lol/predictions/mars-transport-architecture-presented-end-of-2015/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "falcon-9-block-5-first-flight-mid-2017",
+   "claim_id": "c489",
+   "change": "Verdict: Missed → Delivered late. It happened late: the first Falcon 9 Block 5 flew on May 11 2018.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "first-dragon-on-falcon-9-end-of-2009",
+   "claim_id": "c369",
+   "change": "Verdict: Missed → Delivered late. It happened late: Dragon flew on Falcon 9 on December 8 2010.",
+   "url": "https://twoweeks.lol/predictions/first-dragon-on-falcon-9-end-of-2009/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "falcon-9-first-launch-later-in-2009",
+   "claim_id": "c370",
+   "change": "Verdict: Missed → Delivered late. It happened late: Falcon 9 first flew on June 4 2010.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-first-launch-later-in-2009/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "model-y-on-the-roads-in-2019",
+   "claim_id": "c381",
+   "change": "Verdict: Missed → Delivered late. It happened late: first Model Y deliveries came on March 13 2020.",
+   "url": "https://twoweeks.lol/predictions/model-y-best-selling-car-in-world-2023/#model-y-on-the-roads-in-2019"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "model-x-prototype-unveil-mid-december-2011",
+   "claim_id": "c409",
+   "change": "Verdict: Missed → Delivered late. It happened late: the Model X prototype was unveiled February 9 2012.",
+   "url": "https://twoweeks.lol/predictions/model-x-volume-production-q2-2015/#model-x-prototype-unveil-mid-december-2011"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "model-s-china-deliveries-february-2014",
+   "claim_id": "c413",
+   "change": "Verdict: Missed → Delivered late. It happened late: first China Model S deliveries came April 22 2014.",
+   "url": "https://twoweeks.lol/predictions/model-s-china-deliveries-february-2014/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "supercharger-v3-production-end-of-2018",
+   "claim_id": "c454",
+   "change": "Verdict: Missed → Delivered late. It happened late: Tesla unveiled the V3 Supercharger on March 6 2019, first public site that April.",
+   "url": "https://twoweeks.lol/predictions/la-to-ny-superchargers-end-2013/#supercharger-v3-production-end-of-2018"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "tesla-pickup-unveil-summer-2019",
+   "claim_id": "c461",
+   "change": "Verdict: Missed → Delivered late. It happened late: the Cybertruck was unveiled on November 21 2019.",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#tesla-pickup-unveil-summer-2019"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "roadster-spacex-package-with-thrusters",
+   "claim_id": "c94",
+   "change": "Verdict: Pending → Delivered. Tesla's Oct 15 2026 Roadster reveal showed the SpaceX thruster package: the Rocket trim has 10 cold-gas thrusters around the car, the ~10 Musk promised in 2018 (TechCrunch).",
+   "url": "https://twoweeks.lol/predictions/roadster-spacex-package-with-thrusters/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "roadster-0-60-in-under-1",
+   "claim_id": "c92",
+   "change": "Verdict: Pending → Delivered. At the Oct 15 2026 reveal Tesla listed sub-one-second 0-60 for the Roadster Thrust trim and showed a 0.81 s run on its own clock (TechCrunch); not yet independently timed.",
+   "url": "https://twoweeks.lol/predictions/roadster-0-60-in-under-1/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "ram-shortage-through-2027",
+   "claim_id": "c498",
+   "change": "Replying to a report that Michael Dell expects the memory chip crunch to get worse, Elon Musk wrote that it will last for sure in 2027, and that 2028 will be a different story if China ramps LPDDR5 and LPDDR6 production as fast as other products.",
+   "url": "https://twoweeks.lol/predictions/ram-shortage-through-2027/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "us-output-50-percent-growth-by-2030",
+   "claim_id": "c499",
+   "change": "Replying to a post about an Anthropic estimate that AI could push US GDP to $44 trillion by 2030, Elon Musk wrote that more than 50% growth in useful US output by 2030 due to superintelligence is extremely likely, unless there is a major war.",
+   "url": "https://twoweeks.lol/predictions/elon-economic-growth-prediction/#us-output-50-percent-growth-by-2030"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "tesla-10-million-cumulative-vehicles-2026",
+   "claim_id": "c448",
+   "change": "Verdict: Pending → Delivered. Tesla produced its 10 millionth vehicle, a Model Y at Fremont, during the week of July 30 2026.",
+   "url": "https://twoweeks.lol/predictions/tesla-10-million-cumulative-vehicles-2026/"
+  },
+  {
+   "date": "2026-10-18",
+   "kind": "prediction",
+   "slug": "megapack-3-production-houston-2026",
+   "claim_id": "c449",
+   "change": "Verdict: Pending → Delivered. Tesla began Megapack 3 production at its Brookshire Megafactory outside Houston on August 6 2026.",
+   "url": "https://twoweeks.lol/predictions/megapack-3-production-houston-2026/"
+  },
+  {
+   "date": "2026-10-17",
+   "kind": "prediction",
+   "slug": "roadster-can-fly",
+   "claim_id": "c95",
+   "change": "Verdict: Pending → Delivered. Tesla flew the next-gen Roadster on cold-gas thrusters at SpaceX's McGregor site on October 15 2026, and Elon Musk posted that the future does have flying cars.",
+   "url": "https://twoweeks.lol/predictions/roadster-can-fly/"
+  },
+  {
+   "date": "2026-10-17",
+   "kind": "prediction",
+   "slug": "roadster-620-mile-range",
+   "claim_id": "c93",
+   "change": "Verdict: Pending → Cancelled. Tesla's October 15 2026 Roadster reveal listed about 300 miles of range, dropping the 2017 620-mile spec.",
+   "url": "https://twoweeks.lol/predictions/roadster-620-mile-range/"
+  },
+  {
+   "date": "2026-10-17",
+   "kind": "prediction",
+   "slug": "tesla-roadster-enters-production-2028",
+   "claim_id": "c24",
+   "change": "Asked when customers get the new Roadster, Elon Musk told the McGregor event crowd that Tesla enters production in 2028.",
+   "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#tesla-roadster-enters-production-2028"
+  },
+  {
+   "date": "2026-10-16",
+   "kind": "prediction",
+   "slug": "roadster-unveil-october-1-2026",
+   "claim_id": "c262",
+   "change": "Verdict: Pending → Delivered. Tesla unveiled the second-generation Roadster on October 15 2026 at SpaceX's McGregor test site near Waco, with a livestreamed demo of SpaceX thrusters (TechCrunch, fetched Oct 16).",
+   "url": "https://twoweeks.lol/predictions/roadster-unveil-october-1-2026/"
+  },
+  {
+   "date": "2026-10-15",
+   "kind": "prediction",
+   "slug": "spacex-nvidia-starmind-volume-production-2027",
+   "claim_id": "c248",
+   "change": "Quoting Jensen Huang on SpaceX and Nvidia designing servers for data centers in space, Elon Musk wrote that their co-engineered Star Mind computer will reach volume production next year.",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#spacex-nvidia-starmind-volume-production-2027"
+  },
+  {
+   "date": "2026-10-14",
+   "kind": "prediction",
+   "slug": "china-making-lot-of-ram-2028",
+   "claim_id": "c494",
+   "change": "Quoting a post about memory-chip oversupply risks, Elon Musk wrote that China will be making a lot of RAM in 2028.",
+   "url": "https://twoweeks.lol/predictions/china-making-lot-of-ram-2028/"
+  },
+  {
+   "date": "2026-10-14",
+   "kind": "prediction",
+   "slug": "spacex-over-100-trillion-within-10-years",
+   "claim_id": "c495",
+   "change": "Elon Musk wrote that unless there is a major world war, SpaceX probably gets to more than $100 trillion in under 10 years, answering a post that cited Ron Baron’s lower $20–50 trillion range.",
+   "url": "https://twoweeks.lol/predictions/spacex-over-100-trillion-within-10-years/"
+  },
+  {
+   "date": "2026-10-14",
+   "kind": "prediction",
+   "slug": "solo-devs-ship-ai-games-no-studio-2027",
+   "claim_id": "c493",
+   "change": "Asked about a forecast that AI would let every solo developer ship a high-quality game with no studio within one to two years, Elon Musk replied “Next year,” setting a 2027 deadline.",
+   "url": "https://twoweeks.lol/predictions/ai-generated-game/#solo-devs-ship-ai-games-no-studio-2027"
+  },
+  {
+   "date": "2026-10-13",
+   "kind": "prediction",
+   "slug": "spacex-ai-revenue-exceeds-rest-september-2026",
+   "claim_id": "c406",
+   "change": "Graded missed: September ended with no public receipt that SpaceX AI revenue overtook the rest of the company. The last official print still had AI at $2.56 billion versus $5.25 billion from Connectivity and Space, and the big cloud contracts ramp in October.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-ai-revenue-exceeds-rest-september-2026"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-mk1-test-flight-in-one-to-two-months",
+   "claim_id": "c359",
+   "change": "Source upgraded: Musk's own words from the Sep 28 2019 Starship update video (00:50:02) replace the SpaceNews paraphrase. Card is live again; grade unchanged (Missed).",
+   "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "about-1000-starlink-v3-satellites-by-q2-2027",
+   "claim_id": "c408",
+   "change": "New card from the interview-checklist transcript mine (SpaceX Q2 2026 Earnings Call, August 4, 2026). Graded Pending.",
+   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#about-1000-starlink-v3-satellites-by-q2-2027"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "grok-5-before-end-of-2026",
+   "claim_id": "c107",
+   "change": "New card from the interview-checklist transcript mine (SpaceX Q2 2026 Earnings Call, August 4, 2026). Graded Pending.",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-5-before-end-of-2026"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-ai-revenue-exceeds-rest-september-2026",
+   "claim_id": "c406",
+   "change": "New card from the interview-checklist transcript mine (SpaceX Company Update, August 11, 2026). Graded Pending.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-ai-revenue-exceeds-rest-september-2026"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-full-reusability-in-2026",
+   "claim_id": "c85",
+   "change": "New card from the interview-checklist transcript mine (All-In Summit, September 7, 2025). Graded Pending.",
+   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-full-reusability-in-2026"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "half-of-miles-driven-autonomous-by-2030",
+   "claim_id": "c404",
+   "change": "New card from the interview-checklist transcript mine (Verdict with Ted Cruz, March 17, 2025). Graded Pending.",
+   "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#half-of-miles-driven-autonomous-by-2030"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "people-on-moon-and-ships-on-mars-within-five-years",
+   "claim_id": "c182",
+   "change": "New card from the interview-checklist transcript mine (In Good Company, April 8, 2024). Graded Pending.",
+   "url": "https://twoweeks.lol/predictions/first-people-moon-five-years/#people-on-moon-and-ships-on-mars-within-five-years"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-ship-reused-in-2025",
+   "claim_id": "c247",
+   "change": "New card from the interview-checklist transcript mine (Making Life Multiplanetary, April 4, 2024). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-ship-reused-in-2025"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-booster-catch-80-90-percent-2024",
+   "claim_id": "c401",
+   "change": "New card from the interview-checklist transcript mine (Making Life Multiplanetary, April 4, 2024). Graded Delivered.",
+   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-booster-catch-80-90-percent-2024"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-pad-turnaround-under-24-hours-2024",
+   "claim_id": "c400",
+   "change": "New card from the interview-checklist transcript mine (SpaceX Starship Update at Starbase, March 18, 2024). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-pad-turnaround-under-24-hours-2024"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starlink-mini-later-in-2024",
+   "claim_id": "c399",
+   "change": "New card from the interview-checklist transcript mine (SpaceX Starship Update at Starbase, March 18, 2024). Graded Delivered.",
+   "url": "https://twoweeks.lol/predictions/starlink-mini-later-in-2024/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "first-neuralink-human-implant-in-2023",
+   "claim_id": "c42",
+   "change": "New card from the interview-checklist transcript mine (VivaTech, June 16, 2023). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "cybertruck-delivery-event-q3-2023",
+   "claim_id": "c19",
+   "change": "New card from the interview-checklist transcript mine (Tesla Q1 2023 Earnings Call, April 19, 2023). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-delivery-event-q3-2023"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "new-twitter-ceo-by-end-of-2023",
+   "claim_id": "c396",
+   "change": "New card from the interview-checklist transcript mine (World Government Summit, February 15, 2023). Graded Delivered.",
+   "url": "https://twoweeks.lol/predictions/new-twitter-ceo-by-end-of-2023/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "fsd-beta-worldwide-by-end-of-2022",
+   "claim_id": "c395",
+   "change": "New card from the interview-checklist transcript mine (Tesla AI Day, September 30, 2022). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/fsd-wide-release-nov-2022/#fsd-beta-worldwide-by-end-of-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-2-million-run-rate-end-of-2022",
+   "claim_id": "c394",
+   "change": "New card from the interview-checklist transcript mine (Tesla Shareholder Meeting, August 4, 2022). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-2-million-run-rate-end-of-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-and-booster-every-month-by-end-of-2022",
+   "claim_id": "c393",
+   "change": "New card from the interview-checklist transcript mine (SpaceX Starship Update, February 10, 2022). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-and-booster-every-month-by-end-of-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-orbital-attempt-jan-feb-2022",
+   "claim_id": "c40",
+   "change": "New card from the interview-checklist transcript mine (NASEM Space Studies Board, November 17, 2021). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-orbital-attempt-jan-feb-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-y-best-selling-car-in-world-2023",
+   "claim_id": "c391",
+   "change": "New card from the interview-checklist transcript mine (Tesla Shareholder Meeting, October 7, 2021). Graded Delivered.",
+   "url": "https://twoweeks.lol/predictions/model-y-best-selling-car-in-world-2023/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "las-vegas-loop-opens-in-a-month-or-two",
+   "claim_id": "c390",
+   "change": "New card from the interview-checklist transcript mine (Mars Society Convention, October 16, 2020). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#las-vegas-loop-opens-in-a-month-or-two"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "10000-cars-a-week-in-2019",
+   "claim_id": "c292",
+   "change": "New card from the interview-checklist transcript mine (Tesla Autonomy Day, April 22, 2019). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#10000-cars-a-week-in-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "human-intervention-decreases-safety-by-2020",
+   "claim_id": "c8",
+   "change": "New card from the interview-checklist transcript mine (Lex Fridman Podcast, April 12, 2019). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#human-intervention-decreases-safety-by-2020"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "39000-model-y-standard-in-2021",
+   "claim_id": "c387",
+   "change": "New card from the interview-checklist transcript mine (Tesla Model Y Unveiling, March 14, 2019). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/model-y-best-selling-car-in-world-2023/#39000-model-y-standard-in-2021"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-europe-gigafactory-site-by-end-of-2018",
+   "claim_id": "c314",
+   "change": "New card from the interview-checklist transcript mine (Tesla Q2 2018 Earnings Call, August 2, 2018). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#tesla-europe-gigafactory-site-by-end-of-2018"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-short-hops-first-half-of-2019",
+   "claim_id": "c385",
+   "change": "New card from the interview-checklist transcript mine (SXSW, March 11, 2018). Graded Partial.",
+   "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/#starship-short-hops-first-half-of-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-fairing-recovery-within-six-months",
+   "claim_id": "c384",
+   "change": "New card from the interview-checklist transcript mine (Falcon Heavy Post-Launch Press Conference, February 6, 2018). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#spacex-fairing-recovery-within-six-months"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-30-launches-in-2018",
+   "claim_id": "c383",
+   "change": "New card from the interview-checklist transcript mine (SpaceX All-Hands Company Talk with Elon Musk (2017), September 8, 2017). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-30-launches-in-2018"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "three-times-as-many-superchargers-by-end-of-2018",
+   "claim_id": "c382",
+   "change": "New card from the interview-checklist transcript mine (Tesla Model 3 Handover Event, July 28, 2017). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/la-to-ny-superchargers-end-2013/#three-times-as-many-superchargers-by-end-of-2018"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-y-on-the-roads-in-2019",
+   "claim_id": "c381",
+   "change": "New card from the interview-checklist transcript mine (Tesla Shareholder Meeting, June 6, 2017). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/model-y-best-selling-car-in-world-2023/#model-y-on-the-roads-in-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "solar-roof-spanish-tile-french-slate-early-2018",
+   "claim_id": "c380",
+   "change": "New card from the interview-checklist transcript mine (Tesla Shareholder Meeting, June 6, 2017). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-spanish-tile-french-slate-early-2018"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-announces-gigafactory-locations-in-2017",
+   "claim_id": "c379",
+   "change": "New card from the interview-checklist transcript mine (TED, April 28, 2017). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#tesla-announces-gigafactory-locations-in-2017"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "crew-dragon-flying-in-2017",
+   "claim_id": "c146",
+   "change": "New card from the interview-checklist transcript mine (Code Conference, June 1, 2016). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/spacex-first-crew-in-three-years-2011/#crew-dragon-flying-in-2017"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-heavy-by-end-of-2016",
+   "claim_id": "c67",
+   "change": "New card from the interview-checklist transcript mine (Code Conference, June 1, 2016). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-heavy-by-end-of-2016"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "well-over-a-dozen-spacex-launches-in-2016",
+   "claim_id": "c376",
+   "change": "New card from the interview-checklist transcript mine (Post-Landing Telecon). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#well-over-a-dozen-spacex-launches-in-2016"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-reflies-landed-booster-in-2016",
+   "claim_id": "c150",
+   "change": "New card from the interview-checklist transcript mine (Post-Landing Telecon). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#spacex-reflies-landed-booster-in-2016"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "sleep-in-tesla-wake-at-destination-in-5-6-years",
+   "claim_id": "c8",
+   "change": "New card from the interview-checklist transcript mine (Interview with Bloomberg, October 10, 2014). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#sleep-in-tesla-wake-at-destination-in-5-6-years"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-astronauts-to-iss-in-2015",
+   "claim_id": "c146",
+   "change": "New card from the interview-checklist transcript mine (World Energy Innovation Forum, May 16, 2014). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/spacex-first-crew-in-three-years-2011/#spacex-astronauts-to-iss-in-2015"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "half-of-new-cars-fully-autonomous-by-2022",
+   "claim_id": "c372",
+   "change": "New card from the interview-checklist transcript mine (World Energy Innovation Forum, May 16, 2014). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#half-of-new-cars-fully-autonomous-by-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-s-available-in-two-years-2009",
+   "claim_id": "c148",
+   "change": "New card from the interview-checklist transcript mine (Kevin Pollak's Chat Show, April 10, 2009). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/model-s-deliveries-by-july-2012/#model-s-available-in-two-years-2009"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-9-first-launch-later-in-2009",
+   "claim_id": "c370",
+   "change": "New card from the interview-checklist transcript mine (Charlie Rose, August 11, 2009). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-first-launch-later-in-2009/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "first-dragon-on-falcon-9-end-of-2009",
+   "claim_id": "c369",
+   "change": "New card from the interview-checklist transcript mine (Churchill Club: An Evening with Elon Musk, April 7, 2009). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/first-dragon-on-falcon-9-end-of-2009/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-1-first-launch-vandenberg-march-2004",
+   "claim_id": "c368",
+   "change": "New card from the interview-checklist transcript mine (Stanford Entrepreneurial Thought Leaders Lecture, October 8, 2003). Graded Missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-1-first-launch-vandenberg-march-2004/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-next-fsd-chip-in-about-two-years-2019",
+   "claim_id": "c364",
+   "change": "Source upgraded: Musk's own words from the Autonomy Day video at 01:43:21 replace the CNBC paraphrase. Grade unchanged (Delivered Late).",
+   "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/#tesla-next-fsd-chip-in-about-two-years-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "uncrewed-starships-to-mars-2026",
+   "claim_id": "c34",
+   "change": "Goalpost added: on Moonshots #220 (recorded Dec 22 2025) Musk called a 2026 Mars shot 'a low probability shot and somewhat of a distraction' and pointed to 2028-29.",
+   "url": "https://twoweeks.lol/predictions/uncrewed-starships-to-mars-2026/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-cortex-2-half-gigawatt-mid-2026",
+   "claim_id": "c367",
+   "change": "Graded Partial: Cortex 2 was listed as in Production in Tesla's Q2 2026 update (Jul 22 2026), so it was operational by mid-2026, but at more than 115 MW, roughly a quarter of the half gigawatt Musk described.",
+   "url": "https://twoweeks.lol/predictions/tesla-cortex-2-half-gigawatt-mid-2026/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-flight-15-before-thanksgiving-2026",
+   "claim_id": "c366",
+   "change": "New prediction: At X Takeover in Austin on October 10 2026 Elon Musk said the next Starship flight, Flight 15 with the first ship-catch attempt, was about four to six weeks away and would probably launch a little before Thanksgiving (Nov 26). Asked about two weeks, he said: 'I'm confident it's not two weeks.'",
+   "url": "https://twoweeks.lol/predictions/starship-flight-15-before-thanksgiving-2026/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-next-fsd-chip-in-about-two-years-2019",
+   "claim_id": "c364",
+   "change": "Graded Delivered Late: Hardware 4 first appeared in refreshed Model S and Model X builds in January 2023 (EU type approval Jan 20 2023), about 21 months late.",
+   "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/#tesla-next-fsd-chip-in-about-two-years-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "fsd-regulatory-approval-some-jurisdictions-end-of-2020",
+   "claim_id": "c8",
+   "change": "Graded Missed: No regulator approved driverless Tesla FSD in 2020. Tesla's first driverless (no safety driver) robotaxi rides began in Austin in June 2025 under Texas rules.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-regulatory-approval-some-jurisdictions-end-of-2020"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-x-prototype-unveil-mid-december-2011",
+   "claim_id": "c409",
+   "change": "Added from interview-checklist full transcript read (Tesla Q2 2011 earnings call (YouTube upload _j1ncI1kqb4)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/model-x-volume-production-q2-2015/#model-x-prototype-unveil-mid-december-2011"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "first-supercharger-sf-la-jan-feb-2012",
+   "claim_id": "c410",
+   "change": "Added from interview-checklist full transcript read (Tesla Q3 2011 earnings call (YouTube upload DupKlGRuQU0)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/la-to-ny-superchargers-end-2013/#first-supercharger-sf-la-jan-feb-2012"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "30000-a-year-run-rate-end-of-2013",
+   "claim_id": "c411",
+   "change": "Added from interview-checklist full transcript read (Tesla Q2 2012 earnings call (YouTube upload FNyScCJW4yc)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#30000-a-year-run-rate-end-of-2013"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-profitable-q1-2013",
+   "claim_id": "c412",
+   "change": "Added from interview-checklist full transcript read (Tesla Q4 2012 earnings call (YouTube upload vqLbRUITDl0)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/tesla-profitable-q3-q4-2018/#tesla-profitable-q1-2013"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-s-china-deliveries-february-2014",
+   "claim_id": "c413",
+   "change": "Added from interview-checklist full transcript read (Tesla Q3 2013 earnings call (YouTube upload wCRfj5SCNu8)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/model-s-china-deliveries-february-2014/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-3-unveiled-around-march-2016",
+   "claim_id": "c414",
+   "change": "Added from interview-checklist full transcript read (Tesla Q1 2015 earnings call (YouTube upload -Tw-V1EJJJI)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/model-3-production-in-about-two-years-2015/#model-3-unveiled-around-march-2016"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-gaap-profitable-q4-2016",
+   "claim_id": "c415",
+   "change": "Added from interview-checklist full transcript read (Tesla Q4 2015 earnings call (YouTube upload YRzQJLeMqIU)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-profitable-q3-q4-2018/#tesla-gaap-profitable-q4-2016"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-deliveries-up-50-percent-in-2019",
+   "claim_id": "c416",
+   "change": "Added from interview-checklist full transcript read (Tesla Q4 2018 earnings call (YouTube upload z8OlbfpoT6o)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-30-percent-vehicle-growth-2025/#tesla-deliveries-up-50-percent-in-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "europe-gigafactory-operational-2021",
+   "claim_id": "c183",
+   "change": "Added from interview-checklist full transcript read (Tesla Q2 2019 earnings call (YouTube upload v3DXoI9x-Qc)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#europe-gigafactory-operational-2021"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "new-factory-locations-announced-end-of-2022",
+   "claim_id": "c418",
+   "change": "Added from interview-checklist full transcript read (Tesla Q4 2021 earnings call (YouTube upload EMA6myXpfqI)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#new-factory-locations-announced-end-of-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-y-best-selling-vehicle-2022",
+   "claim_id": "c391",
+   "change": "Added from interview-checklist full transcript read (Tesla Q1 2021 earnings call (YouTube upload qhfj_m0rP2g)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/model-y-best-selling-car-in-world-2023/#model-y-best-selling-vehicle-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "battery-day-probably-april-2020",
+   "claim_id": "c420",
+   "change": "Added from interview-checklist full transcript read (Tesla Q4 2019 Earnings Call (January 29, 2020)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/battery-day-probably-april-2020/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "100000-optimus-a-month-by-2030",
+   "claim_id": "c52",
+   "change": "Added from interview-checklist full transcript read (Tesla Q2 2025 earnings call (YouTube upload pLjG7a-NX7U)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#100000-optimus-a-month-by-2030"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-s-400-mile-range-epa-retest",
+   "claim_id": "c422",
+   "change": "Added from interview-checklist full transcript read (Tesla Q1 2020 Earnings Call (April 29, 2020)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/model-s-400-mile-range-epa-retest/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-1-5-million-cars-in-2021",
+   "claim_id": "c423",
+   "change": "Added from interview-checklist full transcript read (ARK Invest podcast with Elon Musk (Feb 2019)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-1-5-million-cars-in-2021"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "dragon-to-space-station-in-2010",
+   "claim_id": "c424",
+   "change": "Added from interview-checklist full transcript read (Churchill Club: An Evening with Elon Musk (April 7, 2009)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/first-dragon-on-falcon-9-end-of-2009/#dragon-to-space-station-in-2010"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "first-neuralink-human-implant-in-a-few-months",
+   "claim_id": "c42",
+   "change": "Added from interview-checklist full transcript read (DealBook Summit (November 29, 2023)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#first-neuralink-human-implant-in-a-few-months"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "crew-dragon-flies-astronauts-summer-2019",
+   "claim_id": "c146",
+   "change": "Added from interview-checklist full transcript read (Crew Dragon Demo-1 Post-Launch Press Conference (March 2, 2019)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/spacex-first-crew-in-three-years-2011/#crew-dragon-flies-astronauts-summer-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-booster-reflown-within-24-hours-2018",
+   "claim_id": "c427",
+   "change": "Added from interview-checklist full transcript read (ISS R&D Conference (July 19, 2017)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-booster-reflown-within-24-hours-2018"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "neuralink-in-a-person-within-a-year-2020",
+   "claim_id": "c42",
+   "change": "Added from interview-checklist full transcript read (The Joe Rogan Experience (May 7, 2020)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#neuralink-in-a-person-within-a-year-2020"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "giga-berlin-first-deliveries-december-2021",
+   "claim_id": "c183",
+   "change": "Added from interview-checklist full transcript read (Giga-Berlin Giga-Fest (October 9, 2021)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#giga-berlin-first-deliveries-december-2021"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-ship-catch-end-of-2024",
+   "claim_id": "c224",
+   "change": "Added from interview-checklist full transcript read (International Astronautical Congress (October 5, 2023)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-ship-catch-end-of-2024"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-9-lands-intact-within-a-year-2015",
+   "claim_id": "c431",
+   "change": "Added from interview-checklist full transcript read (Baron Investment Conference (November 6, 2015)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-9-lands-intact-within-a-year-2015"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "grok-discovers-new-technologies-by-2026",
+   "claim_id": "c432",
+   "change": "Added from interview-checklist full transcript read (xAI Grok 4 launch livestream (Jul 9 2025, re-upload)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/grok-discovers-new-technologies-by-2026/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "cybertruck-first-deliveries-november-2023",
+   "claim_id": "c19",
+   "change": "Added from interview-checklist full transcript read (The Joe Rogan Experience (October 31, 2023)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-first-deliveries-november-2023"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-s-plaid-plus-500-miles-in-a-year",
+   "claim_id": "c434",
+   "change": "Added from interview-checklist full transcript read (The Joe Rogan Experience (February 11, 2021)); graded cancelled.",
+   "url": "https://twoweeks.lol/predictions/model-s-plaid-production-oct-nov-2020/#model-s-plaid-plus-500-miles-in-a-year"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-over-100-billion-revenue-2024",
+   "claim_id": "c435",
+   "change": "Added from interview-checklist full transcript read (Lex Fridman Podcast (August 3, 2024)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-over-100-billion-revenue-2024/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "half-of-us-new-cars-electric-by-2027",
+   "claim_id": "c436",
+   "change": "Added from interview-checklist full transcript read (National Governors Association (July 15, 2017)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/half-of-us-new-cars-electric-by-2027/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "almost-all-new-cars-autonomous-by-2027",
+   "claim_id": "c372",
+   "change": "Added from interview-checklist full transcript read (National Governors Association (July 15, 2017)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#almost-all-new-cars-autonomous-by-2027"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "first-neuralink-human-in-six-months-2022",
+   "claim_id": "c42",
+   "change": "Added from interview-checklist full transcript read (Neuralink Show and Tell (November 30, 2022)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#first-neuralink-human-in-six-months-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "dragon-iss-launch-january-2012",
+   "claim_id": "c424",
+   "change": "Added from interview-checklist full transcript read (National Press Club Luncheon (September 29, 2011)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/first-dragon-on-falcon-9-end-of-2009/#dragon-iss-launch-january-2012"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-weekly-launch-cadence-mid-2019",
+   "claim_id": "c440",
+   "change": "Added from interview-checklist full transcript read (SpaceX All-Hands Company Talk with Elon Musk (2017) (September 8, 2017)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-weekly-launch-cadence-mid-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-hopper-flights-in-2019",
+   "claim_id": "c441",
+   "change": "Added from interview-checklist full transcript read (SpaceX BFR Lunar Mission Announcement (September 17, 2018)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/#starship-hopper-flights-in-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-ship-to-ship-propellant-transfer-2025",
+   "claim_id": "c123",
+   "change": "Added from interview-checklist full transcript read (Making Life Multiplanetary (April 4, 2024)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/starship-orbital-refueling-end-2026/#starship-ship-to-ship-propellant-transfer-2025"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-heavy-late-summer-2017",
+   "claim_id": "c67",
+   "change": "Added from interview-checklist full transcript read (SpaceX SES-10 Press Conference (March 31, 2017)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-heavy-late-summer-2017"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-150-flights-in-2024",
+   "claim_id": "c444",
+   "change": "Added from interview-checklist full transcript read (SpaceX Starship Update at Starbase (March 18, 2024)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#falcon-150-flights-in-2024"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-v3-first-launch-end-of-2025",
+   "claim_id": "c131",
+   "change": "Added from interview-checklist full transcript read (Starship Update (May 29, 2025)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-v3-first-launch-end-of-2025"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-30-40-percent-growth-in-2020",
+   "claim_id": "c446",
+   "change": "Added from interview-checklist full transcript read (Tesla Battery Day (September 22, 2020)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-30-percent-vehicle-growth-2025/#tesla-30-40-percent-growth-in-2020"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-3-deliveries-start-2017",
+   "claim_id": "c321",
+   "change": "Added from interview-checklist full transcript read (Tesla Model 3 Unveiling (March 31, 2016)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/model-3-production-in-about-two-years-2015/#model-3-deliveries-start-2017"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-10-million-cumulative-vehicles-2026",
+   "claim_id": "c448",
+   "change": "Added from interview-checklist full transcript read (Tesla All-Hands (Q1 2025) (March 20, 2025)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/tesla-10-million-cumulative-vehicles-2026/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "megapack-3-production-houston-2026",
+   "claim_id": "c449",
+   "change": "Added from interview-checklist full transcript read (Tesla Q1 2026 earnings call (April 22, 2026)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/megapack-3-production-houston-2026/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "gen-3-tesla-market-release-late-2016",
+   "claim_id": "c321",
+   "change": "Added from interview-checklist full transcript read (Tesla Shareholder Meeting (June 3, 2014)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/model-3-production-in-about-two-years-2015/#gen-3-tesla-market-release-late-2016"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "next-gen-roadster-in-five-years-2014",
+   "claim_id": "c24",
+   "change": "Added from interview-checklist full transcript read (Tesla Shareholder Meeting (June 3, 2014)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#next-gen-roadster-in-five-years-2014"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-semi-unveil-end-of-september-2017",
+   "claim_id": "c158",
+   "change": "Added from interview-checklist full transcript read (Tesla Shareholder Meeting (June 6, 2017)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-semi-production/#tesla-semi-unveil-end-of-september-2017"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "model-y-unveil-around-march-2019",
+   "claim_id": "c453",
+   "change": "Added from interview-checklist full transcript read (Tesla Shareholder Meeting (June 5, 2018)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/model-y-best-selling-car-in-world-2023/#model-y-unveil-around-march-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "supercharger-v3-production-end-of-2018",
+   "claim_id": "c454",
+   "change": "Added from interview-checklist full transcript read (Tesla Shareholder Meeting (June 5, 2018)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/la-to-ny-superchargers-end-2013/#supercharger-v3-production-end-of-2018"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-fleet-7-million-by-end-of-2024",
+   "claim_id": "c455",
+   "change": "Added from interview-checklist full transcript read (Tesla Shareholder Meeting (June 13, 2024)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/tesla-fleet-7-million-by-end-of-2024/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "first-neuralink-human-in-2022",
+   "claim_id": "c42",
+   "change": "Added from interview-checklist full transcript read (The Babylon Bee Interview (December 21, 2021)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#first-neuralink-human-in-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "grok-3-release-in-a-week-or-two",
+   "claim_id": "c172",
+   "change": "Added from interview-checklist full transcript read (World Governments Summit (February 13, 2025)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/grok-3-end-of-2024/#grok-3-release-in-a-week-or-two"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "x-payments-by-middle-of-2024",
+   "claim_id": "c110",
+   "change": "Added from interview-checklist full transcript read (X Spaces: Cathie Wood & Elon Musk (December 21, 2023)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/x-money-launch/#x-payments-by-middle-of-2024"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-reaches-orbit-in-2023",
+   "claim_id": "c40",
+   "change": "Added from interview-checklist full transcript read (X Spaces: Starship flight-test debrief for subscribers (April 29, 2023)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-reaches-orbit-in-2023"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "blindsight-first-human-implant-2025",
+   "claim_id": "c460",
+   "change": "Added from interview-checklist full transcript read (America PAC Town Hall (March 30, 2025)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/blindsight-restore-sight/#blindsight-first-human-implant-2025"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-pickup-unveil-summer-2019",
+   "claim_id": "c461",
+   "change": "Added from interview-checklist full transcript read (Tesla 2019 Annual Shareholder Meeting (Jun 11 2019)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#tesla-pickup-unveil-summer-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "battery-investor-day-before-end-of-2019",
+   "claim_id": "c420",
+   "change": "Added from interview-checklist full transcript read (Tesla 2019 Annual Shareholder Meeting (Jun 11 2019)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/battery-day-probably-april-2020/#battery-investor-day-before-end-of-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-five-or-six-more-flights-in-2024",
+   "claim_id": "c463",
+   "change": "Added from interview-checklist full transcript read (Abundance360 Summit (March 25, 2024)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-five-or-six-more-flights-in-2024"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-full-reusability-by-2025",
+   "claim_id": "c85",
+   "change": "Added from interview-checklist full transcript read (Abundance360 Summit (March 25, 2024)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-full-reusability-by-2025"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starships-landing-on-moon-within-three-years-2024",
+   "claim_id": "c465",
+   "change": "Added from interview-checklist full transcript read (Abundance360 Summit (March 25, 2024)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/first-people-moon-five-years/#starships-landing-on-moon-within-three-years-2024"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-few-million-cars-a-year-by-2025",
+   "claim_id": "c466",
+   "change": "Added from interview-checklist full transcript read (Automotive News World Congress (January 13, 2015)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-few-million-cars-a-year-by-2025"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-repays-doe-loan-in-half-the-time-2013",
+   "claim_id": "c467",
+   "change": "Added from interview-checklist full transcript read (ARPA-E Energy Innovation Summit (February 26, 2013)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/tesla-repays-doe-loan-in-half-the-time-2013/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "solar-largest-electricity-source-by-2050",
+   "claim_id": "c468",
+   "change": "Added from interview-checklist full transcript read (Big Think (October 2, 2015)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/solar-largest-electricity-source-by-2050/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "oil-approaches-200-dollars-by-2012",
+   "claim_id": "c469",
+   "change": "Added from interview-checklist full transcript read (Charlie Rose (August 11, 2009)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/oil-approaches-200-dollars-by-2012/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "doge-trillion-dollar-deficit-reduction-fy2026",
+   "claim_id": "c470",
+   "change": "Added from interview-checklist full transcript read (President Trump's First Cabinet Meeting (February 26, 2025)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/doge-trillion-dollar-deficit-reduction-fy2026/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-1000-robotaxis-austin-within-few-months",
+   "claim_id": "c13",
+   "change": "Added from interview-checklist full transcript read (CNBC Interview with David Faber (May 16, 2023)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/robotaxi-fleet-double-dec-2025/#tesla-1000-robotaxis-austin-within-few-months"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-heavy-launch-end-of-june-2019",
+   "claim_id": "c472",
+   "change": "Added from interview-checklist full transcript read (E3 Coliseum (June 13, 2019)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-heavy-launch-end-of-june-2019"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-weekly-cadence-in-2027",
+   "claim_id": "c473",
+   "change": "Added from interview-checklist full transcript read (Elon Musk, Jensen Huang and Tom Brown on the AI Revolution (September 29, 2026)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-weekly-cadence-in-2027"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-1000-km-range-by-2017",
+   "claim_id": "c474",
+   "change": "Added from interview-checklist full transcript read (Interview in Denmark (September 15, 2015)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/tesla-1000-km-range-by-2017/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-25-percent-gross-margin-end-of-2013",
+   "claim_id": "c475",
+   "change": "Added from interview-checklist full transcript read (Interview with Bloomberg (April 2, 2013)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/tesla-25-percent-gross-margin-end-of-2013/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "cybercab-commercial-in-california-mid-2027",
+   "claim_id": "c476",
+   "change": "Added from interview-checklist full transcript read (Interview with CCTV (September 25, 2026)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#cybercab-commercial-in-california-mid-2027"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "nasa-astronauts-to-iss-in-two-years-2015",
+   "claim_id": "c146",
+   "change": "Added from interview-checklist full transcript read (The Late Show with Stephen Colbert (September 2, 2015)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/spacex-first-crew-in-three-years-2011/#nasa-astronauts-to-iss-in-two-years-2015"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-replaces-shuttle-crew-and-cargo-2011",
+   "claim_id": "c146",
+   "change": "Added from interview-checklist full transcript read (PBS Wired Science Interview (January 3, 2007)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/spacex-first-crew-in-three-years-2011/#spacex-replaces-shuttle-crew-and-cargo-2011"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "tesla-headcount-higher-a-year-after-june-2022",
+   "claim_id": "c479",
+   "change": "Added from interview-checklist full transcript read (Qatar Economic Forum (June 21, 2022)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/tesla-headcount-higher-a-year-after-june-2022/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-launch-from-39a-and-ocean-platform-end-2022",
+   "claim_id": "c480",
+   "change": "Added from interview-checklist full transcript read (SpaceX Starship Update (February 10, 2022)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/starship-launch-from-39a-and-ocean-platform-end-2022/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "starship-orbital-refilling-within-two-years-2022",
+   "claim_id": "c123",
+   "change": "Added from interview-checklist full transcript read (SpaceX Starship Update (February 10, 2022)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/starship-orbital-refueling-end-2026/#starship-orbital-refilling-within-two-years-2022"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "eelv-certification-in-2014",
+   "claim_id": "c482",
+   "change": "Added from interview-checklist full transcript read (U.S. Senate Hearing on National Security Space Launch (March 5, 2014)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/eelv-certification-in-2014/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "ai-drives-90-percent-of-distance-by-2036",
+   "claim_id": "c483",
+   "change": "Added from interview-checklist full transcript read (Samson International Smart Mobility Summit (Tel Aviv) (May 18, 2026)); graded pending.",
+   "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "hardware-2-autopilot-parity-december-2016",
+   "claim_id": "c484",
+   "change": "Added from interview-checklist full transcript read (Tesla Full Self-Driving Hardware Press Call (October 19, 2016)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/#hardware-2-autopilot-parity-december-2016"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "twitter-cash-flow-break-even-2023",
+   "claim_id": "c485",
+   "change": "Added from interview-checklist full transcript read (Twitter Spaces: Twitter's software stack with George Hotz (December 21, 2022)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/twitter-cash-flow-break-even-2023/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "stranded-astronauts-back-in-about-four-weeks-2025",
+   "claim_id": "c486",
+   "change": "Added from interview-checklist full transcript read (Hannity: Trump and Musk joint interview (Feb 18, 2025; YouTube upload FCXN2CFX1uc)); graded delivered.",
+   "url": "https://twoweeks.lol/predictions/stranded-astronauts-back-in-about-four-weeks-2025/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "mars-transport-architecture-presented-end-of-2015",
+   "claim_id": "c487",
+   "change": "Added from interview-checklist full transcript read (Reddit AMA: I am Elon Musk, CEO/CTO of a rocket company (r/IAmA, Jan 5 2015)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/mars-transport-architecture-presented-end-of-2015/"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "spacex-spacesuit-unveiled-in-2015",
+   "claim_id": "c320",
+   "change": "Added from interview-checklist full transcript read (Reddit AMA: I am Elon Musk, CEO/CTO of a rocket company (r/IAmA, Jan 5 2015)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/spacex-spacesuit-unveil-by-end-of-2013/#spacex-spacesuit-unveiled-in-2015"
+  },
+  {
+   "date": "2026-10-12",
+   "kind": "prediction",
+   "slug": "falcon-9-block-5-first-flight-mid-2017",
+   "claim_id": "c489",
+   "change": "Added from interview-checklist full transcript read (Reddit AMA: ask me anything about becoming a spacefaring civ (r/spacex, Oct 23 2016)); graded missed.",
+   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-3-twh-battery-production-by-2030",
+   "claim_id": "c362",
+   "change": "New prediction: Elon Musk first set the 3 TWh-a-year battery target at Battery Day 2020 and said on the July 2022 earnings call he was highly confident Tesla could do it by 2030.",
+   "url": "https://twoweeks.lol/predictions/4680-pilot-10-gwh-within-a-year/#tesla-3-twh-battery-production-by-2030"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "500-000-cars-in-2019",
+   "claim_id": "c32",
+   "change": "Goalpost added: on Apr 14 2019 Musk recast the target as 'over 500k cars in next 12 months' (by Apr 2020). Tesla built roughly 390k in that span; 500k came in calendar 2020.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#500-000-cars-in-2019"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "supercharger-coverage-north-america-europe-end-of-2014",
+   "claim_id": "c360",
+   "change": "Graded Partial: Tesla grew from 64 to about 334 Supercharger stations in 2014 (141 in North America) and main corridors were covered, but large areas of North America and most of Eastern Europe had none.",
+   "url": "https://twoweeks.lol/predictions/la-to-ny-superchargers-end-2013/#supercharger-coverage-north-america-europe-end-of-2014"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "starship-mk1-test-flight-in-one-to-two-months",
+   "claim_id": "c359",
+   "change": "Graded Missed: Starship Mk1 never flew. Its top bulkhead blew off during a pressure test on Nov 20 2019 and SpaceX retired the prototype. The first high-altitude Starship flight (SN8) came on Dec 9 2020.",
+   "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "starship-update-in-two-weeks-or-so-2019",
+   "claim_id": "c358",
+   "change": "Graded Delivered Late: The Starship update was held at Boca Chica on Sep 28 2019, about seven weeks after 'two weeks or so'.",
+   "url": "https://twoweeks.lol/predictions/starship-update-in-two-weeks-or-so-2019/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "cuphead-in-tesla-arcade-august-2019",
+   "claim_id": "c357",
+   "change": "Graded Delivered Late: Cuphead: Tesla Edition shipped in Software Version 10.0, which began rolling out on Sep 26 2019, about four weeks after August ended.",
+   "url": "https://twoweeks.lol/predictions/cuphead-in-tesla-arcade-august-2019/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "starship-next-flight-v3-2026",
+   "claim_id": "c131",
+   "change": "Earlier goalpost added: on Jan 26 2026 Musk tweeted 'Starship launch in 6 weeks' (about Mar 9). Flight 12 flew May 22.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "model-3-5-000-week-by",
+   "claim_id": "c60",
+   "change": "Goalpost moved: on the Nov 2017 call Musk pushed 5,000 Model 3s a week to late Q1 2018, then in Feb 2018 to the end of Q2. Tesla hit it in the last week of June 2018.",
+   "url": "https://twoweeks.lol/predictions/model-3-5-000-week-by/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "model-s-europe-deliveries-early-2013",
+   "claim_id": "c356",
+   "change": "Graded Delivered Late: The first European Model S deliveries happened in Oslo on Aug 7 2013, about four months after 'early' 2013.",
+   "url": "https://twoweeks.lol/predictions/model-s-deliveries-by-july-2012/#model-s-europe-deliveries-early-2013"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-china-production-in-about-three-years-2017",
+   "claim_id": "c355",
+   "change": "Graded Delivered: Giga Shanghai delivered its first China-built Model 3s on Dec 30 2019, about two years after the call and ahead of the three-year target.",
+   "url": "https://twoweeks.lol/predictions/shanghai-gigafactory-timeline-2019/#tesla-china-production-in-about-three-years-2017"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-half-a-million-cars-in-2020",
+   "claim_id": "c354",
+   "change": "Graded Delivered: Tesla produced 509,737 vehicles and delivered 499,550 in 2020, hitting the half-million mark on production.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-half-a-million-cars-in-2020"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-1-million-vehicles-in-2020",
+   "claim_id": "c353",
+   "change": "Graded Missed: Tesla produced 509,737 vehicles in 2020, about half of 1 million.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-1-million-vehicles-in-2020"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-500000-cars-in-2018",
+   "claim_id": "c352",
+   "change": "Graded Missed: Tesla produced 254,530 vehicles in 2018, about half the target.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-500000-cars-in-2018"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "100k-to-200k-model-3s-in-second-half-2017",
+   "claim_id": "c351",
+   "change": "Graded Missed: Tesla built 260 Model 3s in Q3 2017 and 2,425 in Q4 2017, about 2,700 in the half, under 3% of the low end.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#100k-to-200k-model-3s-in-second-half-2017"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-55000-cars-in-2015",
+   "claim_id": "c350",
+   "change": "Graded Missed: Tesla delivered 50,580 cars in 2015, short of 55,000.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-55000-cars-in-2015"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-50-percent-growth-2015-and-2016",
+   "claim_id": "c349",
+   "change": "Graded Delivered: Deliveries rose from 31,655 in 2014 to 50,580 in 2015 (+60%) and to 76,230 in 2016 (+51%).",
+   "url": "https://twoweeks.lol/predictions/tesla-20-30-percent-vehicle-growth-2025/#tesla-50-percent-growth-2015-and-2016"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-exit-2015-at-2000-cars-a-week",
+   "claim_id": "c348",
+   "change": "Graded Missed: Tesla built 14,037 cars in Q4 2015, about 1,100 a week, roughly half the promised rate.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-exit-2015-at-2000-cars-a-week"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-20000-cars-in-2013",
+   "claim_id": "c347",
+   "change": "Graded Delivered: Tesla delivered 22,477 Model S cars in 2013.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-20000-cars-in-2013"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "humans-reach-mars-in-5-to-10-years-2026",
+   "claim_id": "c35",
+   "change": "New prediction: In January 2026 Elon Musk tweeted that humans would reach Mars in 5 to 10 years if civilization keeps advancing, putting the window at 2031-2036.",
+   "url": "https://twoweeks.lol/predictions/humans-on-mars/#humans-reach-mars-in-5-to-10-years-2026"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "10-billion-humanoid-robots-by-2040",
+   "claim_id": "c345",
+   "change": "New prediction: At the Future Investment Initiative in October 2024 Elon Musk said there would be at least 10 billion humanoid robots by 2040, priced at $20,000-$25,000.",
+   "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/#10-billion-humanoid-robots-by-2040"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-next-gen-low-cost-vehicle-production-2h-2025",
+   "claim_id": "c344",
+   "change": "Graded Missed: No all-new low-cost Tesla platform began production in 2025. Tesla instead launched cheaper 'Standard' trims of the Model Y and Model 3 in October 2025 on existing lines. Cybercab, the next-gen platform's first product, began production at Giga Texas in 2026.",
+   "url": "https://twoweeks.lol/predictions/25k-tesla-in-3-years-battery-day/#tesla-next-gen-low-cost-vehicle-production-2h-2025"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "spacex-a-raptor-a-day-by-2020",
+   "claim_id": "c343",
+   "change": "Graded Delivered Late: SpaceX did not reach that rate in 2020. At the Feb 10 2022 Starbase update Musk said SpaceX was now making about one Raptor a day, about 14 months late.",
+   "url": "https://twoweeks.lol/predictions/spacex-a-raptor-a-day-by-2020/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "supercharger-100-percent-of-europe-2019",
+   "claim_id": "c342",
+   "change": "Graded Missed: Tesla never opened a Supercharger in Ukraine. Ukrainian press noted in 2021 that the promised Kyiv-area stations still had not appeared, so coverage did not reach 'Kiev' or 100% of Europe in 2019.",
+   "url": "https://twoweeks.lol/predictions/la-to-ny-superchargers-end-2013/#supercharger-100-percent-of-europe-2019"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-10000-per-week-by-end-2018",
+   "claim_id": "c292",
+   "change": "Goalpost moved: on the January 2019 earnings call Musk reset the 10,000-a-week rate to the end of 2019, with Shanghai's help. Tesla made about 105,000 cars in Q4 2019, roughly 8,000 a week.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-10000-per-week-by-end-2018"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "solar-roof-1000-per-week-end-2019",
+   "claim_id": "c287",
+   "change": "Goalpost moved: on the April 2020 earnings call Musk reset the 1,000 Solar Roofs a week target to 'within the next year or maybe even by end of year'. Tesla never reported that rate.",
+   "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-1000-per-week-end-2019"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "grokipedia-v0-1-in-two-weeks-2025",
+   "claim_id": "c340",
+   "change": "Graded Delivered Late: Musk said Grokipedia v0.1 would be published within two weeks. It went live on October 27 2025, about nine days late, with about 885,000 articles.",
+   "url": "https://twoweeks.lol/predictions/grokipedia-v0-1-in-two-weeks-2025/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "falcon-over-150-flights-2025",
+   "claim_id": "c339",
+   "change": "Graded Delivered: Musk aimed for more than 150 Falcon flights in 2025. SpaceX flew 165 Falcon 9 orbital launches that year, a record.",
+   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "dragon-furthest-astronauts-in-50-years-2024",
+   "claim_id": "c338",
+   "change": "Graded Delivered: Musk said Dragon would take astronauts farther from Earth than anyone in over 50 years during 2024. Polaris Dawn reached about 1,408 km in September 2024, the farthest since Apollo.",
+   "url": "https://twoweeks.lol/predictions/dragon-furthest-astronauts-in-50-years-2024/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "grok-1-5-next-month-feb-2024",
+   "claim_id": "c337",
+   "change": "Graded Delivered Late: Musk said Grok 1.5 would be out in February 2024. xAI announced Grok-1.5 on March 28 2024 and rolled it out to users over the next weeks.",
+   "url": "https://twoweeks.lol/predictions/grok-1-5-next-month-feb-2024/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "grok-for-all-premium-plus-next-week-2023",
+   "claim_id": "c336",
+   "change": "Graded Delivered Late: Musk said Grok would reach all Premium+ subscribers the next week. The rollout started on December 7 and was finished for US Premium+ users by December 8 2023, about a week late.",
+   "url": "https://twoweeks.lol/predictions/grok-for-all-premium-plus-next-week-2023/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-diner-ready-late-2023",
+   "claim_id": "c335",
+   "change": "Graded Delivered Late: Musk said the Tesla diner in LA should be ready later in 2023. It opened in Hollywood on July 21 2025, about 19 months late.",
+   "url": "https://twoweeks.lol/predictions/tesla-diner-ready-late-2023/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "actually-smart-summon-mid-2023",
+   "claim_id": "c286",
+   "change": "Graded Delivered Late: Musk put Actually Smart Summon a month or two after mid-July 2023. Tesla released it on September 3 2024, about a year late.",
+   "url": "https://twoweeks.lol/predictions/banish-feature-auto-parking-after-dropoff/#actually-smart-summon-mid-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "starship-launch-attempt-next-month-mar-2023",
+   "claim_id": "c333",
+   "change": "Graded Delivered Late: Musk said SpaceX would attempt a Starship launch in March 2023. The first integrated flight launched on April 20 2023, about three weeks late.",
+   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-launch-attempt-next-month-mar-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "twitter-recommendation-code-by-feb-2023",
+   "claim_id": "c332",
+   "change": "Graded Delivered Late: Musk promised the recommendation code no later than February 2023. Twitter published it on GitHub on March 31 2023, a month late.",
+   "url": "https://twoweeks.lol/predictions/open-source-all-x-codebase-2026/#twitter-recommendation-code-by-feb-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "twitter-ad-free-tier-in-2023",
+   "claim_id": "c331",
+   "change": "Graded Delivered: Musk promised a no-ads tier in 2023. X launched Premium+, with no ads in the For You and Following feeds, on October 27 2023.",
+   "url": "https://twoweeks.lol/predictions/twitter-ad-free-tier-in-2023/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-semi-2022-cybertruck-2023",
+   "claim_id": "c21",
+   "change": "Graded Delivered: Musk said the Semi would start shipping in 2022 and Cybertruck in 2023. Tesla delivered the first Semis to PepsiCo on December 1 2022 and the first Cybertrucks on November 30 2023.",
+   "url": "https://twoweeks.lol/predictions/tesla-semi-production/#tesla-semi-2022-cybertruck-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "fsd-beta-europe-summer-2022",
+   "claim_id": "c124",
+   "change": "Graded Missed: Musk said FSD Beta would reach left-hand-drive Europe in summer 2022. No customer beta launched in Europe that year; only test vehicles were seen in 2023.",
+   "url": "https://twoweeks.lol/predictions/fsd-beta-europe-summer-2022/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "spacex-60-launches-in-2022",
+   "claim_id": "c328",
+   "change": "Graded Delivered: Musk aimed for 60 Falcon launches in 2022. SpaceX flew 61, ending the year on December 30.",
+   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-60-launches-in-2022"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "starship-orbital-stack-ready-in-a-few-weeks-2021",
+   "claim_id": "c327",
+   "change": "Graded Delivered Late: Musk said in August 2021 that the first orbital Starship stack would be ready to fly in a few weeks. The first integrated flight came on April 20 2023, about 20 months later.",
+   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-orbital-stack-ready-in-a-few-weeks-2021"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "model-s-plaid-production-oct-nov-2020",
+   "claim_id": "c316",
+   "change": "Graded Partial: Musk expected a 7-seat Model S Plaid in production around Oct/Nov 2020. The Plaid launched on June 10 2021, seven months late, and only as a five-seater.",
+   "url": "https://twoweeks.lol/predictions/model-s-plaid-production-oct-nov-2020/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "hyperloop-competition-10km-tunnel-2020",
+   "claim_id": "c325",
+   "change": "Graded Missed: Musk said the 2020 Hyperloop pod competition would run in a 10 km vacuum tunnel with a curve. The tunnel was never built and no 2020 competition was held.",
+   "url": "https://twoweeks.lol/predictions/hyperloop-competition-10km-tunnel-2020/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "vegas-tunnel-finished-by-end-of-2019",
+   "claim_id": "c324",
+   "change": "Graded Delivered Late: Musk aimed to finish the Las Vegas Convention Center tunnel by end of 2019. Boring finished digging the second tunnel on May 14 2020, and the Loop opened to riders in 2021.",
+   "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "nasa-astronauts-to-iss-in-2018",
+   "claim_id": "c146",
+   "change": "Graded Delivered Late: Musk looked forward to launching NASA astronauts to the ISS in 2018. Demo-2 carried Behnken and Hurley on May 30 2020, about 17 months late.",
+   "url": "https://twoweeks.lol/predictions/spacex-first-crew-in-three-years-2011/#nasa-astronauts-to-iss-in-2018"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "falcon-heavy-launch-next-month-jan-2018",
+   "claim_id": "c67",
+   "change": "Graded Delivered Late: Musk said in December 2017 that Falcon Heavy would launch the next month. It first flew on February 6 2018, a week late.",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "model-3-production-in-about-two-years-2015",
+   "claim_id": "c321",
+   "change": "Graded Delivered: Musk said in September 2015 that Model 3 production would start in about two years. The first production Model 3 was built at Fremont in early July 2017.",
+   "url": "https://twoweeks.lol/predictions/model-3-production-in-about-two-years-2015/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "spacex-spacesuit-unveil-by-end-of-2013",
+   "claim_id": "c320",
+   "change": "Graded Delivered Late: Musk hoped to unveil SpaceX's new spacesuit by end of 2013. He posted the first photo of it on August 23 2017, three and a half years late.",
+   "url": "https://twoweeks.lol/predictions/spacex-spacesuit-unveil-by-end-of-2013/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "hyperloop-paper-in-about-four-weeks-2012",
+   "claim_id": "c319",
+   "change": "Graded Delivered Late: Musk said in July 2012 he would publish the Hyperloop design in about four weeks. The Hyperloop Alpha paper came out on August 12 2013, about a year late.",
+   "url": "https://twoweeks.lol/predictions/la-sf-tunnel-travel-time-30/#hyperloop-paper-in-about-four-weeks-2012"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "giga-texas-optimus-factory-summer-2027",
+   "claim_id": "c318",
+   "change": "New prediction: On Tesla's April 2026 earnings call Elon Musk said Tesla was building a second Optimus factory at Giga Texas that would probably start production around summer 2027.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#giga-texas-optimus-factory-summer-2027"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "difficult-recession-in-2023",
+   "claim_id": "c317",
+   "change": "Graded Missed: Musk predicted a pretty difficult recession in 2023. There was none: US real GDP grew 2.5% in 2023.",
+   "url": "https://twoweeks.lol/predictions/us-deflation-in-three-years/#difficult-recession-in-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "model-s-plaid-deliveries-next-month-feb-2021",
+   "claim_id": "c316",
+   "change": "Graded Delivered Late: Musk said in January 2021 that Model S Plaid deliveries would start the next month. Tesla held the Plaid delivery event on June 10 2021, about three and a half months late.",
+   "url": "https://twoweeks.lol/predictions/model-s-plaid-production-oct-nov-2020/#model-s-plaid-deliveries-next-month-feb-2021"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "fsd-beta-wide-release-by-end-2020",
+   "claim_id": "c74",
+   "change": "Graded Missed: Musk hoped for a wide FSD Beta release by end of 2020. It stayed limited to a few thousand testers; Tesla opened it to all North American FSD buyers in November 2022.",
+   "url": "https://twoweeks.lol/predictions/fsd-wide-release-nov-2022/#fsd-beta-wide-release-by-end-2020"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "europe-gigafactory-location-by-end-2019",
+   "claim_id": "c314",
+   "change": "Graded Delivered: Musk said Tesla would announce its European Gigafactory location before end of 2019. On November 12 2019 he announced it would be built near Berlin.",
+   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-1-8-million-deliveries-2023",
+   "claim_id": "c313",
+   "change": "Graded Delivered: Musk targeted 1.8 million deliveries in 2023. Tesla delivered 1,808,581.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-1-8-million-deliveries-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "inflation-declines-toward-end-of-2022",
+   "claim_id": "c312",
+   "change": "Graded Delivered: Musk guessed in July 2022 that inflation would decline toward year end. US CPI inflation peaked at 9.1% in June 2022 and fell to 6.5% by December.",
+   "url": "https://twoweeks.lol/predictions/inflation-declines-toward-end-of-2022/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-at-least-50-percent-growth-2022",
+   "claim_id": "c311",
+   "change": "Graded Missed: Musk was confident of at least 50% growth in 2022. Tesla delivered 1.31 million cars in 2022, up 40%; production rose 47%.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-at-least-50-percent-growth-2022"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-profitable-q3-2019",
+   "claim_id": "c310",
+   "change": "Graded Delivered: Musk expected Tesla to be profitable in Q3 2019. Tesla reported a surprise Q3 2019 net profit of $143 million.",
+   "url": "https://twoweeks.lol/predictions/tesla-profitable-q3-q4-2018/#tesla-profitable-q3-2019"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "half-million-to-million-cars-in-2020",
+   "claim_id": "c309",
+   "change": "Graded Partial: Musk aimed for a million cars in 2020 and called half a million to a million pretty likely. Tesla produced 509,737 and delivered 499,550 in 2020: inside his range at the very bottom, half his stated aim.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#half-million-to-million-cars-in-2020"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-higher-sales-2024-than-2023",
+   "claim_id": "c308",
+   "change": "Graded Missed: Musk expected higher sales in 2024 than 2023. Tesla delivered 1,789,226 cars in 2024, down 1.1% from 2023 and its first annual decline in over a decade.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-30-percent-vehicle-growth-2025/#tesla-higher-sales-2024-than-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "most-epic-demo-ever-by-end-of-2025",
+   "claim_id": "c262",
+   "change": "Graded Missed: Musk promised the 'most epic demo ever' by end of 2025, widely tied to the next Roadster. No demo happened in 2025; Electrek counted it among his top missed 2025 predictions, and the Roadster demo moved into 2026.",
+   "url": "https://twoweeks.lol/predictions/roadster-unveil-october-1-2026/#most-epic-demo-ever-by-end-of-2025"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "hundreds-of-thousands-self-driving-teslas-end-2026",
+   "claim_id": "c306",
+   "change": "New prediction: In a May 2025 CNBC interview Elon Musk predicted that by the end of 2026 there would be hundreds of thousands, if not over a million, Teslas self-driving in the US with no one needing to watch the road.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#hundreds-of-thousands-self-driving-teslas-end-2026"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "unsupervised-fsd-personal-use-end-2025",
+   "claim_id": "c8",
+   "change": "Graded Missed: Musk said unsupervised FSD would be available for personal use in certain areas by end of 2025. At year end, customer FSD was still 'Full Self-Driving (Supervised)' everywhere.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#unsupervised-fsd-personal-use-end-2025"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "millions-of-teslas-fully-autonomous-2h-2026",
+   "claim_id": "c8",
+   "change": "New prediction: On Tesla's April 2025 earnings call Elon Musk predicted that millions of Teslas would be operating fully autonomously in the second half of 2026.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#millions-of-teslas-fully-autonomous-2h-2026"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "sleep-in-car-many-us-cities-end-2025",
+   "claim_id": "c8",
+   "change": "Graded Missed: Musk was confident that by end of 2025 people in many US cities could sleep in their car and wake at their destination. At year end Tesla's consumer FSD was still supervised, and its ride service ran only in Austin and the Bay Area.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#sleep-in-car-many-us-cities-end-2025"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "car-drives-itself-better-than-human-in-2021",
+   "claim_id": "c8",
+   "change": "Graded Missed: Musk was highly confident a Tesla would drive itself more reliably than a human in 2021. FSD Beta stayed a supervised driver-assist test through 2021 and only went to wide release, still supervised, in November 2022.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#car-drives-itself-better-than-human-in-2021"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "self-driving-all-modes-by-end-of-2019-sxsw",
+   "claim_id": "c8",
+   "change": "Graded Missed: Musk said at SXSW in March 2018 that self-driving would cover all modes of driving by end of 2019. At end of 2019 Tesla had Navigate on Autopilot for highways and Smart Summon for parking lots, with no city driving.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#self-driving-all-modes-by-end-of-2019-sxsw"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "sleep-in-your-tesla-in-about-two-years-ted-2017",
+   "claim_id": "c8",
+   "change": "Graded Missed: Asked at TED in April 2017 how far away it was to buy a Tesla, take your hands off the wheel, go to sleep and wake up at your destination, Musk said about two years. No Tesla allowed that by 2019, and FSD still requires an awake driver.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#sleep-in-your-tesla-in-about-two-years-ted-2017"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "less-than-two-years-from-complete-autonomy-2016",
+   "claim_id": "c8",
+   "change": "Graded Missed: Musk said at Code 2016 that Tesla was less than two years from complete autonomy. By mid-2018 Autopilot still required an attentive driver, and Tesla's FSD remains supervised.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#less-than-two-years-from-complete-autonomy-2016"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "full-autonomy-in-about-three-years-2015",
+   "claim_id": "c8",
+   "change": "Graded Missed: Musk said in October 2015 that Tesla would have a car capable of full autonomy in about three years. By late 2018 Autopilot still needed constant driver supervision, and Tesla's FSD is still sold as supervised.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#full-autonomy-in-about-three-years-2015"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "highway-on-ramp-to-exit-without-touching-controls-2015",
+   "claim_id": "c2",
+   "change": "Graded Partial: Musk promised in June 2014 that within a year a Tesla would go from highway on-ramp to exit without touching any controls. Navigate on Autopilot reached that in April 2019 with automatic lane changes, nearly four years late, and it still requires hands on the wheel.",
+   "url": "https://twoweeks.lol/predictions/90-autopilot-capable-by-2015/#highway-on-ramp-to-exit-without-touching-controls-2015"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "robotaxi-8-to-10-metro-areas-end-2025",
+   "claim_id": "c295",
+   "change": "Graded Missed: Musk expected Robotaxi in about 8 to 10 metro areas by end of 2025. At year end Tesla's ride service ran only in Austin and the San Francisco Bay Area.",
+   "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/#robotaxi-8-to-10-metro-areas-end-2025"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-20-30-percent-vehicle-growth-2025",
+   "claim_id": "c294",
+   "change": "Graded Missed: Musk guessed 20–30% vehicle growth in 2025. Tesla delivered 1,636,129 vehicles in 2025, down 8.6% from 2024.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-30-percent-vehicle-growth-2025/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "fsd-better-than-human-end-2023",
+   "claim_id": "c8",
+   "change": "Graded Missed: Musk said FSD would be better than a human driver by end of 2023. FSD still required a supervising driver through 2024, when Tesla renamed it 'Full Self-Driving (Supervised)'; on the Q3 2024 call he put 'safer than human' at Q2 2025.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-better-than-human-end-2023"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-10000-per-week-by-end-2018",
+   "claim_id": "c292",
+   "change": "Graded Missed: Musk said Tesla would hit a 10,000-unit production week by end of 2018. Tesla built 86,555 cars in Q4 2018, about 6,600 a week.",
+   "url": "https://twoweeks.lol/predictions/tesla-20-million-cars/#tesla-10000-per-week-by-end-2018"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-profitable-q1-2019-and-all-quarters",
+   "claim_id": "c291",
+   "change": "Graded Missed: Musk was optimistic about a Q1 2019 profit and every quarter after. Tesla reported a Q1 2019 GAAP net loss of $702 million.",
+   "url": "https://twoweeks.lol/predictions/tesla-profitable-q3-q4-2018/#tesla-profitable-q1-2019-and-all-quarters"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "fsd-v9-and-download-button-next-month-2021",
+   "claim_id": "c290",
+   "change": "Graded Delivered Late: Musk hoped to ship FSD Beta V9 and a public request button in April 2021. V9 reached early testers on July 10 2021 and the 'Request FSD Beta' button arrived with update 2021.32.22 on September 25 2021, about five months late.",
+   "url": "https://twoweeks.lol/predictions/v9-full-self-driving-features-august-2018/#fsd-v9-and-download-button-next-month-2021"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "twitter-billion-monthly-users-12-18-months",
+   "claim_id": "c289",
+   "change": "Graded Missed: Musk saw a path to over a billion monthly users by May 2024. In May 2024 he said X had about 600 million monthly active users, and X told advertisers about 570 million.",
+   "url": "https://twoweeks.lol/predictions/twitter-billion-monthly-users-12-18-months/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "grok-3-5-early-beta-next-week",
+   "claim_id": "c288",
+   "change": "Graded Missed: Musk said on April 29 2025 that a Grok 3.5 early beta would come the next week. No Grok 3.5 ever shipped; xAI skipped to Grok 4, released July 9 2025.",
+   "url": "https://twoweeks.lol/predictions/grok-3-end-of-2024/#grok-3-5-early-beta-next-week"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "solar-roof-1000-per-week-end-2019",
+   "claim_id": "c287",
+   "change": "Graded Missed: Musk hoped for about 1,000 Solar Roofs a week by end of 2019. Wood Mackenzie estimated Tesla installed only about 21 Solar Roofs a week on average even in 2022.",
+   "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-1000-per-week-end-2019"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "advanced-summon-ready-in-6-weeks-2018",
+   "claim_id": "c286",
+   "change": "Graded Delivered Late: Musk said on November 1 2018 that advanced Summon was about six weeks away. Tesla shipped it as Smart Summon in software V10 on September 26 2019, about nine months late.",
+   "url": "https://twoweeks.lol/predictions/banish-feature-auto-parking-after-dropoff/#advanced-summon-ready-in-6-weeks-2018"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-finds-parking-spot-reads-signs-2019",
+   "claim_id": "c91",
+   "change": "Graded Missed: Musk said in October 2018 that by 2019 a Tesla would circle a lot, find an empty spot, read signs and park itself. What shipped in 2019 was Smart Summon, which drives to the owner; it does not hunt for a valid spot or read parking signs.",
+   "url": "https://twoweeks.lol/predictions/banish-feature-auto-parking-after-dropoff/#tesla-finds-parking-spot-reads-signs-2019"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "summon-across-country-in-2-years",
+   "claim_id": "c284",
+   "change": "Graded Missed: Musk said in January 2016 that within about two years Summon would bring a Tesla across the country, LA to NY. Summon today still works only within a parking lot, with the owner nearby; cross-country Summon never shipped.",
+   "url": "https://twoweeks.lol/predictions/banish-feature-auto-parking-after-dropoff/#summon-across-country-in-2-years"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "ship",
+   "slug": null,
+   "claim_id": null,
+   "change": "New: a tracker for Elon promises with no deadline, starting with the candy company and home HVAC.",
+   "url": null
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "tesla-india-launch-2021",
+   "claim_id": "c276",
+   "change": "Graded Delivered Late: Musk promised in October 2020 that Tesla would enter India “next year for sure,” and Tesla opened its first Indian showroom in July 2025.",
+   "url": "https://twoweeks.lol/predictions/tesla-india-launch-2021/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "starlink-300mbps-20ms-2021",
+   "claim_id": "c277",
+   "change": "Graded Missed: Musk said in February 2021 that Starlink speeds would double to about 300Mb/s later that year, but measured US speeds stayed under 100Mb/s.",
+   "url": "https://twoweeks.lol/predictions/starlink-300mbps-20ms-2021/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "recession-until-spring-2024",
+   "claim_id": "c278",
+   "change": "Graded Missed: Musk predicted in October 2022 that a recession would last until spring 2024, and no US recession occurred.",
+   "url": "https://twoweeks.lol/predictions/us-deflation-in-three-years/#recession-until-spring-2024"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "boring-la-tunnel-opens-dec-10-2018",
+   "claim_id": "c279",
+   "change": "Graded Missed: Musk said in October 2018 that the first Boring Company tunnel would open December 10 with free public rides the next day, and it never opened to the public.",
+   "url": "https://twoweeks.lol/predictions/boring-la-tunnel-opens-dec-10-2018/"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "model-3-35k-3-to-6-months-after-5k-week",
+   "claim_id": "c280",
+   "change": "Graded Delivered Late: Musk said in May 2018 the $35,000 Model 3 would ship three to six months after Tesla reached 5,000 a week, and it was announced in February 2019.",
+   "url": "https://twoweeks.lol/predictions/model-3-production-in-about-two-years-2015/#model-3-35k-3-to-6-months-after-5k-week"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "grok-3-open-source-in-6-months",
+   "claim_id": "c281",
+   "change": "Graded Missed: Musk said in August 2025 that Grok 3 would be open-sourced in about six months, and its weights have not been released.",
+   "url": "https://twoweeks.lol/predictions/xai-open-source-0-5t-model-2026/#grok-3-open-source-in-6-months"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "agi-by-2029",
+   "claim_id": "c119",
+   "change": "New prediction: in May 2022 Musk said he would be surprised if the world doesn’t have AGI by 2029.",
+   "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#agi-by-2029"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "neuralink-10-patients-end-2024",
+   "claim_id": "c283",
+   "change": "Graded Missed: Musk said in August 2024 that Neuralink hoped to implant 10 people by year-end, and in January 2025 he said it had three.",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-10-patients-end-2024"
+  },
+  {
+   "date": "2026-10-11",
+   "kind": "prediction",
+   "slug": "boring-la-tunnel-opens-dec-10-2018",
+   "claim_id": "c279",
+   "change": "Goalpost moved: on Dec 7, 2018 Elon pushed the first Boring tunnel opening from Dec 10 to a Dec 18 product launch.",
+   "url": "https://twoweeks.lol/predictions/boring-la-tunnel-opens-dec-10-2018/"
+  },
+  {
+   "date": "2026-10-10",
+   "kind": "prediction",
+   "slug": "starship-reaches-orbit",
+   "claim_id": "c40",
+   "change": "Verdict: Partial → Delivered Late. Starship Flight 14 entered a 262×275 km low Earth orbit on Sep 28 2026 and deployed 26 Starlink V3 satellites, the first time Starship reached orbit (SpacePolicyOnline, fetched Oct 10).",
+   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/"
+  },
+  {
+   "date": "2026-10-10",
+   "kind": "prediction",
+   "slug": "robotaxi-functionality-in-2020",
+   "claim_id": "c6",
+   "change": "Verdict: Partial → Delivered Late. Tesla Robotaxi now runs unsupervised in six Texas and Florida metros, and purpose-built Cybercabs with no steering wheel or pedals entered public Austin service on Sep 3 2026 (Wikipedia Tesla Robotaxi, fetched Oct 10).",
+   "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#robotaxi-functionality-in-2020"
+  },
+  {
+   "date": "2026-10-10",
+   "kind": "prediction",
+   "slug": "starship-next-flight-september-22-2026",
+   "claim_id": "c264",
+   "change": "Resolution updated: Flight 14 launched Sep 28 2026 and reached orbit, six days after Elon's Sep 22 date. Status stays missed.",
+   "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/#starship-next-flight-september-22-2026"
+  },
+  {
+   "date": "2026-10-08",
+   "kind": "prediction",
+   "slug": "autonomous-robotaxis",
+   "claim_id": "c6",
+   "change": "Verdict: Partial → Delivered Late. Tesla opened public Cybercab robotaxi rides with no steering wheel or pedals in Austin on Sep 3 2026, with unsupervised Model Y robotaxis already running in six cities (The Verge, fetched Oct 8). Public autonomous robotaxis exist, six years past the 2020 deadline.",
+   "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#autonomous-robotaxis"
+  },
+  {
+   "date": "2026-10-05",
+   "kind": "prediction",
+   "slug": "colossus-220k-gb300-operational-next-week",
+   "claim_id": "c272",
+   "change": "Verdict: Pending → Missed. The Oct 4 deadline passed with no independent confirmation that another 220,000 GB300 chips at Colossus 2 went fully operational.",
+   "url": "https://twoweeks.lol/predictions/colossus-220k-gb300-operational-next-week/"
+  },
+  {
+   "date": "2026-10-04",
+   "kind": "prediction",
+   "slug": "humans-on-mars",
+   "claim_id": "c35",
+   "change": "Resolution updated: Starship reached orbit on Flight 14 (Sep 28 2026) but remains uncrewed. No humans have gone to Mars. Status stays missed.",
+   "url": "https://twoweeks.lol/predictions/humans-on-mars/"
+  },
+  {
+   "date": "2026-10-02",
+   "kind": "prediction",
+   "slug": "spacex-90pct-commercial-q4-gov-under-5-2026",
+   "claim_id": "c275",
+   "change": "New prediction #275. Evening CEO scout: Elon said roughly 90% of SpaceX’s 2026 revenue will be commercial, and that in Q4 government revenue will be less than 5%.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-90pct-commercial-q4-gov-under-5-2026"
+  },
+  {
+   "date": "2026-09-30",
+   "kind": "prediction",
+   "slug": "conversational-grok-in-fsd",
+   "claim_id": "c195",
+   "change": "Verdict: Pending → Missed. Sep 30 deadline passed without FSD planning-layer commands ('Hey Grok, turn right here'). Tesla's Sep 22 Grok Bot launch is cabin/errand work while FSD drives; Not a Tesla App still calls chauffeur-like Grok–FSD integration forthcoming.",
+   "url": "https://twoweeks.lol/predictions/conversational-grok-in-fsd/"
+  },
+  {
+   "date": "2026-09-30",
+   "kind": "prediction",
+   "slug": "grok-cpp-stack-massive-gains",
+   "claim_id": "c226",
+   "change": "Verdict: Pending → Missed. Sep 30 deadline passed with no public receipt of massive gains from a full C/C++ training-and-inference rewrite exact-mapped to GB300. x.ai/news + docs.x.ai still flagship Grok 4.7; no grok-4.8. Internal C++ pre-training stack (Musk Sep 13–14) is not the shipped-gains promise.",
+   "url": "https://twoweeks.lol/predictions/grok-cpp-stack-massive-gains/"
+  },
+  {
+   "date": "2026-09-29",
+   "kind": "prediction",
+   "slug": "starship-flight-14-september-28-2026",
+   "claim_id": "c264",
+   "change": "Verdict: Pending → Delivered. Starship Flight 14 lifted off Sep 28 2026 at 7:48:59 CDT (12:48:59 UTC) from Starbase OLP-2 — the morning Musk named the night before (Wikipedia Starship flight 14, fetched Sep 29).",
+   "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/"
+  },
+  {
+   "date": "2026-09-29",
+   "kind": "prediction",
+   "slug": "starship-orbit-starlink-v3-operational-7-days",
+   "claim_id": "c269",
+   "change": "Verdict: Pending → Delivered. On the Sep 28 deadline, Flight 14 reached orbit and deployed 26 operational Starlink V3 satellites (Group 31-1). Wikipedia Starship flight 14 / Scientific American fetched Sep 29.",
+   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/"
+  },
+  {
+   "date": "2026-09-29",
+   "kind": "prediction",
+   "slug": "starlink-v3-deploy-starts-september-2026",
+   "claim_id": "c265",
+   "change": "Verdict: Pending → Delivered. First operational Starlink V3 batch (26 sats, Group 31-1) deployed from Starship Flight 14 on Sep 28, two days before the Sep 30 bound. Space.com: V3 constellation construction officially underway.",
+   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-v3-deploy-starts-september-2026"
+  },
+  {
+   "date": "2026-09-29",
+   "kind": "prediction",
+   "slug": "roadster-unveil-october-1-2026",
+   "claim_id": "c262",
+   "change": "Goalpost moved: on Sep 29 2026 ~7:19 PM CT Musk quote-tweeted Tesla’s Oct 15 weather reschedule and wrote “Due to high winds, the new Roadster demo is postponed by 2 weeks” (https://x.com/elonmusk/status/2105090209897500828). Deadline Oct 1 → Oct 15 (Oct 1 + 2 weeks; matches Tesla QT). Prior company-only delay was L14; this is Elon’s own words. Late-night CEO scout.",
+   "url": "https://twoweeks.lol/predictions/roadster-unveil-october-1-2026/"
+  },
+  {
+   "date": "2026-09-27",
+   "kind": "prediction",
+   "slug": "starship-hourly-flights-2-3-years",
+   "claim_id": "c273",
+   "change": "New prediction #273. Afternoon CEO scout: Elon on X (2104241521746649165) — \"Starship is 2 to 3 years away from hourly flights\". Deadline 2029-09-27 (outer bound). Reply to @herbertong/@TeslaLarry. Distinct from #242 daily / #250 30+/day-2030 / #251 Louisiana. check_duplicate.py NOVEL; audit clean.",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/"
+  },
+  {
+   "date": "2026-09-27",
+   "kind": "prediction",
+   "slug": "starship-flight-14-september-28-2026",
+   "claim_id": "c264",
+   "change": "New prediction #274. Late-evening CEO scout: Elon on X (2104361390123430335) — \"Starship Flight 14 aiming to launch tomorrow morning\". Deadline 2026-09-28. QT of @SpaceX Flight 14 Sep 28 / 7:15 a.m. CT window (company = context only). Distinct from #264 missed 9/22 and #269 orbit+Starlink V3-ops. check_duplicate.py NOVEL; audit clean.",
+   "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/"
+  },
+  {
+   "date": "2026-09-26",
+   "kind": "prediction",
+   "slug": "no-steering-wheel-cars",
+   "claim_id": "c7",
+   "change": "Verdict: Partial → Delivered Late. Cybercab (no steering wheel, no pedals) entered production April 2026 and, as of Sep 4 2026, offers paid unsupervised public rides in Austin (Wikipedia Tesla Cybercab / Reuters). The prior partial caveat that it could not yet operate unsupervised is stale. Literal 'make a car with no steering wheel or pedals' delivered about five years late.",
+   "url": "https://twoweeks.lol/predictions/no-steering-wheel-cars/"
+  },
+  {
+   "date": "2026-09-24",
+   "kind": "prediction",
+   "slug": "colossus-220k-gb300-operational-next-week",
+   "claim_id": "c272",
+   "change": "New prediction #272. Late-evening CEO scout: Elon on X (2103329761690865846) — \"Another 220k GB300 will be fully operational next week and another 220k in November. If we get lucky, yet another 220k GB300 by late December.\" Reply to @minchoi. Primary deadline next-week outer bound 2026-10-04. Same tweet also states Colossus 1/2 inventory (present-tense). Distinct from #132/#243/#257/#228 compute family.",
+   "url": "https://twoweeks.lol/predictions/colossus-220k-gb300-operational-next-week/"
+  },
+  {
+   "date": "2026-09-24",
+   "kind": "prediction",
+   "slug": "spacex-fable-gpt6-level-model-2-3-months",
+   "claim_id": "c271",
+   "change": "New prediction #271. Midday CEO scout: Elon on X (2103151040858067289) — \"I am cautiously optimistic that SpaceX will have a Fable/GPT-6 level model in 2 to 3 months.\" Reply to @notjazii. Deadline 2026-12-24 (3-month outer bound). Distinct from #199/#229/#259/#263.",
+   "url": "https://twoweeks.lol/predictions/spacex-fable-gpt6-level-model-2-3-months/"
+  },
+  {
+   "date": "2026-09-22",
+   "kind": "prediction",
+   "slug": "ai-beat-all-fields-by-end-2028",
+   "claim_id": "c270",
+   "change": "New prediction #270. Midday CEO scout: Elon on X (2102451875140501761) — \"AI will beat all fields by the end of next year or maybe 2028, at the latest.\" Reply to @fchollet. Deadline 2028-12-31. Distinct from #256 (digital-only superhuman end-2027).",
+   "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-beat-all-fields-by-end-2028"
+  },
+  {
+   "date": "2026-09-22",
+   "kind": "prediction",
+   "slug": "starship-next-flight-september-22-2026",
+   "claim_id": "c264",
+   "change": "Verdict: Pending → Missed. Sep 22 deadline passed with no Starship launch. Flight 14 still NET Sep 28 2026 on Wikipedia / SpaceX after the Sep 17 company slip off Musk's 9/22 date (L14 — company delay is not an Elon goalpost).",
+   "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/#starship-next-flight-september-22-2026"
+  },
+  {
+   "date": "2026-09-21",
+   "kind": "prediction",
+   "slug": "starship-orbit-starlink-v3-operational-7-days",
+   "claim_id": "c269",
+   "change": "New prediction #269. Midday CEO scout: Elon on X (2102068280156414171) — \"In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use.\" Deadline 2026-09-28. Distinct from #264 (9/22 next flight) and #265 (V3 deploy starts this month).",
+   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/"
+  },
+  {
+   "date": "2026-09-21",
+   "kind": "prediction",
+   "slug": "grok-4-7-out-in-10-days",
+   "claim_id": "c259",
+   "change": "Verdict: Missed → Delivered Late. After the Sep 16 miss, xAI publicly released Grok 4.7 on Sep 21 2026 (https://x.ai/news/grok-4-7) — Cursor, Grok Build, and API model id grok-4.7 with pricing on docs.x.ai/docs/models. 5 days late.",
+   "url": "https://twoweeks.lol/predictions/grok-4-7-out-in-10-days/"
+  },
+  {
+   "date": "2026-09-21",
+   "kind": "prediction",
+   "slug": "grok-4-8-finish-training-this-week",
+   "claim_id": "c263",
+   "change": "Verdict: Pending → Missed. Sep 20 deadline passed with no public confirmation that Grok 4.8 finished training and started RL. Fetched Sep 21: x.ai/news and docs.x.ai/docs/models still have no grok-4.8 id, price, or launch post; flagship remains Grok 4.6 (Aug 12).",
+   "url": "https://twoweeks.lol/predictions/grok-4-8-finish-training-this-week/"
+  },
+  {
+   "date": "2026-09-18",
+   "kind": "add",
+   "slug": "ai-doubles-us-gdp-growth-next-year-to-about-4-percent",
+   "claim_id": "c268",
+   "change": "Added #268 from Elon tweet 2101011740574052697 (Sep 18 2026 CT). Verified author via fxtwitter + publish.x.com oEmbed. check_duplicate NOVEL vs #117/#196/#232/#254/#261.",
+   "url": "https://twoweeks.lol/predictions/elon-economic-growth-prediction/#ai-doubles-us-gdp-growth-next-year-to-about-4-percent"
+  },
+  {
+   "date": "2026-09-18",
+   "kind": "prediction",
+   "slug": "starship-next-flight-september-22-2026",
+   "claim_id": "c264",
+   "change": "SpaceX (company, not Elon) posted Sep 17 that Flight 14 is now targeting as early as Sep 28, pending regulatory approval — a six-day slip off Musk's 9/22 date. Wikipedia lists NET Sep 28. Company delay is not a goalpost (L14); status stays pending until the Sep 22 deadline.",
+   "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/#starship-next-flight-september-22-2026"
+  },
+  {
+   "date": "2026-09-17",
+   "kind": "prediction",
+   "slug": "grok-4-7-out-in-10-days",
+   "claim_id": "c259",
+   "change": "Verdict: Pending → Missed. Sep 16 deadline passed with no public Grok 4.7. Fetched Sep 17: x.ai/news, docs.x.ai/docs/models, and docs.x.ai/release-notes still have no grok-4.7 id, price, or launch post; flagship remains Grok 4.6 (Aug 12).",
+   "url": "https://twoweeks.lol/predictions/grok-4-7-out-in-10-days/"
+  },
+  {
+   "date": "2026-09-15",
+   "kind": "prediction",
+   "slug": "starship-next-flight-september-22-2026",
+   "claim_id": "c264",
+   "change": "New prediction: afternoon Sep 15 2026 tweet — Musk said next Starship flight on 9/22 (https://x.com/elonmusk/status/2099927224761881030). Novel vs prior Starship cadence cards (check_duplicate NOVEL). CEO afternoon scout.",
+   "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/#starship-next-flight-september-22-2026"
+  },
+  {
+   "date": "2026-09-15",
+   "kind": "prediction",
+   "slug": "starlink-v3-deploy-starts-september-2026",
+   "claim_id": "c265",
+   "change": "New prediction: afternoon Sep 15 2026 tweet — Musk said Starlink V3 constellation starts being deployed this month (https://x.com/elonmusk/status/2099933912697127398). Novel vs #206 V3 at scale Q4 (check_duplicate NOVEL). CEO afternoon scout.",
+   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-v3-deploy-starts-september-2026"
+  },
+  {
+   "date": "2026-09-15",
+   "kind": "prediction",
+   "slug": "starship-full-reusability-rapid-reflight-2027",
+   "claim_id": "c85",
+   "change": "New prediction: All-In Summit Sep 15 2026 (Elon speaking) — extremely likely full reusability with rapid reflight in 2027 (https://www.youtube.com/watch?v=iwBOQeFPAwg). Novel vs #247 first reflight (check_duplicate NOVEL). CEO evening scout.",
+   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/"
+  },
+  {
+   "date": "2026-09-15",
+   "kind": "prediction",
+   "slug": "terafab-rd-something-useful-end-2027",
+   "claim_id": "c267",
+   "change": "New prediction: All-In Summit Sep 15 2026 (Elon speaking) — R&D fab something useful by end of next year, not at scale. Novel vs #132/#243 (check_duplicate NOVEL). CEO evening scout.",
+   "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#terafab-rd-something-useful-end-2027"
+  },
+  {
+   "date": "2026-09-15",
+   "kind": "prediction",
+   "slug": "spacex-ship-tower-catch-next-flight",
+   "claim_id": "c224",
+   "change": "Goalpost update: All-In Summit Sep 15 2026 — Flight 14 is confirmation only; Flight 15 is the first ship-catch attempt (50–60% odds). Catch moves off #264's Sep 22 Flight 14. Deadline still end-2026.",
+   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/"
+  },
+  {
+   "date": "2026-09-13",
+   "kind": "prediction",
+   "slug": "grok-4-8-finish-training-this-week",
+   "claim_id": "c263",
+   "change": "New prediction: evening Sep 13 2026 tweet — Musk said Grok 4.8 (2.5T, new C++ stack) will finish training this week and start RL (https://x.com/elonmusk/status/2099308197802631191). Novel vs #259 Grok 4.7 release (check_duplicate NOVEL). CEO evening scout.",
+   "url": "https://twoweeks.lol/predictions/grok-4-8-finish-training-this-week/"
+  },
+  {
+   "date": "2026-09-12",
+   "kind": "prediction",
+   "slug": "roadster-unveil-october-1-2026",
+   "claim_id": "c262",
+   "change": "New prediction: evening Sep 12 2026 tweet — Musk wrote “New Tesla Roadster Unveil 10.01” (QT of Tesla “Go for launch”). Novel vs #130/#29 (check_duplicate LIKELY NOVEL). CEO late-night scout.",
+   "url": "https://twoweeks.lol/predictions/roadster-unveil-october-1-2026/"
+  },
+  {
+   "date": "2026-09-11",
+   "kind": "prediction",
+   "slug": "grok-4-7-out-in-10-days",
+   "claim_id": "c259",
+   "change": "Goalpost moved: on Sep 11 2026 (~12:22 CT) Musk said Grok 4.7 needs a few more days to cook (https://x.com/elonmusk/status/2098462085973741960), slipping the Sep 11 deadline from the Sep 1 'in 10 days' promise to Sep 16 (L10 generous end of a few more days).",
+   "url": "https://twoweeks.lol/predictions/grok-4-7-out-in-10-days/"
+  },
+  {
+   "date": "2026-09-09",
+   "kind": "prediction",
+   "slug": "ai-robots-double-economy-under-10-years",
+   "claim_id": "c261",
+   "change": "New prediction: morning Sep 9 2026 tweet — Musk said AI+robots will more than double the global economy in less than 10 years. Novel vs #254/#196/#117 (check_duplicate NOVEL). CEO midday scout.",
+   "url": "https://twoweeks.lol/predictions/economy-doubles-in-five-to-seven-years/#ai-robots-double-economy-under-10-years"
+  },
+  {
+   "date": "2026-09-03",
+   "kind": "ship",
+   "slug": "starlink-mini",
+   "claim_id": null,
+   "change": "Mini and home-charger chooser buttons now name the referral offer (1 month free / 3 months FSD). /out/tesla and /out/starlink count dest as dest:from so D1 can tell which page converted. Site history, not Elon board news.",
+   "url": null
+  },
+  {
+   "date": "2026-09-03",
+   "kind": "ship",
+   "slug": "starlink-mini",
+   "claim_id": null,
+   "change": "Expanded live /starlink-mini/ for camping/RV/portable + review/worth-it intents: Travel chip → Camping / RV, new tool H2, two FAQ rows. No new URL. Site history, not Elon board news.",
+   "url": null
+  },
+  {
+   "date": "2026-09-03",
+   "kind": "prediction",
+   "slug": "tesla-austin-30k-jobs-by-2028",
+   "claim_id": "c260",
+   "change": "New prediction: afternoon Sep 3 2026 tweet — Musk said probably over 30k high-paying jobs at Tesla HQ & manufacturing in Austin by 2028. Novel vs board (check_duplicate NOVEL).",
+   "url": "https://twoweeks.lol/predictions/tesla-austin-30k-jobs-by-2028/"
+  },
+  {
+   "date": "2026-09-02",
+   "kind": "ship",
+   "slug": "starlink-mini",
+   "claim_id": null,
+   "change": "Homepage Owner tools now includes a crawlable in-content card to /starlink-mini/. Site history, not Elon board news.",
+   "url": null
+  },
+  {
+   "date": "2026-09-02",
+   "kind": "ship",
+   "slug": "home-charger",
+   "claim_id": null,
+   "change": "Shipped /home-charger/: Wall Connector vs Universal Mobile Connector vs third-party all-in cost chooser. Site history, not Elon board news.",
+   "url": null
+  },
+  {
+   "date": "2026-09-01",
+   "kind": "prediction",
+   "slug": "optimus-v3-production-august-2026",
+   "claim_id": "c135",
+   "change": "Verdict: Pending → Missed. Tesla's last official language (Q2 2026 update, July 22) was still 'installing the first-generation lines… start production soon' / 'later this year.' A mid-August JPMorgan Fremont visit still described the line as going in, not running. The Aug 31 window closed with no Tesla/exec confirmation that Optimus V3 production had started.",
+   "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/"
+  },
+  {
+   "date": "2026-09-01",
+   "kind": "prediction",
+   "slug": "ai-stockfish-level-coding",
+   "claim_id": "c192",
+   "change": "Goalpost/deadline: undated Jun 16 2026 Stockfish-coding claim dated at G20 Sep 1 2026 to next year / 12–18 months. Deadline set to 2028-03-01 (L10 end of 18 months).",
+   "url": "https://twoweeks.lol/predictions/ai-stockfish-level-coding/"
+  },
+  {
+   "date": "2026-09-01",
+   "kind": "prediction",
+   "slug": "ai-compute-15gw-cannot-turn-on-2027",
+   "claim_id": "c257",
+   "change": "New prediction: Aug 29 2026 tweet — consensus estimate that ~15GW of AI compute produced in 2027 cannot be turned on in 2027 because transformers, wiring, liquid-cooling, chillers and networking must also be built. G20 Sep 1 restates a related 15GW power shortfall.",
+   "url": "https://twoweeks.lol/predictions/ai-compute-15gw-cannot-turn-on-2027/"
+  },
+  {
+   "date": "2026-09-01",
+   "kind": "prediction",
+   "slug": "billion-humanoid-robots-ten-years",
+   "claim_id": "c258",
+   "change": "New prediction: at the Sep 1 2026 G20 Innovation Ministerial Musk said 10 years from now there would be well over a billion humanoid robots (and he would bet on at least a billion, each ≥5× a human). Distinct from the May 2026 100-million-in-5-years card.",
+   "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/"
+  },
+  {
+   "date": "2026-09-01",
+   "kind": "prediction",
+   "slug": "grok-4-7-out-in-10-days",
+   "claim_id": "c259",
+   "change": "New prediction: evening Sep 1 2026 tweet — Musk said Grok 4.7 comes out in 10 days (deadline Sep 11). Distinct from the delivered-late Grok 4.6 in-a-week card.",
+   "url": "https://twoweeks.lol/predictions/grok-4-7-out-in-10-days/"
+  },
+  {
+   "date": "2026-08-31",
+   "kind": "prediction",
+   "slug": "spacex-inhouse-turbine-casting-18-months",
+   "claim_id": "c255",
+   "change": "New prediction: Musk said in-house blade-and-vane casting at SpaceX can accelerate nat-gas turbines coming online by up to 18 months. The same tweet's 100 GW/year solar line has no dated target, so it is context, not a second card.",
+   "url": "https://twoweeks.lol/predictions/spacex-inhouse-turbine-casting-18-months/"
+  },
+  {
+   "date": "2026-08-31",
+   "kind": "prediction",
+   "slug": "ai-digital-superhuman-end-2027",
+   "claim_id": "c256",
+   "change": "New prediction: Musk said AI will do anything digital that does not require shaping atoms at a superhuman level by the end of next year (end of 2027).",
+   "url": "https://twoweeks.lol/predictions/ai-digital-superhuman-end-2027/"
+  },
+  {
+   "date": "2026-08-30",
+   "kind": "ship",
+   "slug": "starlink-mini",
+   "claim_id": null,
+   "change": "Shipped /starlink-mini/: Mini vs Standard vs Roam hardware + monthly-cost chooser. Site history, not Elon board news.",
+   "url": null
+  },
+  {
+   "date": "2026-08-29",
+   "kind": "prediction",
+   "slug": "machine-that-builds-machine-v1-2018",
+   "claim_id": "c161",
+   "change": "Verdict: Missed → Cancelled. Musk publicly killed the 2018 hyper-automation factory plan on April 13 2018 ('excessive automation at Tesla was a mistake'); missed was keeping an overdue clock on a goal he had already renounced.",
+   "url": "https://twoweeks.lol/predictions/machine-that-builds-machine-v1-2018/"
+  },
+  {
+   "date": "2026-08-29",
+   "kind": "prediction",
+   "slug": "100-million-humanoid-robots-five-years",
+   "claim_id": "c253",
+   "change": "New prediction: at a May 19 2026 Forbes Innovator 250 event Musk said that in five years there would be at least 100 million humanoid robots, and maybe a billion.",
+   "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/#100-million-humanoid-robots-five-years"
+  },
+  {
+   "date": "2026-08-29",
+   "kind": "prediction",
+   "slug": "economy-doubles-in-five-to-seven-years",
+   "claim_id": "c254",
+   "change": "New prediction: in the same May 19 2026 Forbes clip Musk predicted the economy would probably be twice its current size in five, maybe six years, hedging the doubling window out to five to seven years.",
+   "url": "https://twoweeks.lol/predictions/economy-doubles-in-five-to-seven-years/"
+  },
+  {
+   "date": "2026-08-27",
+   "kind": "prediction",
+   "slug": "vera-rubin-nvl72-orbit-q4-2027",
+   "claim_id": "c248",
+   "change": "New prediction: on Aug 24 2026 Musk said SpaceX and Nvidia designed a space-optimized Vera Rubin NVL72 system for launch to orbit in Q4 2027, with significant scale in 2028.",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#vera-rubin-nvl72-orbit-q4-2027"
+  },
+  {
+   "date": "2026-08-27",
+   "kind": "prediction",
+   "slug": "orbital-compute-only-way-2029",
+   "claim_id": "c106",
+   "change": "New prediction: on Aug 14 2026 Musk said orbital compute will be the only way to scale AI probably sometime in 2029, because of power availability and permitting problems on land.",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#orbital-compute-only-way-2029"
+  },
+  {
+   "date": "2026-08-27",
+   "kind": "prediction",
+   "slug": "starship-30-launches-per-day-2030",
+   "claim_id": "c250",
+   "change": "New prediction: on Aug 21 2026 Musk said SpaceX is aiming to reach 30+ Starship launches a day in 2030 (~10,000 a year).",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-30-launches-per-day-2030"
+  },
+  {
+   "date": "2026-08-27",
+   "kind": "prediction",
+   "slug": "starbase-louisiana-dozen-towers",
+   "claim_id": "c251",
+   "change": "New prediction: on Aug 25 2026 Musk said Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making it the biggest launch site on Earth.",
+   "url": "https://twoweeks.lol/predictions/starbase-louisiana-dozen-towers/"
+  },
+  {
+   "date": "2026-08-27",
+   "kind": "prediction",
+   "slug": "spacex-3-5-trillion-revenue-2033",
+   "claim_id": "c252",
+   "change": "New prediction: on Aug 27 2026 Musk said his best guess for ~$3.5 trillion of SpaceX revenue is roughly around 2033.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-3-5-trillion-revenue-2033"
+  },
+  {
+   "date": "2026-08-25",
+   "kind": "prediction",
+   "slug": "spacex-ship-tower-catch-next-flight",
+   "claim_id": "c224",
+   "change": "Goalpost moved: on Aug 20 2026 Musk restated the Ship tower-catch from 'next flight' (Flight 14) to 'in a few months' (verified tweet 2090305535937851863). Flight 14 still has not launched.",
+   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/"
+  },
+  {
+   "date": "2026-08-25",
+   "kind": "prediction",
+   "slug": "starship-first-ship-reflight-early-2027",
+   "claim_id": "c247",
+   "change": "New prediction: on Aug 20 2026 Musk said the first reflight of a Starship (upper stage) will be 'either end of this year or early next.'",
+   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-first-ship-reflight-early-2027"
+  },
+  {
+   "date": "2026-08-14",
+   "kind": "prediction",
+   "slug": "spacex-100-billion-arr-december-2026",
+   "claim_id": "c246",
+   "change": "New prediction: on SpaceX's Aug 4 2026 earnings call Musk said the company expects to reach a $100 billion-plus annualized revenue run rate in December 2026.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-100-billion-arr-december-2026"
+  },
+  {
+   "date": "2026-08-11",
+   "kind": "prediction",
+   "slug": "starship-safe-for-humans-2027",
+   "claim_id": "c244",
+   "change": "New prediction: on SpaceX's first-ever earnings call (Aug 4 2026) Musk said a very high launch rate would let Starship 'achieve a level of safety needed for humans very quickly, probably by the end of next year' — i.e. crew-rated safety by end of 2027.",
+   "url": "https://twoweeks.lol/predictions/starship-safe-for-humans-2027/"
+  },
+  {
+   "date": "2026-08-10",
+   "kind": "prediction",
+   "slug": "grok-4-6-out-in-a-week",
+   "claim_id": "c239",
+   "change": "Graded DELIVERED-LATE: xAI publicly released Grok 4.6 on Aug 7 2026, one day past the Aug 6 implied deadline from Musk's Jul 30 'in a week' promise.",
+   "url": "https://twoweeks.lol/predictions/grok-4-6-out-in-a-week/"
+  },
+  {
+   "date": "2026-08-10",
+   "kind": "prediction",
+   "slug": "terafab-50x-pentagon",
+   "claim_id": "c243",
+   "change": "New prediction: on Aug 7 2026 Musk said xAI's planned Terafab chip-fabrication megastructure 'will be 50 times the size of the Pentagon when complete.'",
+   "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#terafab-50x-pentagon"
+  },
+  {
+   "date": "2026-08-06",
+   "kind": "prediction",
+   "slug": "starship-flight-a-day-within-year",
+   "claim_id": "c242",
+   "change": "New prediction: on SpaceX's first earnings call (Aug 4 2026) Musk said Starship would be doing at least one flight a day within about a year.",
+   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-flight-a-day-within-year"
+  },
+  {
+   "date": "2026-08-06",
+   "kind": "prediction",
+   "slug": "spacex-1-trillion-revenue-2030",
+   "claim_id": "c197",
+   "change": "Reaffirmed on SpaceX's first earnings call (Aug 4 2026): the internal $1T-revenue target moved up from 2031 to 2030, with a non-zero chance of 2029.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-1-trillion-revenue-2030"
+  },
+  {
+   "date": "2026-08-01",
+   "kind": "prediction",
+   "slug": "optimus-3-unveil-few-months",
+   "claim_id": "c127",
+   "change": "Graded MISSED — the July 31 2026 deadline passed with no V3/Gen 3 reveal; Tesla still withholding the robot until production start.",
+   "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/#optimus-3-unveil-few-months"
+  },
+  {
+   "date": "2026-08-01",
+   "kind": "prediction",
+   "slug": "ai-exceed-sum-human-intelligence",
+   "claim_id": "c121",
+   "change": "New prediction: in his July 23 2026 Economist interview Musk said AI may exceed the sum of all human intelligence in around five years.",
+   "url": "https://twoweeks.lol/predictions/ai-exceeds-all-humans-2030/#ai-exceed-sum-human-intelligence"
+  },
+  {
+   "date": "2026-08-01",
+   "kind": "prediction",
+   "slug": "money-wont-matter-2036",
+   "claim_id": "c241",
+   "change": "New prediction: in his July 23 2026 Economist interview Musk said money 'won't matter in 2036' as AI and robots make goods and services super-abundant.",
+   "url": "https://twoweeks.lol/predictions/money-wont-matter-2036/"
+  },
+  {
+   "date": "2026-07-30",
+   "kind": "prediction",
+   "slug": "grok-4-6-out-in-a-week",
+   "claim_id": "c239",
+   "change": "New prediction: on July 30, 2026 Musk said Grok 4.6 'comes out in a week' and is 'a significant improvement' — a dated public-release promise targeting ~Aug 6, 2026.",
+   "url": "https://twoweeks.lol/predictions/grok-4-6-out-in-a-week/"
+  },
+  {
+   "date": "2026-07-27",
+   "kind": "prediction",
+   "slug": "ai-robot-singularity-ten-years",
+   "claim_id": "c238",
+   "change": "Fixed source: the full Economist interview was pulled from YouTube to the outlet's premium platform, so the primary source now points to the verbatim interview transcript confirming 'the AI robot singularity is 10 years away.'",
+   "url": "https://twoweeks.lol/predictions/ai-robot-singularity-ten-years/"
+  },
+  {
+   "date": "2026-07-25",
+   "kind": "prediction",
+   "slug": "spacex-ship-tower-catch-next-flight",
+   "claim_id": "c224",
+   "change": "New prediction: a day after Starship Flight 13, Musk said SpaceX will attempt to catch the Ship (the upper stage) with the launch tower on the next flight, barring problems found in the mission data review.",
+   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/"
+  },
+  {
+   "date": "2026-07-25",
+   "kind": "prediction",
+   "slug": "ai-robot-singularity-ten-years",
+   "claim_id": "c238",
+   "change": "New prediction from Musk's July 23 2026 Economist interview: AI and robots will dominate 'on a time scale that is less than 10 years' and 'the AI robot singularity is 10 years away' (by ~2036).",
+   "url": "https://twoweeks.lol/predictions/ai-robot-singularity-ten-years/"
+  },
+  {
+   "date": "2026-07-24",
+   "kind": "prediction",
+   "slug": "semi-self-driving-end-2026-early-2027",
+   "claim_id": "c236",
+   "change": "New prediction: on the Q2 2026 earnings call Musk said Tesla expects self-driving working on the Semi around the end of 2026 or early 2027, after Model 3/Y and Cybercab.",
+   "url": "https://twoweeks.lol/predictions/semi-self-driving-end-2026-early-2027/"
+  },
+  {
+   "date": "2026-07-24",
+   "kind": "prediction",
+   "slug": "unsupervised-fsd-texas-california-2025",
+   "claim_id": "c8",
+   "change": "Regraded missed to partial: driverless unsupervised Model Y robotaxis now run in Austin, Dallas, Houston, Miami and Orlando/Tampa, but they are Tesla-owned, California is not driverless, and customer-car unsupervised FSD is still unreleased.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/"
+  },
+  {
+   "date": "2026-07-22",
+   "kind": "prediction",
+   "slug": "grok-imagine-odyssey-movie-2026",
+   "claim_id": "c108",
+   "change": "New prediction from Musk's July 22, 2026 tweet: before the year ends, xAI's Grok Imagine will make a full-length movie of Homer's Odyssey that is 'historically accurate and true to the art of Homer.'",
+   "url": "https://twoweeks.lol/predictions/grok-watchable-movie/#grok-imagine-odyssey-movie-2026"
+  },
+  {
+   "date": "2026-07-15",
+   "kind": "prediction",
+   "slug": "tesla-ai5-chip-production-q2-2027",
+   "claim_id": "c86",
+   "change": "New prediction mined from Musk's Feb 5, 2026 Dwarkesh Podcast: Tesla's AI5 inference chip goes from design into production and scale around Q2 2027, with AI6 to follow less than a year later.",
+   "url": "https://twoweeks.lol/predictions/tesla-ai5-chip-production-q2-2027/"
+  },
+  {
+   "date": "2026-07-15",
+   "kind": "prediction",
+   "slug": "space-most-compelling-place-for-ai-2028",
+   "claim_id": "c106",
+   "change": "New prediction mined from Musk's Feb 5, 2026 Dwarkesh Podcast: 'mark my words,' within 30-36 months orbit becomes the most economically compelling place to run AI compute.",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#space-most-compelling-place-for-ai-2028"
+  },
+  {
+   "date": "2026-07-14",
+   "kind": "prediction",
+   "slug": "model-y-variant-us-production-2026",
+   "claim_id": "c208",
+   "change": "Delivered ahead of schedule: the first US-built six-seat Model Y L rolled off the line at Giga Texas (reported July 8, 2026), about five months before Musk's end-of-2026 target.",
+   "url": "https://twoweeks.lol/predictions/model-y-variant-us-production-2026/"
+  },
+  {
+   "date": "2026-07-14",
+   "kind": "prediction",
+   "slug": "working-optional-in-20-years",
+   "claim_id": "c231",
+   "change": "New prediction added from Musk's Nov 30, 2025 'People by WTF' interview: work becomes optional, 'like a hobby,' in under 20 years.",
+   "url": "https://twoweeks.lol/predictions/working-optional-in-20-years/"
+  },
+  {
+   "date": "2026-07-14",
+   "kind": "prediction",
+   "slug": "us-deflation-in-three-years",
+   "claim_id": "c232",
+   "change": "New prediction added from Musk's Nov 30, 2025 'People by WTF' interview: goods-and-services growth overtakes money-supply growth in about 3 years, followed by deflation and zero interest rates.",
+   "url": "https://twoweeks.lol/predictions/us-deflation-in-three-years/"
+  },
+  {
+   "date": "2026-07-09",
+   "kind": "prediction",
+   "slug": "grok-4-5-public-release",
+   "claim_id": "c229",
+   "change": "Delivered on schedule — Grok 4.5 went public July 9 across the xAI API, Grok Build and all Cursor tiers; graded delivered.",
+   "url": "https://twoweeks.lol/predictions/grok-4-5-public-release/"
+  },
+  {
+   "date": "2026-07-09",
+   "kind": "prediction",
+   "slug": "first-people-moon-five-years",
+   "claim_id": "c182",
+   "change": "New prediction: on the Sean Hannity Show (Jul 8 2026) Musk said SpaceX will land its first people on the Moon in under 5 years and grow a city of thousands within a decade.",
+   "url": "https://twoweeks.lol/predictions/first-people-moon-five-years/"
+  },
+  {
+   "date": "2026-07-08",
+   "kind": "prediction",
+   "slug": "grok-4-5-public-release",
+   "claim_id": "c229",
+   "change": "Added: on July 8 2026 Musk said xAI would make Grok 4.5 — an 'Opus-class' model, faster and lower cost — available to the public the next day, July 9.",
+   "url": "https://twoweeks.lol/predictions/grok-4-5-public-release/"
+  },
+  {
+   "date": "2026-07-07",
+   "kind": "prediction",
+   "slug": "gigawatt-space-ai-compute-2027",
+   "claim_id": "c228",
+   "change": "Added (long-form backfill): in SpaceX's June 8, 2026 technical talk on manufacturing/launching AI satellites at scale, Musk said SpaceX aims to reach an annualized rate of ~1 GW/year of space-based AI compute by the end of 2027.",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/"
+  },
+  {
+   "date": "2026-07-03",
+   "kind": "prediction",
+   "slug": "starship-v3-built-tested-2025",
+   "claim_id": "c219",
+   "change": "Verdict: Missed → Delivered-late. V3 missed the end-2025 target but was built, tested and flown on Flight 12 (May 22, 2026) — reached space, deployed 22 Starlink simulators and splashed down as planned, ~5 months late.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-v3-built-tested-2025"
+  },
+  {
+   "date": "2026-07-03",
+   "kind": "prediction",
+   "slug": "optimus-sold-to-public-2027",
+   "claim_id": "c227",
+   "change": "Added (long-form backfill): at Davos on Jan 22, 2026, in conversation with Larry Fink, Musk said Tesla expects to begin selling Optimus humanoid robots to the public by the end of 2027.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-sold-to-public-2027"
+  },
+  {
+   "date": "2026-07-02",
+   "kind": "prediction",
+   "slug": "grok-cpp-stack-massive-gains",
+   "claim_id": "c226",
+   "change": "Added: on June 29 2026 Musk predicted 'truly massive gains' in ~3 months once xAI rewrites its entire training/inference stack in C/C++ and exact-maps Grok to Nvidia GB300 hardware (deadline ~end Sept 2026).",
+   "url": "https://twoweeks.lol/predictions/grok-cpp-stack-massive-gains/"
+  },
+  {
+   "date": "2026-06-29",
+   "kind": "prediction",
+   "slug": "new-from-scratch-model-every-month-2026",
+   "claim_id": "c199",
+   "change": "New prediction: on June 28 2026, announcing Grok 4.5's private beta, Musk said completely-from-scratch new models would be released every month for the rest of the year.",
+   "url": "https://twoweeks.lol/predictions/new-from-scratch-model-every-month-2026/"
+  },
+  {
+   "date": "2026-06-27",
+   "kind": "prediction",
+   "slug": "x-money-launch",
+   "claim_id": "c110",
+   "change": "Verdict: Partial → Delivered Late. X Money launched publicly on June 25, 2026 to select U.S. Premium+ subscribers (first broad consumer launch — live P2P payments, Visa card, $10M FDIC) — ~7 months after the Nov 2025 'soon' promise. The earlier 'partial' waited for full general availability; a real tiered public launch satisfies 'X Money comes out'.",
+   "url": "https://twoweeks.lol/predictions/x-money-launch/"
+  },
+  {
+   "date": "2026-06-27",
+   "kind": "prediction",
+   "slug": "robotaxi-launch-austin",
+   "claim_id": "c6",
+   "change": "Verdict: Partial → Delivered Late. The Austin robotaxi launched on the predicted date (Jun 22 2025) but supervised; it went genuinely driverless (no in-car monitor) on Jan 22 2026 and metro-wide Jun 3 2026 — a real driverless service, just ~7 months late. The driverless milestone was confirmed by Tesla's AI lead + Musk; the old 'partial' had waited on the supervised-launch caveat.",
+   "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#robotaxi-launch-austin"
+  },
+  {
+   "date": "2026-06-27",
+   "kind": "prediction",
+   "slug": null,
+   "claim_id": null,
+   "change": "Audited every multi-deadline prediction's goalpost trail against Musk's own words (3 independent passes). Corrected: Roadster (dropped an interpolated 2021, added his 2028); Neuralink (2021->2022); Starship orbit (dropped unverified 2021); Starship reusability (added 2023); Semi volume (kept only his named volume years 2024/2026); FSD 'feature complete' (one-shot 2019, not 2020); X 'everything app' (cleared 2023-25 — those were exec/press, not Musk); Mars statements split accurately across the two cards.",
+   "url": null
+  },
+  {
+   "date": "2026-06-26",
+   "kind": "prediction",
+   "slug": "starlink-spectrum-phones-2-years",
+   "claim_id": "c198",
+   "change": "New prediction added. At the All-In Summit (Sep 2025), Musk said phones able to use the 2 GHz spectrum SpaceX is buying from EchoStar would 'probably start shipping in around 2 years' — direct-to-cell, with matching satellites built in parallel. Deadline ~Sep 2027.",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/"
+  },
+  {
+   "date": "2026-06-24",
+   "kind": "prediction",
+   "slug": "spacex-1-trillion-revenue-2030",
+   "claim_id": "c197",
+   "change": "New prediction: two days after SpaceX's June 12 IPO, Musk forecast on X that SpaceX 'might be able to reach approximately $1T revenue in 2030' (~53x its ~$18.7B in 2025), adding he'd be surprised if it weren't above $1T in 2031.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-1-trillion-revenue-2030"
+  },
+  {
+   "date": "2026-06-21",
+   "kind": "prediction",
+   "slug": "economy-10x-bigger-in-10-years",
+   "claim_id": "c196",
+   "change": "New prediction: at the March 2026 Abundance Summit Musk forecast the global economy growing ~10x in 10 years ('a fairly comfortable prediction' barring WW3); he re-shared the clip June 21.",
+   "url": "https://twoweeks.lol/predictions/economy-10x-bigger-in-10-years/"
+  },
+  {
+   "date": "2026-06-18",
+   "kind": "prediction",
+   "slug": "starship-fully-reusable",
+   "claim_id": "c85",
+   "change": "Goalpost moved to 2027: on the June 16 Joe Rogan interview Musk said rapid reusability of the whole Starship stack would come 'next year,' slipping from the end-2026 target.",
+   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-fully-reusable"
+  },
+  {
+   "date": "2026-06-18",
+   "kind": "prediction",
+   "slug": "recover-starship-ship-intact-2026",
+   "claim_id": null,
+   "change": "New prediction: Musk told Joe Rogan SpaceX will 'probably recover the ship sometime this year,' a 2026 milestone toward reusability.",
+   "url": null
+  },
+  {
+   "date": "2026-06-18",
+   "kind": "prediction",
+   "slug": "several-starships-to-mars-end-2027",
+   "claim_id": null,
+   "change": "New prediction: Musk told Joe Rogan the 'default plan' is to launch several uncrewed Starships to Mars in the late-2027 window.",
+   "url": null
+  },
+  {
+   "date": "2026-06-18",
+   "kind": "prediction",
+   "slug": "conversational-grok-in-fsd",
+   "claim_id": "c195",
+   "change": "New prediction: Musk said conversational Grok in Tesla FSD (natural-language driving commands) will arrive 'in about 3 months or so' (~Sept 2026).",
+   "url": "https://twoweeks.lol/predictions/conversational-grok-in-fsd/"
+  },
+  {
+   "date": "2026-06-18",
+   "kind": "prediction",
+   "slug": "recover-starship-ship-intact-2025",
+   "claim_id": "c193",
+   "change": "Corrected: stated on JRE #2281 (Feb 28 2025), not 2026. 'This year' meant 2025 — no ship was recovered intact in 2025, so this is now resolved MISSED.",
+   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#recover-starship-ship-intact-2025"
+  },
+  {
+   "date": "2026-06-17",
+   "kind": "prediction",
+   "slug": "grok-full-movies-end-2026",
+   "claim_id": "c108",
+   "change": "NEW — Musk (June 17) escalated his AI-movie claim to 'full movies by the end of this year,' replying to xAI's Grok Imagine Video 1.5.",
+   "url": "https://twoweeks.lol/predictions/grok-watchable-movie/#grok-full-movies-end-2026"
+  },
+  {
+   "date": "2026-06-17",
+   "kind": "prediction",
+   "slug": "optimus-von-neumann-probe",
+   "claim_id": "c191",
+   "change": "NEW — Musk (June 17) said a legion of Optimus robots plus solar panels would be the first Von Neumann probe (self-replicating spacecraft); no timeline.",
+   "url": "https://twoweeks.lol/predictions/optimus-von-neumann-probe/"
+  },
+  {
+   "date": "2026-06-16",
+   "kind": "prediction",
+   "slug": "ai-stockfish-level-coding",
+   "claim_id": "c192",
+   "change": "NEW — Musk (June 16) predicted AI will achieve 'Stockfish-level coding and generalized computer use,' after SpaceX's acquisition of Cursor.",
+   "url": "https://twoweeks.lol/predictions/ai-stockfish-level-coding/"
+  },
+  {
+   "date": "2026-06-15",
+   "kind": "prediction",
+   "slug": "5x-more-satellites-than-world-2031",
+   "claim_id": "c188",
+   "change": "NEW prediction tracked — Musk (June 13) predicted Starlink would have ~5× the satellites of the rest of the world within ~5 years.",
+   "url": "https://twoweeks.lol/predictions/5x-more-satellites-than-world-2031/"
+  },
+  {
+   "date": "2026-06-15",
+   "kind": "prediction",
+   "slug": "1-million-tons-to-orbit-2031",
+   "claim_id": "c189",
+   "change": "NEW prediction tracked — Musk (June 10) said 1M tons to orbit should be possible in roughly 5 years (~2031).",
+   "url": "https://twoweeks.lol/predictions/1-million-tons-to-orbit-2031/"
+  },
+  {
+   "date": "2026-06-12",
+   "kind": "prediction",
+   "slug": "cross-country-autonomous-drive",
+   "claim_id": "c3",
+   "change": "Two entries for the same Oct 2016 coast-to-coast autonomous-drive promise were merged into one.",
+   "url": "https://twoweeks.lol/predictions/cross-country-autonomous-drive/"
+  },
+  {
+   "date": "2026-06-12",
+   "kind": "prediction",
+   "slug": null,
+   "claim_id": null,
+   "change": "Titles clarified, verbatim quotes restored from primary sources, paraphrases now labeled, and several resolution dates made precise.",
+   "url": null
+  },
+  {
+   "date": "2026-06-12",
+   "kind": "prediction",
+   "slug": "fsd-10x-better-with-new-model",
+   "claim_id": "c90",
+   "change": "DELIVERED-LATE — FSD v14.1 with the promised ~10x parameter count began rolling out October 7, 2025, about a week past the 'end of next month' (Sept 30, 2025) target from Musk's Aug 6 tweet.",
+   "url": "https://twoweeks.lol/predictions/fsd-10x-better-with-new-model/"
+  },
+  {
+   "date": "2026-06-12",
+   "kind": "prediction",
+   "slug": null,
+   "claim_id": null,
+   "change": "Historical build-out (2008–2024 sweeps): Solar a plurality of US power within 20 years (2013); Drive LA to New York on Superchargers by end of 2013; Supercharging free for Model S buyers, forever (2013); Humans on Mars: best case 10 years, worst case 15-20 (2011); SpaceX puts first astronauts in space within ~3 years (2011); Model X production end of 2013, bulk production in 2014…",
+   "url": null
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": null,
+   "claim_id": null,
+   "change": "twoweeks.lol rebuilt: 117 predictions, per-prediction pages, primary sources, daily robot updates.",
+   "url": null
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "robotaxis-metro-areas",
+   "claim_id": "c13",
+   "change": "Verdict: Pending → Missed. Austin ended 2025 with roughly 60-72 robotaxis, nowhere near the 500+ Musk predicted on the Oct 2025 earnings call.",
+   "url": "https://twoweeks.lol/predictions/robotaxi-fleet-double-dec-2025/#robotaxis-metro-areas"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "robotaxis-in-half-of-us-population",
+   "claim_id": "c14",
+   "change": "Verdict: Pending → Missed. At the end of 2025, Tesla's only robotaxi deployment was Austin (Bay Area rides used human safety drivers), and even Austin rides still had in-car safety monitors until January 22, 2026.",
+   "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/#robotaxis-in-half-of-us-population"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "cybertruck-250-000-units-year-by",
+   "claim_id": "c20",
+   "change": "Verdict: Pending → Missed. Tesla sold only 20,237 Cybertrucks in all of 2025 — down 48% from 38,965 in 2024 — versus the predicted 250,000/year run rate.",
+   "url": "https://twoweeks.lol/predictions/cybertruck-250-000-units-year-by/"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "humans-on-mars",
+   "claim_id": "c35",
+   "change": "Verdict: Pending → Cancelled. Humans on Mars by 2026 is now impossible: on February 8, 2026, Musk announced SpaceX has shifted focus to building a city on the Moon, with Mars development pushed back about five to seven years.",
+   "url": "https://twoweeks.lol/predictions/humans-on-mars/"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "quadriplegics-control-computers-faster-than-people",
+   "claim_id": "c46",
+   "change": "Verdict: Pending → Missed. Not achieved by the 2025 deadline.",
+   "url": "https://twoweeks.lol/predictions/quadriplegics-control-computers-faster-than-people/"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "thousand-optimus-factories",
+   "claim_id": "c48",
+   "change": "Verdict: Pending → Missed. Tesla did not have 1,000+ Optimus robots working in its factories by end of 2025.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#thousand-optimus-factories"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "5-000-optimus-robots-in-2025",
+   "claim_id": "c48",
+   "change": "Verdict: Pending → Missed. Tesla promised 'several thousand' Optimus robots in 2025 (internal plan ~10,000) but reportedly completed only a few hundred, and Musk admitted in January 2026 that none were doing useful factory work in a material way.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#5-000-optimus-robots-in-2025"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "hw3-sufficient-for-fsd",
+   "claim_id": "c62",
+   "change": "Verdict: Disputed → Missed. No longer merely disputed — definitively false.",
+   "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "5-uncrewed-starships-to-mars-2026",
+   "claim_id": null,
+   "change": "Verdict: Pending → Cancelled. The five-ship uncrewed Mars campaign for the Nov-Dec 2026 transfer window was shelved.",
+   "url": null
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "banish-feature-auto-parking-after-dropoff",
+   "claim_id": "c91",
+   "change": "Verdict: Pending → Partial. Partially delivered.",
+   "url": "https://twoweeks.lol/predictions/banish-feature-auto-parking-after-dropoff/"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "driverless-robotaxis-austin",
+   "claim_id": "c6",
+   "change": "Verdict: Delivered → Delivered Late. The current 'delivered 2025-12-14' marking is too generous: at end of 2025 only a handful of empty test vehicles were running (testing confirmed ~Dec 13-15), while the rider-facing fleet still carried safety monitors.",
+   "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "cybercab-mass-production",
+   "claim_id": "c103",
+   "change": "Verdict: Pending → Partial. Cybercab production began at Giga Texas — first unit reportedly rolled off the line February 17, 2026, and Musk confirmed the start on the Q1 2026 earnings call (April 23) — but it is a slow pilot ramp, not mass production.",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#cybercab-mass-production"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": "x-money-launch",
+   "claim_id": "c110",
+   "change": "Verdict: Pending → Partial. 'Soon' (Nov 2025) did not mean 2025.",
+   "url": "https://twoweeks.lol/predictions/x-money-launch/"
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": null,
+   "claim_id": null,
+   "change": "New entries from the 2026 sweep: Neuralink high-volume production and automated surgery in 2026; AGI will be achieved in 2026; Grok 5 ships in Q1 2026; AI exceeds intelligence of all humans combined by 2030; Optimus a better surgeon than the best humans in 3 years (by 2029); Starship orbital refueling demo by end of 2026; FSD approval in Europe (and maybe China) by February 2026; Model S and X production ends next quarter (Q2 2026)…",
+   "url": null
+  },
+  {
+   "date": "2026-06-11",
+   "kind": "prediction",
+   "slug": null,
+   "claim_id": null,
+   "change": "Every live prediction now cites Elon Musk directly (tweet, video, his own writing, or earnings transcript). 5 entries without a verifiable primary source were unpublished pending better sourcing.",
+   "url": null
+  }
+ ]
+}

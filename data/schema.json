@@ -1,0 +1,208 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "twoweeks.lol Elon Musk prediction dataset",
+ "version": "2.0",
+ "description": "A claim is one promise (e.g. 'first Neuralink human implant'). A statement is one time Elon Musk said it, in his own words, with a deadline. Restating a claim with a later date is a goalpost move. Verdicts: pending, delivered, delivered-late, partial, missed, cancelled, disputed.",
+ "files": {
+  "/data/claims.json": "One row per claim, with its timeline of statements. Use this for scorecards.",
+  "/data/predictions.json": "One row per statement. claim_id groups statements into claims.",
+  "/data/changelog.json": "Every change on the board, newest first (also /feed.xml).",
+  "/data/claims.csv": "Flat claims table.",
+  "/data/predictions.csv": "Flat statements table."
+ },
+ "$defs": {
+  "status": {
+   "enum": [
+    "pending",
+    "delivered",
+    "delivered-late",
+    "partial",
+    "missed",
+    "cancelled",
+    "disputed"
+   ]
+  },
+  "claim": {
+   "type": "object",
+   "required": [
+    "claim_id",
+    "url",
+    "status",
+    "timeline"
+   ],
+   "properties": {
+    "claim_id": {
+     "type": "string",
+     "description": "Stable: 'c' + smallest statement id in the claim."
+    },
+    "url": {
+     "type": "string"
+    },
+    "title": {
+     "type": "string"
+    },
+    "company": {
+     "type": "string"
+    },
+    "topic": {
+     "type": "string"
+    },
+    "status": {
+     "$ref": "#/$defs/status",
+     "description": "Verdict on the claim: the latest statement's status; delivered-late when it landed after the first deadline."
+    },
+    "first_said": {
+     "type": "string",
+     "format": "date"
+    },
+    "first_deadline": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "current_deadline": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "resolved_date": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "times_moved": {
+     "type": "integer"
+    },
+    "goalpost_history": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "statements": {
+     "type": "integer"
+    },
+    "timeline": {
+     "type": "array",
+     "items": {
+      "type": "object",
+      "properties": {
+       "statement_id": {
+        "type": "integer"
+       },
+       "date_made": {
+        "type": "string"
+       },
+       "deadline": {
+        "type": [
+         "string",
+         "null"
+        ]
+       },
+       "change": {
+        "enum": [
+         "first",
+         "restated",
+         "goalpost_moved"
+        ]
+       },
+       "status": {
+        "$ref": "#/$defs/status"
+       },
+       "quote": {
+        "type": "string"
+       },
+       "source": {
+        "type": [
+         "string",
+         "null"
+        ]
+       },
+       "url": {
+        "type": "string"
+       }
+      }
+     }
+    },
+    "resolution": {
+     "type": [
+      "object",
+      "null"
+     ]
+    }
+   }
+  },
+  "statement": {
+   "type": "object",
+   "required": [
+    "id",
+    "claim_id",
+    "quote",
+    "date_made",
+    "status"
+   ],
+   "properties": {
+    "id": {
+     "type": "integer",
+     "description": "Stable forever."
+    },
+    "slug": {
+     "type": "string"
+    },
+    "claim_id": {
+     "type": "string"
+    },
+    "url": {
+     "type": "string"
+    },
+    "quote": {
+     "type": "string"
+    },
+    "quote_is_paraphrase": {
+     "type": "boolean"
+    },
+    "date_made": {
+     "type": "string"
+    },
+    "deadline": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "resolved_date": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "status": {
+     "$ref": "#/$defs/status",
+     "description": "This statement's own grade against its own deadline."
+    },
+    "primary_source": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "His own post, video or transcript."
+    },
+    "source_type": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "last_checked": {
+     "type": [
+      "string",
+      "null"
+     ]
+    }
+   }
+  }
+ }
+}
