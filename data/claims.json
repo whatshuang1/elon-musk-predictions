@@ -1,13 +1,13 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-26",
+ "retrieved": "2026-10-27",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
   {
    "claim_id": "c2",
-   "url": "https://twoweeks.lol/predictions/90-autopilot-capable-by-2015/",
-   "title": "90% autopilot capable by 2015",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#highway-on-ramp-to-exit-without-touching-controls-2015",
+   "title": "Highway on-ramp to exit without touching any controls within a year (2014)",
    "company": "Tesla",
    "topic": "Self-Driving",
    "status": "delivered-late",
@@ -30,7 +30,7 @@
      "status": "delivered-late",
      "quote": "I am confident that in less than a year you will be able to go from highway on ramp to highway exists without touching any controls.",
      "source": "https://electrek.co/2014/06/04/teslas-2014-shareholder-meeting-video/",
-     "url": "https://twoweeks.lol/predictions/90-autopilot-capable-by-2015/#highway-on-ramp-to-exit-without-touching-controls-2015"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#highway-on-ramp-to-exit-without-touching-controls-2015"
     },
     {
      "statement_id": 2,
@@ -40,7 +40,7 @@
      "status": "partial",
      "quote": "A Tesla car next year will probably be 90-percent capable of autopilot. Like, so 90 percent of your miles can be on auto.",
      "source": "https://www.youtube.com/watch?v=EJmhpgW0Dmc",
-     "url": "https://twoweeks.lol/predictions/90-autopilot-capable-by-2015/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#90-autopilot-capable-by-2015"
     }
    ],
    "resolution": {
@@ -50,7 +50,7 @@
   },
   {
    "claim_id": "c3",
-   "url": "https://twoweeks.lol/predictions/cross-country-autonomous-drive/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#cross-country-autonomous-drive",
    "title": "LA to NYC autonomous drive by end of 2017",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -71,7 +71,7 @@
      "status": "partial",
      "quote": "Our goal is, and I feel pretty good about this goal, that we'll be able to do a demonstration drive of full autonomy all the way from LA to New York, from home in LA to let's say dropping you off in Times Square in New York, and then having the car go park itself, by the end of next year.",
      "source": "https://www.youtube.com/watch?v=-vjGEEF_p5E",
-     "url": "https://twoweeks.lol/predictions/cross-country-autonomous-drive/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#cross-country-autonomous-drive"
     }
    ],
    "resolution": {
@@ -81,7 +81,7 @@
   },
   {
    "claim_id": "c4",
-   "url": "https://twoweeks.lol/predictions/v9-full-self-driving-features-august-2018/#fsd-feature-complete",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-feature-complete",
    "title": "FSD ‘feature complete’",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -104,7 +104,7 @@
      "status": "partial",
      "quote": "While it's going to be tight, it still does appear that we will be at least in limited -- in early access release of a feature-complete Full Self-Driving feature this year.",
      "source": "https://www.fool.com/earnings/call-transcripts/2019/10/24/tesla-inc-tsla-q3-2019-earnings-call-transcript.aspx",
-     "url": "https://twoweeks.lol/predictions/v9-full-self-driving-features-august-2018/#fsd-feature-complete"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-feature-complete"
     }
    ],
    "resolution": {
@@ -114,7 +114,7 @@
   },
   {
    "claim_id": "c5",
-   "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#million-robotaxis",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#million-robotaxis",
    "title": "1 million robotaxis on roads by 2020",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -135,7 +135,7 @@
      "status": "missed",
      "quote": "From our standpoint, if you fast forward a year, maybe a year and three months, but next year for sure, we'll have over a million robotaxis on the road. The fleet wakes up with an over the air update; that's all it takes.",
      "source": "https://www.youtube.com/watch?v=Ucp0TTmvqOE",
-     "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#million-robotaxis"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#million-robotaxis"
     }
    ],
    "resolution": {
@@ -145,8 +145,8 @@
   },
   {
    "claim_id": "c6",
-   "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/",
-   "title": "Driverless robotaxis in Austin by end of 2025",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#autonomous-robotaxis",
+   "title": "Autonomous robotaxis in 2020",
    "company": "Tesla",
    "topic": "Self-Driving",
    "status": "delivered-late",
@@ -170,7 +170,7 @@
      "status": "delivered-late",
      "quote": "I feel very confident predicting that there will be autonomous robotaxis from Tesla next year — not in all jurisdictions because we won't have regulatory approval everywhere.",
      "source": "https://www.youtube.com/watch?v=Ucp0TTmvqOE",
-     "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#autonomous-robotaxis"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#autonomous-robotaxis"
     },
     {
      "statement_id": 9,
@@ -180,7 +180,7 @@
      "status": "delivered-late",
      "quote": "[Robotaxi] functionality still looking good for this year. Regulatory approval is the big unknown.",
      "source": "https://twitter.com/elonmusk/status/1249210220200550405",
-     "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#robotaxi-functionality-in-2020"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-functionality-in-2020"
     },
     {
      "statement_id": 12,
@@ -190,7 +190,7 @@
      "status": "delivered-late",
      "quote": "Tentatively, June 22.",
      "source": "https://x.com/elonmusk/status/1932591896939147494",
-     "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/#robotaxi-launch-austin"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-launch-austin"
     },
     {
      "statement_id": 97,
@@ -200,7 +200,7 @@
      "status": "delivered-late",
      "quote": "We are expecting to have no safety drivers in at least large parts of Austin by the end of this year.",
      "source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
-     "url": "https://twoweeks.lol/predictions/driverless-robotaxis-austin/"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#driverless-robotaxis-austin"
     }
    ],
    "resolution": {
@@ -210,7 +210,7 @@
   },
   {
    "claim_id": "c7",
-   "url": "https://twoweeks.lol/predictions/no-steering-wheel-cars/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#no-steering-wheel-cars",
    "title": "Cars with no steering wheel/pedals in 2 years (2021)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -231,7 +231,7 @@
      "status": "delivered-late",
      "quote": "Probably 2 years from now, we'll make a car that has no steering wheels or pedals.",
      "source": "https://www.youtube.com/watch?v=Ucp0TTmvqOE",
-     "url": "https://twoweeks.lol/predictions/no-steering-wheel-cars/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#no-steering-wheel-cars"
     }
    ],
    "resolution": {
@@ -446,7 +446,7 @@
   },
   {
    "claim_id": "c11",
-   "url": "https://twoweeks.lol/predictions/fsd-price-increase/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-price-increase",
    "title": "FSD price will keep increasing",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -467,7 +467,7 @@
      "status": "missed",
      "quote": "The FSD price will continue to rise as the software gets closer to full self-driving capability with regulatory approval. At that point, the value of FSD is probably somewhere in excess of $100,000.",
      "source": "https://twitter.com/elonmusk/status/1262530589506273280",
-     "url": "https://twoweeks.lol/predictions/fsd-price-increase/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-price-increase"
     }
    ],
    "resolution": {
@@ -477,10 +477,10 @@
   },
   {
    "claim_id": "c13",
-   "url": "https://twoweeks.lol/predictions/robotaxi-fleet-double-dec-2025/",
-   "title": "Austin robotaxi fleet roughly doubles",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#tesla-1000-robotaxis-austin-within-few-months",
+   "title": "Around 1,000 Tesla robotaxis in Austin within a few months of launch",
    "company": "Tesla",
-   "topic": "Self-Driving",
+   "topic": "Cars & Energy",
    "status": "missed",
    "first_said": "2025-05-20",
    "first_deadline": "2025-09-30",
@@ -501,7 +501,7 @@
      "status": "missed",
      "quote": "it would probably be at a thousand within a few months",
      "source": "https://www.youtube.com/watch?v=vizKY0kj01U&t=64s",
-     "url": "https://twoweeks.lol/predictions/robotaxi-fleet-double-dec-2025/#tesla-1000-robotaxis-austin-within-few-months"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#tesla-1000-robotaxis-austin-within-few-months"
     },
     {
      "statement_id": 13,
@@ -511,7 +511,7 @@
      "status": "missed",
      "quote": "Probably we'll have a thousand cars or more in the Bay Area by the end of this year, probably 500 or more in the greater Austin area.",
      "source": "https://www.youtube.com/watch?v=j6_VfR-CyuM",
-     "url": "https://twoweeks.lol/predictions/robotaxi-fleet-double-dec-2025/#robotaxis-metro-areas"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxis-metro-areas"
     },
     {
      "statement_id": 217,
@@ -521,7 +521,7 @@
      "status": "missed",
      "quote": "The Tesla Robotaxi fleet in Austin should roughly double next month",
      "source": "https://x.com/elonmusk/status/1993538258253607260",
-     "url": "https://twoweeks.lol/predictions/robotaxi-fleet-double-dec-2025/"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-fleet-double-dec-2025"
     }
    ],
    "resolution": {
@@ -531,8 +531,8 @@
   },
   {
    "claim_id": "c14",
-   "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/",
-   "title": "Robotaxis covering a quarter to half of the US by end of 2026",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxis-in-half-of-us-population",
+   "title": "Robotaxis in half of US population by end of 2025",
    "company": "Tesla",
    "topic": "Self-Driving",
    "status": "pending",
@@ -555,7 +555,7 @@
      "status": "missed",
      "quote": "I think we'll probably have autonomous ride hailing in probably half the population of the U.S. by the end of the year.",
      "source": "https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/",
-     "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/#robotaxis-in-half-of-us-population"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxis-in-half-of-us-population"
     },
     {
      "statement_id": 129,
@@ -565,7 +565,7 @@
      "status": "pending",
      "quote": "We expect to have fully autonomous vehicles in probably somewhere between a quarter and half of the United States by the end of the year, pending regulatory approval.",
      "source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
-     "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-quarter-to-half-us-2026"
     }
    ],
    "resolution": {
@@ -575,8 +575,8 @@
   },
   {
    "claim_id": "c16",
-   "url": "https://twoweeks.lol/predictions/owner-cars-added-to-robotaxi-network/",
-   "title": "Owner cars added to robotaxi network next year (2026)",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#master-plan-deux-shared-fleet",
+   "title": "Add your Tesla to a shared fleet with one tap (2016)",
    "company": "Tesla",
    "topic": "Self-Driving",
    "status": "pending",
@@ -600,7 +600,7 @@
      "status": "missed",
      "quote": "You will also be able to add your car to the Tesla shared fleet just by tapping a button on the Tesla phone app and have it generate income for you while you're at work or on vacation, significantly offsetting and at times potentially exceeding the monthly loan or lease cost.",
      "source": "https://www.tesla.com/blog/master-plan-part-deux",
-     "url": "https://twoweeks.lol/predictions/owner-cars-added-to-robotaxi-network/#master-plan-deux-shared-fleet"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#master-plan-deux-shared-fleet"
     },
     {
      "statement_id": 77,
@@ -610,7 +610,7 @@
      "status": "missed",
      "quote": "Probably will make sense to enable car sharing in advance of the robotaxi fleet, because the car sharing can be done before Full Self-Driving is approved by regulators.",
      "source": "https://www.fool.com/earnings/call-transcripts/2020/01/30/tesla-inc-tsla-q4-2019-earnings-call-transcript.aspx",
-     "url": "https://twoweeks.lol/predictions/owner-cars-added-to-robotaxi-network/#tesla-network-sharing"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#tesla-network-sharing"
     },
     {
      "statement_id": 16,
@@ -620,7 +620,7 @@
      "status": "pending",
      "quote": "I'd say confidently next year. I'm not sure when next year, but confidently next year, people would be able to add or subtract their car to the Tesla fleet.",
      "source": "https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/",
-     "url": "https://twoweeks.lol/predictions/owner-cars-added-to-robotaxi-network/"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#owner-cars-added-to-robotaxi-network"
     }
    ],
    "resolution": {
@@ -630,7 +630,7 @@
   },
   {
    "claim_id": "c18",
-   "url": "https://twoweeks.lol/predictions/cybertruck-starting-at-39-900/",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-starting-at-39-900",
    "title": "Cybertruck starting at $39,900",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -651,7 +651,7 @@
      "status": "cancelled",
      "quote": "Starting price of $39,900.",
      "source": "https://www.youtube.com/watch?v=464puoD09dM",
-     "url": "https://twoweeks.lol/predictions/cybertruck-starting-at-39-900/"
+     "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-starting-at-39-900"
     }
    ],
    "resolution": {
@@ -718,7 +718,7 @@
   },
   {
    "claim_id": "c20",
-   "url": "https://twoweeks.lol/predictions/cybertruck-250-000-units-year-by/",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-250-000-units-year-by",
    "title": "Cybertruck 250,000 units/year by 2025",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -739,7 +739,7 @@
      "status": "missed",
      "quote": "I think we'll end up with roughly 0.25 million Cybertrucks a year, but we're not -- I don't think we're going to reach that output rate next year. I think we'll probably reach it sometime in 2025.",
      "source": "https://www.fool.com/earnings/call-transcripts/2023/10/18/tesla-tsla-q3-2023-earnings-call-transcript/",
-     "url": "https://twoweeks.lol/predictions/cybertruck-250-000-units-year-by/"
+     "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-250-000-units-year-by"
     }
    ],
    "resolution": {
@@ -962,8 +962,8 @@
   },
   {
    "claim_id": "c34",
-   "url": "https://twoweeks.lol/predictions/uncrewed-starships-to-mars-2026/",
-   "title": "Uncrewed Starships to Mars (2026 window)",
+   "url": "https://twoweeks.lol/predictions/humans-on-mars/#uncrewed-mars-mission",
+   "title": "Uncrewed Mars landing 2018",
    "company": "SpaceX",
    "topic": "Space",
    "status": "cancelled",
@@ -988,7 +988,7 @@
      "status": "cancelled",
      "quote": "Planning to send Dragon to Mars as soon as 2018. Red Dragons will inform overall Mars architecture, details to come",
      "source": "https://x.com/elonmusk/status/725364699303301120",
-     "url": "https://twoweeks.lol/predictions/uncrewed-starships-to-mars-2026/#uncrewed-mars-mission"
+     "url": "https://twoweeks.lol/predictions/humans-on-mars/#uncrewed-mars-mission"
     },
     {
      "statement_id": 164,
@@ -998,7 +998,7 @@
      "status": "missed",
      "quote": "That's not a typo — although it is aspirational... I feel fairly confident that we can complete the ship and be ready for a launch in about five years. Five years seems like a long time to me... That's our goal: to try to make the 2022 Mars rendezvous.",
      "source": "https://www.youtube.com/watch?v=tdUX3ypDVwI",
-     "url": "https://twoweeks.lol/predictions/uncrewed-starships-to-mars-2026/#bfr-cargo-ships-to-mars-2022"
+     "url": "https://twoweeks.lol/predictions/humans-on-mars/#bfr-cargo-ships-to-mars-2022"
     },
     {
      "statement_id": 88,
@@ -1008,7 +1008,7 @@
      "status": "cancelled",
      "quote": "SpaceX plans to launch about five uncrewed Starships to Mars in two years. If those all land safely, then crewed missions are possible in four years.",
      "source": "https://x.com/elonmusk/status/1837908705683059166",
-     "url": "https://twoweeks.lol/predictions/uncrewed-starships-to-mars-2026/"
+     "url": "https://twoweeks.lol/predictions/humans-on-mars/#uncrewed-starships-to-mars-2026"
     }
    ],
    "resolution": {
@@ -1099,7 +1099,7 @@
   },
   {
    "claim_id": "c40",
-   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-reaches-orbit",
    "title": "Starship reaches orbit",
    "company": "SpaceX",
    "topic": "Space",
@@ -1125,7 +1125,7 @@
      "status": "delivered-late",
      "quote": "This is going to sound totally nuts, but I think we want to try to reach orbit in less than six months.",
      "source": "https://www.youtube.com/watch?v=sOpMrVnjYeY",
-     "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-reaches-orbit"
     },
     {
      "statement_id": 392,
@@ -1135,7 +1135,7 @@
      "status": "missed",
      "quote": "We're expecting our license approval from the FAA around the end of this year and then so that probably means a launch attempt in January or perhaps February.",
      "source": "https://www.youtube.com/watch?v=vLC5W53Fsyg&t=2383s",
-     "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-orbital-attempt-jan-feb-2022"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-orbital-attempt-jan-feb-2022"
     },
     {
      "statement_id": 459,
@@ -1145,7 +1145,7 @@
      "status": "missed",
      "quote": "I would be surprised if we exit this year without getting to orbit",
      "source": "https://www.youtube.com/watch?v=q-WQoC2Pl9U&t=1911s",
-     "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-reaches-orbit-in-2023"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-reaches-orbit-in-2023"
     }
    ],
    "resolution": {
@@ -1155,8 +1155,8 @@
   },
   {
    "claim_id": "c42",
-   "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/",
-   "title": "First Neuralink human implant later in 2023",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-human-trials",
+   "title": "First human Neuralink implant",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
    "status": "delivered-late",
@@ -1185,7 +1185,7 @@
      "status": "delivered-late",
      "quote": "We hope to have this aspirationally in a human patient before the end of next year.",
      "source": "https://www.youtube.com/watch?v=lA77zsJ31nA",
-     "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#neuralink-human-trials"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-human-trials"
     },
     {
      "statement_id": 428,
@@ -1195,7 +1195,7 @@
      "status": "missed",
      "quote": "I think we may be able to implant a neuralink in less than a year in a person",
      "source": "https://www.youtube.com/watch?v=RcYjXbSJBN8&t=950s",
-     "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#neuralink-in-a-person-within-a-year-2020"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-in-a-person-within-a-year-2020"
     },
     {
      "statement_id": 456,
@@ -1205,7 +1205,7 @@
      "status": "missed",
      "quote": "we're hoping to do our first neuralink into a human next year",
      "source": "https://www.youtube.com/watch?v=jvGnw1sHh9M&t=4661s",
-     "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#first-neuralink-human-in-2022"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#first-neuralink-human-in-2022"
     },
     {
      "statement_id": 438,
@@ -1215,7 +1215,7 @@
      "status": "missed",
      "quote": "we think probably in about six months we should be able to have a first neural link in a human",
      "source": "https://www.youtube.com/watch?v=YreDYmXTYi4&t=1456s",
-     "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#first-neuralink-human-in-six-months-2022"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#first-neuralink-human-in-six-months-2022"
     },
     {
      "statement_id": 398,
@@ -1225,7 +1225,7 @@
      "status": "missed",
      "quote": "Hopefully later this year we'll do our first human device implantation.",
      "source": "https://www.youtube.com/watch?v=OyYQTr0kiUo&t=3626s",
-     "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#first-neuralink-human-implant-in-2023"
     },
     {
      "statement_id": 425,
@@ -1235,7 +1235,7 @@
      "status": "delivered",
      "quote": "we're getting ready to do the, to do the first implants and hopefully in a few months",
      "source": "https://www.youtube.com/watch?v=2BfMuHDfGJI&t=5043s",
-     "url": "https://twoweeks.lol/predictions/first-neuralink-human-implant-in-2023/#first-neuralink-human-implant-in-a-few-months"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#first-neuralink-human-implant-in-a-few-months"
     }
    ],
    "resolution": {
@@ -1245,7 +1245,7 @@
   },
   {
    "claim_id": "c46",
-   "url": "https://twoweeks.lol/predictions/quadriplegics-control-computers-faster-than-people/",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#quadriplegics-control-computers-faster-than-people",
    "title": "Quadriplegics control phones faster than able-bodied by 2025",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
@@ -1266,7 +1266,7 @@
      "status": "missed",
      "quote": "To operate their phone faster than someone who has working hands.",
      "source": "https://www.youtube.com/watch?v=YreDYmXTYi4",
-     "url": "https://twoweeks.lol/predictions/quadriplegics-control-computers-faster-than-people/"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#quadriplegics-control-computers-faster-than-people"
     }
    ],
    "resolution": {
@@ -1353,7 +1353,7 @@
     "2026",
     "2027"
    ],
-   "statements": 4,
+   "statements": 2,
    "timeline": [
     {
      "statement_id": 50,
@@ -1366,16 +1366,6 @@
      "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/"
     },
     {
-     "statement_id": 101,
-     "date_made": "2025-10-23",
-     "deadline": "2026-12-31",
-     "change": "restated",
-     "status": "pending",
-     "quote": "We're going to be building a million units Optimus production line, hopefully with the production start towards the end of next year.",
-     "source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
-     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-million-production"
-    },
-    {
      "statement_id": 509,
      "date_made": "2026-10-21",
      "deadline": "2027-12-31",
@@ -1384,16 +1374,6 @@
      "quote": "I do expect these issues to be solved around the end of next year. That's the time to expect when we're delivering Optimus to companies outside of Tesla.",
      "source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
      "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-outside-customers-end-2027"
-    },
-    {
-     "statement_id": 510,
-     "date_made": "2026-10-21",
-     "deadline": "2027-12-31",
-     "change": "restated",
-     "status": "pending",
-     "quote": "We do have the vast majority of a million unit per line production line landed in Fremont right now. I would expect that it takes us probably at least a year, maybe a little longer, to get to that annualized rate, to get to 20,000 units a week.",
-     "source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
-     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-fremont-20000-a-week-2027"
     }
    ],
    "resolution": {
@@ -1403,7 +1383,7 @@
   },
   {
    "claim_id": "c51",
-   "url": "https://twoweeks.lol/predictions/optimus-under-20000/",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-under-20000",
    "title": "Optimus under $20000",
    "company": "Tesla",
    "topic": "Robots",
@@ -1426,7 +1406,7 @@
      "status": "pending",
      "quote": "It is expected to cost much less than a car. I would say, probably less than $20,000, would be my guess.",
      "source": "https://www.youtube.com/watch?v=ODSJsviD_SU",
-     "url": "https://twoweeks.lol/predictions/optimus-under-20000/"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-under-20000"
     },
     {
      "statement_id": 51,
@@ -1436,7 +1416,7 @@
      "status": "pending",
      "quote": "An Optimus robot could cost between $20,000 and $30,000, or less than a car in the long term.",
      "source": "https://www.youtube.com/watch?v=6v6dbxPlsXs",
-     "url": "https://twoweeks.lol/predictions/optimus-under-20000/#optimus-20-30k-price-point"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-20-30k-price-point"
     }
    ],
    "resolution": {
@@ -1450,18 +1430,20 @@
    "title": "Optimus 1 million units/year in 5-6 years",
    "company": "Tesla",
    "topic": "Robots",
-   "status": "partial",
+   "status": "pending",
    "first_said": "2024-10-01",
-   "first_deadline": "2030-07-23",
-   "current_deadline": null,
-   "resolved_date": "2026-10-21",
-   "times_moved": 2,
+   "first_deadline": "2026-12-31",
+   "current_deadline": "2027-12-31",
+   "resolved_date": null,
+   "times_moved": 4,
    "goalpost_history": [
     "2030",
     "Jul 2030",
-    "no date"
+    "2026",
+    "no date",
+    "2027"
    ],
-   "statements": 3,
+   "statements": 5,
    "timeline": [
     {
      "statement_id": 52,
@@ -1484,6 +1466,16 @@
      "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#100000-optimus-a-month-by-2030"
     },
     {
+     "statement_id": 101,
+     "date_made": "2025-10-23",
+     "deadline": "2026-12-31",
+     "change": "restated",
+     "status": "pending",
+     "quote": "We're going to be building a million units Optimus production line, hopefully with the production start towards the end of next year.",
+     "source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-million-production"
+    },
+    {
      "statement_id": 126,
      "date_made": "2026-01-28",
      "deadline": null,
@@ -1492,16 +1484,26 @@
      "quote": "We are going to take the Model S and X production space in our Fremont factory and convert that into an Optimus factory with a long-term goal of having a million units a year. I'm confident that we'll get to a million units a year in Fremont of Optimus 3.",
      "source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
      "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#fremont-optimus-factory-million-units"
+    },
+    {
+     "statement_id": 510,
+     "date_made": "2026-10-21",
+     "deadline": "2027-12-31",
+     "change": "restated",
+     "status": "pending",
+     "quote": "We do have the vast majority of a million unit per line production line landed in Fremont right now. I would expect that it takes us probably at least a year, maybe a little longer, to get to that annualized rate, to get to 20,000 units a week.",
+     "source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-fremont-20000-a-week-2027"
     }
    ],
    "resolution": {
-    "summary": "Tesla's Q3 2026 shareholder letter (Oct 21) says Optimus production began on Fremont high-volume lines and that those bots are the first production-quality units, with the process 'suitable for a commercial product.' Musk said the vast majority of a 1 million-unit line is now in Fremont but it will take at least a year, maybe longer, to reach 20,000 a week. The capacity table lists California Optimus as Early Ramp with no rate. The S/X conversion happened; a million robots a year has not.",
-    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+    "summary": "Pending until the end of 2027.",
+    "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/"
    }
   },
   {
    "claim_id": "c53",
-   "url": "https://twoweeks.lol/predictions/80-of-tesla-value-will-be/",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#80-of-tesla-value-will-be",
    "title": "80% of Tesla value will be Optimus",
    "company": "Tesla",
    "topic": "Business & Money",
@@ -1522,7 +1524,7 @@
      "status": "pending",
      "quote": "~80% of Tesla's value will be Optimus.",
      "source": "https://x.com/elonmusk/status/1962618811141812475",
-     "url": "https://twoweeks.lol/predictions/80-of-tesla-value-will-be/"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#80-of-tesla-value-will-be"
     }
    ],
    "resolution": {
@@ -1532,7 +1534,7 @@
   },
   {
    "claim_id": "c55",
-   "url": "https://twoweeks.lol/predictions/global-starlink-coverage-by-end-of/",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#global-starlink-coverage-by-end-of",
    "title": "Global Starlink coverage by end of 2021",
    "company": "SpaceX",
    "topic": "Space",
@@ -1553,7 +1555,7 @@
      "status": "delivered-late",
      "quote": "Most of Earth by end of year, all by next year, then it's about densifying coverage.",
      "source": "https://x.com/elonmusk/status/1363774017606348802",
-     "url": "https://twoweeks.lol/predictions/global-starlink-coverage-by-end-of/"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#global-starlink-coverage-by-end-of"
     }
    ],
    "resolution": {
@@ -1563,7 +1565,7 @@
   },
   {
    "claim_id": "c57",
-   "url": "https://twoweeks.lol/predictions/cybertruck-boat/",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-boat",
    "title": "Cybertruck can cross rivers, lakes, seas",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -1584,7 +1586,7 @@
      "status": "missed",
      "quote": "Cybertruck will be waterproof enough to serve briefly as a boat, so it can cross rivers, lakes & even seas that aren't too choppy",
      "source": "https://x.com/elonmusk/status/1575508498430820352",
-     "url": "https://twoweeks.lol/predictions/cybertruck-boat/"
+     "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-boat"
     }
    ],
    "resolution": {
@@ -1671,7 +1673,7 @@
   },
   {
    "claim_id": "c62",
-   "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#hw3-sufficient-for-fsd",
    "title": "HW3 sufficient for FSD",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -1692,7 +1694,7 @@
      "status": "missed",
      "quote": "All Tesla cars being produced right now have everything necessary for full self driving. All you need to do is improve the software.",
      "source": "https://www.youtube.com/watch?v=Ucp0TTmvqOE",
-     "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#hw3-sufficient-for-fsd"
     }
    ],
    "resolution": {
@@ -1799,7 +1801,7 @@
   },
   {
    "claim_id": "c68",
-   "url": "https://twoweeks.lol/predictions/owner-cars-added-to-robotaxi-network/#robotaxi-owner-income",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-owner-income",
    "title": "Robotaxi $30k/year income for owners",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -1820,7 +1822,7 @@
      "status": "missed",
      "quote": "Each Tesla could generate $30,000 in gross income for owners each year if operated as a robotaxi.",
      "source": "https://www.youtube.com/watch?v=Ucp0TTmvqOE",
-     "url": "https://twoweeks.lol/predictions/owner-cars-added-to-robotaxi-network/#robotaxi-owner-income"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-owner-income"
     }
    ],
    "resolution": {
@@ -1830,7 +1832,7 @@
   },
   {
    "claim_id": "c72",
-   "url": "https://twoweeks.lol/predictions/restore-full-body-functionality/",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#restore-full-body-functionality",
    "title": "Restore full body functionality",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
@@ -1851,7 +1853,7 @@
      "status": "pending",
      "quote": "We're confident there are no physical limitations to restoring full body functionality.",
      "source": "https://www.youtube.com/watch?v=YreDYmXTYi4",
-     "url": "https://twoweeks.lol/predictions/restore-full-body-functionality/"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#restore-full-body-functionality"
     }
    ],
    "resolution": {
@@ -1861,7 +1863,7 @@
   },
   {
    "claim_id": "c73",
-   "url": "https://twoweeks.lol/predictions/superhuman-abilities-via-neuralink/",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#superhuman-abilities-via-neuralink",
    "title": "Superhuman abilities via Neuralink",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
@@ -1882,7 +1884,7 @@
      "status": "pending",
      "quote": "If you want to go cybernetic and have superintelligence and see in different wavelengths, we could absolutely provide superhuman abilities via Neuralink in the future.",
      "source": "https://www.youtube.com/watch?v=QGJysv_Qzkw&t=2443s",
-     "url": "https://twoweeks.lol/predictions/superhuman-abilities-via-neuralink/"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#superhuman-abilities-via-neuralink"
     }
    ],
    "resolution": {
@@ -1892,8 +1894,8 @@
   },
   {
    "claim_id": "c74",
-   "url": "https://twoweeks.lol/predictions/fsd-wide-release-nov-2022/",
-   "title": "FSD Beta wide release (Nov 2022)",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-beta-wide-release-by-end-2020",
+   "title": "FSD Beta wide release by end of 2020",
    "company": "Tesla",
    "topic": "Self-Driving",
    "status": "delivered-late",
@@ -1916,7 +1918,7 @@
      "status": "missed",
      "quote": "And so we put it out there last night, and then we'll see how it goes, and then probably release it to more people this weekend or early next week, and then just gradually step it up until – We have, hopefully, a wide release by the end of this year.",
      "source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-3Q20-transcript",
-     "url": "https://twoweeks.lol/predictions/fsd-wide-release-nov-2022/#fsd-beta-wide-release-by-end-2020"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-beta-wide-release-by-end-2020"
     },
     {
      "statement_id": 74,
@@ -1926,7 +1928,7 @@
      "status": "delivered",
      "quote": "The Tesla Autopilot team and AI team has done an incredible job building real-world AI and we're able to go to wide beta for all full self-driving customers in North America this year.",
      "source": "https://www.youtube.com/watch?v=y2QSBdFfnRI",
-     "url": "https://twoweeks.lol/predictions/fsd-wide-release-nov-2022/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-wide-release-nov-2022"
     }
    ],
    "resolution": {
@@ -1936,7 +1938,7 @@
   },
   {
    "claim_id": "c75",
-   "url": "https://twoweeks.lol/predictions/cybertruck-bulletproof/",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-bulletproof",
    "title": "Cybertruck bulletproof",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -1957,7 +1959,7 @@
      "status": "delivered",
      "quote": "It is literally bulletproof to a 9 mm handgun, that's how strong the skin is.",
      "source": "https://www.youtube.com/watch?v=464puoD09dM",
-     "url": "https://twoweeks.lol/predictions/cybertruck-bulletproof/"
+     "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-bulletproof"
     }
    ],
    "resolution": {
@@ -1967,7 +1969,7 @@
   },
   {
    "claim_id": "c76",
-   "url": "https://twoweeks.lol/predictions/cybertruck-shatterproof-glass/",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-shatterproof-glass",
    "title": "Cybertruck shatterproof glass",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -1988,7 +1990,7 @@
      "status": "missed",
      "quote": "We threw wrenches, we threw everything. We even literally threw the kitchen sink at the glass and it didn't break.",
      "source": "https://www.rev.com/transcripts/tesla-cybertruck-event-transcript-elon-musk-unveils-cybertruck",
-     "url": "https://twoweeks.lol/predictions/cybertruck-shatterproof-glass/"
+     "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-shatterproof-glass"
     }
    ],
    "resolution": {
@@ -1998,7 +2000,7 @@
   },
   {
    "claim_id": "c78",
-   "url": "https://twoweeks.lol/predictions/1-million-people-on-mars/",
+   "url": "https://twoweeks.lol/predictions/humans-on-mars/#1-million-people-on-mars",
    "title": "1 million people on Mars",
    "company": "SpaceX",
    "topic": "Future of Humanity",
@@ -2019,7 +2021,7 @@
      "status": "pending",
      "quote": "The minimum threshold for a self-sustaining civilization on Mars would be one million people, and you could only go every two years.",
      "source": "https://www.youtube.com/watch?v=H7Uyfqi_TE8",
-     "url": "https://twoweeks.lol/predictions/1-million-people-on-mars/"
+     "url": "https://twoweeks.lol/predictions/humans-on-mars/#1-million-people-on-mars"
     }
    ],
    "resolution": {
@@ -2029,7 +2031,7 @@
   },
   {
    "claim_id": "c79",
-   "url": "https://twoweeks.lol/predictions/self-sustaining-mars-city-asap/",
+   "url": "https://twoweeks.lol/predictions/humans-on-mars/#self-sustaining-mars-city-asap",
    "title": "Self-sustaining Mars city ASAP",
    "company": "SpaceX",
    "topic": "Future of Humanity",
@@ -2050,7 +2052,7 @@
      "status": "pending",
      "quote": "I think it's important that we strive to have a self-sustaining city on Mars as soon as possible.",
      "source": "https://www.youtube.com/watch?v=yGhFmPjAuFg",
-     "url": "https://twoweeks.lol/predictions/self-sustaining-mars-city-asap/"
+     "url": "https://twoweeks.lol/predictions/humans-on-mars/#self-sustaining-mars-city-asap"
     }
    ],
    "resolution": {
@@ -2060,7 +2062,7 @@
   },
   {
    "claim_id": "c80",
-   "url": "https://twoweeks.lol/predictions/cars-deliver-themselves-from-factory/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#cars-deliver-themselves-from-factory",
    "title": "Cars deliver themselves from factory",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -2081,7 +2083,7 @@
      "status": "delivered",
      "quote": "First Tesla that drives itself from factory end of line all the way to a customer house is June 28.",
      "source": "https://x.com/elonmusk/status/1932591896939147494",
-     "url": "https://twoweeks.lol/predictions/cars-deliver-themselves-from-factory/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#cars-deliver-themselves-from-factory"
     }
    ],
    "resolution": {
@@ -2184,7 +2186,7 @@
   },
   {
    "claim_id": "c84",
-   "url": "https://twoweeks.lol/predictions/semi-500-mile-range/",
+   "url": "https://twoweeks.lol/predictions/tesla-semi-production/#semi-500-mile-range",
    "title": "Semi 500 mile range",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -2205,7 +2207,7 @@
      "status": "delivered",
      "quote": "That is 500 miles at maximum weight, at highway speed, so you are doing 60 mph. That is the worst case scenario.",
      "source": "https://www.youtube.com/watch?v=5RRmepp7i5g",
-     "url": "https://twoweeks.lol/predictions/semi-500-mile-range/"
+     "url": "https://twoweeks.lol/predictions/tesla-semi-production/#semi-500-mile-range"
     }
    ],
    "resolution": {
@@ -2215,8 +2217,8 @@
   },
   {
    "claim_id": "c85",
-   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/",
-   "title": "Starship full reusability with rapid reflight in 2027",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-fully-reusable",
+   "title": "Starship fully reusable",
    "company": "SpaceX",
    "topic": "Space",
    "status": "pending",
@@ -2244,7 +2246,7 @@
      "status": "pending",
      "quote": "The critical breakthrough that's necessary is a rapidly reusable orbital rocket. This is basically the Holy Grail of space.",
      "source": "https://elonmuskinterviews.wordpress.com/2021/03/27/starship-presentation-2019-english/",
-     "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-fully-reusable"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-fully-reusable"
     },
     {
      "statement_id": 464,
@@ -2254,7 +2256,7 @@
      "status": "missed",
      "quote": "I think it's a very high probability of achieving full reusability next year",
      "source": "https://www.youtube.com/watch?v=akXMYvKjUxM&t=1601s",
-     "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-full-reusability-by-2025"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-full-reusability-by-2025"
     },
     {
      "statement_id": 405,
@@ -2264,7 +2266,7 @@
      "status": "pending",
      "quote": "And I think it's, I think, I think unless we have some very major setbacks, SpaceX will demonstrate full reusability next year, catching both the booster and the ship and being able to deliver over 100 tons to a useful orbit.",
      "source": "https://www.youtube.com/watch?v=qeZqZBRA-6Q&t=1267s",
-     "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-full-reusability-in-2026"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-full-reusability-in-2026"
     },
     {
      "statement_id": 266,
@@ -2274,7 +2276,7 @@
      "status": "pending",
      "quote": "I think it's extremely likely that we will achieve full reusability with rapid reflight next year in 2027. It's really the critical breakthrough that's necessary to extend life beyond Earth.",
      "source": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
-     "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-full-reusability-rapid-reflight-2027"
     }
    ],
    "resolution": {
@@ -2284,10 +2286,10 @@
   },
   {
    "claim_id": "c86",
-   "url": "https://twoweeks.lol/predictions/tesla-ai5-chip-production-q2-2027/",
-   "title": "Tesla AI5 chip into production by ~Q2 2027",
+   "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#ai5-chip-production-2026-2027",
+   "title": "AI5 chip production 2026-2027",
    "company": "Tesla",
-   "topic": "AI",
+   "topic": "Self-Driving",
    "status": "pending",
    "first_said": "2025-11-04",
    "first_deadline": "2027-04-30",
@@ -2309,7 +2311,7 @@
      "status": "pending",
      "quote": "We will have samples and maybe a small number of units in 2026, but high volume production is only possible in 2027.",
      "source": "https://x.com/elonmusk/status/1985785525429850463",
-     "url": "https://twoweeks.lol/predictions/tesla-ai5-chip-production-q2-2027/#ai5-chip-production-2026-2027"
+     "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#ai5-chip-production-2026-2027"
     },
     {
      "statement_id": 233,
@@ -2319,7 +2321,7 @@
      "status": "pending",
      "quote": "going as fast as possible to get AI5, Tesla AI5 chip design into production and then reaching scale. That'll probably happen around the second quarter-ish of next year, hopefully. And then AI6 would hopefully follow less than a year later.",
      "source": "https://www.youtube.com/watch?v=BYXbuik3dgA",
-     "url": "https://twoweeks.lol/predictions/tesla-ai5-chip-production-q2-2027/"
+     "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#tesla-ai5-chip-production-q2-2027"
     },
     {
      "statement_id": 512,
@@ -2329,7 +2331,7 @@
      "status": "pending",
      "quote": "There is another milestone that I think important we want to get to, which is to integrate the Tesla AI 5 chip into Optimus, which, if things go according to plan, will be in approximately April of next year.",
      "source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
-     "url": "https://twoweeks.lol/predictions/tesla-ai5-chip-production-q2-2027/#ai5-in-optimus-april-2027"
+     "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#ai5-in-optimus-april-2027"
     }
    ],
    "resolution": {
@@ -2370,7 +2372,7 @@
   },
   {
    "claim_id": "c90",
-   "url": "https://twoweeks.lol/predictions/fsd-10x-better-with-new-model/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-10x-better-with-new-model",
    "title": "New FSD model with 10x parameters (2025)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -2391,7 +2393,7 @@
      "status": "missed",
      "quote": "Tesla is training a new FSD model with ~10X params and a big improvement to video compression loss. Probably ready for public release end of next month if testing goes well.",
      "source": "https://x.com/elonmusk/status/1953003713666400755",
-     "url": "https://twoweeks.lol/predictions/fsd-10x-better-with-new-model/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-10x-better-with-new-model"
     }
    ],
    "resolution": {
@@ -2445,7 +2447,7 @@
   },
   {
    "claim_id": "c92",
-   "url": "https://twoweeks.lol/predictions/roadster-0-60-in-under-1/",
+   "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-0-60-in-under-1",
    "title": "Roadster 0-60 in under 1 second",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -2466,7 +2468,7 @@
      "status": "delivered",
      "quote": "0-60mph < 1 sec. And that is the least interesting part",
      "source": "https://x.com/elonmusk/status/1762718427775410295",
-     "url": "https://twoweeks.lol/predictions/roadster-0-60-in-under-1/"
+     "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-0-60-in-under-1"
     }
    ],
    "resolution": {
@@ -2476,7 +2478,7 @@
   },
   {
    "claim_id": "c93",
-   "url": "https://twoweeks.lol/predictions/roadster-620-mile-range/",
+   "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-620-mile-range",
    "title": "Roadster 620 mile range",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -2497,7 +2499,7 @@
      "status": "cancelled",
      "quote": "The 200-kWh battery is said to provide up to 620 miles of range.",
      "source": "https://www.youtube.com/watch?v=5RRmepp7i5g",
-     "url": "https://twoweeks.lol/predictions/roadster-620-mile-range/"
+     "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-620-mile-range"
     }
    ],
    "resolution": {
@@ -2507,7 +2509,7 @@
   },
   {
    "claim_id": "c94",
-   "url": "https://twoweeks.lol/predictions/roadster-spacex-package-with-thrusters/",
+   "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-spacex-package-with-thrusters",
    "title": "Roadster SpaceX package with thrusters",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -2528,7 +2530,7 @@
      "status": "delivered",
      "quote": "SpaceX option package for new Tesla Roadster will include ~10 small rocket thrusters arranged seamlessly around car. These rocket engines dramatically improve acceleration, top speed, braking & cornering. Maybe they will even allow a Tesla to fly …",
      "source": "https://x.com/elonmusk/status/1005577738332172289",
-     "url": "https://twoweeks.lol/predictions/roadster-spacex-package-with-thrusters/"
+     "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-spacex-package-with-thrusters"
     }
    ],
    "resolution": {
@@ -2538,7 +2540,7 @@
   },
   {
    "claim_id": "c95",
-   "url": "https://twoweeks.lol/predictions/roadster-can-fly/",
+   "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-can-fly",
    "title": "Tesla Roadster flew at the October 2026 McGregor demo",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -2559,7 +2561,7 @@
      "status": "delivered",
      "quote": "The new Tesla Roadster can fly.",
      "source": "https://x.com/elonmusk/status/1801980372823187707",
-     "url": "https://twoweeks.lol/predictions/roadster-can-fly/"
+     "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-can-fly"
     }
    ],
    "resolution": {
@@ -2786,7 +2788,7 @@
   },
   {
    "claim_id": "c108",
-   "url": "https://twoweeks.lol/predictions/grok-watchable-movie/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-watchable-movie",
    "title": "Grok makes a watchable movie by end of 2026",
    "company": "xAI",
    "topic": "AI",
@@ -2809,7 +2811,7 @@
      "status": "pending",
      "quote": "Grok will make a movie that is at least watchable before the end of next year and really good movies in 2027.",
      "source": "https://x.com/elonmusk/status/1975262861346951212",
-     "url": "https://twoweeks.lol/predictions/grok-watchable-movie/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-watchable-movie"
     },
     {
      "statement_id": 190,
@@ -2819,7 +2821,7 @@
      "status": "pending",
      "quote": "Full movies by the end of this year",
      "source": "https://x.com/elonmusk/status/2067207305503101025",
-     "url": "https://twoweeks.lol/predictions/grok-watchable-movie/#grok-full-movies-end-2026"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-full-movies-end-2026"
     },
     {
      "statement_id": 235,
@@ -2829,7 +2831,7 @@
      "status": "pending",
      "quote": "Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Homer",
      "source": "https://x.com/elonmusk/status/2079758604656316619",
-     "url": "https://twoweeks.lol/predictions/grok-watchable-movie/#grok-imagine-odyssey-movie-2026"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-imagine-odyssey-movie-2026"
     }
    ],
    "resolution": {
@@ -2839,7 +2841,7 @@
   },
   {
    "claim_id": "c109",
-   "url": "https://twoweeks.lol/predictions/ai-generated-game/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#ai-generated-game",
    "title": "Great AI-generated game released by end of 2026",
    "company": "xAI",
    "topic": "AI",
@@ -2860,11 +2862,11 @@
      "status": "pending",
      "quote": "The XAI game studio will release a great AI-generated game before the end of next year",
      "source": "https://x.com/elonmusk/status/1975064769729327545",
-     "url": "https://twoweeks.lol/predictions/ai-generated-game/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#ai-generated-game"
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: xAI/SpaceXSI newsroom latest posts are The X Subscription (Oct 12), Grok 4.7 (Sep 21) and Team Bots (Sep 28); Grok Build can 'create and share websites, apps, games' but that is a user tool, not an xAI game-studio release of a great AI-generated game. Third-party AI games are not an xAI studio title. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Oct 27 2026: x.ai/news has no game-studio title (latest: Grok Voice 3.0 Oct 14, Partner Network Oct 22, Grok 4.7 Sep 21). Grok Build can make user games; that is not an xAI studio release of a great AI-generated game. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -2915,7 +2917,7 @@
   },
   {
    "claim_id": "c111",
-   "url": "https://twoweeks.lol/predictions/x-everything-app/",
+   "url": "https://twoweeks.lol/predictions/x-money-launch/#x-everything-app",
    "title": "X becomes the everything app",
    "company": "X",
    "topic": "Business & Money",
@@ -2936,7 +2938,7 @@
      "status": "pending",
      "quote": "𝕏 will be the everything app. (Following rollout of encrypted chats, calls, files, and upcoming X Money)",
      "source": "https://x.com/elonmusk/status/1989003739831865805",
-     "url": "https://twoweeks.lol/predictions/x-everything-app/"
+     "url": "https://twoweeks.lol/predictions/x-money-launch/#x-everything-app"
     }
    ],
    "resolution": {
@@ -2946,7 +2948,7 @@
   },
   {
    "claim_id": "c113",
-   "url": "https://twoweeks.lol/predictions/blindsight-restore-sight/",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#blindsight-restore-sight",
    "title": "Blindsight restores limited sight to the blind in 2026",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
@@ -2967,7 +2969,7 @@
      "status": "pending",
      "quote": "Aiming to restore (limited) sight to the completely blind next year",
      "source": "https://x.com/elonmusk/status/1963646030936932737",
-     "url": "https://twoweeks.lol/predictions/blindsight-restore-sight/"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#blindsight-restore-sight"
     }
    ],
    "resolution": {
@@ -2977,7 +2979,7 @@
   },
   {
    "claim_id": "c114",
-   "url": "https://twoweeks.lol/predictions/neuralink-fast-reaction-games/",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-fast-reaction-games",
    "title": "Neuralink patients beat humans at fast-reaction games soon",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
@@ -2998,12 +3000,12 @@
      "status": "pending",
      "quote": "It won't be long before a Neuralink recipient can beat most and eventually all humans at fast reaction video games.",
      "source": "https://x.com/elonmusk/status/1984296007581262103",
-     "url": "https://twoweeks.lol/predictions/neuralink-fast-reaction-games/"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-fast-reaction-games"
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: Neuralink's Oct 2 post reports a Webgrid cursor-control record of 11.32 bps after pretraining on 50,000 hours of brain data, which it compared to most able-bodied mouse users on that grid test. Patients play games with thought, but there is no receipt that a recipient has beaten most or all able-bodied humans at fast-reaction video games. A Neuralink engineer's mouse score of 11.56 bps beat the BCI record on the same test. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://x.com/neuralink/status/2106066173917856070"
+    "summary": "Fetched Oct 27 2026: patients still play games with thought (WoW, chess, FPS via QuadStick+BCI) and a Oct 20 vacuum-control demo, but there is no receipt that a recipient has beaten most or all able-bodied humans at fast-reaction video games. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://www.neurapod.com/blog/neuralink-patient-zach-mcmanus-robot-vacuum"
    }
   },
   {
@@ -3156,7 +3158,7 @@
   },
   {
    "claim_id": "c121",
-   "url": "https://twoweeks.lol/predictions/ai-exceeds-all-humans-2030/",
+   "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-exceeds-all-humans-2030",
    "title": "AI exceeds intelligence of all humans combined by 2030",
    "company": "xAI",
    "topic": "Future of Humanity",
@@ -3180,7 +3182,7 @@
      "status": "pending",
      "quote": "I'm confident by 2030 AI will exceed the intelligence of all humans combined.",
      "source": "https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/",
-     "url": "https://twoweeks.lol/predictions/ai-exceeds-all-humans-2030/"
+     "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-exceeds-all-humans-2030"
     },
     {
      "statement_id": 240,
@@ -3190,7 +3192,7 @@
      "status": "pending",
      "quote": "I think AI may exceed the sum of human intelligence in about, in around five years.",
      "source": "https://elonmuskarchive.org/video/economist-elon-musk-2026-07-23",
-     "url": "https://twoweeks.lol/predictions/ai-exceeds-all-humans-2030/#ai-exceed-sum-human-intelligence"
+     "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-exceed-sum-human-intelligence"
     }
    ],
    "resolution": {
@@ -3200,7 +3202,7 @@
   },
   {
    "claim_id": "c122",
-   "url": "https://twoweeks.lol/predictions/optimus-better-surgeon-three-years/",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-better-surgeon-three-years",
    "title": "Optimus a better surgeon than the best humans in 3 years (by 2029)",
    "company": "Tesla",
    "topic": "Robots",
@@ -3221,7 +3223,7 @@
      "status": "pending",
      "quote": "Three years.",
      "source": "https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/",
-     "url": "https://twoweeks.lol/predictions/optimus-better-surgeon-three-years/"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-better-surgeon-three-years"
     }
    ],
    "resolution": {
@@ -3231,8 +3233,8 @@
   },
   {
    "claim_id": "c123",
-   "url": "https://twoweeks.lol/predictions/starship-orbital-refueling-end-2026/",
-   "title": "Starship orbital refueling demo by end of 2026",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-orbital-refilling-within-two-years-2022",
+   "title": "Starship orbital refilling demonstrated within two years (by early 2024)",
    "company": "SpaceX",
    "topic": "Space",
    "status": "pending",
@@ -3256,7 +3258,7 @@
      "status": "missed",
      "quote": "Optimistically, towards the end of next year, I think I'd be surprised if it's longer than two years for doing the refilling",
      "source": "https://www.youtube.com/watch?v=MpTLExoMAtQ&t=4846s",
-     "url": "https://twoweeks.lol/predictions/starship-orbital-refueling-end-2026/#starship-orbital-refilling-within-two-years-2022"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-orbital-refilling-within-two-years-2022"
     },
     {
      "statement_id": 442,
@@ -3266,7 +3268,7 @@
      "status": "missed",
      "quote": "next year we're aiming to demonstrate ship to ship propellant transfer",
      "source": "https://www.youtube.com/watch?v=tdUX3ypDVwI&t=13s",
-     "url": "https://twoweeks.lol/predictions/starship-orbital-refueling-end-2026/#starship-ship-to-ship-propellant-transfer-2025"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-to-ship-propellant-transfer-2025"
     },
     {
      "statement_id": 123,
@@ -3276,7 +3278,7 @@
      "status": "pending",
      "quote": "I'd say towards the end of the year.",
      "source": "https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/",
-     "url": "https://twoweeks.lol/predictions/starship-orbital-refueling-end-2026/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-orbital-refueling-end-2026"
     }
    ],
    "resolution": {
@@ -3286,7 +3288,7 @@
   },
   {
    "claim_id": "c124",
-   "url": "https://twoweeks.lol/predictions/fsd-beta-europe-summer-2022/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-beta-europe-summer-2022",
    "title": "FSD Beta in Europe this summer (2022)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -3310,7 +3312,7 @@
      "status": "missed",
      "quote": "FSD Beta should be available in Europe for LHD this summer, RHD a few months later. These dates depend on regulatory approval.",
      "source": "https://x.com/elonmusk/status/1508890304287592450",
-     "url": "https://twoweeks.lol/predictions/fsd-beta-europe-summer-2022/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-beta-europe-summer-2022"
     },
     {
      "statement_id": 124,
@@ -3320,7 +3322,7 @@
      "status": "delivered-late",
      "quote": "We hope to get Supervised Full Self-Driving approval in Europe, hopefully next month, and then maybe a similar timing, timing for China.",
      "source": "https://www.youtube.com/watch?v=IgifEgm1-e0",
-     "url": "https://twoweeks.lol/predictions/fsd-beta-europe-summer-2022/#fsd-europe-china-approval-february-2026"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-europe-china-approval-february-2026"
     }
    ],
    "resolution": {
@@ -3361,7 +3363,7 @@
   },
   {
    "claim_id": "c127",
-   "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/#optimus-3-unveil-few-months",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-3-unveil-few-months",
    "title": "Optimus V3 unveiled within a few months (mid-2026)",
    "company": "Tesla",
    "topic": "Robots",
@@ -3382,7 +3384,7 @@
      "status": "missed",
      "quote": "We will probably unveil Optimus 3 in a few months. I think it's going to be quite surprising to people.",
      "source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
-     "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/#optimus-3-unveil-few-months"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-3-unveil-few-months"
     }
    ],
    "resolution": {
@@ -3480,7 +3482,7 @@
   },
   {
    "claim_id": "c133",
-   "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/#robotaxi-dozen-states-end-2026",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-dozen-states-end-2026",
    "title": "Robotaxi operating in a dozen or so states by end of 2026",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -3501,7 +3503,7 @@
      "status": "pending",
      "quote": "We certainly hope to have unsupervised FSD or Robotaxi operating in, I don't know, a dozen or so states by the end of this year.",
      "source": "https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/",
-     "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/#robotaxi-dozen-states-end-2026"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-dozen-states-end-2026"
     }
    ],
    "resolution": {
@@ -3511,7 +3513,7 @@
   },
   {
    "claim_id": "c134",
-   "url": "https://twoweeks.lol/predictions/fsd-v15-end-of-2026/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-end-of-2026",
    "title": "FSD v15 complete software overhaul by end of 2026",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -3532,7 +3534,7 @@
      "status": "pending",
      "quote": "Version 15, hopefully by the end of this year, but certainly by early next year. That will be a complete overhaul of the software architecture, and will run on AI5.",
      "source": "https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/",
-     "url": "https://twoweeks.lol/predictions/fsd-v15-end-of-2026/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-end-of-2026"
     }
    ],
    "resolution": {
@@ -3542,7 +3544,7 @@
   },
   {
    "claim_id": "c135",
-   "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-v3-production-august-2026",
    "title": "Optimus V3 production starts late July/August 2026",
    "company": "Tesla",
    "topic": "Robots",
@@ -3563,7 +3565,7 @@
      "status": "delivered-late",
      "quote": "Start of production is, we're assuming, somewhere around the late July, August timeframe.",
      "source": "https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/",
-     "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-v3-production-august-2026"
     }
    ],
    "resolution": {
@@ -3604,7 +3606,7 @@
   },
   {
    "claim_id": "c139",
-   "url": "https://twoweeks.lol/predictions/solar-roof-cheaper-than-normal-roof/",
+   "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-cheaper-than-normal-roof",
    "title": "Solar roof will cost less than a normal roof (2016)",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -3625,7 +3627,7 @@
      "status": "missed",
      "quote": "It's looking quite promising that a solar roof will actually cost less than a normal roof before you even take the value of electricity into account.",
      "source": "https://www.youtube.com/watch?v=w-arnlSOCgs",
-     "url": "https://twoweeks.lol/predictions/solar-roof-cheaper-than-normal-roof/"
+     "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-cheaper-than-normal-roof"
     }
    ],
    "resolution": {
@@ -3635,7 +3637,7 @@
   },
   {
    "claim_id": "c141",
-   "url": "https://twoweeks.lol/predictions/dojo-operational-2022/",
+   "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#dojo-operational-2022",
    "title": "Dojo supercomputer operational in 2022",
    "company": "Tesla",
    "topic": "AI",
@@ -3656,7 +3658,7 @@
      "status": "partial",
      "quote": "We should have Dojo operational next year.",
      "source": "https://www.youtube.com/watch?v=j0z4FweCy4M",
-     "url": "https://twoweeks.lol/predictions/dojo-operational-2022/"
+     "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#dojo-operational-2022"
     }
    ],
    "resolution": {
@@ -3901,7 +3903,7 @@
   },
   {
    "claim_id": "c150",
-   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-9-land-and-refly-within-12-months-2014",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-land-and-refly-within-12-months-2014",
    "title": "80-90% odds a Falcon 9 lands and reflies within a year (2014)",
    "company": "SpaceX",
    "topic": "Space",
@@ -3925,7 +3927,7 @@
      "status": "delivered-late",
      "quote": "It's probably maybe not more than a fifty percent chance or less of landing it on the platform for the first time, but there's a lot of launches that will occur over the next year — there's at least a dozen launches that will occur over the next 12 months — and I think it's quite likely, probably 80, 90 percent likely, that one of those flights will be able to land and refly.",
      "source": "https://www.youtube.com/watch?v=4DUbiCQpw_4",
-     "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-9-land-and-refly-within-12-months-2014"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-land-and-refly-within-12-months-2014"
     },
     {
      "statement_id": 375,
@@ -3935,7 +3937,7 @@
      "status": "missed",
      "quote": "So I think we'll end up re flying one of the subsequent boosters. ... I think probably before sometime next year we would aim to refly one of the [rockets].",
      "source": "https://www.youtube.com/watch?v=LgNekVW0pps&t=433s",
-     "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#spacex-reflies-landed-booster-in-2016"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-reflies-landed-booster-in-2016"
     }
    ],
    "resolution": {
@@ -4206,7 +4208,7 @@
   },
   {
    "claim_id": "c163",
-   "url": "https://twoweeks.lol/predictions/v9-full-self-driving-features-august-2018/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#v9-full-self-driving-features-august-2018",
    "title": "First full self-driving features in V9 (August 2018)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -4227,7 +4229,7 @@
      "status": "partial",
      "quote": "That issue is better in latest Autopilot software rolling out now & fully fixed in August update as part of our long-awaited Tesla Version 9. To date, Autopilot resources have rightly focused entirely on safety. With V9, we will begin to enable full self-driving features.",
      "source": "https://twitter.com/elonmusk/status/1005782088841232385",
-     "url": "https://twoweeks.lol/predictions/v9-full-self-driving-features-august-2018/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#v9-full-self-driving-features-august-2018"
     }
    ],
    "resolution": {
@@ -4237,7 +4239,7 @@
   },
   {
    "claim_id": "c166",
-   "url": "https://twoweeks.lol/predictions/chicago-ohare-loop-18-to-24-months/",
+   "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#chicago-ohare-loop-18-to-24-months",
    "title": "Chicago O'Hare Loop running in 18-24 months (2018)",
    "company": "Boring Company",
    "topic": "Tunnels & Transport",
@@ -4258,7 +4260,7 @@
      "status": "cancelled",
      "quote": "Aspirationally, it would be within 18 to 24 months, but I would say it's very unlikely to be more than three years.",
      "source": "https://www.youtube.com/watch?v=ise2EKRUWGc",
-     "url": "https://twoweeks.lol/predictions/chicago-ohare-loop-18-to-24-months/"
+     "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#chicago-ohare-loop-18-to-24-months"
     }
    ],
    "resolution": {
@@ -4299,7 +4301,7 @@
   },
   {
    "claim_id": "c168",
-   "url": "https://twoweeks.lol/predictions/shanghai-gigafactory-timeline-2019/",
+   "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#shanghai-gigafactory-timeline-2019",
    "title": "Shanghai Gigafactory: built by summer, cars by end of 2019",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -4320,7 +4322,7 @@
      "status": "delivered",
      "quote": "Aiming to finish initial construction this summer, start Model 3 production end of year & reach high volume production next year",
      "source": "https://twitter.com/elonmusk/status/1082116267568377857",
-     "url": "https://twoweeks.lol/predictions/shanghai-gigafactory-timeline-2019/"
+     "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#shanghai-gigafactory-timeline-2019"
     }
    ],
    "resolution": {
@@ -4392,7 +4394,7 @@
   },
   {
    "claim_id": "c171",
-   "url": "https://twoweeks.lol/predictions/fsd-subscription-early-2021/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-subscription-early-2021",
    "title": "FSD subscription released early 2021",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -4413,7 +4415,7 @@
      "status": "delivered-late",
      "quote": "Absolutely. We will release FSD subscription early next year.",
      "source": "https://twitter.com/elonmusk/status/1340592138829099009",
-     "url": "https://twoweeks.lol/predictions/fsd-subscription-early-2021/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-subscription-early-2021"
     }
    ],
    "resolution": {
@@ -4423,7 +4425,7 @@
   },
   {
    "claim_id": "c172",
-   "url": "https://twoweeks.lol/predictions/grok-3-end-of-2024/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-3-end-of-2024",
    "title": "Grok 3 by end of 2024",
    "company": "xAI",
    "topic": "AI",
@@ -4447,7 +4449,7 @@
      "status": "delivered-late",
      "quote": "Grok 3 end of year after training on 100k H100s should be really something special",
      "source": "https://twitter.com/elonmusk/status/1807643760584708363",
-     "url": "https://twoweeks.lol/predictions/grok-3-end-of-2024/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-3-end-of-2024"
     },
     {
      "statement_id": 457,
@@ -4457,7 +4459,7 @@
      "status": "delivered",
      "quote": "we're really in the final stages of polishing Grok 3. Probably it gets released in about a week or two.",
      "source": "https://www.youtube.com/watch?v=eV396ioBs3g&t=812s",
-     "url": "https://twoweeks.lol/predictions/grok-3-end-of-2024/#grok-3-release-in-a-week-or-two"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-3-release-in-a-week-or-two"
     }
    ],
    "resolution": {
@@ -4467,7 +4469,7 @@
   },
   {
    "claim_id": "c173",
-   "url": "https://twoweeks.lol/predictions/grok-2-comes-out-august-2024/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-2-comes-out-august-2024",
    "title": "Grok 2 comes out in August 2024",
    "company": "xAI",
    "topic": "AI",
@@ -4488,7 +4490,7 @@
      "status": "delivered",
      "quote": "Sadly quite true. It takes a lot of work to purge LLMs from the Internet training data. Grok 2, which comes out in August, will be a giant improvement in this regard.",
      "source": "https://twitter.com/elonmusk/status/1807637096129241529",
-     "url": "https://twoweeks.lol/predictions/grok-2-comes-out-august-2024/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-2-comes-out-august-2024"
     }
    ],
    "resolution": {
@@ -4505,11 +4507,14 @@
    "status": "missed",
    "first_said": "2020-09-22",
    "first_deadline": "2023-09-22",
-   "current_deadline": "2023-09-22",
+   "current_deadline": "2025-12-31",
    "resolved_date": null,
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
+   "times_moved": 1,
+   "goalpost_history": [
+    "Sep 2023",
+    "2025"
+   ],
+   "statements": 2,
    "timeline": [
     {
      "statement_id": 174,
@@ -4520,11 +4525,21 @@
      "quote": "About 3 years from now, we're confident we can make a very compelling $25,000 electric vehicle that's also fully autonomous.",
      "source": "https://www.youtube.com/watch?v=l6T9xIeZTds",
      "url": "https://twoweeks.lol/predictions/25k-tesla-in-3-years-battery-day/"
+    },
+    {
+     "statement_id": 344,
+     "date_made": "2024-01-24",
+     "deadline": "2025-12-31",
+     "change": "goalpost_moved",
+     "status": "missed",
+     "quote": "But our current schedule says that we will start production towards the end of 2025, so sometime in the second half. That's just what our current schedule says.",
+     "source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-4Q23-transcript",
+     "url": "https://twoweeks.lol/predictions/25k-tesla-in-3-years-battery-day/#tesla-next-gen-low-cost-vehicle-production-2h-2025"
     }
    ],
    "resolution": {
-    "summary": "At Battery Day (Sep 22, 2020) Musk promised 'a very compelling $25,000 electric vehicle that's also fully autonomous' about three years out — pointing to late 2023. Nothing arrived by then. Musk's Oct 2024 remark that a regular $25k model would be 'pointless... silly' renounced only the steering-wheel version — on the same call he affirmed the autonomous one, saying the Cybercab 'will cost roughly $25K.' That goal is demonstrably alive: the first production Cybercab was built at Giga Texas in Feb 2026, Musk confirmed a consumer version at $30k or less before 2027, and production Cybercabs without steering wheels began public-road testing in Austin on June 30, 2026. The promised $25k autonomous EV still hasn't shipped: missed, clock ticking.",
-    "url": "https://www.teslarati.com/elon-musk-confirms-tesla-cybercab-pricing-consumer-release-date/"
+    "summary": "No all-new low-cost Tesla platform began production in 2025. Tesla instead launched cheaper 'Standard' trims of the Model Y and Model 3 in October 2025 on existing lines. Cybercab, the next-gen platform's first product, began production at Giga Texas in 2026.",
+    "url": "https://techcrunch.com/2025/10/07/tesla-reveals-slightly-cheaper-standard-versions-of-the-model-3-and-model-y/"
    }
   },
   {
@@ -4730,7 +4745,7 @@
   },
   {
    "claim_id": "c185",
-   "url": "https://twoweeks.lol/predictions/xai-open-source-0-5t-model-2026/#xai-open-source-grok-this-week",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-open-source-grok-this-week",
    "title": "xAI will open source Grok 'this week' (March 2024)",
    "company": "xAI",
    "topic": "AI",
@@ -4751,7 +4766,7 @@
      "status": "delivered",
      "quote": "This week, @xAI will open source Grok",
      "source": "https://twitter.com/elonmusk/status/1767108624038449405",
-     "url": "https://twoweeks.lol/predictions/xai-open-source-0-5t-model-2026/#xai-open-source-grok-this-week"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-open-source-grok-this-week"
     }
    ],
    "resolution": {
@@ -4761,7 +4776,7 @@
   },
   {
    "claim_id": "c187",
-   "url": "https://twoweeks.lol/predictions/fsd-v12-to-customers-in-two-weeks/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v12-to-customers-in-two-weeks",
    "title": "FSD v12 to customers in 'about 2 weeks' (Nov 2023)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -4782,7 +4797,7 @@
      "status": "delivered-late",
      "quote": "About 2 weeks",
      "source": "https://twitter.com/elonmusk/status/1723852174818471956",
-     "url": "https://twoweeks.lol/predictions/fsd-v12-to-customers-in-two-weeks/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v12-to-customers-in-two-weeks"
     }
    ],
    "resolution": {
@@ -4792,7 +4807,7 @@
   },
   {
    "claim_id": "c188",
-   "url": "https://twoweeks.lol/predictions/5x-more-satellites-than-world-2031/",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#5x-more-satellites-than-world-2031",
    "title": "5× more satellites than the rest of the world within ~5 years",
    "company": "SpaceX",
    "topic": "Space",
@@ -4813,7 +4828,7 @@
      "status": "pending",
      "quote": "Within ~5 years, probably ~5 times as many satellites as rest of world",
      "source": "https://x.com/elonmusk/status/2065705276334833951",
-     "url": "https://twoweeks.lol/predictions/5x-more-satellites-than-world-2031/"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#5x-more-satellites-than-world-2031"
     }
    ],
    "resolution": {
@@ -4823,7 +4838,7 @@
   },
   {
    "claim_id": "c189",
-   "url": "https://twoweeks.lol/predictions/1-million-tons-to-orbit-2031/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#1-million-tons-to-orbit-2031",
    "title": "1 million tons to orbit possible within ~5 years",
    "company": "SpaceX",
    "topic": "Space",
@@ -4844,7 +4859,7 @@
      "status": "pending",
      "quote": "1M tons to orbit should be possible in roughy 5 years",
      "source": "https://x.com/elonmusk/status/2064519180464861192",
-     "url": "https://twoweeks.lol/predictions/1-million-tons-to-orbit-2031/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#1-million-tons-to-orbit-2031"
     }
    ],
    "resolution": {
@@ -4854,7 +4869,7 @@
   },
   {
    "claim_id": "c191",
-   "url": "https://twoweeks.lol/predictions/optimus-von-neumann-probe/",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-von-neumann-probe",
    "title": "A legion of Optimus robots will form the first Von Neumann probe",
    "company": "Tesla",
    "topic": "Future of Humanity",
@@ -4875,7 +4890,7 @@
      "status": "pending",
      "quote": "A legion of Optimi combined with solar panels will constitute the first Von Neumann probe",
      "source": "https://x.com/elonmusk/status/2067128845623611830",
-     "url": "https://twoweeks.lol/predictions/optimus-von-neumann-probe/"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-von-neumann-probe"
     }
    ],
    "resolution": {
@@ -4885,7 +4900,7 @@
   },
   {
    "claim_id": "c192",
-   "url": "https://twoweeks.lol/predictions/ai-stockfish-level-coding/",
+   "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-stockfish-level-coding",
    "title": "AI reaches Stockfish-level coding and general computer use",
    "company": "xAI",
    "topic": "AI",
@@ -4909,7 +4924,7 @@
      "status": "pending",
      "quote": "AI will achieve Stockfish-level coding and generalized computer use",
      "source": "https://x.com/elonmusk/status/2066880262668247091",
-     "url": "https://twoweeks.lol/predictions/ai-stockfish-level-coding/"
+     "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-stockfish-level-coding"
     }
    ],
    "resolution": {
@@ -4919,7 +4934,7 @@
   },
   {
    "claim_id": "c193",
-   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#recover-starship-ship-intact-2025",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#recover-starship-ship-intact-2025",
    "title": "Recover the Starship upper stage intact in 2025",
    "company": "SpaceX",
    "topic": "Space",
@@ -4940,7 +4955,7 @@
      "status": "missed",
      "quote": "We just want—if we can get the damn ship back intact, we can iterate a lot better. I think we'll get it back intact this year. We might be able to refly one with a fair bit of work by the end of this year.",
      "source": "https://www.youtube.com/watch?v=sSOxPJD-VNo",
-     "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#recover-starship-ship-intact-2025"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#recover-starship-ship-intact-2025"
     }
    ],
    "resolution": {
@@ -4950,7 +4965,7 @@
   },
   {
    "claim_id": "c195",
-   "url": "https://twoweeks.lol/predictions/conversational-grok-in-fsd/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#conversational-grok-in-fsd",
    "title": "Talk to Grok in FSD within ~3 months",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -4971,7 +4986,7 @@
      "status": "missed",
      "quote": "This functionality will be there in about 3 months or so.",
      "source": "https://x.com/elonmusk/status/2067430722399539385",
-     "url": "https://twoweeks.lol/predictions/conversational-grok-in-fsd/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#conversational-grok-in-fsd"
     }
    ],
    "resolution": {
@@ -5037,8 +5052,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: SpaceX TTM revenue is $23.04B through Jun 30 2026 (stockanalysis, last checked Oct 12). Q2 2026 revenue was $7.81B; Q3 closed Sep 30 with no 10-Q yet. That is still two orders of magnitude below the ~$1T annual revenue Musk projected for 2030. Status stays pending.",
-    "url": "https://stockanalysis.com/stocks/spcx/revenue/"
+    "summary": "Fetched Oct 27 2026: SpaceX Q3 2026 revenue $14.575B (Motley Fool transcript Oct 20); first-nine-month 2026 revenue $27.1B. Management guided $100B ARR by Dec 2026 and $500B–$1T ARR by end-2027 — still two orders of magnitude below ~$1T annual revenue in 2030. Status stays pending.",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/"
    }
   },
   {
@@ -5074,7 +5089,7 @@
   },
   {
    "claim_id": "c199",
-   "url": "https://twoweeks.lol/predictions/new-from-scratch-model-every-month-2026/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#new-from-scratch-model-every-month-2026",
    "title": "A new from-scratch AI model released every month for the rest of 2026",
    "company": "xAI",
    "topic": "AI",
@@ -5095,7 +5110,7 @@
      "status": "pending",
      "quote": "Completely trained from scratch new models will be released by @SpaceX every month this year.",
      "source": "https://x.com/elonmusk/status/2071184354756477041",
-     "url": "https://twoweeks.lol/predictions/new-from-scratch-model-every-month-2026/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#new-from-scratch-model-every-month-2026"
     }
    ],
    "resolution": {
@@ -5105,7 +5120,7 @@
   },
   {
    "claim_id": "c200",
-   "url": "https://twoweeks.lol/predictions/starlink-american-airlines-2027/",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-american-airlines-2027",
    "title": "Starlink comes to American Airlines by 2027",
    "company": "SpaceX",
    "topic": "Space",
@@ -5126,7 +5141,7 @@
      "status": "pending",
      "quote": "Starlink coming to @AmericanAir next year!",
      "source": "https://x.com/elonmusk/status/2069535601892987275",
-     "url": "https://twoweeks.lol/predictions/starlink-american-airlines-2027/"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-american-airlines-2027"
     }
    ],
    "resolution": {
@@ -5136,7 +5151,7 @@
   },
   {
    "claim_id": "c201",
-   "url": "https://twoweeks.lol/predictions/xai-open-source-0-5t-model-2026/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-open-source-0-5t-model-2026",
    "title": "xAI open-sources the 0.5T Grok model by end of 2026",
    "company": "xAI",
    "topic": "AI",
@@ -5157,7 +5172,7 @@
      "status": "pending",
      "quote": "We will open source the 0.5T model towards the end of this year. It should still be quite useful.",
      "source": "https://x.com/elonmusk/status/2058796067592736866",
-     "url": "https://twoweeks.lol/predictions/xai-open-source-0-5t-model-2026/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-open-source-0-5t-model-2026"
     }
    ],
    "resolution": {
@@ -5167,7 +5182,7 @@
   },
   {
    "claim_id": "c202",
-   "url": "https://twoweeks.lol/predictions/starship-10-ships-2026/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-10-ships-2026",
    "title": "SpaceX completes ~10 more Starships in 2026",
    "company": "SpaceX",
    "topic": "Space",
@@ -5188,7 +5203,7 @@
      "status": "pending",
      "quote": "roughly 10 more ships and about half that number of boosters this year",
      "source": "https://x.com/elonmusk/status/2056399924246278366",
-     "url": "https://twoweeks.lol/predictions/starship-10-ships-2026/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-10-ships-2026"
     }
    ],
    "resolution": {
@@ -5198,7 +5213,7 @@
   },
   {
    "claim_id": "c203",
-   "url": "https://twoweeks.lol/predictions/xai-catches-up-to-leaders-2026/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-catches-up-to-leaders-2026",
    "title": "xAI catches up to all AI leaders in 2026",
    "company": "xAI",
    "topic": "AI",
@@ -5219,7 +5234,7 @@
      "status": "pending",
      "quote": "xAI will catch up this year and then exceed them all by such a long distance in 3 years that you will need the James Webb telescope to see who is in second place",
      "source": "https://x.com/elonmusk/status/2032816322929897506",
-     "url": "https://twoweeks.lol/predictions/xai-catches-up-to-leaders-2026/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-catches-up-to-leaders-2026"
     }
    ],
    "resolution": {
@@ -5229,7 +5244,7 @@
   },
   {
    "claim_id": "c204",
-   "url": "https://twoweeks.lol/predictions/neuralink-next-gen-3x-2026/",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-next-gen-3x-2026",
    "title": "Next-gen Neuralink implant (3X capability) ready by end of 2026",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
@@ -5250,7 +5265,7 @@
      "status": "pending",
      "quote": "The next generation Neuralink cybernetic augment with 3X capability will be ready later this year.",
      "source": "https://x.com/elonmusk/status/2016575739655504070",
-     "url": "https://twoweeks.lol/predictions/neuralink-next-gen-3x-2026/"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#neuralink-next-gen-3x-2026"
     }
    ],
    "resolution": {
@@ -5260,7 +5275,7 @@
   },
   {
    "claim_id": "c205",
-   "url": "https://twoweeks.lol/predictions/grokipedia-exceeds-wikipedia-2026/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grokipedia-exceeds-wikipedia-2026",
    "title": "Grokipedia far exceeds Wikipedia in 2026",
    "company": "xAI",
    "topic": "AI",
@@ -5281,7 +5296,7 @@
      "status": "pending",
      "quote": "Grokipedia is growing rapidly. Will far exceed Wikipedia this year.",
      "source": "https://x.com/elonmusk/status/2007088281507488174",
-     "url": "https://twoweeks.lol/predictions/grokipedia-exceeds-wikipedia-2026/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grokipedia-exceeds-wikipedia-2026"
     }
    ],
    "resolution": {
@@ -5291,7 +5306,7 @@
   },
   {
    "claim_id": "c206",
-   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-v3-20kw-at-scale-2026",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-v3-20kw-at-scale-2026",
    "title": "Starlink V3 (20kW) launched at scale by Q4 2026",
    "company": "SpaceX",
    "topic": "Space",
@@ -5312,17 +5327,17 @@
      "status": "pending",
      "quote": "Starlink V3 will be 20kW and launched at scale around Q4 next year.",
      "source": "https://x.com/elonmusk/status/1998872465087541752",
-     "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-v3-20kw-at-scale-2026"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-v3-20kw-at-scale-2026"
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 13 2026: Wikipedia List of Starlink launches counts 46 V3 satellites launched as of Oct 13 (20 suborbital on Flight 13 plus 26 orbital on Flight 14, Sep 28). SpaceX confirmed contact with all 26 orbital V3s. That is first orbital deploy, not 'launched at scale' — a critical mass of ~1,000 V3s is still the Q2 2027 target (#408). Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Oct 27 2026: Wikipedia List of Starlink launches counts 46 V3 satellites launched as of Oct 27 (20 on Flight 13 plus 26 orbital on Flight 14, Sep 28). Jonathan McDowell via X Oct 24: 26 V3s still raising orbits. SpaceX says V3 volume ramps through end-2026 and 2027. 46 birds is first orbital deploy, not 'launched at scale'. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/List_of_Starlink_and_Starshield_launches"
    }
   },
   {
    "claim_id": "c207",
-   "url": "https://twoweeks.lol/predictions/spacex-95pct-earth-payload-2026/",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-95pct-earth-payload-2026",
    "title": "SpaceX delivers >95% of Earth's payload to orbit in 2026",
    "company": "SpaceX",
    "topic": "Space",
@@ -5343,12 +5358,12 @@
      "status": "pending",
      "quote": "Once Starship is flying frequently with real payloads next year, then SpaceX will probably deliver >95% of total Earth payload to orbit, despite others, especially China, continuing to grow.",
      "source": "https://x.com/elonmusk/status/1969988976259092692",
-     "url": "https://twoweeks.lol/predictions/spacex-95pct-earth-payload-2026/"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-95pct-earth-payload-2026"
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: Jonathan's Space Report YTD 2026 payload tonnage is 2,371.2 t, of which the USA is 2,040.1 t (~86%). SpaceX is the bulk of US mass but not the whole USA figure, so its share is below 86% and not >95%. Starship Flight 14 (Sep 28) was one orbital payload mission, not a frequent payload cadence. Deadline end of 2026. Status stays pending.",
-    "url": "https://planet4589.org/stats/pay.html"
+    "summary": "Fetched Oct 27 2026: Elon Times mass-to-orbit tracker (updated Oct 27) has SpaceX at 1,672 t / 81.0% of 2,065 t YTD through Oct 17. BeInCrypto/ooinsights mid-Oct put the share near 80%. Motley Fool Q3 recap cited 90% mass-to-orbit in the quarter, still not >95% for the year. Starship is not yet flying frequently with real payloads. Deadline end of 2026. Status stays pending.",
+    "url": "https://elontimes.com/mass-to-orbit"
    }
   },
   {
@@ -5409,8 +5424,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: NASA FY2026 enacted appropriations remain $24.4 billion. SpaceX TTM revenue through Jun 30 is $23.04B (stockanalysis). Space+Connectivity H1 2026 was $9.13B; AI is not space-commercial. Q3 10-Q is not out. 2026 full-year space revenue is not closed and is not shown above NASA's budget. Deadline end of 2026. Status stays pending.",
-    "url": "https://stockanalysis.com/stocks/spcx/revenue/"
+    "summary": "Fetched Oct 27 2026: NASA FY2026 enacted appropriations remain $24.4 billion (Wikipedia Budget of NASA). SpaceX Q3 space+connectivity was $7.015B (Starlink $5.248B + rockets $1.767B); AI/SI $7.56B is not space-commercial. Nine-month space-commercial is still below NASA's budget and 2026 is not closed. Deadline end of 2026. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Budget_of_NASA"
    }
   },
   {
@@ -5446,7 +5461,7 @@
   },
   {
    "claim_id": "c212",
-   "url": "https://twoweeks.lol/predictions/grok-4-2-order-of-magnitude-2026/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-2-order-of-magnitude-2026",
    "title": "Grok 4.2 an order of magnitude better than Grok 4",
    "company": "xAI",
    "topic": "AI",
@@ -5467,7 +5482,7 @@
      "status": "partial",
      "quote": "Grok 4.2 will be about an order of magnitude smarter and faster than Grok 4 when the public beta concludes next month.",
      "source": "https://x.com/elonmusk/status/2023836036896555294",
-     "url": "https://twoweeks.lol/predictions/grok-4-2-order-of-magnitude-2026/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-2-order-of-magnitude-2026"
     }
    ],
    "resolution": {
@@ -5477,7 +5492,7 @@
   },
   {
    "claim_id": "c213",
-   "url": "https://twoweeks.lol/predictions/grok-code-oneshot-upgrade-2026/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-code-oneshot-upgrade-2026",
    "title": "Major Grok Code upgrade that one-shots complex tasks",
    "company": "xAI",
    "topic": "AI",
@@ -5498,7 +5513,7 @@
      "status": "partial",
      "quote": "Major upgrade to Grok Code coming next month. It will one-shot many complex coding tasks.",
      "source": "https://x.com/elonmusk/status/2009167253741424855",
-     "url": "https://twoweeks.lol/predictions/grok-code-oneshot-upgrade-2026/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-code-oneshot-upgrade-2026"
     }
    ],
    "resolution": {
@@ -5564,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 26 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest notable updates Aug 13 / Sep 18 2026, Brazil 2026 election filter). 'What's not in this repo' still excludes Grox prompts, some botmaker rules, and the rest of X. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 27 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest commit 2f25214 Oct 27, 'Open-source X Recommendation Algorithm'). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5663,7 +5678,7 @@
   },
   {
    "claim_id": "c220",
-   "url": "https://twoweeks.lol/predictions/grok-imagine-v2-step-change-2025/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-imagine-v2-step-change-2025",
    "title": "Grok Imagine V2 video step-change by end of 2025",
    "company": "xAI",
    "topic": "AI",
@@ -5684,7 +5699,7 @@
      "status": "delivered-late",
      "quote": "Giant improvement with release of Imagine V2 in a few months!",
      "source": "https://x.com/elonmusk/status/1955645757899641294",
-     "url": "https://twoweeks.lol/predictions/grok-imagine-v2-step-change-2025/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-imagine-v2-step-change-2025"
     }
    ],
    "resolution": {
@@ -5694,7 +5709,7 @@
   },
   {
    "claim_id": "c221",
-   "url": "https://twoweeks.lol/predictions/fsd-step-change-update-2025/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-step-change-update-2025",
    "title": "FSD update: step-change for rare conditions",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -5715,7 +5730,7 @@
      "status": "delivered-late",
      "quote": "The FSD software update next month will be a major step-change improvement for rare conditions",
      "source": "https://x.com/elonmusk/status/1953658200471040159",
-     "url": "https://twoweeks.lol/predictions/fsd-step-change-update-2025/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-step-change-update-2025"
     }
    ],
    "resolution": {
@@ -5725,7 +5740,7 @@
   },
   {
    "claim_id": "c222",
-   "url": "https://twoweeks.lol/predictions/dojo-operational-2022/#dojo-2-online-2025",
+   "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#dojo-2-online-2025",
    "title": "Bring Dojo 2 online in 2025",
    "company": "Tesla",
    "topic": "AI",
@@ -5746,7 +5761,7 @@
      "status": "cancelled",
      "quote": "We start bringing Dojo 2 online later this year.",
      "source": "https://x.com/elonmusk/status/1930689309860045184",
-     "url": "https://twoweeks.lol/predictions/dojo-operational-2022/#dojo-2-online-2025"
+     "url": "https://twoweeks.lol/predictions/terafab-chip-fab-ai5-2027/#dojo-2-online-2025"
     }
    ],
    "resolution": {
@@ -5756,7 +5771,7 @@
   },
   {
    "claim_id": "c223",
-   "url": "https://twoweeks.lol/predictions/first-factory-to-customer-self-delivery-2025/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#first-factory-to-customer-self-delivery-2025",
    "title": "First autonomous factory-to-customer delivery",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -5777,7 +5792,7 @@
      "status": "delivered",
      "quote": "Next month, first self-delivery from factory to customer.",
      "source": "https://x.com/elonmusk/status/1927970940874354941",
-     "url": "https://twoweeks.lol/predictions/first-factory-to-customer-self-delivery-2025/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#first-factory-to-customer-self-delivery-2025"
     }
    ],
    "resolution": {
@@ -5787,8 +5802,8 @@
   },
   {
    "claim_id": "c224",
-   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/",
-   "title": "SpaceX catches the Ship with the tower on the next Starship flight",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-catch-end-of-2024",
+   "title": "Starship upper stage caught toward end of 2024",
    "company": "SpaceX",
    "topic": "Space",
    "status": "pending",
@@ -5815,7 +5830,7 @@
      "status": "missed",
      "quote": "if we get lucky, we might catch the ship towards the end of next year",
      "source": "https://www.youtube.com/watch?v=z0Hrz_Kv2L8&t=266s",
-     "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-ship-catch-end-of-2024"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-catch-end-of-2024"
     },
     {
      "statement_id": 224,
@@ -5825,7 +5840,7 @@
      "status": "missed",
      "quote": "Later this year, if fate smiles upon SpaceX, the ship will be caught by the tower, just like the booster",
      "source": "https://x.com/elonmusk/status/1922585324766507425",
-     "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-ship-caught-by-tower-2025"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-caught-by-tower-2025"
     },
     {
      "statement_id": 237,
@@ -5835,7 +5850,7 @@
      "status": "pending",
      "quote": "Unless we discover problems after mission data review, SpaceX will attempt to catch the ship with the tower on next flight",
      "source": "https://x.com/elonmusk/status/2080876967839031712",
-     "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#spacex-ship-tower-catch-next-flight"
     },
     {
      "statement_id": 507,
@@ -5845,7 +5860,7 @@
      "status": "pending",
      "quote": "For Flight 15, which we expect to happen next month, we're going to attempt to catch both the booster and the ship. This will be, if we succeed, will be the first time that an orbital launch vehicle has been fully recovered.",
      "source": "https://x.com/cb_doge/status/2112653610953887818",
-     "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-flight-15-catch-booster-and-ship-november-2026"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-15-catch-booster-and-ship-november-2026"
     }
    ],
    "resolution": {
@@ -5855,7 +5870,7 @@
   },
   {
    "claim_id": "c226",
-   "url": "https://twoweeks.lol/predictions/grok-cpp-stack-massive-gains/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-cpp-stack-massive-gains",
    "title": "Massive Grok gains in ~3 months from C/C++ stack rewrite",
    "company": "xAI",
    "topic": "AI",
@@ -5876,7 +5891,7 @@
      "status": "missed",
      "quote": "Truly massive gains will come in ~3 months when the entire training and inference stack is written in C/C++ and massively simplified (most software layers will be deleted completely) and we exact-map Grok to work incredibly well on a GB300",
      "source": "https://x.com/elonmusk/status/2071385784154759468",
-     "url": "https://twoweeks.lol/predictions/grok-cpp-stack-massive-gains/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-cpp-stack-massive-gains"
     }
    ],
    "resolution": {
@@ -5911,8 +5926,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: no public Tesla sales route, MSRP, or consumer orders for Optimus. robotpriceindex: not sold yet / no public price as of 2026-09. Oct 12 recap: no reservation page, deposit or waitlist. Internal production and possible H2 2027 commercial leases are not a public sale. Deadline end of 2027. Status stays pending.",
-    "url": "https://robotpriceindex.com/robots/tesla-optimus"
+    "summary": "Fetched Oct 27 2026: Electrek / AI Business (Oct 22) — first deliveries are to outside companies around end of 2027 for industrial work; no household-buyer date, no public Tesla sales route, MSRP or consumer orders. Deadline end of 2027. Status stays pending.",
+    "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/"
    }
   },
   {
@@ -5942,13 +5957,13 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: no SpaceX orbital AI-compute constellation is flying at gigawatt scale. Teslarati Oct 6: SpaceX's Starmind page says the Gigasat factory is designed to produce AI satellites at scale, with deployment of thousands of units starting as soon as late 2027. Earth-side Colossus hosting deals are not space compute. Deadline end of 2027. Status stays pending.",
-    "url": "https://www.teslarati.com/spacex-starmind-space-safety/"
+    "summary": "Fetched Oct 27 2026: no SpaceX orbital AI-compute constellation is flying at gigawatt scale. Open-sweep Oct 26: official Starmind page still plans Gigasat deployment of thousands of AI satellites as soon as late 2027. Earth-side Colossus is not space compute. Deadline end of 2027. Status stays pending.",
+    "url": "https://www.spacex.com/spacexsi/starmind"
    }
   },
   {
    "claim_id": "c229",
-   "url": "https://twoweeks.lol/predictions/grok-4-5-public-release/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-5-public-release",
    "title": "Grok 4.5 released to the public on July 9, 2026",
    "company": "xAI",
    "topic": "AI",
@@ -5969,7 +5984,7 @@
      "status": "delivered",
      "quote": "@SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.",
      "source": "https://x.com/elonmusk/status/2074740539874775163",
-     "url": "https://twoweeks.lol/predictions/grok-4-5-public-release/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-5-public-release"
     }
    ],
    "resolution": {
@@ -6041,7 +6056,7 @@
   },
   {
    "claim_id": "c236",
-   "url": "https://twoweeks.lol/predictions/semi-self-driving-end-2026-early-2027/",
+   "url": "https://twoweeks.lol/predictions/tesla-semi-production/#semi-self-driving-end-2026-early-2027",
    "title": "Self-driving working on the Tesla Semi by end of 2026 or early 2027",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -6062,7 +6077,7 @@
      "status": "pending",
      "quote": "We expect to get self-driving working on the Tesla Semi, probably around the end of this year or early next year.",
      "source": "https://www.youtube.com/watch?v=9H5y9Uag8AA",
-     "url": "https://twoweeks.lol/predictions/semi-self-driving-end-2026-early-2027/"
+     "url": "https://twoweeks.lol/predictions/tesla-semi-production/#semi-self-driving-end-2026-early-2027"
     }
    ],
    "resolution": {
@@ -6072,7 +6087,7 @@
   },
   {
    "claim_id": "c238",
-   "url": "https://twoweeks.lol/predictions/ai-robot-singularity-ten-years/",
+   "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-robot-singularity-ten-years",
    "title": "AI robot singularity is 10 years away",
    "company": "xAI",
    "topic": "AI",
@@ -6093,7 +6108,7 @@
      "status": "pending",
      "quote": "The AI robot singularity is 10 years away.",
      "source": "https://elonmuskarchive.org/video/economist-elon-musk-2026-07-23",
-     "url": "https://twoweeks.lol/predictions/ai-robot-singularity-ten-years/"
+     "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-robot-singularity-ten-years"
     }
    ],
    "resolution": {
@@ -6103,7 +6118,7 @@
   },
   {
    "claim_id": "c239",
-   "url": "https://twoweeks.lol/predictions/grok-4-6-out-in-a-week/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-6-out-in-a-week",
    "title": "Grok 4.6 comes out in a week (by Aug 6, 2026)",
    "company": "xAI",
    "topic": "AI",
@@ -6124,7 +6139,7 @@
      "status": "delivered-late",
      "quote": "And Grok 4.6 comes out in a week",
      "source": "https://x.com/elonmusk/status/2082707547203518569",
-     "url": "https://twoweeks.lol/predictions/grok-4-6-out-in-a-week/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-6-out-in-a-week"
     }
    ],
    "resolution": {
@@ -6165,7 +6180,7 @@
   },
   {
    "claim_id": "c242",
-   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-flight-a-day-within-year",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-a-day-within-year",
    "title": "Starship flies at least once a day within a year",
    "company": "SpaceX",
    "topic": "Space",
@@ -6186,7 +6201,7 @@
      "status": "pending",
      "quote": "We expect the cadence of flights to be increasing rapidly, and probably a year from now, we will be doing at least one flight a day, possibly more.",
      "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-spacex-beats-revenue-estimates-in-q2-2026-shares-swing-93CH-4836052",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-flight-a-day-within-year"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-a-day-within-year"
     }
    ],
    "resolution": {
@@ -6227,7 +6242,7 @@
   },
   {
    "claim_id": "c244",
-   "url": "https://twoweeks.lol/predictions/starship-safe-for-humans-2027/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-safe-for-humans-2027",
    "title": "Starship safe enough to fly people by end of 2027",
    "company": "SpaceX",
    "topic": "Space",
@@ -6248,7 +6263,7 @@
      "status": "pending",
      "quote": "For Starship, obviously we need to make Starship super reliable for satellites before we put any people on board. We are expecting to have a very high launch rate and thus achieve a level of safety needed for humans very quickly, probably by the end of next year.",
      "source": "https://www.investing.com/news/transcripts/earnings-call-transcript-spacex-beats-revenue-estimates-in-q2-2026-shares-swing-93CH-4836052",
-     "url": "https://twoweeks.lol/predictions/starship-safe-for-humans-2027/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-safe-for-humans-2027"
     }
    ],
    "resolution": {
@@ -6289,7 +6304,7 @@
   },
   {
    "claim_id": "c247",
-   "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-ship-reused-in-2025",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-reused-in-2025",
    "title": "Starship ship reused in 2025",
    "company": "SpaceX",
    "topic": "Space",
@@ -6313,7 +6328,7 @@
      "status": "missed",
      "quote": "So my guess is probably next year is when we will be able to reuse Starship.",
      "source": "https://www.youtube.com/watch?v=tdUX3ypDVwI&t=1382s",
-     "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-ship-reused-in-2025"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-reused-in-2025"
     },
     {
      "statement_id": 247,
@@ -6323,7 +6338,7 @@
      "status": "pending",
      "quote": "First reflight of the ship will be either end of this year or early next.",
      "source": "https://x.com/elonmusk/status/2090305535937851863",
-     "url": "https://twoweeks.lol/predictions/starship-full-reusability-rapid-reflight-2027/#starship-first-ship-reflight-early-2027"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-first-ship-reflight-early-2027"
     }
    ],
    "resolution": {
@@ -6376,7 +6391,7 @@
   },
   {
    "claim_id": "c250",
-   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-30-launches-per-day-2030",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-30-launches-per-day-2030",
    "title": "30+ Starship launches per day in 2030",
    "company": "SpaceX",
    "topic": "Space",
@@ -6397,7 +6412,7 @@
      "status": "pending",
      "quote": "We’re aiming to reach 30+ Starship launches/day in 2030, which is ~10k annualized.",
      "source": "https://x.com/elonmusk/status/2090597441552679012",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-30-launches-per-day-2030"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-30-launches-per-day-2030"
     }
    ],
    "resolution": {
@@ -6407,7 +6422,7 @@
   },
   {
    "claim_id": "c251",
-   "url": "https://twoweeks.lol/predictions/starbase-louisiana-dozen-towers/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starbase-louisiana-dozen-towers",
    "title": "Starbase Louisiana: 12+ launch towers, 30+ Starship flights a day",
    "company": "SpaceX",
    "topic": "Space",
@@ -6428,7 +6443,7 @@
      "status": "pending",
      "quote": "Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making it the biggest launch site on Earth!",
      "source": "https://x.com/elonmusk/status/2092292773915537580",
-     "url": "https://twoweeks.lol/predictions/starbase-louisiana-dozen-towers/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starbase-louisiana-dozen-towers"
     }
    ],
    "resolution": {
@@ -6469,7 +6484,7 @@
   },
   {
    "claim_id": "c253",
-   "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/#100-million-humanoid-robots-five-years",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#100-million-humanoid-robots-five-years",
    "title": "At least 100 million humanoid robots within 5 years",
    "company": "Tesla",
    "topic": "Robots",
@@ -6490,7 +6505,7 @@
      "status": "pending",
      "quote": "That there will be in 5 years, let's say at least 100 million humanoid robots, but maybe a billion.",
      "source": "https://www.youtube.com/watch?v=3PTCFgmUVaE",
-     "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/#100-million-humanoid-robots-five-years"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#100-million-humanoid-robots-five-years"
     }
    ],
    "resolution": {
@@ -6562,7 +6577,7 @@
   },
   {
    "claim_id": "c256",
-   "url": "https://twoweeks.lol/predictions/ai-digital-superhuman-end-2027/",
+   "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-digital-superhuman-end-2027",
    "title": "AI does any digital work at superhuman level by end of 2027",
    "company": "xAI",
    "topic": "AI",
@@ -6583,7 +6598,7 @@
      "status": "pending",
      "quote": "AI will be able to do anything digital (that doesn’t require shaping atoms) at a superhuman level by the end of next year.",
      "source": "https://x.com/elonmusk/status/2094242307511853196",
-     "url": "https://twoweeks.lol/predictions/ai-digital-superhuman-end-2027/"
+     "url": "https://twoweeks.lol/predictions/agi-achieved-in-2026/#ai-digital-superhuman-end-2027"
     }
    ],
    "resolution": {
@@ -6624,7 +6639,7 @@
   },
   {
    "claim_id": "c258",
-   "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#billion-humanoid-robots-ten-years",
    "title": "Well over a billion humanoid robots within 10 years",
    "company": "Tesla",
    "topic": "Robots",
@@ -6645,7 +6660,7 @@
      "status": "pending",
      "quote": "If you say like 10 years from now, I would say there are well over a billion humanoid robots.",
      "source": "https://www.youtube.com/watch?v=VFUp66FB4xw",
-     "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#billion-humanoid-robots-ten-years"
     }
    ],
    "resolution": {
@@ -6655,7 +6670,7 @@
   },
   {
    "claim_id": "c259",
-   "url": "https://twoweeks.lol/predictions/grok-4-7-out-in-10-days/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-7-out-in-10-days",
    "title": "Grok 4.7 needs a few more days (by Sep 16, 2026)",
    "company": "xAI",
    "topic": "AI",
@@ -6679,7 +6694,7 @@
      "status": "delivered-late",
      "quote": "Grok 4.7 comes out in 10 days",
      "source": "https://x.com/elonmusk/status/2094983639780204846",
-     "url": "https://twoweeks.lol/predictions/grok-4-7-out-in-10-days/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-7-out-in-10-days"
     }
    ],
    "resolution": {
@@ -6745,14 +6760,14 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 14 2026: IMF October 2026 WEO projects global growth of 3.1% in 2026 (not a doubling). IMF April 2026 WEO via StatisticsTimes: world GDP about $126.3T nominal / $223T PPP in 2026 vs $118.2T / $210.3T in 2025. Deadline 2036-09-08. No Musk restatement of a new date. Status stays pending.",
+    "summary": "Fetched Oct 27 2026: IMF October 2026 WEO still projects global growth of 3.1% in 2026, not a doubling. Deadline 2036-09-08. No Musk restatement of a new date. Status stays pending.",
     "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
    }
   },
   {
    "claim_id": "c262",
-   "url": "https://twoweeks.lol/predictions/roadster-unveil-october-1-2026/",
-   "title": "New Tesla Roadster unveiled October 15, 2026, two weeks late",
+   "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#most-epic-demo-ever-by-end-of-2025",
+   "title": "'Most epic demo ever' by end of 2025",
    "company": "Tesla",
    "topic": "Cars & Energy",
    "status": "delivered-late",
@@ -6776,7 +6791,7 @@
      "status": "missed",
      "quote": "Just left the @Tesla design studio. Most epic demo ever by end of year. Ever.",
      "source": "https://x.com/elonmusk/status/1944585146952470601",
-     "url": "https://twoweeks.lol/predictions/roadster-unveil-october-1-2026/#most-epic-demo-ever-by-end-of-2025"
+     "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#most-epic-demo-ever-by-end-of-2025"
     },
     {
      "statement_id": 262,
@@ -6786,7 +6801,7 @@
      "status": "delivered",
      "quote": "New Tesla Roadster Unveil 10.01",
      "source": "https://x.com/elonmusk/status/2098932438055469451",
-     "url": "https://twoweeks.lol/predictions/roadster-unveil-october-1-2026/"
+     "url": "https://twoweeks.lol/predictions/tesla-roadster-production/#roadster-unveil-october-1-2026"
     }
    ],
    "resolution": {
@@ -6796,7 +6811,7 @@
   },
   {
    "claim_id": "c263",
-   "url": "https://twoweeks.lol/predictions/grok-4-8-finish-training-this-week/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-finish-training-this-week",
    "title": "Grok 4.8 finishes training this week (by Sep 20, 2026)",
    "company": "xAI",
    "topic": "AI",
@@ -6817,7 +6832,7 @@
      "status": "missed",
      "quote": "Grok 4.8, which is a 2.5T model trained with our new C++ software stack, will finish training this week and start RL",
      "source": "https://x.com/elonmusk/status/2099308197802631191",
-     "url": "https://twoweeks.lol/predictions/grok-4-8-finish-training-this-week/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-finish-training-this-week"
     }
    ],
    "resolution": {
@@ -6827,8 +6842,8 @@
   },
   {
    "claim_id": "c264",
-   "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/",
-   "title": "Starship Flight 14 aims to launch tomorrow morning (Sep 28, 2026)",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-next-flight-september-22-2026",
+   "title": "Next Starship flight on September 22, 2026",
    "company": "SpaceX",
    "topic": "Space",
    "status": "delivered-late",
@@ -6850,7 +6865,7 @@
      "status": "missed",
      "quote": "Next Starship flight on 9/22",
      "source": "https://x.com/elonmusk/status/2099927224761881030",
-     "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/#starship-next-flight-september-22-2026"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-next-flight-september-22-2026"
     },
     {
      "statement_id": 274,
@@ -6860,7 +6875,7 @@
      "status": "delivered",
      "quote": "Starship Flight 14 aiming to launch tomorrow morning",
      "source": "https://x.com/elonmusk/status/2104361390123430335",
-     "url": "https://twoweeks.lol/predictions/starship-flight-14-september-28-2026/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-14-september-28-2026"
     }
    ],
    "resolution": {
@@ -6870,7 +6885,7 @@
   },
   {
    "claim_id": "c265",
-   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-v3-deploy-starts-september-2026",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-v3-deploy-starts-september-2026",
    "title": "Starlink V3 constellation starts deploying this month (by Sep 30, 2026)",
    "company": "SpaceX",
    "topic": "Space",
@@ -6891,7 +6906,7 @@
      "status": "delivered",
      "quote": "Starlink V3 constellation starts being deployed this month. \n\nUltimately, it will deliver more than 100 times the bandwidth of our current 11,000 satellite constellation.",
      "source": "https://x.com/elonmusk/status/2099933912697127398",
-     "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-v3-deploy-starts-september-2026"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-v3-deploy-starts-september-2026"
     }
    ],
    "resolution": {
@@ -6976,7 +6991,7 @@
   },
   {
    "claim_id": "c269",
-   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starship-orbit-starlink-v3-operational-7-days",
    "title": "Starship to orbit with operational Starlink V3 sats in 7 days",
    "company": "SpaceX",
    "topic": "Space",
@@ -6997,7 +7012,7 @@
      "status": "delivered",
      "quote": "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use",
      "source": "https://x.com/elonmusk/status/2102068280156414171",
-     "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starship-orbit-starlink-v3-operational-7-days"
     }
    ],
    "resolution": {
@@ -7038,7 +7053,7 @@
   },
   {
    "claim_id": "c271",
-   "url": "https://twoweeks.lol/predictions/spacex-fable-gpt6-level-model-2-3-months/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#spacex-fable-gpt6-level-model-2-3-months",
    "title": "SpaceX Fable/GPT-6-level model in 2–3 months",
    "company": "SpaceX",
    "topic": "AI",
@@ -7059,7 +7074,7 @@
      "status": "pending",
      "quote": "I am cautiously optimistic that SpaceX will have a Fable/GPT-6 level model in 2 to 3 months",
      "source": "https://x.com/elonmusk/status/2103151040858067289",
-     "url": "https://twoweeks.lol/predictions/spacex-fable-gpt6-level-model-2-3-months/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#spacex-fable-gpt6-level-model-2-3-months"
     }
    ],
    "resolution": {
@@ -7069,7 +7084,7 @@
   },
   {
    "claim_id": "c272",
-   "url": "https://twoweeks.lol/predictions/colossus-220k-gb300-operational-next-week/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#colossus-220k-gb300-operational-next-week",
    "title": "Colossus +220k GB300 fully operational next week",
    "company": "xAI",
    "topic": "AI",
@@ -7090,7 +7105,7 @@
      "status": "missed",
      "quote": "Another 220k GB300 will be fully operational next week and another 220k in November. If we get lucky, yet another 220k GB300 by late December.",
      "source": "https://x.com/elonmusk/status/2103329761690865846",
-     "url": "https://twoweeks.lol/predictions/colossus-220k-gb300-operational-next-week/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#colossus-220k-gb300-operational-next-week"
     }
    ],
    "resolution": {
@@ -7100,7 +7115,7 @@
   },
   {
    "claim_id": "c273",
-   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-hourly-flights-2-3-years",
    "title": "Starship hourly flights in 2–3 years",
    "company": "SpaceX",
    "topic": "Space",
@@ -7121,7 +7136,7 @@
      "status": "pending",
      "quote": "Starship is 2 to 3 years away from hourly flights",
      "source": "https://x.com/elonmusk/status/2104241521746649165",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-hourly-flights-2-3-years"
     }
    ],
    "resolution": {
@@ -7193,7 +7208,7 @@
   },
   {
    "claim_id": "c277",
-   "url": "https://twoweeks.lol/predictions/starlink-300mbps-20ms-2021/",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-300mbps-20ms-2021",
    "title": "Starlink speed doubles to ~300Mb/s in 2021",
    "company": "SpaceX",
    "topic": "Space",
@@ -7214,7 +7229,7 @@
      "status": "missed",
      "quote": "Speed will double to ~300Mb/s & latency will drop to ~20ms later this year",
      "source": "https://x.com/elonmusk/status/1363763858121256963",
-     "url": "https://twoweeks.lol/predictions/starlink-300mbps-20ms-2021/"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-300mbps-20ms-2021"
     }
    ],
    "resolution": {
@@ -7255,7 +7270,7 @@
   },
   {
    "claim_id": "c279",
-   "url": "https://twoweeks.lol/predictions/boring-la-tunnel-opens-dec-10-2018/",
+   "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#boring-la-tunnel-opens-dec-10-2018",
    "title": "First Boring tunnel opens Dec 10, free public rides next day",
    "company": "Boring Company",
    "topic": "Tunnels & Transport",
@@ -7279,7 +7294,7 @@
      "status": "missed",
      "quote": "Opens Dec 10",
      "source": "https://x.com/elonmusk/status/1054164838430064640",
-     "url": "https://twoweeks.lol/predictions/boring-la-tunnel-opens-dec-10-2018/"
+     "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#boring-la-tunnel-opens-dec-10-2018"
     }
    ],
    "resolution": {
@@ -7320,7 +7335,7 @@
   },
   {
    "claim_id": "c281",
-   "url": "https://twoweeks.lol/predictions/xai-open-source-0-5t-model-2026/#grok-3-open-source-in-6-months",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-3-open-source-in-6-months",
    "title": "Grok 3 open-sourced in about 6 months",
    "company": "xAI",
    "topic": "AI",
@@ -7341,7 +7356,7 @@
      "status": "missed",
      "quote": "The @xAI Grok 2.5 model, which was our best model last year, is now open source. Grok 3 will be made open source in about 6 months.",
      "source": "https://x.com/elonmusk/status/1959379349322313920",
-     "url": "https://twoweeks.lol/predictions/xai-open-source-0-5t-model-2026/#grok-3-open-source-in-6-months"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-3-open-source-in-6-months"
     }
    ],
    "resolution": {
@@ -7491,7 +7506,7 @@
   },
   {
    "claim_id": "c288",
-   "url": "https://twoweeks.lol/predictions/grok-3-end-of-2024/#grok-3-5-early-beta-next-week",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-3-5-early-beta-next-week",
    "title": "Grok 3.5 early beta next week (May 2025)",
    "company": "xAI",
    "topic": "AI",
@@ -7512,7 +7527,7 @@
      "status": "missed",
      "quote": "Next week, Grok 3.5 early beta release to SuperGrok subscribers only.",
      "source": "https://x.com/elonmusk/status/1917099777327829386",
-     "url": "https://twoweeks.lol/predictions/grok-3-end-of-2024/#grok-3-5-early-beta-next-week"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-3-5-early-beta-next-week"
     }
    ],
    "resolution": {
@@ -7553,7 +7568,7 @@
   },
   {
    "claim_id": "c290",
-   "url": "https://twoweeks.lol/predictions/v9-full-self-driving-features-august-2018/#fsd-v9-and-download-button-next-month-2021",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v9-and-download-button-next-month-2021",
    "title": "FSD Beta V9 and the download button next month (April 2021)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -7574,7 +7589,7 @@
      "status": "delivered-late",
      "quote": "Given significant architectural changes, including fundamental improvements to pure vision, there is limited value to testing 8.x. Hoping to upload V9.0 & button next month.",
      "source": "https://x.com/elonmusk/status/1373145910549483522",
-     "url": "https://twoweeks.lol/predictions/v9-full-self-driving-features-august-2018/#fsd-v9-and-download-button-next-month-2021"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v9-and-download-button-next-month-2021"
     }
    ],
    "resolution": {
@@ -7691,7 +7706,7 @@
   },
   {
    "claim_id": "c295",
-   "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/#robotaxi-8-to-10-metro-areas-end-2025",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-8-to-10-metro-areas-end-2025",
    "title": "Robotaxi in 8–10 metro areas by end of 2025",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -7712,7 +7727,7 @@
      "status": "missed",
      "quote": "And then we do expect to be operating robotaxi in, I think, about 8 to 10 metro areas by the end of the year.",
      "source": "https://signals.ai/symbol/tsla/earnings/q3-fy25/transcript",
-     "url": "https://twoweeks.lol/predictions/robotaxi-quarter-to-half-us-2026/#robotaxi-8-to-10-metro-areas-end-2025"
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#robotaxi-8-to-10-metro-areas-end-2025"
     }
    ],
    "resolution": {
@@ -7939,8 +7954,8 @@
   },
   {
    "claim_id": "c314",
-   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/",
-   "title": "Tesla names its Europe Gigafactory site by end of 2019",
+   "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#tesla-europe-gigafactory-site-by-end-of-2018",
+   "title": "Tesla picks a European Gigafactory site before end of 2018",
    "company": "Tesla",
    "topic": "Cars & Energy",
    "status": "delivered-late",
@@ -7963,7 +7978,7 @@
      "status": "missed",
      "quote": "I should say we are hoping to identify a gigafactory location in Europe before the end of this year.",
      "source": "https://www.youtube.com/watch?v=1I9UtyZMTek&t=4178s",
-     "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#tesla-europe-gigafactory-site-by-end-of-2018"
+     "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#tesla-europe-gigafactory-site-by-end-of-2018"
     },
     {
      "statement_id": 314,
@@ -7973,7 +7988,7 @@
      "status": "delivered",
      "quote": "In fact, we will announce the location of that Gigafactory before the end of this year.",
      "source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-3Q19-transcript",
-     "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/"
+     "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#europe-gigafactory-location-by-end-2019"
     }
    ],
    "resolution": {
@@ -8227,10 +8242,13 @@
    "first_said": "2019-05-22",
    "first_deadline": "2019-12-31",
    "current_deadline": "2019-12-31",
-   "resolved_date": "2020-05-14",
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
+   "resolved_date": "2021-06-08",
+   "times_moved": 1,
+   "goalpost_history": [
+    "2019",
+    "2020"
+   ],
+   "statements": 2,
    "timeline": [
     {
      "statement_id": 324,
@@ -8241,16 +8259,26 @@
      "quote": "Boring Company starts digging Vegas tunnel in 2 months. Aiming to finish by end of year.",
      "source": "https://x.com/elonmusk/status/1131373357922865152",
      "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/"
+    },
+    {
+     "statement_id": 390,
+     "date_made": "2020-10-16",
+     "deadline": "2020-12-31",
+     "change": "goalpost_moved",
+     "status": "delivered-late",
+     "quote": "And we have the first production tunnel or useful tunnel in Vegas that's going to open in a month or two. So a few months I guess, and hopefully we'll be ready for prime time around the Consumer Electronics Show.",
+     "source": "https://www.youtube.com/watch?v=9OnelpilSkU&t=1969s",
+     "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#las-vegas-loop-opens-in-a-month-or-two"
     }
    ],
    "resolution": {
-    "summary": "Musk aimed to finish the Las Vegas Convention Center tunnel by end of 2019. Boring finished digging the second tunnel on May 14 2020, and the Loop opened to riders in 2021.",
-    "url": "https://www.theverge.com/2020/5/14/21257849/elon-musk-boring-company-las-vegas-tunnel-finished-digging"
+    "summary": "The LVCC Loop carried its first convention visitors in April-June 2021 (World of Concrete, Jun 8 2021), months after the target. CES 2021 went virtual. It happened late: the Las Vegas Convention Center Loop carried its first convention visitors in June 2021. Re-graded delivered-late on 2026-10-18: a missed date becomes delivered-late once it happens.",
+    "url": "https://en.wikipedia.org/wiki/Las_Vegas_Convention_Center_Loop"
    }
   },
   {
    "claim_id": "c325",
-   "url": "https://twoweeks.lol/predictions/hyperloop-competition-10km-tunnel-2020/",
+   "url": "https://twoweeks.lol/predictions/la-sf-tunnel-travel-time-30/#hyperloop-competition-10km-tunnel-2020",
    "title": "2020 Hyperloop competition in a 10 km vacuum tunnel",
    "company": "SpaceX",
    "topic": "Cars & Energy",
@@ -8271,7 +8299,7 @@
      "status": "missed",
      "quote": "Next year's @Hyperloop competition will be in a 10km vacuum tunnel with a curve",
      "source": "https://x.com/elonmusk/status/1153144324915228673",
-     "url": "https://twoweeks.lol/predictions/hyperloop-competition-10km-tunnel-2020/"
+     "url": "https://twoweeks.lol/predictions/la-sf-tunnel-travel-time-30/#hyperloop-competition-10km-tunnel-2020"
     }
    ],
    "resolution": {
@@ -8281,7 +8309,7 @@
   },
   {
    "claim_id": "c327",
-   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-orbital-stack-ready-in-a-few-weeks-2021",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-orbital-stack-ready-in-a-few-weeks-2021",
    "title": "First orbital Starship stack ready to fly in a few weeks (Aug 2021)",
    "company": "SpaceX",
    "topic": "Space",
@@ -8302,7 +8330,7 @@
      "status": "delivered-late",
      "quote": "First orbital stack of Starship should be ready for flight in a few weeks, pending only regulatory approval",
      "source": "https://x.com/elonmusk/status/1426715232475533319",
-     "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-orbital-stack-ready-in-a-few-weeks-2021"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-orbital-stack-ready-in-a-few-weeks-2021"
     }
    ],
    "resolution": {
@@ -8312,7 +8340,7 @@
   },
   {
    "claim_id": "c328",
-   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-60-launches-in-2022",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-60-launches-in-2022",
    "title": "SpaceX aims for 60 launches in 2022",
    "company": "SpaceX",
    "topic": "Space",
@@ -8333,7 +8361,7 @@
      "status": "delivered",
      "quote": "SpaceX Falcon team is making excellent progress – aiming for 60 launches this year!",
      "source": "https://x.com/elonmusk/status/1508540042817376256",
-     "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-60-launches-in-2022"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-60-launches-in-2022"
     }
    ],
    "resolution": {
@@ -8405,7 +8433,7 @@
   },
   {
    "claim_id": "c333",
-   "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-launch-attempt-next-month-mar-2023",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-launch-attempt-next-month-mar-2023",
    "title": "Starship launch attempt next month (March 2023)",
    "company": "SpaceX",
    "topic": "Space",
@@ -8426,7 +8454,7 @@
      "status": "delivered-late",
      "quote": "If remaining tests go well, we will attempt a Starship launch next month",
      "source": "https://x.com/elonmusk/status/1621998434289942529",
-     "url": "https://twoweeks.lol/predictions/starship-reaches-orbit/#starship-launch-attempt-next-month-mar-2023"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-launch-attempt-next-month-mar-2023"
     }
    ],
    "resolution": {
@@ -8467,7 +8495,7 @@
   },
   {
    "claim_id": "c336",
-   "url": "https://twoweeks.lol/predictions/grok-for-all-premium-plus-next-week-2023/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-for-all-premium-plus-next-week-2023",
    "title": "Grok available to all X Premium+ subscribers next week (Nov 2023)",
    "company": "xAI",
    "topic": "AI",
@@ -8488,7 +8516,7 @@
      "status": "delivered-late",
      "quote": "Yeah. Grok should be available to all X Premium+ subscribers next week.",
      "source": "https://x.com/elonmusk/status/1727141345876402236",
-     "url": "https://twoweeks.lol/predictions/grok-for-all-premium-plus-next-week-2023/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-for-all-premium-plus-next-week-2023"
     }
    ],
    "resolution": {
@@ -8498,7 +8526,7 @@
   },
   {
    "claim_id": "c337",
-   "url": "https://twoweeks.lol/predictions/grok-1-5-next-month-feb-2024/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-1-5-next-month-feb-2024",
    "title": "Grok 1.5 out next month (February 2024)",
    "company": "xAI",
    "topic": "AI",
@@ -8519,7 +8547,7 @@
      "status": "delivered-late",
      "quote": "Yes, Grok 1.5 should be out next month with substantial improvements across the board",
      "source": "https://x.com/elonmusk/status/1749481112076751120",
-     "url": "https://twoweeks.lol/predictions/grok-1-5-next-month-feb-2024/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-1-5-next-month-feb-2024"
     }
    ],
    "resolution": {
@@ -8560,28 +8588,41 @@
   },
   {
    "claim_id": "c339",
-   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/",
-   "title": "Falcon flies more than 150 times in 2025",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-150-flights-in-2024",
+   "title": "Falcon flies as many as ~150 times in 2024",
    "company": "SpaceX",
    "topic": "Space",
-   "status": "delivered",
-   "first_said": "2024-11-27",
-   "first_deadline": "2025-12-31",
-   "current_deadline": "2025-12-31",
+   "status": "delivered-late",
+   "first_said": "2024-03-18",
+   "first_deadline": "2024-12-31",
+   "current_deadline": "2024-12-31",
    "resolved_date": "2025-12-31",
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
+   "times_moved": 1,
+   "goalpost_history": [
+    "2024",
+    "2025"
+   ],
+   "statements": 2,
    "timeline": [
+    {
+     "statement_id": 444,
+     "date_made": "2024-03-18",
+     "deadline": "2024-12-31",
+     "change": "first",
+     "status": "missed",
+     "quote": "we're aiming for maybe as much as 150 flights this year",
+     "source": "https://www.youtube.com/watch?v=TUQzeUaGxBI&t=12s",
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-150-flights-in-2024"
+    },
     {
      "statement_id": 339,
      "date_made": "2024-11-27",
      "deadline": "2025-12-31",
-     "change": "first",
+     "change": "goalpost_moved",
      "status": "delivered",
      "quote": "And next year, Falcon is aiming for >150 flights!",
      "source": "https://x.com/elonmusk/status/1861825141581152440",
-     "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-over-150-flights-2025"
     }
    ],
    "resolution": {
@@ -8591,7 +8632,7 @@
   },
   {
    "claim_id": "c340",
-   "url": "https://twoweeks.lol/predictions/grokipedia-v0-1-in-two-weeks-2025/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grokipedia-v0-1-in-two-weeks-2025",
    "title": "Grokipedia v0.1 published in two weeks (Oct 2025)",
    "company": "xAI",
    "topic": "AI",
@@ -8612,7 +8653,7 @@
      "status": "delivered-late",
      "quote": "Version 0.1 early beta of Grokipedia will be published in 2 weeks",
      "source": "https://x.com/elonmusk/status/1974698202625679361",
-     "url": "https://twoweeks.lol/predictions/grokipedia-v0-1-in-two-weeks-2025/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grokipedia-v0-1-in-two-weeks-2025"
     }
    ],
    "resolution": {
@@ -8653,7 +8694,7 @@
   },
   {
    "claim_id": "c343",
-   "url": "https://twoweeks.lol/predictions/spacex-a-raptor-a-day-by-2020/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#spacex-a-raptor-a-day-by-2020",
    "title": "SpaceX building about a Raptor engine a day by 2020",
    "company": "SpaceX",
    "topic": "Space",
@@ -8674,7 +8715,7 @@
      "status": "delivered-late",
      "quote": "SpaceX engine production is gearing up to build about a Raptor a day by next year, so up to 365 engines per year.",
      "source": "https://x.com/elonmusk/status/1192605854270312448",
-     "url": "https://twoweeks.lol/predictions/spacex-a-raptor-a-day-by-2020/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#spacex-a-raptor-a-day-by-2020"
     }
    ],
    "resolution": {
@@ -8683,39 +8724,8 @@
    }
   },
   {
-   "claim_id": "c344",
-   "url": "https://twoweeks.lol/predictions/25k-tesla-in-3-years-battery-day/#tesla-next-gen-low-cost-vehicle-production-2h-2025",
-   "title": "Next-gen low-cost Tesla in production in 2H 2025 at Giga Texas",
-   "company": "Tesla",
-   "topic": "Cars & Energy",
-   "status": "missed",
-   "first_said": "2024-01-24",
-   "first_deadline": "2025-12-31",
-   "current_deadline": "2025-12-31",
-   "resolved_date": null,
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
-   "timeline": [
-    {
-     "statement_id": 344,
-     "date_made": "2024-01-24",
-     "deadline": "2025-12-31",
-     "change": "first",
-     "status": "missed",
-     "quote": "But our current schedule says that we will start production towards the end of 2025, so sometime in the second half. That's just what our current schedule says.",
-     "source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-4Q23-transcript",
-     "url": "https://twoweeks.lol/predictions/25k-tesla-in-3-years-battery-day/#tesla-next-gen-low-cost-vehicle-production-2h-2025"
-    }
-   ],
-   "resolution": {
-    "summary": "No all-new low-cost Tesla platform began production in 2025. Tesla instead launched cheaper 'Standard' trims of the Model Y and Model 3 in October 2025 on existing lines. Cybercab, the next-gen platform's first product, began production at Giga Texas in 2026.",
-    "url": "https://techcrunch.com/2025/10/07/tesla-reveals-slightly-cheaper-standard-versions-of-the-model-3-and-model-y/"
-   }
-  },
-  {
    "claim_id": "c345",
-   "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/#10-billion-humanoid-robots-by-2040",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#10-billion-humanoid-robots-by-2040",
    "title": "At least 10 billion humanoid robots by 2040",
    "company": "Tesla",
    "topic": "AI",
@@ -8736,7 +8746,7 @@
      "status": "pending",
      "quote": "If you say like 2040, probably there are more humanoid robots than there are people. So on the order of 10 billion",
      "source": "https://elonmuskarchive.org/video/fii8-riyadh-2024-musk",
-     "url": "https://twoweeks.lol/predictions/billion-humanoid-robots-ten-years/#10-billion-humanoid-robots-by-2040"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#10-billion-humanoid-robots-by-2040"
     }
    ],
    "resolution": {
@@ -8994,7 +9004,7 @@
   },
   {
    "claim_id": "c355",
-   "url": "https://twoweeks.lol/predictions/shanghai-gigafactory-timeline-2019/#tesla-china-production-in-about-three-years-2017",
+   "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#tesla-china-production-in-about-three-years-2017",
    "title": "Tesla China factory starts production in about three years",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -9015,7 +9025,7 @@
      "status": "delivered",
      "quote": "The China plan is sort of maybe something like ... a rough target of start of production in about three years.",
      "source": "https://stockanalysis.com/stocks/tsla/transcripts/23967-q3-2017/",
-     "url": "https://twoweeks.lol/predictions/shanghai-gigafactory-timeline-2019/#tesla-china-production-in-about-three-years-2017"
+     "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#tesla-china-production-in-about-three-years-2017"
     }
    ],
    "resolution": {
@@ -9087,7 +9097,7 @@
   },
   {
    "claim_id": "c358",
-   "url": "https://twoweeks.lol/predictions/starship-update-in-two-weeks-or-so-2019/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-update-in-two-weeks-or-so-2019",
    "title": "Starship update presentation in 'two weeks or so' (July 2019)",
    "company": "SpaceX",
    "topic": "Space",
@@ -9108,7 +9118,7 @@
      "status": "delivered-late",
      "quote": "Now that Hopper has flown, Starship update probably in two weeks or so.",
      "source": "https://x.com/elonmusk/status/1155415096387969024",
-     "url": "https://twoweeks.lol/predictions/starship-update-in-two-weeks-or-so-2019/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-update-in-two-weeks-or-so-2019"
     }
    ],
    "resolution": {
@@ -9118,7 +9128,7 @@
   },
   {
    "claim_id": "c359",
-   "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-mk1-test-flight-in-one-to-two-months",
    "title": "Starship Mk1 flies to ~20 km in one to two months (2019)",
    "company": "SpaceX",
    "topic": "Space",
@@ -9139,7 +9149,7 @@
      "status": "missed",
      "quote": "Our plan is in basically one to two months to do the 20 kilometer or 65,000 foot flight with Starship Mark 1.",
      "source": "https://www.youtube.com/watch?v=sOpMrVnjYeY&t=3002s",
-     "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-mk1-test-flight-in-one-to-two-months"
     }
    ],
    "resolution": {
@@ -9211,7 +9221,7 @@
   },
   {
    "claim_id": "c364",
-   "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/#tesla-next-fsd-chip-in-about-two-years-2019",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#tesla-next-fsd-chip-in-about-two-years-2019",
    "title": "Next Tesla self-driving chip (HW4) in about two years",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -9232,7 +9242,7 @@
      "status": "delivered-late",
      "quote": "We don't want to talk too much about the next-generation chip, but it'll be at least, let's say, three times better than the current system. About two years away.",
      "source": "https://www.youtube.com/watch?v=Ucp0TTmvqOE&t=6201s",
-     "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/#tesla-next-fsd-chip-in-about-two-years-2019"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#tesla-next-fsd-chip-in-about-two-years-2019"
     }
    ],
    "resolution": {
@@ -9242,7 +9252,7 @@
   },
   {
    "claim_id": "c366",
-   "url": "https://twoweeks.lol/predictions/starship-flight-15-before-thanksgiving-2026/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-15-before-thanksgiving-2026",
    "title": "Starship Flight 15 launches a little before Thanksgiving 2026",
    "company": "SpaceX",
    "topic": "Space",
@@ -9263,7 +9273,7 @@
      "status": "pending",
      "quote": "So we don't know the exact launch date, but probably about four weeks or so. Four to six weeks is about right. Probably launches a little bit before Thanksgiving is my guess.",
      "source": "https://www.youtube.com/watch?v=tUHHZsN7tPM",
-     "url": "https://twoweeks.lol/predictions/starship-flight-15-before-thanksgiving-2026/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-15-before-thanksgiving-2026"
     }
    ],
    "resolution": {
@@ -9304,7 +9314,7 @@
   },
   {
    "claim_id": "c368",
-   "url": "https://twoweeks.lol/predictions/falcon-1-first-launch-vandenberg-march-2004/",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-1-first-launch-vandenberg-march-2004",
    "title": "Falcon 1 first launch from Vandenberg around March 2004",
    "company": "SpaceX",
    "topic": "Space",
@@ -9325,7 +9335,7 @@
      "status": "missed",
      "quote": "Our first launch will be from the SpaceX launch complex at Vandenberg Air Force Base in approximately March of next year, basically early next year.",
      "source": "https://www.youtube.com/watch?v=afZTrfvB2AQ&t=1383s",
-     "url": "https://twoweeks.lol/predictions/falcon-1-first-launch-vandenberg-march-2004/"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-1-first-launch-vandenberg-march-2004"
     }
    ],
    "resolution": {
@@ -9366,7 +9376,7 @@
   },
   {
    "claim_id": "c370",
-   "url": "https://twoweeks.lol/predictions/falcon-9-first-launch-later-in-2009/",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-first-launch-later-in-2009",
    "title": "Falcon 9 first launch later in 2009 from Cape Canaveral",
    "company": "SpaceX",
    "topic": "Space",
@@ -9387,7 +9397,7 @@
      "status": "delivered-late",
      "quote": "And then later this year we'll be launching our big rocket from Cape Canaveral.",
      "source": "https://www.youtube.com/watch?v=ktkV0N0Oask&t=299s",
-     "url": "https://twoweeks.lol/predictions/falcon-9-first-launch-later-in-2009/"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-first-launch-later-in-2009"
     }
    ],
    "resolution": {
@@ -9397,7 +9407,7 @@
   },
   {
    "claim_id": "c372",
-   "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#half-of-new-cars-fully-autonomous-by-2022",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#half-of-new-cars-fully-autonomous-by-2022",
    "title": "Half of all new cars fully autonomous in 7-8 years (by 2022)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -9421,7 +9431,7 @@
      "status": "missed",
      "quote": "Probably, I guess, I don't know, seven or eight years from now, half of all cars produced will be fully autonomous.",
      "source": "https://www.youtube.com/watch?v=pxS9mlZ7n8s&t=1018s",
-     "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#half-of-new-cars-fully-autonomous-by-2022"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#half-of-new-cars-fully-autonomous-by-2022"
     },
     {
      "statement_id": 437,
@@ -9431,7 +9441,7 @@
      "status": "pending",
      "quote": "I think almost all cars produced will be autonomous in 10 years. Almost all. It will be rare to find one that is not in 10 years.",
      "source": "https://www.youtube.com/watch?v=PeKqlDURpf8&t=820s",
-     "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#almost-all-new-cars-autonomous-by-2027"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#almost-all-new-cars-autonomous-by-2027"
     }
    ],
    "resolution": {
@@ -9441,7 +9451,7 @@
   },
   {
    "claim_id": "c376",
-   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#well-over-a-dozen-spacex-launches-in-2016",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#well-over-a-dozen-spacex-launches-in-2016",
    "title": "Well over a dozen Falcon 9 launches in 2016",
    "company": "SpaceX",
    "topic": "Space",
@@ -9462,7 +9472,7 @@
      "status": "missed",
      "quote": "We have quite a big flight manifest and we should be doing well over a dozen flights next year.",
      "source": "https://www.youtube.com/watch?v=LgNekVW0pps&t=423s",
-     "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#well-over-a-dozen-spacex-launches-in-2016"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#well-over-a-dozen-spacex-launches-in-2016"
     }
    ],
    "resolution": {
@@ -9472,7 +9482,7 @@
   },
   {
    "claim_id": "c379",
-   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#tesla-announces-gigafactory-locations-in-2017",
+   "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#tesla-announces-gigafactory-locations-in-2017",
    "title": "Tesla announces 2-4 new Gigafactory locations later in 2017",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -9493,7 +9503,7 @@
      "status": "missed",
      "quote": "I think we'll announce locations for somewhere between two and four gigafactories later this year.",
      "source": "https://www.youtube.com/watch?v=DJOefM3yB_8&t=1705s",
-     "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#tesla-announces-gigafactory-locations-in-2017"
+     "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#tesla-announces-gigafactory-locations-in-2017"
     }
    ],
    "resolution": {
@@ -9596,7 +9606,7 @@
   },
   {
    "claim_id": "c383",
-   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-30-launches-in-2018",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-30-launches-in-2018",
    "title": "SpaceX does about 30 launches in 2018",
    "company": "SpaceX",
    "topic": "Space",
@@ -9617,7 +9627,7 @@
      "status": "missed",
      "quote": "And then next year we'll be doing probably 30 launches.",
      "source": "https://elonmuskarchive.org/video/spacex-2017-company-update",
-     "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-30-launches-in-2018"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-30-launches-in-2018"
     }
    ],
    "resolution": {
@@ -9627,7 +9637,7 @@
   },
   {
    "claim_id": "c384",
-   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#spacex-fairing-recovery-within-six-months",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-fairing-recovery-within-six-months",
    "title": "SpaceX recovers a fairing within six months (Feb 2018)",
    "company": "SpaceX",
    "topic": "Space",
@@ -9648,7 +9658,7 @@
      "status": "missed",
      "quote": "I'm pretty sure we'll serve fairing recovery in the next six months.",
      "source": "https://www.youtube.com/watch?v=zQkAlaZIs1s&t=1911s",
-     "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#spacex-fairing-recovery-within-six-months"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-fairing-recovery-within-six-months"
     }
    ],
    "resolution": {
@@ -9658,7 +9668,7 @@
   },
   {
    "claim_id": "c385",
-   "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/#starship-short-hops-first-half-of-2019",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-short-hops-first-half-of-2019",
    "title": "Starship short hop flights in the first half of 2019",
    "company": "SpaceX",
    "topic": "Space",
@@ -9679,7 +9689,7 @@
      "status": "partial",
      "quote": "And I think we'll be able to do short flights, short sort of up and down flights probably sometime in the first half of next year.",
      "source": "https://www.youtube.com/watch?v=kzlUyrccbos&t=374s",
-     "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/#starship-short-hops-first-half-of-2019"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-short-hops-first-half-of-2019"
     }
    ],
    "resolution": {
@@ -9716,37 +9726,6 @@
    "resolution": {
     "summary": "Tesla listed a Standard Range Model Y in January 2021 at $41,990, not $39,000, and pulled it within weeks. No $39,000 Model Y was sold in 2021.",
     "url": "https://en.wikipedia.org/wiki/Tesla_Model_Y"
-   }
-  },
-  {
-   "claim_id": "c390",
-   "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#las-vegas-loop-opens-in-a-month-or-two",
-   "title": "Las Vegas Loop opens in a month or two (Oct 2020)",
-   "company": "Boring Company",
-   "topic": "Tunnels & Transport",
-   "status": "delivered-late",
-   "first_said": "2020-10-16",
-   "first_deadline": "2020-12-31",
-   "current_deadline": "2020-12-31",
-   "resolved_date": "2021-06-08",
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
-   "timeline": [
-    {
-     "statement_id": 390,
-     "date_made": "2020-10-16",
-     "deadline": "2020-12-31",
-     "change": "first",
-     "status": "delivered-late",
-     "quote": "And we have the first production tunnel or useful tunnel in Vegas that's going to open in a month or two. So a few months I guess, and hopefully we'll be ready for prime time around the Consumer Electronics Show.",
-     "source": "https://www.youtube.com/watch?v=9OnelpilSkU&t=1969s",
-     "url": "https://twoweeks.lol/predictions/vegas-tunnel-finished-by-end-of-2019/#las-vegas-loop-opens-in-a-month-or-two"
-    }
-   ],
-   "resolution": {
-    "summary": "The LVCC Loop carried its first convention visitors in April-June 2021 (World of Concrete, Jun 8 2021), months after the target. CES 2021 went virtual. It happened late: the Las Vegas Convention Center Loop carried its first convention visitors in June 2021. Re-graded delivered-late on 2026-10-18: a missed date becomes delivered-late once it happens.",
-    "url": "https://en.wikipedia.org/wiki/Las_Vegas_Convention_Center_Loop"
    }
   },
   {
@@ -9795,7 +9774,7 @@
   },
   {
    "claim_id": "c393",
-   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-and-booster-every-month-by-end-of-2022",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-and-booster-every-month-by-end-of-2022",
    "title": "A Starship and Super Heavy every month by end of 2022",
    "company": "SpaceX",
    "topic": "Space",
@@ -9816,7 +9795,7 @@
      "status": "missed",
      "quote": "And I think by the end of this year we'll be able to produce a ship and a booster per month.",
      "source": "https://www.youtube.com/watch?v=MpTLExoMAtQ&t=4448s",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-and-booster-every-month-by-end-of-2022"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-and-booster-every-month-by-end-of-2022"
     }
    ],
    "resolution": {
@@ -9857,7 +9836,7 @@
   },
   {
    "claim_id": "c395",
-   "url": "https://twoweeks.lol/predictions/fsd-wide-release-nov-2022/#fsd-beta-worldwide-by-end-of-2022",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-beta-worldwide-by-end-of-2022",
    "title": "FSD Beta rolled out worldwide by end of 2022",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -9878,7 +9857,7 @@
      "status": "missed",
      "quote": "We're hopeful to be able to, I think from a technical standpoint FSD Beta should be, should be possible to roll out FSD Beta worldwide by the end of this year.",
      "source": "https://www.youtube.com/watch?v=ODSJsviD_SU&t=10349s",
-     "url": "https://twoweeks.lol/predictions/fsd-wide-release-nov-2022/#fsd-beta-worldwide-by-end-of-2022"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-beta-worldwide-by-end-of-2022"
     }
    ],
    "resolution": {
@@ -9919,7 +9898,7 @@
   },
   {
    "claim_id": "c399",
-   "url": "https://twoweeks.lol/predictions/starlink-mini-later-in-2024/",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-mini-later-in-2024",
    "title": "Starlink Mini launches later in 2024",
    "company": "SpaceX",
    "topic": "Space",
@@ -9940,7 +9919,7 @@
      "status": "delivered",
      "quote": "And we'll be introducing the Starlink mini later this year which can fit in a backpack.",
      "source": "https://www.youtube.com/watch?v=TUQzeUaGxBI&t=2091s",
-     "url": "https://twoweeks.lol/predictions/starlink-mini-later-in-2024/"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-mini-later-in-2024"
     }
    ],
    "resolution": {
@@ -9950,7 +9929,7 @@
   },
   {
    "claim_id": "c400",
-   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-pad-turnaround-under-24-hours-2024",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-pad-turnaround-under-24-hours-2024",
    "title": "Starship pad turnaround under 24 hours by end of 2024",
    "company": "SpaceX",
    "topic": "Space",
@@ -9971,7 +9950,7 @@
      "status": "missed",
      "quote": "We achieved a three day pad turnaround and I think we're aiming to hopefully, I think, get under 24 hours pad turnaround by the end of this year.",
      "source": "https://www.youtube.com/watch?v=TUQzeUaGxBI&t=932s",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-pad-turnaround-under-24-hours-2024"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-pad-turnaround-under-24-hours-2024"
     }
    ],
    "resolution": {
@@ -9981,7 +9960,7 @@
   },
   {
    "claim_id": "c401",
-   "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-booster-catch-80-90-percent-2024",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-booster-catch-80-90-percent-2024",
    "title": "80-90% odds the tower catches a Super Heavy booster in 2024",
    "company": "SpaceX",
    "topic": "Space",
@@ -10002,7 +9981,7 @@
      "status": "delivered",
      "quote": "But I think the odds of actually catching the booster with the tower probably like 80, 90% this year, which is insane.",
      "source": "https://www.youtube.com/watch?v=tdUX3ypDVwI&t=690s",
-     "url": "https://twoweeks.lol/predictions/spacex-ship-tower-catch-next-flight/#starship-booster-catch-80-90-percent-2024"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-booster-catch-80-90-percent-2024"
     }
    ],
    "resolution": {
@@ -10012,7 +9991,7 @@
   },
   {
    "claim_id": "c404",
-   "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#half-of-miles-driven-autonomous-by-2030",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#half-of-miles-driven-autonomous-by-2030",
    "title": "Half of all miles driven are autonomous in five years (by 2030)",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -10033,7 +10012,7 @@
      "status": "pending",
      "quote": "In five years, probably 50% of all miles driven will be autonomous.",
      "source": "https://www.youtube.com/watch?v=aMcmuKTfr54&t=1352s",
-     "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/#half-of-miles-driven-autonomous-by-2030"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#half-of-miles-driven-autonomous-by-2030"
     }
    ],
    "resolution": {
@@ -10074,7 +10053,7 @@
   },
   {
    "claim_id": "c408",
-   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#about-1000-starlink-v3-satellites-by-q2-2027",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#about-1000-starlink-v3-satellites-by-q2-2027",
    "title": "About 1,000 Starlink V3 satellites in orbit around Q2 2027",
    "company": "SpaceX",
    "topic": "Space",
@@ -10095,7 +10074,7 @@
      "status": "pending",
      "quote": "So we need some critical mass of [V3] satellites, probably at least on the order of about 1,000, but probably that's, you know, I mean, approximately second quarter next year would be, I think, where we'd get to that point.",
      "source": "https://www.youtube.com/watch?v=rz7B8fgY06c&t=3500s",
-     "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#about-1000-starlink-v3-satellites-by-q2-2027"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#about-1000-starlink-v3-satellites-by-q2-2027"
     }
    ],
    "resolution": {
@@ -10353,7 +10332,7 @@
   },
   {
    "claim_id": "c418",
-   "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#new-factory-locations-announced-end-of-2022",
+   "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#new-factory-locations-announced-end-of-2022",
    "title": "New Tesla factory locations announced by end of 2022",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -10374,7 +10353,7 @@
      "status": "delivered-late",
      "quote": "we will uh through 2022 look at new locations and probably be able to announce new locations towards the end of this year I expect",
      "source": "https://www.youtube.com/watch?v=EMA6myXpfqI&t=555s",
-     "url": "https://twoweeks.lol/predictions/europe-gigafactory-location-by-end-2019/#new-factory-locations-announced-end-of-2022"
+     "url": "https://twoweeks.lol/predictions/giga-berlin-texas-production-2021/#new-factory-locations-announced-end-of-2022"
     }
    ],
    "resolution": {
@@ -10534,7 +10513,7 @@
   },
   {
    "claim_id": "c427",
-   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-booster-reflown-within-24-hours-2018",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-booster-reflown-within-24-hours-2018",
    "title": "A Falcon booster reflown within 24 hours by 2018",
    "company": "SpaceX",
    "topic": "Space",
@@ -10555,7 +10534,7 @@
      "status": "missed",
      "quote": "probably by next year, where the. Falconic boost can be reblown within 24 hours",
      "source": "https://www.youtube.com/watch?v=Jv5LjA62Uw8&t=79s",
-     "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-booster-reflown-within-24-hours-2018"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-booster-reflown-within-24-hours-2018"
     }
    ],
    "resolution": {
@@ -10565,7 +10544,7 @@
   },
   {
    "claim_id": "c431",
-   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-9-lands-intact-within-a-year-2015",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-lands-intact-within-a-year-2015",
    "title": "Falcon 9 first stage lands intact within a year (said Nov 2015)",
    "company": "SpaceX",
    "topic": "Space",
@@ -10586,7 +10565,7 @@
      "status": "delivered",
      "quote": "I think within the next year we'll be able to land the rocket intact",
      "source": "https://www.youtube.com/watch?v=qsIbGKosY1E&t=2498s",
-     "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/#falcon-9-lands-intact-within-a-year-2015"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-lands-intact-within-a-year-2015"
     }
    ],
    "resolution": {
@@ -10596,7 +10575,7 @@
   },
   {
    "claim_id": "c432",
-   "url": "https://twoweeks.lol/predictions/grok-discovers-new-technologies-by-2026/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-discovers-new-technologies-by-2026",
    "title": "Grok discovers useful new technologies no later than 2026",
    "company": "xAI",
    "topic": "AI",
@@ -10617,7 +10596,7 @@
      "status": "pending",
      "quote": "I would expect Grock to yeah literally discover new new technologies that are actually useful no later than next year",
      "source": "https://www.youtube.com/watch?v=QbNODZwQQuw&t=768s",
-     "url": "https://twoweeks.lol/predictions/grok-discovers-new-technologies-by-2026/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-discovers-new-technologies-by-2026"
     }
    ],
    "resolution": {
@@ -10720,7 +10699,7 @@
   },
   {
    "claim_id": "c440",
-   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-weekly-launch-cadence-mid-2019",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-weekly-launch-cadence-mid-2019",
    "title": "SpaceX approaches one launch every seven days by mid-2019",
    "company": "SpaceX",
    "topic": "Space",
@@ -10741,7 +10720,7 @@
      "status": "missed",
      "quote": "probably mid-2019. We'll be approaching a cadence of one launch every seven days",
      "source": "https://elonmuskarchive.org/video/spacex-2017-company-update",
-     "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#spacex-weekly-launch-cadence-mid-2019"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#spacex-weekly-launch-cadence-mid-2019"
     }
    ],
    "resolution": {
@@ -10751,7 +10730,7 @@
   },
   {
    "claim_id": "c441",
-   "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/#starship-hopper-flights-in-2019",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-hopper-flights-in-2019",
    "title": "Starship hopper flights in 2019",
    "company": "SpaceX",
    "topic": "Space",
@@ -10772,43 +10751,12 @@
      "status": "delivered",
      "quote": "we still anticipate doing hopper flights next year",
      "source": "https://www.youtube.com/watch?v=n5EqUKNCGd0&t=3666s",
-     "url": "https://twoweeks.lol/predictions/starship-mk1-test-flight-in-one-to-two-months/#starship-hopper-flights-in-2019"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-hopper-flights-in-2019"
     }
    ],
    "resolution": {
     "summary": "Starhopper made its first untethered hop on July 25, 2019, and a 150 m hop on August 27, 2019.",
     "url": "https://en.wikipedia.org/wiki/Starhopper"
-   }
-  },
-  {
-   "claim_id": "c444",
-   "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#falcon-150-flights-in-2024",
-   "title": "Falcon flies as many as ~150 times in 2024",
-   "company": "SpaceX",
-   "topic": "Space",
-   "status": "missed",
-   "first_said": "2024-03-18",
-   "first_deadline": "2024-12-31",
-   "current_deadline": "2024-12-31",
-   "resolved_date": null,
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
-   "timeline": [
-    {
-     "statement_id": 444,
-     "date_made": "2024-03-18",
-     "deadline": "2024-12-31",
-     "change": "first",
-     "status": "missed",
-     "quote": "we're aiming for maybe as much as 150 flights this year",
-     "source": "https://www.youtube.com/watch?v=TUQzeUaGxBI&t=12s",
-     "url": "https://twoweeks.lol/predictions/falcon-over-150-flights-2025/#falcon-150-flights-in-2024"
-    }
-   ],
-   "resolution": {
-    "summary": "SpaceX flew 134 Falcon missions in 2024 (132 Falcon 9, 2 Falcon Heavy), a record but short of ~150. It passed 150 in 2025 (#339).",
-    "url": "https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_(2020%E2%80%932024)"
    }
   },
   {
@@ -10999,7 +10947,7 @@
   },
   {
    "claim_id": "c460",
-   "url": "https://twoweeks.lol/predictions/blindsight-restore-sight/#blindsight-first-human-implant-2025",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#blindsight-first-human-implant-2025",
    "title": "First Blindsight human implant later in 2025",
    "company": "Neuralink",
    "topic": "Neuralink & Health",
@@ -11020,7 +10968,7 @@
      "status": "missed",
      "quote": "we're hoping later this year to do our first device implant for human enabling someone who is completely blind to see",
      "source": "https://www.youtube.com/watch?v=VhIIS_9ZtDE&t=9442s",
-     "url": "https://twoweeks.lol/predictions/blindsight-restore-sight/#blindsight-first-human-implant-2025"
+     "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#blindsight-first-human-implant-2025"
     }
    ],
    "resolution": {
@@ -11061,7 +11009,7 @@
   },
   {
    "claim_id": "c463",
-   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-five-or-six-more-flights-in-2024",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-five-or-six-more-flights-in-2024",
    "title": "Five or six more Starship flights in 2024",
    "company": "SpaceX",
    "topic": "Space",
@@ -11082,7 +11030,7 @@
      "status": "missed",
      "quote": "we're hoping to do at least another maybe five or six flights this year",
      "source": "https://www.youtube.com/watch?v=akXMYvKjUxM&t=1601s",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-five-or-six-more-flights-in-2024"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-five-or-six-more-flights-in-2024"
     }
    ],
    "resolution": {
@@ -11309,7 +11257,7 @@
   },
   {
    "claim_id": "c473",
-   "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-weekly-cadence-in-2027",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-weekly-cadence-in-2027",
    "title": "Starship reaches a weekly or twice-weekly launch cadence in 2027",
    "company": "SpaceX",
    "topic": "Space",
@@ -11332,7 +11280,7 @@
      "status": "pending",
      "quote": "we expect starship to ultimately next year, I think probably reach a weekly or twice weekly cadence",
      "source": "https://www.youtube.com/watch?v=388P7IFSpwE&t=983s",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-weekly-cadence-in-2027"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-weekly-cadence-in-2027"
     },
     {
      "statement_id": 508,
@@ -11342,7 +11290,7 @@
      "status": "pending",
      "quote": "We expect Starship to fly weekly at some point in the first half of next year and then second half of next year twice weekly or maybe even more frequently than that by the end of next year.",
      "source": "https://x.com/cb_doge/status/2112653610953887818",
-     "url": "https://twoweeks.lol/predictions/starship-hourly-flights-2-3-years/#starship-weekly-h1-twice-weekly-h2-2027"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-weekly-h1-twice-weekly-h2-2027"
     }
    ],
    "resolution": {
@@ -11476,7 +11424,7 @@
   },
   {
    "claim_id": "c480",
-   "url": "https://twoweeks.lol/predictions/starship-launch-from-39a-and-ocean-platform-end-2022/",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-launch-from-39a-and-ocean-platform-end-2022",
    "title": "Starship launch capability at Cape 39A and an ocean platform by end of 2022",
    "company": "SpaceX",
    "topic": "Space",
@@ -11497,7 +11445,7 @@
      "status": "missed",
      "quote": "hopefully by the end of this year we will have a launch capability at cape Kennedy at 39A and on one of the ocean platforms as well",
      "source": "https://www.youtube.com/watch?v=MpTLExoMAtQ&t=5667s",
-     "url": "https://twoweeks.lol/predictions/starship-launch-from-39a-and-ocean-platform-end-2022/"
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-launch-from-39a-and-ocean-platform-end-2022"
     }
    ],
    "resolution": {
@@ -11507,7 +11455,7 @@
   },
   {
    "claim_id": "c482",
-   "url": "https://twoweeks.lol/predictions/eelv-certification-in-2014/",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#eelv-certification-in-2014",
    "title": "Falcon 9 Air Force (EELV) certification completed in 2014",
    "company": "SpaceX",
    "topic": "Space",
@@ -11528,7 +11476,7 @@
      "status": "delivered-late",
      "quote": "completing that certification this year",
      "source": "https://www.youtube.com/watch?v=upnx_DD9zSQ&t=3016s",
-     "url": "https://twoweeks.lol/predictions/eelv-certification-in-2014/"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#eelv-certification-in-2014"
     }
    ],
    "resolution": {
@@ -11538,7 +11486,7 @@
   },
   {
    "claim_id": "c483",
-   "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#ai-drives-90-percent-of-distance-by-2036",
    "title": "AI drives 90% of all distance driven within about 10 years (by 2036)",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -11559,7 +11507,7 @@
      "status": "pending",
      "quote": "probably 90% of all distance driven will be driven by the AI in a self driving car",
      "source": "https://www.youtube.com/watch?v=NgsUPJBNZcc&t=504s",
-     "url": "https://twoweeks.lol/predictions/ai-drives-90-percent-of-distance-by-2036/"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#ai-drives-90-percent-of-distance-by-2036"
     }
    ],
    "resolution": {
@@ -11569,7 +11517,7 @@
   },
   {
    "claim_id": "c484",
-   "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/#hardware-2-autopilot-parity-december-2016",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#hardware-2-autopilot-parity-december-2016",
    "title": "Autopilot Hardware 2 reaches feature parity with Hardware 1 in December 2016",
    "company": "Tesla",
    "topic": "Cars & Energy",
@@ -11590,7 +11538,7 @@
      "status": "missed",
      "quote": "we expect to reach feature parity following field validation of Hardware 2, probably in December",
      "source": "https://www.youtube.com/watch?v=-vjGEEF_p5E&t=308s",
-     "url": "https://twoweeks.lol/predictions/hw3-sufficient-for-fsd/#hardware-2-autopilot-parity-december-2016"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#hardware-2-autopilot-parity-december-2016"
     }
    ],
    "resolution": {
@@ -11662,7 +11610,7 @@
   },
   {
    "claim_id": "c487",
-   "url": "https://twoweeks.lol/predictions/mars-transport-architecture-presented-end-of-2015/",
+   "url": "https://twoweeks.lol/predictions/humans-on-mars/#mars-transport-architecture-presented-end-of-2015",
    "title": "Mars transport architecture presented around the end of 2015",
    "company": "SpaceX",
    "topic": "Space",
@@ -11683,7 +11631,7 @@
      "status": "delivered-late",
      "quote": "The Mars transport system will be a completely new architecture. Am hoping to present that towards the end of this year",
      "source": "https://www.reddit.com/comments/2rgsan/_/cnfq5qf/",
-     "url": "https://twoweeks.lol/predictions/mars-transport-architecture-presented-end-of-2015/"
+     "url": "https://twoweeks.lol/predictions/humans-on-mars/#mars-transport-architecture-presented-end-of-2015"
     }
    ],
    "resolution": {
@@ -11693,7 +11641,7 @@
   },
   {
    "claim_id": "c489",
-   "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/",
+   "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-block-5-first-flight-mid-2017",
    "title": "Falcon 9 Block 5 first flight 6–8 months after Oct 2016 (by mid-2017)",
    "company": "SpaceX",
    "topic": "Space",
@@ -11714,7 +11662,7 @@
      "status": "delivered-late",
      "quote": "Block 5 starts production in about 3 months and initial flight is in 6 to 8 months",
      "source": "https://www.reddit.com/comments/590wi9/_/d94v8p8/",
-     "url": "https://twoweeks.lol/predictions/falcon-9-block-5-first-flight-mid-2017/"
+     "url": "https://twoweeks.lol/predictions/falcon-heavy-launch-next-month-jan-2018/#falcon-9-block-5-first-flight-mid-2017"
     }
    ],
    "resolution": {
@@ -11724,7 +11672,7 @@
   },
   {
    "claim_id": "c493",
-   "url": "https://twoweeks.lol/predictions/ai-generated-game/#solo-devs-ship-ai-games-no-studio-2027",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#solo-devs-ship-ai-games-no-studio-2027",
    "title": "AI lets solo devs ship studio-quality games by 2027",
    "company": "General",
    "topic": "AI",
@@ -11745,7 +11693,7 @@
      "status": "pending",
      "quote": "Next year",
      "source": "https://x.com/elonmusk/status/2110225499205390759",
-     "url": "https://twoweeks.lol/predictions/ai-generated-game/#solo-devs-ship-ai-games-no-studio-2027"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#solo-devs-ship-ai-games-no-studio-2027"
     }
    ],
    "resolution": {
@@ -11786,7 +11734,7 @@
   },
   {
    "claim_id": "c495",
-   "url": "https://twoweeks.lol/predictions/spacex-over-100-trillion-within-10-years/",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-over-100-trillion-within-10-years",
    "title": "SpaceX valuation exceeds $100 trillion within 10 years",
    "company": "SpaceX",
    "topic": "Business & Money",
@@ -11807,7 +11755,7 @@
      "status": "pending",
      "quote": "Unless there is a major world war, SpaceX probably gets to >$100T in <10 years",
      "source": "https://x.com/elonmusk/status/2110564479742120079",
-     "url": "https://twoweeks.lol/predictions/spacex-over-100-trillion-within-10-years/"
+     "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-over-100-trillion-within-10-years"
     }
    ],
    "resolution": {
@@ -12034,7 +11982,7 @@
   },
   {
    "claim_id": "c505",
-   "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-100x-bandwidth-within-three-years",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-100x-bandwidth-within-three-years",
    "title": "Starlink has about 100 times today's bandwidth within about three years",
    "company": "SpaceX",
    "topic": "Space",
@@ -12055,7 +12003,7 @@
      "status": "pending",
      "quote": "What I expect over time is not in the distant future, probably within three years, is that we will have about 100 times the bandwidth of the current Starlink constellation.",
      "source": "https://x.com/cb_doge/status/2112653610953887818",
-     "url": "https://twoweeks.lol/predictions/starship-orbit-starlink-v3-operational-7-days/#starlink-100x-bandwidth-within-three-years"
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-100x-bandwidth-within-three-years"
     }
    ],
    "resolution": {
@@ -12065,7 +12013,7 @@
   },
   {
    "claim_id": "c506",
-   "url": "https://twoweeks.lol/predictions/grok-bot-enterprise-wide-deployment-few-weeks/",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-bot-enterprise-wide-deployment-few-weeks",
    "title": "Grok Bot reaches wide enterprise deployment within a few weeks",
    "company": "SpaceX",
    "topic": "AI",
@@ -12086,7 +12034,7 @@
      "status": "pending",
      "quote": "We already are in early deployment with some trusted customers, and we expect to be in wide deployment within a few weeks for enterprise customers for GrokBot.",
      "source": "https://x.com/cb_doge/status/2112653610953887818",
-     "url": "https://twoweeks.lol/predictions/grok-bot-enterprise-wide-deployment-few-weeks/"
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-bot-enterprise-wide-deployment-few-weeks"
     }
    ],
    "resolution": {
@@ -12096,7 +12044,7 @@
   },
   {
    "claim_id": "c513",
-   "url": "https://twoweeks.lol/predictions/fsd-beta-europe-summer-2022/#fsd-eu-wide-approval-by-q1-2027",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-eu-wide-approval-by-q1-2027",
    "title": "EU-wide FSD approval by the end of Q1 2027",
    "company": "Tesla",
    "topic": "Self-Driving",
@@ -12117,7 +12065,7 @@
      "status": "pending",
      "quote": "We are now approved in many countries in Europe, and we are hoping for an EU-wide approval. It is hard to predict, but maybe within a few months, but I would be surprised if it takes longer than Q1.",
      "source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
-     "url": "https://twoweeks.lol/predictions/fsd-beta-europe-summer-2022/#fsd-eu-wide-approval-by-q1-2027"
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-eu-wide-approval-by-q1-2027"
     }
    ],
    "resolution": {
@@ -12158,7 +12106,7 @@
   },
   {
    "claim_id": "c515",
-   "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/#optimus-unscripted-video-month-or-two",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-unscripted-video-month-or-two",
    "title": "Tesla shows Optimus doing unscripted tasks on video within a month or two",
    "company": "Tesla",
    "topic": "Robots",
@@ -12179,15 +12127,46 @@
      "status": "pending",
      "quote": "So I want to release a video where it is Optimus doing things that are not pre-programmed. I think that is maybe a month or 2 for that to have a demo that you can believe what you see type of thing.",
      "source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
-     "url": "https://twoweeks.lol/predictions/optimus-v3-production-august-2026/#optimus-unscripted-video-month-or-two"
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-unscripted-video-month-or-two"
     }
    ],
    "resolution": {
     "summary": "Pending until Dec 21, 2026.",
     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/"
    }
+  },
+  {
+   "claim_id": "c516",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-mobile-us-network-2-or-3-years",
+   "title": "Starlink Mobile's US carrier network is built out in 2 or 3 years",
+   "company": "SpaceX",
+   "topic": "Space",
+   "status": "pending",
+   "first_said": "2026-10-26",
+   "first_deadline": "2029-10-31",
+   "current_deadline": "2029-10-31",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 516,
+     "date_made": "2026-10-26",
+     "deadline": "2029-10-31",
+     "change": "first",
+     "status": "pending",
+     "quote": "Will take 2 or 3 years",
+     "source": "https://x.com/elonmusk/status/2114774224015663608",
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-mobile-us-network-2-or-3-years"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Oct 31, 2029.",
+    "url": "https://x.com/elonmusk/status/2114774224015663608"
+   }
   }
  ],
- "statements": 462,
- "count": 348
+ "statements": 463,
+ "count": 346
 }
