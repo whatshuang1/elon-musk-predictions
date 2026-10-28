@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-27",
+ "retrieved": "2026-10-28",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 346,
@@ -510,7 +510,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1310486616075579393",
    "source_type": "tweet",
-   "last_checked": "2026-10-19"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 34,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 106,
@@ -3126,7 +3126,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067207305503101025",
    "source_type": "tweet",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 191,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 216,
@@ -3952,7 +3952,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=5uFXlSRTlfU",
    "source_type": "video",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 231,
@@ -3973,7 +3973,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=Rni7Fz7208c",
    "source_type": "video",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 232,
@@ -3994,7 +3994,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=Rni7Fz7208c",
    "source_type": "video",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 233,
@@ -4015,7 +4015,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=BYXbuik3dgA",
    "source_type": "video",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 234,
@@ -4036,7 +4036,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=BYXbuik3dgA",
    "source_type": "video",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 235,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 238,
@@ -4568,7 +4568,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2095604997668892983",
    "source_type": "tweet",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 261,
@@ -4781,7 +4781,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2102451875140501761",
    "source_type": "tweet",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 271,
@@ -4886,7 +4886,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2106085868209590570",
    "source_type": "tweet",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 276,
@@ -9326,7 +9326,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2110225499205390759",
    "source_type": "tweet",
-   "last_checked": "2026-10-14"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 494,
@@ -9347,7 +9347,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2110566143983223006",
    "source_type": "tweet",
-   "last_checked": "2026-10-14"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 495,
@@ -9368,7 +9368,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2110564479742120079",
    "source_type": "tweet",
-   "last_checked": "2026-10-14"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 496,
@@ -9389,7 +9389,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2110789964430786745",
    "source_type": "tweet",
-   "last_checked": "2026-10-15"
+   "last_checked": "2026-10-28"
   },
   {
    "id": 497,

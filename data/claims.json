@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-27",
+ "retrieved": "2026-10-28",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -956,8 +956,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 19 2026: Tesla's Oct 2 Q3 print was 464,391 produced / 486,532 delivered (~1.85 million/year run-rate; YTD 1,324,681 through three quarters). The company has still never sold 20 million vehicles in a single year. Tesla IR sell-side consensus for 2030 is about 2.7 million deliveries, not 20 million. Deadline Dec 31 2030. Status stays pending.",
-    "url": "https://electronmotion.com/2026/10/02/tesla-q3-2026-deliveries/"
+    "summary": "Fetched Oct 28 2026: On Tesla's Oct 21 Q3 call Musk set a separate 5 million vehicles/year ~2030 target (already on board as #514) and did not withdraw the 2020 20 million promise. The Verge (Oct 22) treats 5 million as a quiet downgrade; that is press, not an Elon-primary goalpost. Tesla still has never sold 20 million vehicles in a year (Q3: 464,391 produced / 486,532 delivered). Deadline Dec 31 2030. Status stays pending.",
+    "url": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check"
    }
   },
   {
@@ -4686,8 +4686,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 15 2026: no SpaceX or NASA crew has landed on the Moon. Wikipedia Artemis III is a 2027 low-Earth-orbit docking demo (NET June 2027), not a landing; first crewed lunar landing is planned as Artemis IV in early 2028. Musk's 'less than 5 years' window from the July 2026 statement runs to end of 2031. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Artemis_III"
+    "summary": "Fetched Oct 28 2026: NASA Oct 23 — Artemis III is a 2027 low-Earth-orbit docking test with Blue Origin and SpaceX lander articles, not a landing; first crewed lunar landing is planned as Artemis IV in early 2028. No humans have landed on the Moon. Musk's 'less than 5 years' window from July 2026 runs through 2031. Status stays pending.",
+    "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
    }
   },
   {
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 27 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest commit 2f25214 Oct 27, 'Open-source X Recommendation Algorithm'). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 28 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6019,8 +6019,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 15 2026: 'Working will be optional' remains a long-horizon claim (deadline 2045). Wikipedia Optimus still has Gen 3 unrevealed as of September 2026. No material evidence that working is optional as a hobby in any major economy. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
+    "summary": "Fetched Oct 28 2026: 'Working will be optional' remains a long-horizon claim (deadline 2045). Tesla's Oct 21 Q3 update still lists Optimus as a Fremont early ramp for Tesla's own use, not a labor replacement that makes working a hobby. Status stays pending.",
+    "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
    }
   },
   {
@@ -6050,7 +6050,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 15 2026: the US has not entered a goods-and-services-growth-exceeds-money-supply-growth deflation regime. FOMC Sep 2026 SEP median real GDP growth is 2.3% (2026) / 2.4% (2027) / 2.2% (2028); median PCE inflation 3.7% in 2026, not deflation. Deadline 2028. Status stays pending.",
+    "summary": "Fetched Oct 28 2026: the US has not entered a goods-and-services-growth-exceeds-money-supply-growth deflation regime. FOMC Sep 16 2026 SEP median real GDP is 2.3% (2026) / 2.4% (2027) / 2.2% (2028); median PCE inflation 3.7% / 2.3% / 2.1% — not deflation. Oct 28 FOMC is a hold with no new SEP. Deadline 2028. Status stays pending.",
     "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
    }
   },
@@ -6385,8 +6385,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until December 31, 2027 (volume production 'next year' from October 2026).",
-    "url": "https://x.com/firesidealpha/status/2110731226776789366"
+    "summary": "Fetched Oct 28 2026: SpaceX's Starmind page still plans Gigasat production of thousands of AI satellites as soon as late 2027; Orbital Radar lists 0 in orbit. Volume production of the Star Mind computer has not begun. Deadline Dec 31 2027. Status stays pending.",
+    "url": "https://www.spacex.com/spacexsi/starmind"
    }
   },
   {
@@ -6729,7 +6729,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 15 2026: Tesla finished 2025 with 16,506 Austin-area employees (Travis County compliance report via Austin American-Statesman). No newer official 2026 headcount this run. Musk's Sep 3 claim is over 30k high-paying Tesla HQ & manufacturing jobs in Austin by 2028 — still roughly a doubling from the ~16.5k baseline. Deadline Dec 31 2028. Status stays pending.",
+    "summary": "Fetched Oct 28 2026: Tesla finished 2025 with 16,506 Austin-area employees (Travis County compliance report via Austin American-Statesman Sep 8). No newer official 2026 headcount at 30k. Deadline 2028. Status stays pending.",
     "url": "https://www.statesman.com/business/article/tesla-expansion-mustang-ridge-austin-gigafactory-22414197.php"
    }
   },
@@ -7047,7 +7047,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 15 2026: Musk's Sep 22 claim that AI will beat all fields by end of 2027 or 2028 latest remains untested. India Today restates the dated forecast; no independent receipt that AI has surpassed humans across all scientific and professional fields. Deadline Dec 31 2028. Status stays pending.",
+    "summary": "Fetched Oct 28 2026: Musk's Sep 22 claim that AI will beat all fields by end of 2027 or 2028 latest remains untested. No independent receipt that AI has surpassed humans across all scientific and professional fields. Deadline Dec 31 2028. Status stays pending.",
     "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-ai-will-master-all-fields-by-2028-3001054-2026-09-23"
    }
   },
@@ -7171,8 +7171,8 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Oct 2) said roughly 90% of SpaceX 2026 revenue will be commercial and Q4 government revenue will be less than 5%. Fetched Oct 15 2026: TIKR notes that claim is still a forecast until SpaceX reports Q4; newest official mix is the Q2 2026 10-Q (Enterprise & Government $1.806B / 23% of $7.81B, mixed enterprise+gov). Q3 10-Q not out. Year-end commercial/gov split is not yet measurable. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.tikr.com/blog/musk-fires-back-spacexs-government-revenue-will-be-less-than-5-in-q4"
+    "summary": "Musk (Oct 2) said roughly 90% of SpaceX 2026 revenue will be commercial and Q4 government revenue will be less than 5%. Fetched Oct 28 2026: SpaceX Q3 2026 10-Q — revenue $14.575B; Starlink enterprise & government $2.127B (~14.6% of group) plus Space/launch government contracts. Q4 government-share-under-5% has not arrived. Status stays pending.",
+    "url": "https://www.orbitalpha.cloud/results/spcx-q3-2026"
    }
   },
   {
@@ -11697,8 +11697,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027.",
-    "url": "https://x.com/georgevibing/status/2109966141011394804"
+    "summary": "Fetched Oct 28 2026: x.ai/news still has no xAI game-studio title (latest: Grok Voice 3.0 Oct 14, Partner Network Oct 22, Grok 4.7 Sep 21). Grok Build can make user games; that is not solo developers shipping studio-quality games as a market. Deadline Dec 31 2027. Status stays pending.",
+    "url": "https://x.ai/news"
    }
   },
   {
@@ -11728,8 +11728,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2028.",
-    "url": "https://x.com/pequityresearch/status/2110550475632460251"
+    "summary": "Fetched Oct 28 2026: Reuters — CXMT, China's largest DRAM maker (~10% of global DRAM revenue), plans limited HBM3E production in the next two months at 20–30% yields. TrendForce/Counterpoint: CXMT DRAM wafers ~320k/month now, targeting ~500–600k by 2028. The 2028 'a LOT of RAM' claim is still a forecast. Status stays pending.",
+    "url": "https://insidetelecom.com/chinas-cxmt-to-start-advanced-ai-memory-production-despite-poor-yields-sources-say/"
    }
   },
   {
@@ -11759,8 +11759,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until October 14, 2036 (under 10 years from the claim).",
-    "url": "https://x.com/SPCX100T/status/2110210270182396112"
+    "summary": "Fetched Oct 28 2026: StockAnalysis — SpaceX (SPCX) market cap $2.02 trillion as of the Oct 27 close. Far short of $100 trillion. Deadline Oct 14 2036. Status stays pending.",
+    "url": "https://stockanalysis.com/stocks/spcx/market-cap/"
    }
   },
   {
