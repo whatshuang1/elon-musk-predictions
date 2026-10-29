@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-28",
+ "retrieved": "2026-10-29",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -624,8 +624,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 16 2026: Tesla owners still cannot add or subtract personal cars from the Robotaxi network. Tesla's Robotaxi First Responder Interaction Plan (v1.5, Sep 3) says 'All Robotaxi vehicles are owned and operated by Tesla at this time.' A Sep 3 Cybercab fleet-interest form is for commercial fleet buyers, not personal-owner Airbnb-style add/subtract. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://dockduty.com/blog/tesla-network-explained.html"
+    "summary": "Fetched Oct 29 2026: Tesla owners still cannot add or subtract personal cars from the Robotaxi network. On the Oct 21 Q3 2026 earnings call, Tesla VP Ashok Elluswamy said the first customer vehicles could join around Q2 2027 (The Verge) — a company delay, not an Elon goalpost. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings"
    }
   },
   {
@@ -2835,8 +2835,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 16 2026: x.ai/news has no Grok Imagine Odyssey-film announcement. Latest model launch is Grok 4.7 (Sep 21); Imagine posts remain Imagine Image 2.0 (Aug 7) and Imagine Video 1.5 (Jul 31); Oct 14 is Grok Voice 3.0. On Sep 29 @imagine posted a 4-minute Odyssey *pilot* (Wonder Studios, 15 days) and said Episode 1 is next — a teaser, not a full-length historically accurate Odyssey movie. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://x.ai/news"
+    "summary": "Fetched Oct 29 2026: The Guardian Oct 27 reports Grok Imagine posted a seven-minute Odyssey Episode 1 on Oct 23 (Wonder Studios), labeled a series, not a full-length movie. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan"
    }
   },
   {
@@ -2973,8 +2973,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 16 2026: no confirmation of a Blindsight implant in a blind human. Neurofounders Oct 12: Neuralink's Blindsight program would stimulate visual cortex, but 'the company has not yet tested visual stimulation in humans.' MedTech Monitor Oct 7: no Blindsight implant in a person has been publicly reported. A Sep 27 preclinical feline visual-prosthesis implant is not the human 2026 promise. Grade stays pending until Dec 31 2026.",
-    "url": "https://www.neurofounders.co/deep-dives/how-neurotech-is-restoring-vision"
+    "summary": "Fetched Oct 29 2026: TokenPost Oct 24 lists Neuralink's Blindsight vision study as upcoming, with no active human trial. Inside Deep Tech Oct 25: Neuralink's updates page lists no Blindsight human implant. Unverified blogs claiming a patient read letters are not a company receipt. Grade stays pending until Dec 31 2026.",
+    "url": "https://www.tokenpost.com/news/technology/40180"
    }
   },
   {
@@ -3097,8 +3097,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 16 2026: MedTech Monitor Oct 7 puts Neuralink's human count in the high twenties (21 official in January; ~26th recipient in May for first transdural insertion). That is still tens of investigational implants, not high-volume device production, and surgery is not an almost entirely automated high-volume process. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://medtechmonitor.substack.com/p/what-is-neuralink-actually-doing"
+    "summary": "Fetched Oct 29 2026: Neura Pod's by-the-numbers page lists 27+ publicly known patients as of October 2026. Inside Deep Tech (updated Oct 25) still describes early-feasibility trials, not high-volume device production or an almost entirely automated high-volume surgical process. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://www.neurapod.com/neuralink-by-the-numbers"
    }
   },
   {
@@ -5114,7 +5114,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 16 2026: xAI newsroom latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drop is Grok Voice 3.0 (Oct 14), a voice model, not a completely-from-scratch new foundation model. That is not a monthly cadence of from-scratch models through year-end. Grok 4.8 remains unreleased. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Oct 29 2026: x.ai/news latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drops are Grok Voice 3.0 (Oct 14) and Grok Bot posts, not a completely-from-scratch new foundation model. Grok 4.8 remains unreleased. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -5207,7 +5207,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 16 2026: Wikipedia List of Starship vehicles shows 2026 flights of Ship 39 (Flight 12, May 21, expended), Ship 40 (Flight 13, Jul 24, retired after ocean recovery), and Ship 41 (Flight 14, Sep 28, expended). Ship 42 is listed as engine installation for unflown Flight 15; Ships 43–45 are under construction. That is three completed 2026 ships plus a handful in the pipeline, not ~10 finished this year. Deadline end of 2026. Status stays pending.",
+    "summary": "Fetched Oct 29 2026: Wikipedia List of Starship vehicles shows 2026 flights of Ship 39 (Flight 12, May 21, expended), Ship 40 (Flight 13, Jul 24, retired after ocean recovery), and Ship 41 (Flight 14, Sep 28, expended). Ship 42 has completed static fire and awaits Flight 15; Ships 43–46 are in cryo/construction. That is three completed 2026 ships plus a handful in the pipeline, not ~10 finished this year. Deadline end of 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/List_of_Starship_vehicles"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 28 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 29 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
