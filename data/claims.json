@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-29",
+ "retrieved": "2026-10-30",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -860,8 +860,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until December 31, 2028. The Oct 15 2026 McGregor event was an unveil and flying demo, not the start of production.",
-    "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0"
+    "summary": "Pending until December 31, 2028. Fetched Oct 30 2026: Wikipedia Tesla Roadster (second generation) still lists production as yet to commence, planned for 2028. The Oct 15 McGregor event was an unveil, not the start of production.",
+    "url": "https://en.wikipedia.org/wiki/Tesla_Roadster_(second_generation)"
    }
   },
   {
@@ -1222,7 +1222,7 @@
      "date_made": "2023-06-16",
      "deadline": "2023-12-31",
      "change": "goalpost_moved",
-     "status": "missed",
+     "status": "delivered-late",
      "quote": "Hopefully later this year we'll do our first human device implantation.",
      "source": "https://www.youtube.com/watch?v=OyYQTr0kiUo&t=3626s",
      "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#first-neuralink-human-implant-in-2023"
@@ -2056,7 +2056,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 18 2026: Wikipedia's SpaceX Mars colonization page still describes a proposed program, not a city. In Feb 2026 Musk delayed Mars ambitions about five to seven years to focus on a lunar base; no Starship has launched to Mars, and no self-sustaining settlement exists. Deadline 2050. Goal has not been abandoned. Status stays pending.",
+    "summary": "Fetched Oct 30 2026: Wikipedia's SpaceX Mars colonization page still describes a proposed program, not a city. No Starship has launched to Mars, and no self-sustaining settlement exists. Deadline 2050. Goal has not been abandoned. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -2366,7 +2366,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 18 2026: Wikipedia still records Musk's 2016 ~12-person first-crewed-Mars architecture and the Feb 2026 delay of Mars ambitions ~5–7 years toward the Moon. No crewed Mars mission has flown; Starship remains uncrewed through Flight 14 (first orbit Sep 28). Deadline 2029. Status stays pending.",
+    "summary": "Fetched Oct 30 2026: SpaceX’s Mars page still lists Starship cargo flights no earlier than 2028 and first human explorers as future work; Starship remains in uncrewed tests (Flight 15 NET Nov 8). The 2029 crewed-mission deadline has not passed. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -3196,8 +3196,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 17 2026: SpaceXSI's newsroom lists Grok 4.7 (Sep 21) and Grok Voice 3.0 (Oct 14) with no claim that AI exceeds the sum of all human intelligence. Deadline ~2031. Status stays pending.",
-    "url": "https://x.ai/news"
+    "summary": "Fetched Oct 30 2026: no public receipt that AI exceeds the sum of all human intelligence. Deadline 2031. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -3388,8 +3388,8 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (interpreted generously as by end of July 2026). Tesla's Oct 21 Q3 letter confirmed early Optimus production on Fremont high-volume lines of production-quality bots, but that is a start-of-production receipt (#135), not a public unveil of the Gen 3 body. Re-checked Oct 25 2026: no Tesla showing of V3 as a reveal. Missed; watch for any Tesla showing of the Gen 3 body (→ delivered-late).",
-    "url": "https://www.notateslaapp.com/news/4866/tesla-officially-begins-optimus-robot-production"
+    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (interpreted generously as by end of July 2026). Tesla's Oct 21 Q3 letter confirmed early Optimus production on Fremont high-volume lines of production-quality bots, but that is a start-of-production receipt (#135), not a public unveil of the Gen 3 body. Fetched Oct 30 2026: Humanoids Daily / Not a Tesla App — Tesla still has not shown Gen 3 as an unveil; Musk said a new Optimus video may come in a month or two. Missed; watch to flip missed → delivered-late the moment Tesla shows the Gen 3 body to any audience.",
+    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
   {
@@ -4990,8 +4990,8 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Tesla's Sep 22 Grok Bot launch lets owners run cabin/errand tasks while FSD drives. A Sep 29 owner demo of 'Grok, turn right up ahead' is a fan-built Tesla navigation-API hack, not a shipped Tesla feature. Re-checked Oct 25 2026: no Tesla/Elon receipt of mid-drive FSD planning-layer commands. Missed.",
-    "url": "https://www.teslaoracle.com/2026/08/28/tesla-merges-fsd-v14-3-8-and-the-summer-update-2026-26-6-5-grok-voice-commands-gain-more-control/"
+    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Tesla's Sep 22 Grok Bot launch lets owners run cabin/errand tasks while FSD drives. A Sep 29 owner demo of 'Grok, turn right up ahead' is a fan-built Tesla navigation-API hack, not a shipped Tesla feature. Fetched Oct 30 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; no Tesla/Elon receipt of mid-drive FSD planning-layer commands. Missed.",
+    "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
   {
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 29 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 30 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5864,7 +5864,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: Wikipedia Starship flight 15 still NET November 8; Space.com Oct 21 records the planned simultaneous booster-and-ship catch. The flight has not launched, so neither catch has happened. Deadline Nov 30 2026. Status stays pending.",
+    "summary": "Fetched Oct 30 2026: Wikipedia Starship flight 15 still NET November 8; Space.com Oct 21 records the planned simultaneous booster-and-ship catch. The flight has not launched, so neither catch has happened. Deadline Nov 30 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Oct 25 2026: docs.x.ai/docs/models still lists grok-4.7 as the flagship with no grok-4.8 id; x.ai/news latest model post is still Introducing Grok 4.7 (Sep 21). Internal C++ pre-training without shipped inference/GB300 gains is not the June 29 promise. Missed.",
+    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Oct 30 2026: docs.x.ai/docs/models still lists grok-4.7 as the flagship ('the most capable model we’ve built') with no grok-4.8 id; x.ai/news latest model post is still Introducing Grok 4.7 (Sep 21). Internal C++ pre-training without shipped inference/GB300 gains is not the June 29 promise. Missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6081,7 +6081,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 17 2026: no receipt that self-driving is working on the Tesla Semi. Customer Semis still require a licensed commercial driver. Tesla has shown Semi test trucks with FSD validation / ground-truthing hardware (June 2026 sightings) and launched high-volume Semi production Sep 24, but that is not FSD working. Deadline Mar 31 2027. Status stays pending.",
+    "summary": "Fetched Oct 30 2026: no receipt that self-driving is working on the Tesla Semi. Customer Semis still require a licensed commercial driver. High-volume Semi production launched Sep 24; TT News and Drive Tesla still describe FSD on the Semi as a late-2026/early-2027 target, not a shipped capability. Deadline Mar 31 2027. Status stays pending.",
     "url": "https://www.ttnews.com/articles/tesla-semi-high-volume"
    }
   },
@@ -6112,8 +6112,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 17 2026: no public receipt that an 'AI robot singularity' has arrived. Optimus V3 remains unrevealed as a commercial product; xAI's newsroom flagship is still Grok 4.7 (Sep 21) plus Grok Voice 3.0 (Oct 14). Deadline 2036-07-23. Status stays pending.",
-    "url": "https://x.ai/news"
+    "summary": "Fetched Oct 30 2026: no AI-robot singularity has occurred; the 2036 deadline is a decade out. Status stays pending.",
+    "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
    }
   },
   {
@@ -6174,8 +6174,8 @@
     }
    ],
    "resolution": {
-    "summary": "Searched Oct 18 2026: coverage of Musk's 2036 money-won't-matter line remains a forecast (The Economist interview and later restatements). Money still rations goods, housing, and capital. Deadline 2036-12-31. Status stays pending.",
-    "url": "https://tech.yahoo.com/ai/articles/elon-musk-says-money-might-145749353.html"
+    "summary": "Fetched Oct 30 2026: money still matters; the 2036 deadline is a decade out. Status stays pending.",
+    "url": "https://www.businessinsider.com/elon-musk-ai-robots-only-way-solve-debt-2026-10"
    }
   },
   {
@@ -6205,7 +6205,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 17 2026: Starship is not flying daily. Flight 14 launched Sep 28; Flight 15 is NET November 8. Cadence remains weeks between flights, not one a day. Deadline 2027-08-04. Status stays pending.",
+    "summary": "Fetched Oct 30 2026: Starship is still weeks between flights (Flight 14 Sep 28; Flight 15 NET Nov 8), not once a day. Deadline Aug 4 2027. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -6236,8 +6236,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 17 2026: Terafab is still a planned Grimes County, Texas chip campus. County/state filings describe four phases through 2036 and ~100 million sq ft at full build-out; Phase 1 is 2026–28. Site work/clearing reported, not a completed 50×-Pentagon building. No deadline. Status stays pending.",
-    "url": "https://www.enr.com/articles/63809-spacex-records-fight-exposes-119b-terafab-buildout-plans"
+    "summary": "Fetched Oct 30 2026: Terafab is still a planned Austin fab (equipment commissioning 2027 per Tesla Q3); it is not 50× the Pentagon. No deadline. Status stays pending.",
+    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
    }
   },
   {
@@ -6342,8 +6342,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 17 2026: no Starship upper stage has been reflown. Ship 40, recovered from the Indian Ocean after Flight 13, returned to Starbase Megabay in mid-October for inspection (SpaceX: first Ship back at the launch site) — data collection, not a reflight. Flight 15 is planned with new Ship 42. Deadline Mar 31 2027. Status stays pending.",
-    "url": "https://www.notebookcheck.net/SpaceX-brings-Starship-back-to-launch-site-for-the-first-time-three-months-after-launch.1424321.0.html"
+    "summary": "Fetched Oct 30 2026: no Starship upper stage has been reflown. Flight 15 is planned with new Ship 42. Deadline Mar 31 2027. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
   {
@@ -6664,8 +6664,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 17 2026: Wikipedia's Optimus page still has Generation 3 unrevealed (as of September 2026). Tesla has published no fleet anywhere near a billion humanoid robots. Deadline 2036-09-01. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
+    "summary": "Fetched Oct 30 2026: Tesla has begun early Optimus production at Fremont, far short of a billion humanoid robots. Deadline 2036. Status stays pending.",
+    "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
    }
   },
   {
@@ -6836,7 +6836,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 20 2026 passed with no public receipt that Grok 4.8 finished training. Fetched Oct 25 2026: docs.x.ai/docs/models has no grok-4.8 id; flagship listed is still grok-4.7. x.ai/news has no 4.8 post. Training-complete is an internal milestone with no public receipt. Missed; watch to flip missed → delivered-late if xAI/Elon confirms training finished / RL started, or any public 4.8 ships (L13).",
+    "summary": "Deadline Sep 20 2026 passed with no public receipt that Grok 4.8 finished training. Fetched Oct 30 2026: docs.x.ai/docs/models has no grok-4.8 id; flagship listed is still grok-4.7. Musk posted today that Grok 4.8 'has taken longer than expected' and 'will not be a disappointment' — delay admission, not a training-complete or public-ship receipt. Missed; watch to flip missed → delivered-late if xAI/Elon confirms training finished / RL started, or any public 4.8 ships (L13).",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -7109,7 +7109,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). The deadline passed with no independent confirmation the tranche is live. Re-fetched Oct 25 2026: Epoch AI Colossus 2 page is still last updated Jul 30 2026 and still lists Nvidia B200 / B300 hardware with no +220k GB300 operational receipt. Missed; watch to flip missed → delivered-late the moment Epoch/xAI/Elon confirm the tranche is live.",
+    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). The deadline passed with no independent confirmation the tranche is live. Fetched Oct 30 2026: Epoch AI Colossus 2 page is still last updated Jul 30 2026 and still lists Nvidia B200 / B300 hardware with no +220k GB300 operational receipt. Missed; watch to flip missed → delivered-late the moment Epoch/xAI/Elon confirm the tranche is live.",
     "url": "https://epoch.ai/data/ai-data-centers/directory/colossus-2"
    }
   },
@@ -9277,7 +9277,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: Wikipedia Starship flight 15 still lists NET November 8 2026, which is before Thanksgiving (Nov 26). The flight has not launched. Deadline Nov 25 2026. Status stays pending.",
+    "summary": "Fetched Oct 30 2026: Wikipedia Starship flight 15 still lists NET November 8 2026, which is before Thanksgiving (Nov 26). The flight has not launched. Deadline Nov 25 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -10367,11 +10367,11 @@
    "title": "Tesla Battery Day probably in April 2020",
    "company": "Tesla",
    "topic": "Cars & Energy",
-   "status": "missed",
+   "status": "delivered-late",
    "first_said": "2019-06-11",
    "first_deadline": "2019-12-31",
-   "current_deadline": "2020-04-30",
-   "resolved_date": null,
+   "current_deadline": "2019-12-31",
+   "resolved_date": "2020-09-22",
    "times_moved": 1,
    "goalpost_history": [
     "2019",
@@ -10394,15 +10394,15 @@
      "date_made": "2020-01-29",
      "deadline": "2020-04-30",
      "change": "goalpost_moved",
-     "status": "missed",
+     "status": "delivered-late",
      "quote": "we're going to talk about this in battery day, which is probably April",
      "source": "https://www.youtube.com/watch?v=LTOetiSVJnc&t=3449s",
      "url": "https://twoweeks.lol/predictions/battery-day-probably-april-2020/"
     }
    ],
    "resolution": {
-    "summary": "Battery Day was held on September 22, 2020, five months after April.",
-    "url": "https://en.wikipedia.org/wiki/Tesla_Battery_Day"
+    "summary": "Tesla Battery Day was held on September 22, 2020 at the Fremont factory parking lot, five months after the April target from the Q4 2019 call. Fetched Oct 30 2026: The Verge's live recap of that day's event. Regraded missed → delivered-late (L7).",
+    "url": "https://www.theverge.com/2020/9/22/21451469/tesla-battery-day-news-announcement-elon-musk-updates-highlights"
    }
   },
   {
@@ -12038,7 +12038,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Oct 25 2026: x.ai/news latest Grok Bot posts are incident-sweep (Oct 20) and the Partner Network (Oct 22); no receipt of wide enterprise deployment beyond trusted customers. Status stays pending.",
+    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Oct 30 2026: x.ai/news latest Grok Bot post is 'Your next sales teammate should be a Grok Bot' (Oct 27) about SpaceXSI's own sales team Shared Bots — not a receipt of wide enterprise deployment beyond trusted customers. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },

@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-29",
+ "retrieved": "2026-10-30",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 346,
  "statements": 463,
- "count": 395,
+ "count": 397,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-10-30",
+   "kind": "prediction",
+   "slug": "first-neuralink-human-implant-in-2023",
+   "claim_id": "c42",
+   "change": "Verdict: Missed → Delivered late. Neuralink's first human implant was on January 28, 2024, four weeks after the 2023 deadline.",
+   "url": "https://twoweeks.lol/predictions/thousands-neuralink-implants/#first-neuralink-human-implant-in-2023"
+  },
+  {
+   "date": "2026-10-30",
+   "kind": "prediction",
+   "slug": "battery-day-probably-april-2020",
+   "claim_id": "c420",
+   "change": "Verdict: Missed → Delivered late. Tesla Battery Day was held on September 22, 2020, five months after the April target.",
+   "url": "https://twoweeks.lol/predictions/battery-day-probably-april-2020/"
+  },
   {
    "date": "2026-10-26",
    "kind": "prediction",

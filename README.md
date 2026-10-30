@@ -3,14 +3,14 @@
 Every dated prediction Elon Musk has made in public, with the deadline he gave, every time he moved it, and what actually happened. Maintained by [twoweeks.lol](https://twoweeks.lol) and synced from the live site every day.
 
 <!-- stats -->
-Snapshot 2026-10-29: **346 claims**, 134 deadline moves.
+Snapshot 2026-10-30: **346 claims**, 134 deadline moves.
 
 | Verdict | Claims |
 |---|---|
 | delivered | 50 |
-| delivered-late | 77 |
+| delivered-late | 78 |
 | partial | 16 |
-| missed | 75 |
+| missed | 74 |
 | cancelled | 11 |
 | disputed | 1 |
 | pending | 116 |
