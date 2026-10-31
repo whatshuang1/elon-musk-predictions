@@ -1,13 +1,21 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-30",
+ "retrieved": "2026-10-31",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 346,
- "statements": 463,
- "count": 397,
+ "claims": 347,
+ "statements": 464,
+ "count": 398,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-10-30",
+   "kind": "prediction",
+   "slug": "orbital-compute-passes-terrestrial-end-2028",
+   "claim_id": "c517",
+   "change": "Elon Musk said the AI computing power sent into orbit each month will probably pass what is added on Earth around the end of 2028, and far pass it in 2029.",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#orbital-compute-passes-terrestrial-end-2028"
+  },
   {
    "date": "2026-10-30",
    "kind": "prediction",

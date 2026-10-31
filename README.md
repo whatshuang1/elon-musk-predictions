@@ -3,21 +3,21 @@
 Every dated prediction Elon Musk has made in public, with the deadline he gave, every time he moved it, and what actually happened. Maintained by [twoweeks.lol](https://twoweeks.lol) and synced from the live site every day.
 
 <!-- stats -->
-Snapshot 2026-10-30: **346 claims**, 134 deadline moves.
+Snapshot 2026-10-31: **347 claims**, 134 deadline moves.
 
 | Verdict | Claims |
 |---|---|
 | delivered | 50 |
 | delivered-late | 78 |
 | partial | 16 |
-| missed | 74 |
-| cancelled | 11 |
+| missed | 73 |
+| cancelled | 12 |
 | disputed | 1 |
-| pending | 116 |
+| pending | 117 |
 
 Of the 229 resolved claims, 50 were delivered on time (22%).
 
-By company: Tesla 173, SpaceX 93, xAI 34, General 20, Neuralink 11, X 11, Boring Company 4
+By company: Tesla 173, SpaceX 94, xAI 34, General 20, Neuralink 11, X 11, Boring Company 4
 <!-- /stats -->
 
 ## Files

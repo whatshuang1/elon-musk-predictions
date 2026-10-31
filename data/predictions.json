@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-30",
+ "retrieved": "2026-10-31",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 346,
- "statements": 463,
- "count": 463,
+ "claims": 347,
+ "statements": 464,
+ "count": 464,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -735,7 +735,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=6v6dbxPlsXs",
    "source_type": "video",
-   "last_checked": "2026-10-19"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 52,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 106,
@@ -1632,7 +1632,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1953515379688714697",
    "source_type": "tweet",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 108,
@@ -2013,7 +2013,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 129,
@@ -2176,12 +2176,12 @@
    "date_made": "2016-11-17",
    "deadline": null,
    "resolved_date": null,
-   "status": "missed",
+   "status": "cancelled",
    "times_moved": 0,
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=w-arnlSOCgs",
    "source_type": "video",
-   "last_checked": "2026-07-16"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 140,
@@ -2538,7 +2538,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.tesla.com/blog/master-plan-part-deux",
    "source_type": "blog",
-   "last_checked": "2026-08-03"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 161,
@@ -2643,7 +2643,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=tdUX3ypDVwI",
    "source_type": "video",
-   "last_checked": "2026-07-17"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 166,
@@ -3213,7 +3213,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067430722399539385",
    "source_type": null,
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 196,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 216,
@@ -3868,7 +3868,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071385784154759468",
    "source_type": "tweet",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 227,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 238,
@@ -4250,7 +4250,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.investing.com/news/transcripts/earnings-call-transcript-spacex-beats-revenue-estimates-in-q2-2026-shares-swing-93CH-4836052",
    "source_type": "transcript",
-   "last_checked": "2026-10-18"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 246,
@@ -4634,7 +4634,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2099308197802631191",
    "source_type": "tweet",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 264,
@@ -4802,7 +4802,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2103151040858067289",
    "source_type": "tweet",
-   "last_checked": "2026-10-18"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 272,
@@ -4823,7 +4823,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2103329761690865846",
    "source_type": "tweet",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 273,
@@ -4844,7 +4844,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2104241521746649165",
    "source_type": "tweet",
-   "last_checked": "2026-10-18"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 274,
@@ -6260,7 +6260,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1078021840444903424",
    "source_type": "tweet",
-   "last_checked": "2026-10-11"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 343,
@@ -6722,7 +6722,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=tUHHZsN7tPM",
    "source_type": "video",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 367,
@@ -6953,7 +6953,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=wsixsRI-Sz4&t=859s",
    "source_type": "video",
-   "last_checked": "2026-10-12"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 378,
@@ -8339,7 +8339,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=fRMnRR7PRvU&t=1069s",
    "source_type": "video",
-   "last_checked": "2026-10-12"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 444,
@@ -9431,7 +9431,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2111136408484069470",
    "source_type": "tweet",
-   "last_checked": "2026-10-18"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 499,
@@ -9452,7 +9452,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2111610981046452541",
    "source_type": "tweet",
-   "last_checked": "2026-10-18"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 500,
@@ -9599,7 +9599,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 507,
@@ -9620,7 +9620,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-10-31"
   },
   {
    "id": 508,
@@ -9810,6 +9810,27 @@
    "primary_source": "https://x.com/elonmusk/status/2114774224015663608",
    "source_type": "tweet",
    "last_checked": "2026-10-26"
+  },
+  {
+   "id": 517,
+   "slug": "orbital-compute-passes-terrestrial-end-2028",
+   "claim_id": "c517",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#orbital-compute-passes-terrestrial-end-2028",
+   "title": "AI compute launched to orbit each month passes new Earth data centers by end of 2028",
+   "company": "SpaceX",
+   "topic": "AI",
+   "category": "AI Compute",
+   "quote": "Orbital compute deployed per month probably exceeds terrestrial around the end of 2028 and then far exceeds it in 2029.",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-10-30",
+   "deadline": "2028-12-31",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2116359819258990946",
+   "source_type": "tweet",
+   "last_checked": "2026-10-30"
   }
  ]
 }

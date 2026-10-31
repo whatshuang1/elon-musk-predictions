@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-30",
+ "retrieved": "2026-10-31",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -1420,8 +1420,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 19 2026: $20,000–$30,000 remains Tesla's stated long-term / at-scale Optimus target, not a current sticker. Optimus is not on public sale; Wikipedia still has no consumer price and says Gen 3 was unrevealed as of September 2026. Deadline 2030. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
+    "summary": "Fetched Oct 31 2026: $20,000–$30,000 remains Tesla's stated long-term / at-scale Optimus target, not a current sticker. Optimus is not on public sale; Tesla confirmed early Fremont production (Oct 21) but has published no consumer price and has not unveiled Gen 3. Deadline 2030. Status stays pending.",
+    "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
    }
   },
   {
@@ -3388,7 +3388,7 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (interpreted generously as by end of July 2026). Tesla's Oct 21 Q3 letter confirmed early Optimus production on Fremont high-volume lines of production-quality bots, but that is a start-of-production receipt (#135), not a public unveil of the Gen 3 body. Fetched Oct 30 2026: Humanoids Daily / Not a Tesla App — Tesla still has not shown Gen 3 as an unveil; Musk said a new Optimus video may come in a month or two. Missed; watch to flip missed → delivered-late the moment Tesla shows the Gen 3 body to any audience.",
+    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (interpreted generously as by end of July 2026). Tesla's Oct 21 Q3 letter confirmed early Optimus production on Fremont high-volume lines of production-quality bots, but that is a start-of-production receipt (#135), not a public unveil of the Gen 3 body. Fetched Oct 31 2026: Humanoids Daily — Tesla still has not shown Gen 3 as an unveil; Musk said a new Optimus video may come in a month or two. Missed; watch to flip missed → delivered-late the moment Tesla shows the Gen 3 body to any audience.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -3610,7 +3610,7 @@
    "title": "Solar roof will cost less than a normal roof (2016)",
    "company": "Tesla",
    "topic": "Cars & Energy",
-   "status": "missed",
+   "status": "cancelled",
    "first_said": "2016-11-17",
    "first_deadline": null,
    "current_deadline": null,
@@ -3624,15 +3624,15 @@
      "date_made": "2016-11-17",
      "deadline": null,
      "change": "first",
-     "status": "missed",
+     "status": "cancelled",
      "quote": "It's looking quite promising that a solar roof will actually cost less than a normal roof before you even take the value of electricity into account.",
      "source": "https://www.youtube.com/watch?v=w-arnlSOCgs",
      "url": "https://twoweeks.lol/predictions/year-of-the-solar-roof-2019/#solar-roof-cheaper-than-normal-roof"
     }
    ],
    "resolution": {
-    "summary": "At the Oct 28 2016 unveil Musk claimed a solar roof would cost less than a normal roof. In reality, as of 2025–2026 a Tesla Solar Roof costs roughly $50–$63 per square foot (over $100k for an average home) — far more than a conventional roof, and far more than a normal roof plus standard solar panels. The claim was not met.",
-    "url": "https://www.solarreviews.com/blog/how-much-does-the-tesla-solar-roof-cost-compared-to-conventional-solar"
+    "summary": "Musk said a solar roof would cost less than a normal roof even before electricity savings. It never did: installed Solar Roofs ran roughly $50–$63 per square foot, far more than a conventional roof or a new roof plus panels. In August 2026 Tesla discontinued Solar Roof — new tile orders closed, tesla.com/solarroof redirects to conventional panels, and the product is gone from the Energy menu. The cost-parity goal is abandoned. Cancelled, not missed-and-counting.",
+    "url": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/"
    }
   },
   {
@@ -4990,7 +4990,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Tesla's Sep 22 Grok Bot launch lets owners run cabin/errand tasks while FSD drives. A Sep 29 owner demo of 'Grok, turn right up ahead' is a fan-built Tesla navigation-API hack, not a shipped Tesla feature. Fetched Oct 30 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; no Tesla/Elon receipt of mid-drive FSD planning-layer commands. Missed.",
+    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Tesla software 2026.38.6 (Oct 29) only removes Grok's in-car beta label; that is not routing control of FSD. Fetched Oct 31 2026: no Tesla/Elon receipt that conversational Grok can issue live FSD route commands. Missed; watch to flip missed → delivered-late the moment Tesla ships 'Hey Grok, turn right here' routing.",
     "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 30 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (latest notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 31 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (commits continue through Oct 31; notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5864,7 +5864,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: Wikipedia Starship flight 15 still NET November 8; Space.com Oct 21 records the planned simultaneous booster-and-ship catch. The flight has not launched, so neither catch has happened. Deadline Nov 30 2026. Status stays pending.",
+    "summary": "Fetched Oct 31 2026: Wikipedia Starship flight 15 NET November 12; dual booster-and-ship catch remains the plan. The flight has not launched, so neither catch has happened. Deadline Nov 30 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Oct 30 2026: docs.x.ai/docs/models still lists grok-4.7 as the flagship ('the most capable model we’ve built') with no grok-4.8 id; x.ai/news latest model post is still Introducing Grok 4.7 (Sep 21). Internal C++ pre-training without shipped inference/GB300 gains is not the June 29 promise. Missed.",
+    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Oct 31 2026: docs.x.ai/developers/models still lists Grok 4.7 as the flagship ('the most capable model we’ve built') with no grok-4.8 id; last updated Sep 21. Internal C++ pre-training without shipped inference/GB300 gains is not the June 29 promise. Missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6267,7 +6267,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 18 2026: Starship has flown 14 times through Flight 14 (Sep 28 2026), the first orbital mission, which still carried no crew. Wikipedia's launch list (reviewed Oct 17, fetched today) shows none crewed. Flight 15 is upcoming NET Nov 8 and uncrewed. No SpaceX/Musk claim that the vehicle is already human-rated. Deadline end of 2027. Status stays pending.",
+    "summary": "Fetched Oct 31 2026: Starship has flown 14 times through Flight 14 (Sep 28 2026), the first orbital mission, which still carried no crew. Wikipedia's launch list shows none crewed. Flight 15 is upcoming NET Nov 12 and uncrewed. No SpaceX/Musk claim that the vehicle is already human-rated. Deadline end of 2027. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/List_of_Starship_launches"
    }
   },
@@ -6836,7 +6836,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 20 2026 passed with no public receipt that Grok 4.8 finished training. Fetched Oct 30 2026: docs.x.ai/docs/models has no grok-4.8 id; flagship listed is still grok-4.7. Musk posted today that Grok 4.8 'has taken longer than expected' and 'will not be a disappointment' — delay admission, not a training-complete or public-ship receipt. Missed; watch to flip missed → delivered-late if xAI/Elon confirms training finished / RL started, or any public 4.8 ships (L13).",
+    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Oct 31 2026: docs.x.ai still has no grok-4.8; flagship is Grok 4.7 (Sep 21). On Oct 30 Musk said 4.8 'has taken longer than expected' and 'will not be a disappointment' — still no training-finished / RL-started confirmation. Missed; watch to flip missed → delivered-late the moment xAI/Elon confirms training finished or any public 4.8 ships.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -7078,7 +7078,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) was 'cautiously optimistic' SpaceX would have a Fable/GPT-6 level model in 2 to 3 months (deadline Dec 24 2026). Fetched Oct 18 2026: docs.x.ai flagship is still grok-4.7; x.ai/news latest foundation-model post is Grok 4.7 (Sep 21); Oct 14 Grok Voice 3.0 is speech, not Fable/GPT-6 class. Status stays pending.",
+    "summary": "Musk (Sep 24) was 'cautiously optimistic' SpaceX would have a Fable/GPT-6 level model in 2 to 3 months (deadline Dec 24 2026). Fetched Oct 31 2026: docs.x.ai flagship is still grok-4.7; Grok 4.8 has not shipped. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -7109,7 +7109,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). The deadline passed with no independent confirmation the tranche is live. Fetched Oct 30 2026: Epoch AI Colossus 2 page is still last updated Jul 30 2026 and still lists Nvidia B200 / B300 hardware with no +220k GB300 operational receipt. Missed; watch to flip missed → delivered-late the moment Epoch/xAI/Elon confirm the tranche is live.",
+    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). The deadline passed with no independent confirmation the tranche is live. Fetched Oct 31 2026: Epoch AI Colossus 2 page is still last updated Jul 30 2026 and still lists Nvidia B200 / B300 hardware with no +220k GB300 operational receipt. Missed; watch to flip missed → delivered-late the moment Epoch/xAI/Elon confirm the tranche is live.",
     "url": "https://epoch.ai/data/ai-data-centers/directory/colossus-2"
    }
   },
@@ -7140,7 +7140,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 27 2026) said Starship is 2 to 3 years away from hourly flights (deadline Sep 27 2029). Fetched Oct 18 2026: Starship has completed Flight 14 (Sep 28, first orbit + Starlink V3); Flight 15 is NET Nov 8 — weeks between flights, not hourly. Status pending.",
+    "summary": "Musk (Sep 27 2026) said Starship is 2 to 3 years away from hourly flights (deadline Sep 27 2029). Fetched Oct 31 2026: Starship has completed Flight 14 (Sep 28, first orbit + Starlink V3); Flight 15 is NET Nov 12 — weeks between flights, not hourly. Status pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -8688,8 +8688,8 @@
     }
    ],
    "resolution": {
-    "summary": "Tesla never opened a Supercharger in Ukraine. Ukrainian press noted in 2021 that the promised Kyiv-area stations still had not appeared, so coverage did not reach 'Kiev' or 100% of Europe in 2019.",
-    "url": "https://focus.ua/uk/auto/478584-3000-poezdok-na-lunu-i-obratno-set-tesla-supercharger-v-evrope-vyrosla-do-6000-tochek-zaryadki"
+    "summary": "Tesla did not open Superchargers covering 100% of Europe from Ireland to Kiev in 2019. Ukrainian press noted in 2021 the promised Kyiv-area stations still had not appeared. A later Supercharger in Ukraine, if any, cannot fulfil a 2019 coverage claim. Fetched Oct 31 2026: Tesla's Q3 2026 community-picked Supercharger list includes no Ukrainian city. Status stays missed.",
+    "url": "https://www.notateslaapp.com/news/4922/tesla-reveals-36-new-supercharger-sites-picked-by-owners"
    }
   },
   {
@@ -9277,7 +9277,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: Wikipedia Starship flight 15 still lists NET November 8 2026, which is before Thanksgiving (Nov 26). The flight has not launched. Deadline Nov 25 2026. Status stays pending.",
+    "summary": "Fetched Oct 31 2026: Wikipedia Starship flight 15 now lists NET November 12 2026 (slipped from Nov 8), which is still before Thanksgiving (Nov 26). The flight has not launched. Deadline Nov 25 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -11790,8 +11790,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027.",
-    "url": "https://x.com/zerohedge/status/2111129780271636574"
+    "summary": "Pending until the end of 2027. Fetched Oct 31 2026: Samsung's Oct 29 earnings said memory shortages will worsen in 2027 and persist through 2028, with 2027 HBM supply already sold out; SK Hynix said demand will exceed supply through 2030. Musk's 'for sure in 2027' shortage call is still open.",
+    "url": "https://www.kedglobal.com/earnings/newsView/ked202610290005"
    }
   },
   {
@@ -11821,8 +11821,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2030.",
-    "url": "https://x.com/Kalshi/status/2111500047875481946"
+    "summary": "Pending until the end of 2030. Fetched Oct 31 2026: Anthropic's Jack Clark (Oct 17 IMF speech) cited an internal scenario of US GDP reaching ~$44T by 2030 (~50% vs ~$30T), which is the claim Musk endorsed as 'useful output'; it remains a forecast, not an outcome. Status stays pending.",
+    "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17/"
    }
   },
   {
@@ -12038,8 +12038,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Oct 30 2026: x.ai/news latest Grok Bot post is 'Your next sales teammate should be a Grok Bot' (Oct 27) about SpaceXSI's own sales team Shared Bots — not a receipt of wide enterprise deployment beyond trusted customers. Status stays pending.",
-    "url": "https://x.ai/news"
+    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Oct 31 2026: no new xAI/Elon receipt of wide enterprise deployment beyond trusted customers; the Oct 27 sales-bot post is SpaceXSI's own team. Status stays pending.",
+    "url": "https://x.ai/news/grok-bot-for-enterprise"
    }
   },
   {
@@ -12165,8 +12165,39 @@
     "summary": "Pending until Oct 31, 2029.",
     "url": "https://x.com/elonmusk/status/2114774224015663608"
    }
+  },
+  {
+   "claim_id": "c517",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#orbital-compute-passes-terrestrial-end-2028",
+   "title": "AI compute launched to orbit each month passes new Earth data centers by end of 2028",
+   "company": "SpaceX",
+   "topic": "AI",
+   "status": "pending",
+   "first_said": "2026-10-30",
+   "first_deadline": "2028-12-31",
+   "current_deadline": "2028-12-31",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 517,
+     "date_made": "2026-10-30",
+     "deadline": "2028-12-31",
+     "change": "first",
+     "status": "pending",
+     "quote": "Orbital compute deployed per month probably exceeds terrestrial around the end of 2028 and then far exceeds it in 2029.",
+     "source": "https://x.com/elonmusk/status/2116359819258990946",
+     "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#orbital-compute-passes-terrestrial-end-2028"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Dec 31, 2028.",
+    "url": "https://x.com/elonmusk/status/2116359819258990946"
+   }
   }
  ],
- "statements": 463,
- "count": 346
+ "statements": 464,
+ "count": 347
 }
