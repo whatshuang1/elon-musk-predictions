@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-31",
+ "retrieved": "2026-11-01",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 347,
- "statements": 464,
- "count": 464,
+ "claims": 349,
+ "statements": 466,
+ "count": 466,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -1096,7 +1096,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=H7Uyfqi_TE8",
    "source_type": null,
-   "last_checked": "2026-10-20"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 79,
@@ -1180,7 +1180,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/01/29/tesla-tsla-q4-2024-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-10-20"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 83,
@@ -1201,7 +1201,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=remZ1KMR_Z4",
    "source_type": "video",
-   "last_checked": "2026-10-20"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 84,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 106,
@@ -1608,7 +1608,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1997706687155720229",
    "source_type": "tweet",
-   "last_checked": "2026-10-19"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 107,
@@ -1632,7 +1632,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1953515379688714697",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 108,
@@ -1782,7 +1782,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1826409318578565326",
    "source_type": "tweet",
-   "last_checked": "2026-10-20"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 117,
@@ -1803,7 +1803,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2003893474878541841",
    "source_type": "tweet",
-   "last_checked": "2026-10-20"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 118,
@@ -2013,7 +2013,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 129,
@@ -3213,7 +3213,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067430722399539385",
    "source_type": null,
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 196,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 216,
@@ -3868,7 +3868,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071385784154759468",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 227,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 238,
@@ -4271,7 +4271,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/08/11/spacex-spcx-q2-2026-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-10-19"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 247,
@@ -4313,7 +4313,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2091939113008238838",
    "source_type": "tweet",
-   "last_checked": "2026-10-19"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 249,
@@ -4334,7 +4334,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2088306926442430578",
    "source_type": "tweet",
-   "last_checked": "2026-10-19"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 250,
@@ -4634,7 +4634,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2099308197802631191",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 264,
@@ -4823,7 +4823,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2103329761690865846",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 273,
@@ -9473,7 +9473,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2112089556615123114",
    "source_type": "tweet",
-   "last_checked": "2026-10-19"
+   "last_checked": "2026-11-01"
   },
   {
    "id": 501,
@@ -9831,6 +9831,48 @@
    "primary_source": "https://x.com/elonmusk/status/2116359819258990946",
    "source_type": "tweet",
    "last_checked": "2026-10-30"
+  },
+  {
+   "id": 518,
+   "slug": "xai-gun-range-data-center-operational-end-november-2026",
+   "claim_id": "c518",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-gun-range-data-center-operational-end-november-2026",
+   "title": "xAI's Gun Range data center in Memphis up and running by the end of November 2026",
+   "company": "xAI",
+   "topic": "AI",
+   "category": "AI Compute",
+   "quote": "Gun Range is tracking to be operational by end of November and Spam in December.",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-10-31",
+   "deadline": "2026-11-30",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2116587474021691629",
+   "source_type": "tweet",
+   "last_checked": "2026-10-31"
+  },
+  {
+   "id": 519,
+   "slug": "xai-colossus-2-1-2-million-blackwells-end-2026",
+   "claim_id": "c519",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-colossus-2-1-2-million-blackwells-end-2026",
+   "title": "About 1.2 million Nvidia Blackwell chips at xAI's Colossus 2 by the end of 2026",
+   "company": "xAI",
+   "topic": "AI",
+   "category": "AI Compute",
+   "quote": "There will be a total of around 1.2M Blackwells at Colossus 2 by end of year",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-10-31",
+   "deadline": "2026-12-31",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2116596535433871630",
+   "source_type": "tweet",
+   "last_checked": "2026-10-31"
   }
  ]
 }

@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-31",
+ "retrieved": "2026-11-01",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 347,
- "statements": 464,
- "count": 398,
+ "claims": 349,
+ "statements": 466,
+ "count": 400,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-10-31",
+   "kind": "prediction",
+   "slug": "xai-colossus-2-1-2-million-blackwells-end-2026",
+   "claim_id": "c519",
+   "change": "Elon Musk said xAI's Colossus 2 site in Memphis will have around 1.2 million Nvidia Blackwell chips in total by the end of 2026.",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-colossus-2-1-2-million-blackwells-end-2026"
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "prediction",
+   "slug": "xai-gun-range-data-center-operational-end-november-2026",
+   "claim_id": "c518",
+   "change": "Elon Musk said xAI's next Memphis data hall, Gun Range, is on track to be running by the end of November, with a second building, Spam, following in December.",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-gun-range-data-center-operational-end-november-2026"
+  },
   {
    "date": "2026-10-30",
    "kind": "prediction",

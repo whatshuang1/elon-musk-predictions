@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-10-31",
+ "retrieved": "2026-11-01",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -2025,7 +2025,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: no humans have landed on Mars. Wikipedia SpaceX Mars colonization program still records the Feb 2026 deprioritization toward a lunar city; Starship Flight 14 (Sep 28) was uncrewed orbital/Starlink, not a Mars mission. The one-million-person self-sustaining-city claim remains a multi-decade target (deadline 2060). Status stays pending.",
+    "summary": "Fetched Nov 1 2026: no humans have landed on Mars. Wikipedia SpaceX Mars colonization program still records no crewed landing; Starship Flight 15 unflown. Status stays pending (2060 deadline).",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -2149,8 +2149,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: Electrek (Sep 25), citing The Information, still reports Optimus output at Fremont rose from a few dozen/week in Q2 small-batch testing to several hundred/week in August (~10x in months), targeting >1,000/week by year-end. Tesla has not published an official production rate. That is one intra-year jump from a tiny test baseline, not a scored year-over-year 10x production ramp (quote is an aspiration through 2030). Status stays pending.",
-    "url": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/"
+    "summary": "Fetched Nov 1 2026: Tesla Q3 letter / TechCrunch Oct 21 — Fremont started early production of production-quality Optimus; Musk said 20,000/week is at least a year away and Tesla disclosed no weekly unit count. A 10× year-on-year ramp through 2030 is not yet evidenced. Status stays pending.",
+    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
    }
   },
   {
@@ -2180,8 +2180,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: the 2024 claim was a Tesla valuation 10× the then-most-valuable company (Apple/Microsoft ~$3T class), i.e. tens of trillions. CompaniesMarketCap: Tesla $1.453T as of Oct 19 (world's 11th); Motley Fool live table Oct 20 has Nvidia ~$5.2T as the leader. Tesla is not 10× the current leader. Deadline 2035. Status stays pending.",
-    "url": "https://companiesmarketcap.com/tesla/marketcap/"
+    "summary": "Fetched Nov 1 2026: the 2024 claim was Tesla 10× the then-most-valuable company (Apple/Microsoft ~$3T class), i.e. tens of trillions. CompaniesMarketCap Nov 1: Apple $5.03T (world's most valuable), Tesla ~$1.58T — about 0.3× Apple, not 10×. Status stays pending (2035).",
+    "url": "https://companiesmarketcap.com/"
    }
   },
   {
@@ -2726,8 +2726,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 19 2026: Musk's Aug 14 claim remains a 2029 forecast, not a current fact. Orbital Radar: no Starmind satellites in orbit. SpaceX's Q3 preview still centers terrestrial AI hosting (Street ~$6.4B AI revenue). Terrestrial AI campuses continue to scale. Deadline 2029-12-31. Status stays pending.",
-    "url": "https://orbitalradar.com/starmind-tracker"
+    "summary": "Fetched Nov 1 2026: Musk's Aug 14 'only way to scale AI probably sometime in 2029' remains a 2029 forecast. Oct 30 tweet 2116359819258990946 is a distinct monthly-deployment crossover claim, already carded as #517 (deadline end-2028), not a moved deadline of this card. No orbital-compute satellites in orbit. Status stays pending.",
+    "url": "https://x.com/elonmusk/status/2116359819258990946"
    }
   },
   {
@@ -3035,8 +3035,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: public patient counts remain in the low dozens, not thousands-per-year. Neura Pod's by-the-numbers page lists 27+ publicly known patients as of October 2026 (Neuralink last confirmed 21 enrolled Jan 28 2026). That is still early human trials, not thousands of implants a year. Deadline 2030-12-31. Status stays pending.",
-    "url": "https://www.neurapod.com/neuralink-by-the-numbers"
+    "summary": "Fetched Nov 1 2026: public Neuralink patient counts remain in the low dozens, not thousands per year. IQ Metrics / Neuralink Jan 28 2026 company count is 21; independent trackers ~27+ as of October. Deadline 2030. Status stays pending.",
+    "url": "https://iqmetrics.org/research/brain-implant-count/"
    }
   },
   {
@@ -3066,8 +3066,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: BEA third estimate for Q2 2026 real GDP is still +2.2% annualized (Q1 2026 +2.5%). Atlanta Fed GDPNow nowcasts Q3 2026 at +3.6% as of Oct 15. That is not double-digit US growth. The 12–18 month window from the Dec 24 2025 statement runs through Jun 24 2027 (L10 generous end); the card deadline 2030-12-24 is the ~5-year triple-digit clause. Q3 advance estimate is due Oct 29. Status stays pending.",
-    "url": "https://www.bea.gov/data/gdp/gross-domestic-product"
+    "summary": "Fetched Nov 1 2026: BEA advance estimate Oct 29 — real GDP +3.4% annualized in Q3 2026 (Q2 +2.2%). That is not double-digit growth. The 12–18 month window from Dec 24 2025 runs to mid-2027. Status stays pending.",
+    "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
    }
   },
   {
@@ -3388,7 +3388,7 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (interpreted generously as by end of July 2026). Tesla's Oct 21 Q3 letter confirmed early Optimus production on Fremont high-volume lines of production-quality bots, but that is a start-of-production receipt (#135), not a public unveil of the Gen 3 body. Fetched Oct 31 2026: Humanoids Daily — Tesla still has not shown Gen 3 as an unveil; Musk said a new Optimus video may come in a month or two. Missed; watch to flip missed → delivered-late the moment Tesla shows the Gen 3 body to any audience.",
+    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 1 2026: Tesla's Oct 21 Q3 letter confirmed early Fremont production of production-quality bots (Gen 3 design) but there is still no official Gen 3 body unveil; Humanoids Daily still dates a full reveal to 1H 2027. App mock assets are not an unveil. Status stays missed.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -4990,7 +4990,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Tesla software 2026.38.6 (Oct 29) only removes Grok's in-car beta label; that is not routing control of FSD. Fetched Oct 31 2026: no Tesla/Elon receipt that conversational Grok can issue live FSD route commands. Missed; watch to flip missed → delivered-late the moment Tesla ships 'Hey Grok, turn right here' routing.",
+    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 1 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; Grok Commands remain climate/music/calls, not FSD routing. Status stays missed.",
     "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Oct 31 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (commits continue through Oct 31; notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 1 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Oct 31 2026: docs.x.ai/developers/models still lists Grok 4.7 as the flagship ('the most capable model we’ve built') with no grok-4.8 id; last updated Sep 21. Internal C++ pre-training without shipped inference/GB300 gains is not the June 29 promise. Missed.",
+    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 1 2026: docs.x.ai still lists Grok 4.7 as flagship; no grok-4.8. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6298,8 +6298,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 19 2026: KeepTrack Oct 19 — SpaceX Q3 due Oct 20 (Street $12.89B); Evercore still treats a $100 billion annualized revenue run rate as a year-end target, not a current result. Q2 2026 revenue was $7.81B (~$31B annualized). Deadline Dec 31 2026 has not passed. Status stays pending.",
-    "url": "https://keeptrack.space/x-report/spacex-brief-2026-10-19"
+    "summary": "Fetched Nov 1 2026: SpaceX Q3 2026 call (Oct 20) — CFO Bret Johnsen said the company remains on track for $100B ARR by end of 2026, defined as December monthly revenue annualized. Q3 revenue $14.6B is not yet a $100B run-rate. Deadline Dec 31 2026 still open. Status stays pending.",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/"
    }
   },
   {
@@ -6836,7 +6836,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Oct 31 2026: docs.x.ai still has no grok-4.8; flagship is Grok 4.7 (Sep 21). On Oct 30 Musk said 4.8 'has taken longer than expected' and 'will not be a disappointment' — still no training-finished / RL-started confirmation. Missed; watch to flip missed → delivered-late the moment xAI/Elon confirms training finished or any public 4.8 ships.",
+    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 1 2026: docs.x.ai still has no grok-4.8; Oct 30 Musk said 4.8 'has taken longer than expected' with no training-done confirmation. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -7109,8 +7109,8 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). The deadline passed with no independent confirmation the tranche is live. Fetched Oct 31 2026: Epoch AI Colossus 2 page is still last updated Jul 30 2026 and still lists Nvidia B200 / B300 hardware with no +220k GB300 operational receipt. Missed; watch to flip missed → delivered-late the moment Epoch/xAI/Elon confirm the tranche is live.",
-    "url": "https://epoch.ai/data/ai-data-centers/directory/colossus-2"
+    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 1 2026: Epoch AI Colossus 2 page is still last updated Jul 30. Musk's Oct 31 Colossus 2 walkthrough says Macroharder and Minihard already have 220k GB300s each and Gun Range (the next 220k) is tracking end of November — not a receipt that the Oct 4 '+220k next week' tranche went live on time. Stays missed; watch to flip missed → delivered-late if that specific extra tranche is confirmed live.",
+    "url": "https://x.com/elonmusk/status/2116587474021691629"
    }
   },
   {
@@ -11852,7 +11852,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027.",
+    "summary": "Pending until the end of 2027. Fetched Nov 1 2026: no public program, SEC filing, or follow-up from Musk that the 2027 share giveaway has started. Status stays pending.",
     "url": "https://x.com/elonmusk/status/2112089556615123114"
    }
   },
@@ -12196,8 +12196,70 @@
     "summary": "Pending until Dec 31, 2028.",
     "url": "https://x.com/elonmusk/status/2116359819258990946"
    }
+  },
+  {
+   "claim_id": "c518",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-gun-range-data-center-operational-end-november-2026",
+   "title": "xAI's Gun Range data center in Memphis up and running by the end of November 2026",
+   "company": "xAI",
+   "topic": "AI",
+   "status": "pending",
+   "first_said": "2026-10-31",
+   "first_deadline": "2026-11-30",
+   "current_deadline": "2026-11-30",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 518,
+     "date_made": "2026-10-31",
+     "deadline": "2026-11-30",
+     "change": "first",
+     "status": "pending",
+     "quote": "Gun Range is tracking to be operational by end of November and Spam in December.",
+     "source": "https://x.com/elonmusk/status/2116587474021691629",
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-gun-range-data-center-operational-end-november-2026"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Nov 30, 2026.",
+    "url": "https://x.com/elonmusk/status/2116587474021691629"
+   }
+  },
+  {
+   "claim_id": "c519",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-colossus-2-1-2-million-blackwells-end-2026",
+   "title": "About 1.2 million Nvidia Blackwell chips at xAI's Colossus 2 by the end of 2026",
+   "company": "xAI",
+   "topic": "AI",
+   "status": "pending",
+   "first_said": "2026-10-31",
+   "first_deadline": "2026-12-31",
+   "current_deadline": "2026-12-31",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 519,
+     "date_made": "2026-10-31",
+     "deadline": "2026-12-31",
+     "change": "first",
+     "status": "pending",
+     "quote": "There will be a total of around 1.2M Blackwells at Colossus 2 by end of year",
+     "source": "https://x.com/elonmusk/status/2116596535433871630",
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#xai-colossus-2-1-2-million-blackwells-end-2026"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Dec 31, 2026.",
+    "url": "https://x.com/elonmusk/status/2116596535433871630"
+   }
   }
  ],
- "statements": 464,
- "count": 347
+ "statements": 466,
+ "count": 349
 }
