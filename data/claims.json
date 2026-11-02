@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-01",
+ "retrieved": "2026-11-02",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -2280,7 +2280,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: Wikipedia Starship flight 15 still lists a potential first ship tower-catch (NET Nov 8); Flight 14 (Sep 28) reached orbit but both stages splashed down — no tower catch of Ship or Super Heavy, so full reusability with rapid reflight is not achieved. Deadline 2027-12-31. Status stays pending.",
+    "summary": "Fetched Nov 2 2026: Wikipedia Starship flight 15 still lists a first dual tower-catch (NET Nov 12); The Space Road (Nov 2) counts 0 ship catches and Flight 14 splashdowns, so full reusability with rapid reflight is not achieved. Deadline 2027-12-31. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -2627,8 +2627,8 @@
     }
    ],
    "resolution": {
-    "summary": "Musk said at Cyber Rodeo (Apr 7 2022) that Tesla had 'a shot' at producing Optimus version one in 2023. That did not happen — 2023 saw only R&D demonstrations. Limited production slipped to 2025 and remained behind schedule; high-volume production lines were still being installed as of 2026. The 2023 production target was missed.",
-    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
+    "summary": "Musk said at Cyber Rodeo (Apr 7 2022) that Tesla had 'a shot' at producing Optimus version one in 2023. That did not happen — 2023 saw only R&D demonstrations. Fetched Nov 2 2026: Tesla's Oct 21 Q3 letter / Not a Tesla App (Oct 22) confirm early Fremont production of production-quality bots started in 2026, three years after the 2023 window. A later year cannot fulfil a 2023 production claim (L16). Status stays missed.",
+    "url": "https://www.notateslaapp.com/news/4866/tesla-officially-begins-optimus-robot-production"
    }
   },
   {
@@ -3388,7 +3388,7 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 1 2026: Tesla's Oct 21 Q3 letter confirmed early Fremont production of production-quality bots (Gen 3 design) but there is still no official Gen 3 body unveil; Humanoids Daily still dates a full reveal to 1H 2027. App mock assets are not an unveil. Status stays missed.",
+    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 2 2026: Tesla's Oct 21 Q3 letter confirmed early Fremont production of production-quality bots (Gen 3 design) but there is still no official Gen 3 body unveil; Humanoids Daily still dates a full reveal to 1H 2027. App mock assets are not an unveil. Status stays missed.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -3538,8 +3538,8 @@
     }
    ],
    "resolution": {
-    "summary": "Quote promised Version 15 as a complete software-architecture overhaul that 'will run on AI5,' hopefully by end of 2026 / certainly early 2027. Fetched Oct 22 2026: customer cars are still on FSD (Supervised) v14.3.13 (update 2026.38.5.10, Oct 20). Robotaxi fleets have run early v15 builds since July on Hardware 4 — not a customer FSD v15 complete overhaul on AI5. AI5 volume remains 2027. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.notateslaapp.com/news/4679/tesla-ai-chief-talks-about-whats-coming-in-fsd-v15"
+    "summary": "Quote promised Version 15 as a complete software-architecture overhaul that 'will run on AI5,' hopefully by end of 2026 / certainly early 2027. Fetched Nov 2 2026: Tesla Oracle (Nov 2) and Supercharged Daily (Nov 2) still have customer cars on FSD (Supervised) v14.3.13 / 2026.38–39 builds. Robotaxi fleets have run early v15 builds since July on Hardware 4 — not a customer FSD v15 complete overhaul on AI5. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://www.teslaoracle.com/tag/fsd-beta/"
    }
   },
   {
@@ -4990,7 +4990,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 1 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; Grok Commands remain climate/music/calls, not FSD routing. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 2 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; Grok Commands remain climate/music/calls, not FSD routing. Status stays missed.",
     "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 1 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 2 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5864,7 +5864,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 31 2026: Wikipedia Starship flight 15 NET November 12; dual booster-and-ship catch remains the plan. The flight has not launched, so neither catch has happened. Deadline Nov 30 2026. Status stays pending.",
+    "summary": "Fetched Nov 2 2026: Wikipedia Starship flight 15 NET November 12; dual booster-and-ship catch remains the plan. The Space Road (Nov 2) confirms 0 ship catches so far and no Flight 15 launch. Deadline Nov 30 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 1 2026: docs.x.ai still lists Grok 4.7 as flagship; no grok-4.8. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 2 2026: docs.x.ai still lists Grok 4.7 as flagship; Next AI Model (Nov 2) says latest is Grok 4.7 (Sep 21) with no grok-4.8. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6416,8 +6416,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: Wikipedia List of Starship launches (reviewed Oct 18) still counts 14 Starship flights total as of Sep 28, not 30+ per day. Flight 15 has not launched (NET Nov 8). Deadline 2030-12-31. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/List_of_Starship_launches"
+    "summary": "Fetched Nov 2 2026: The Space Road Starship tracker (updated Nov 2) still counts 14 full-stack flights total as of Flight 14 (Sep 28), not 30+ per day. Flight 15 has not launched (NET November). Deadline 2030-12-31. Status stays pending.",
+    "url": "https://thespaceroad.com/launches/starship/"
    }
   },
   {
@@ -6447,7 +6447,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: Wikipedia SpaceX Starbase, Louisiana still lists the site as planned (Vermilion Parish; 12 launch pads planned; construction expected 2027, first launch targeting 2029). No towers built, no launches. Deadline 2030-12-31. Status stays pending.",
+    "summary": "Fetched Nov 2 2026: Wikipedia SpaceX Starbase, Louisiana still lists the site as planned (Vermilion Parish; construction expected 2027, first launch targeting 2029; Musk on the Oct 20 call floated an internal 2028 first-launch aspiration). No towers built, no launches. Deadline 2030-12-31. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Starbase,_Louisiana"
    }
   },
@@ -6478,7 +6478,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 20 2026: SpaceX Q2 2026 revenue was $7.81 billion (company earnings, recapped on Exploding Topics Oct 20). Q3 results are due after the close today; consensus is about $13 billion, still not a $3.5 trillion annual run-rate. Management is targeting ~$100 billion ARR by Dec 2026 and ~$1 trillion revenue around 2030. Deadline 2033-12-31. Status stays pending.",
+    "summary": "Fetched Nov 2 2026: Exploding Topics (updated Oct 21 from SpaceX's Q3 2026 earnings release) reports Q3 2026 revenue of $14.58 billion and $27.08 billion in the first nine months of 2026 — still not a $3.5 trillion annual run-rate. Deadline 2033-12-31. Status stays pending.",
     "url": "https://explodingtopics.com/blog/spacex-revenue"
    }
   },
@@ -6836,7 +6836,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 1 2026: docs.x.ai still has no grok-4.8; Oct 30 Musk said 4.8 'has taken longer than expected' with no training-done confirmation. Status stays missed.",
+    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 2 2026: docs.x.ai still has no grok-4.8; Next AI Model (Nov 2) still lists Grok 4.7 (Sep 21) as latest; Oct 30 Musk said 4.8 'has taken longer than expected' with no training-done confirmation. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -7109,7 +7109,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 1 2026: Epoch AI Colossus 2 page is still last updated Jul 30. Musk's Oct 31 Colossus 2 walkthrough says Macroharder and Minihard already have 220k GB300s each and Gun Range (the next 220k) is tracking end of November — not a receipt that the Oct 4 '+220k next week' tranche went live on time. Stays missed; watch to flip missed → delivered-late if that specific extra tranche is confirmed live.",
+    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 2 2026: Musk's Oct 31 Colossus 2 walkthrough says Macroharder and Minihard already have 220k GB300s each and Gun Range (the next 220k) is tracking end of November — not a receipt that the Oct 4 '+220k next week' tranche went live on time. Stays missed; watch to flip missed → delivered-late if that specific extra tranche is confirmed live.",
     "url": "https://x.com/elonmusk/status/2116587474021691629"
    }
   },
@@ -9277,7 +9277,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 31 2026: Wikipedia Starship flight 15 now lists NET November 12 2026 (slipped from Nov 8), which is still before Thanksgiving (Nov 26). The flight has not launched. Deadline Nov 25 2026. Status stays pending.",
+    "summary": "Fetched Nov 2 2026: Wikipedia Starship flight 15 still lists NET November 12 2026; The Space Road (updated Nov 2) says there is no official date, FAA planning slide NET Nov 12, and the flight has not launched. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -11883,8 +11883,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Musk said about 2.5-3 GW will be online by the end of 2026.",
-    "url": "https://x.com/cb_doge/status/2112653610953887818"
+    "summary": "Pending until the end of 2027. Fetched Nov 2 2026: Musk's Oct 31 Colossus 2 update still points to ~1.2 million Blackwells by year-end 2026, far short of 13 GW, and SpaceX's Oct 26 Vera Rubin financing is for H1 2027 delivery. Deadline 2027-12-31.",
+    "url": "https://x.com/elonmusk/status/2116587474021691629"
    }
   },
   {
@@ -11914,8 +11914,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2026.",
-    "url": "https://x.com/cb_doge/status/2112653610953887818"
+    "summary": "Pending until the end of 2026. Fetched Nov 2 2026: on Oct 31 Musk said Macroharder and Minihard already have 220k GB300s each, with Gun Range tracking end of November and Spam in December, so the rest-of-2026 monthly pace is still open through the 2026-12-31 deadline.",
+    "url": "https://x.com/elonmusk/status/2116587474021691629"
    }
   },
   {
@@ -12038,7 +12038,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Oct 31 2026: no new xAI/Elon receipt of wide enterprise deployment beyond trusted customers; the Oct 27 sales-bot post is SpaceXSI's own team. Status stays pending.",
+    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Nov 2 2026: x.ai/news still has no wide-enterprise rollout beyond the Sep 3 announcement and Oct 27 sales-bot post (SpaceXSI's own team). Status stays pending.",
     "url": "https://x.ai/news/grok-bot-for-enterprise"
    }
   },
@@ -12224,8 +12224,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 30, 2026.",
-    "url": "https://x.com/elonmusk/status/2116587474021691629"
+    "summary": "Pending until Nov 30, 2026. Fetched Nov 2 2026: WREG (Nov 1–2) recaps Musk's Oct 31 post that Gun Range is tracking end of November and Spam December; no receipt that Gun Range is already operational.",
+    "url": "https://wreg.com/news/local/elon-musk-discusses-two-more-data-centers-in-memphis/"
    }
   },
   {
