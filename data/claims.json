@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-02",
+ "retrieved": "2026-11-03",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -3152,7 +3152,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 21 2026: x.ai/news has no AGI or Grok 5 announcement. Latest public flagship is Grok 4.7 (Sep 21). Nobody has a consensus AGI system in production. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 3 2026: x.ai/news has no AGI or Grok 5 announcement. Latest public flagship is Grok 4.7 (Sep 21). Nobody has a consensus AGI system in production. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -3388,7 +3388,7 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 2 2026: Tesla's Oct 21 Q3 letter confirmed early Fremont production of production-quality bots (Gen 3 design) but there is still no official Gen 3 body unveil; Humanoids Daily still dates a full reveal to 1H 2027. App mock assets are not an unveil. Status stays missed.",
+    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 3 2026: Tesla's Oct 21 Q3 letter confirmed early Fremont production of production-quality bots (that's #135 SOP) but has not shown the Gen 3 body as an official unveil. Humanoids Daily (Oct 26) still has no public reveal. Status stays missed.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -4928,8 +4928,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 21 2026: x.ai/news still leads with Grok 4.7 (Sep 21) as SpaceXAI's latest public coding/knowledge-work model. Grok 4.8 remains unreleased. Vendor scores on 4.7: CursorBench 4.0 46.3%, DeepSWE v1.1 71.0% (high), Terminal-Bench 4.0 37.6% — competitive with other frontier models, not a Stockfish-level (decisively superhuman) coding/computer-use bar. Deadline 2028-03-01. Status stays pending.",
-    "url": "https://x.ai/news/grok-4-7"
+    "summary": "Fetched Nov 3 2026: docs.x.ai and x.ai/news still lead with Grok 4.7 (Sep 21) as SpaceXAI's latest public coding/knowledge-work model. Grok 4.8 remains unreleased. Not Stockfish-level coding and general computer use. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -4990,7 +4990,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 2 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; Grok Commands remain climate/music/calls, not FSD routing. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 3 2026: Tesla software 2026.38.6 (Oct 29; coverage through Nov 2) only removes Grok's beta label and adds Intel support files; no FSD voice routing. Status stays missed.",
     "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
@@ -5114,7 +5114,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 29 2026: x.ai/news latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drops are Grok Voice 3.0 (Oct 14) and Grok Bot posts, not a completely-from-scratch new foundation model. Grok 4.8 remains unreleased. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 3 2026: x.ai/news latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drops are Grok Voice 3.0 (Oct 14) and Grok Bot posts; Nov 2 Data Bot is a Team Bot case study, not a completely-from-scratch new foundation model. Grok 4.8 remains unreleased. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 2 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 3 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 2 2026: docs.x.ai still lists Grok 4.7 as flagship; Next AI Model (Nov 2) says latest is Grok 4.7 (Sep 21) with no grok-4.8. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 3 2026: docs.x.ai still lists Grok 4.7 as flagship; no grok-4.8. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6509,8 +6509,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 21 2026: Electrek Sep 25 reports Tesla ramped Optimus to several hundred/week in August, targeting 1,000/week by year-end — still internal test/training units, not a global installed base of 100 million humanoid robots. Deadline 2031-05-19. Status stays pending.",
-    "url": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/"
+    "summary": "Fetched Nov 3 2026: Tesla confirmed early Fremont Optimus production (Oct 21) and Humanoids Daily still describes internal/test units, not a global installed base of 100 million humanoid robots. Deadline 2031. Status stays pending.",
+    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
   {
@@ -6540,7 +6540,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 21 2026: IMF October 2026 World Economic Outlook projects global growth of 3.1% in 2026 and 3.4% in 2027 — not a doubling. Global output has not doubled since the May 19 2026 statement. Deadline 2033-05-19 (L10 generous 7-year end). Status stays pending.",
+    "summary": "Fetched Nov 3 2026: IMF October 2026 World Economic Outlook still projects global growth of 3.1% in 2026 and 3.4% in 2027 — not a doubling. Global output has not doubled since the May 19 2026 statement. Deadline 2033-05-19. Status stays pending.",
     "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
    }
   },
@@ -6571,7 +6571,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 21 2026: AustinIO Bastrop foundry page — construction/buildout underway, hiring active, permits pending as of September 2026, operational date not announced. No independent receipt that in-house casting has already pulled turbines online by up to 18 months. Deadline 2028-02-29. Status stays pending.",
+    "summary": "Fetched Nov 3 2026: AustinIO Bastrop foundry page — construction/buildout underway, hiring active; operational date not announced. No independent receipt that in-house casting has accelerated nat-gas turbines by up to 18 months. Status stays pending.",
     "url": "https://austinio.com/bastrop-turbine-blade-foundry.html"
    }
   },
@@ -6602,8 +6602,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 21 2026: x.ai/news still leads with Grok 4.7 (Sep 21), SpaceXAI's latest public model for coding and knowledge work. Vendor benches mixed vs Fable 5.1 / GPT-5.6 Sol (CursorBench 46.3%, Terminal-Bench 37.6%) — not a claim that AI can do any digital work at superhuman level. Deadline 2027-12-31. Status stays pending.",
-    "url": "https://x.ai/news/grok-4-7"
+    "summary": "Fetched Nov 3 2026: docs.x.ai still leads with Grok 4.7 (Sep 21), SpaceXAI's latest public model for coding and knowledge work. Digital-superhuman-by-EOY-2027 still unmet. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -6836,7 +6836,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 2 2026: docs.x.ai still has no grok-4.8; Next AI Model (Nov 2) still lists Grok 4.7 (Sep 21) as latest; Oct 30 Musk said 4.8 'has taken longer than expected' with no training-done confirmation. Status stays missed.",
+    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 3 2026: docs.x.ai still has no grok-4.8; flagship is Grok 4.7. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -7109,8 +7109,8 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 2 2026: Musk's Oct 31 Colossus 2 walkthrough says Macroharder and Minihard already have 220k GB300s each and Gun Range (the next 220k) is tracking end of November — not a receipt that the Oct 4 '+220k next week' tranche went live on time. Stays missed; watch to flip missed → delivered-late if that specific extra tranche is confirmed live.",
-    "url": "https://x.com/elonmusk/status/2116587474021691629"
+    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 3 2026: x.ai/news has no Colossus tranche-live post; Musk's Oct 31 walkthrough said Macroharder and Minihard already have 220k GB300s each and Gun Range tracks end of November — not a dated receipt the Oct 4 extra tranche went live as promised. Status stays missed.",
+    "url": "https://x.ai/news"
    }
   },
   {
@@ -11294,8 +11294,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027.",
-    "url": "https://x.com/cb_doge/status/2112653610953887818"
+    "summary": "Pending until the end of 2027. Fetched Nov 3 2026: Wikipedia / The Space Road show Flight 15 still unflown (NET Nov 12); weekly then twice-weekly cadence has not started. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
   {
@@ -11945,8 +11945,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until June 30, 2027.",
-    "url": "https://x.com/cb_doge/status/2112653610953887818"
+    "summary": "Pending until June 30, 2027. Fetched Nov 3 2026: SpaceX's Oct 26 IR release still schedules Vera Rubin GPU deliveries for H1 2027; the 440,000-unit Q2 2027 training cluster is not online, and Elon has not restated a new date.",
+    "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/"
    }
   },
   {
@@ -11976,8 +11976,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027.",
-    "url": "https://x.com/cb_doge/status/2112653610953887818"
+    "summary": "Pending until the end of 2027. Fetched Nov 3 2026: SpaceX's Oct 26 IR release covers GPU financing, not a $500 billion–$1 trillion ARR figure. No receipt that ARR has reached that range. Status stays pending.",
+    "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/"
    }
   },
   {
@@ -12007,8 +12007,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about October 2029.",
-    "url": "https://x.com/cb_doge/status/2112653610953887818"
+    "summary": "Pending until about October 2029. Fetched Nov 3 2026: no receipt that Starlink bandwidth is ~100× today's constellation. Status stays pending.",
+    "url": "https://thespaceroad.com/launches/starship/"
    }
   },
   {
@@ -12038,8 +12038,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Nov 2 2026: x.ai/news still has no wide-enterprise rollout beyond the Sep 3 announcement and Oct 27 sales-bot post (SpaceXSI's own team). Status stays pending.",
-    "url": "https://x.ai/news/grok-bot-for-enterprise"
+    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Nov 3 2026: x.ai/news newest Grok Bot post is Nov 2 Data Bot, an internal SpaceXSI Team Bot case study with a Contact-sales link — not a wide-enterprise rollout. Status stays pending.",
+    "url": "https://x.ai/news/data-bot"
    }
   },
   {
