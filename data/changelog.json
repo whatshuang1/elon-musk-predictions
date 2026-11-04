@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-03",
+ "retrieved": "2026-11-04",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 349,
  "statements": 466,
- "count": 400,
+ "count": 402,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-04",
+   "kind": "prediction",
+   "slug": "starship-orbital-attempt-jan-feb-2022",
+   "claim_id": "c40",
+   "change": "Verdict: Missed → Delivered late. Starship's first integrated launch attempt was on April 20, 2023, about 14 months after the February 2022 target.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-orbital-attempt-jan-feb-2022"
+  },
+  {
+   "date": "2026-11-04",
+   "kind": "prediction",
+   "slug": "x-payments-by-middle-of-2024",
+   "claim_id": "c110",
+   "change": "Verdict: Missed → Delivered late. X Money launched to U.S. Premium+ users on June 25, 2026, about two years after the mid-2024 target.",
+   "url": "https://twoweeks.lol/predictions/x-money-launch/#x-payments-by-middle-of-2024"
+  },
   {
    "date": "2026-10-31",
    "kind": "prediction",

@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-03",
+ "retrieved": "2026-11-04",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 349,
@@ -260,7 +260,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=j6_VfR-CyuM",
    "source_type": "video",
-   "last_checked": "2026-10-23"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 14,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 106,
@@ -1632,7 +1632,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1953515379688714697",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 108,
@@ -2013,7 +2013,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 129,
@@ -2433,7 +2433,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=TDm6Snkle70",
    "source_type": "video",
-   "last_checked": "2026-07-19"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 154,
@@ -2664,7 +2664,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=ise2EKRUWGc",
    "source_type": "video",
-   "last_checked": "2026-07-19"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 167,
@@ -3213,7 +3213,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067430722399539385",
    "source_type": null,
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 196,
@@ -3402,7 +3402,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2016575739655504070",
    "source_type": "tweet",
-   "last_checked": "2026-10-23"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 205,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 216,
@@ -3868,7 +3868,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071385784154759468",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 227,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 238,
@@ -4634,7 +4634,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2099308197802631191",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 264,
@@ -4823,7 +4823,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2103329761690865846",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 273,
@@ -6722,7 +6722,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=tUHHZsN7tPM",
    "source_type": "video",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 367,
@@ -7262,13 +7262,13 @@
    "quote_is_paraphrase": false,
    "date_made": "2021-11-17",
    "deadline": "2022-02-28",
-   "resolved_date": null,
-   "status": "missed",
+   "resolved_date": "2023-04-20",
+   "status": "delivered-late",
    "times_moved": 0,
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=vLC5W53Fsyg&t=2383s",
    "source_type": "video",
-   "last_checked": "2026-10-12"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 393,
@@ -8648,13 +8648,13 @@
    "quote_is_paraphrase": false,
    "date_made": "2023-12-21",
    "deadline": "2024-06-30",
-   "resolved_date": null,
-   "status": "missed",
+   "resolved_date": "2026-06-25",
+   "status": "delivered-late",
    "times_moved": 0,
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=BAvg_1pAATE&t=1411s",
    "source_type": "video",
-   "last_checked": "2026-10-12"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 459,
@@ -9116,7 +9116,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=MpTLExoMAtQ&t=5667s",
    "source_type": "video",
-   "last_checked": "2026-10-12"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 481,
@@ -9599,7 +9599,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 507,
@@ -9620,7 +9620,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 508,
@@ -9662,7 +9662,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 510,
@@ -9683,7 +9683,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 511,
@@ -9704,7 +9704,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 512,
@@ -9725,7 +9725,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 513,
@@ -9746,7 +9746,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 514,
@@ -9767,7 +9767,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 515,
@@ -9851,7 +9851,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2116587474021691629",
    "source_type": "tweet",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-04"
   },
   {
    "id": 519,
