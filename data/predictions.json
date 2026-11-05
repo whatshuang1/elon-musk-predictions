@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-04",
+ "retrieved": "2026-11-05",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 349,
@@ -281,7 +281,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 16,
@@ -777,7 +777,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1962618811141812475",
    "source_type": "tweet",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 55,
@@ -970,7 +970,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=YreDYmXTYi4",
    "source_type": "video",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 73,
@@ -991,7 +991,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=QGJysv_Qzkw&t=2443s",
    "source_type": "video",
-   "last_checked": "2026-10-23"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 74,
@@ -1248,7 +1248,7 @@
    ],
    "primary_source": "https://elonmuskinterviews.wordpress.com/2021/03/27/starship-presentation-2019-english/",
    "source_type": null,
-   "last_checked": "2026-10-23"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 86,
@@ -1314,7 +1314,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.reddit.com/r/spacex/comments/590wi9/comment/d94txm0/",
    "source_type": "blog",
-   "last_checked": "2026-10-30"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 90,
@@ -1545,7 +1545,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-10-23"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 102,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 106,
@@ -1632,7 +1632,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1953515379688714697",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 108,
@@ -1719,7 +1719,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1989003739831865805",
    "source_type": "tweet",
-   "last_checked": "2026-10-23"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 113,
@@ -1887,7 +1887,7 @@
    "goalpost_history": [],
    "primary_source": "https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/",
    "source_type": null,
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 122,
@@ -1908,7 +1908,7 @@
    "goalpost_history": [],
    "primary_source": "https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/",
    "source_type": null,
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 123,
@@ -2013,7 +2013,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 129,
@@ -2034,7 +2034,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 131,
@@ -2097,7 +2097,7 @@
    "goalpost_history": [],
    "primary_source": "https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/",
    "source_type": null,
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 134,
@@ -3213,7 +3213,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067430722399539385",
    "source_type": null,
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 196,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 216,
@@ -3868,7 +3868,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071385784154759468",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 227,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 238,
@@ -4634,7 +4634,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2099308197802631191",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 264,
@@ -9599,7 +9599,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 507,
@@ -9788,7 +9788,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-10-21"
+   "last_checked": "2026-11-05"
   },
   {
    "id": 516,

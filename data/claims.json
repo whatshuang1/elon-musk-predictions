@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-04",
+ "retrieved": "2026-11-05",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -569,8 +569,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 22 2026: Tesla's Robotaxi safety report (Oct 21) lists unsupervised miles in six metros across two states — Texas (Austin, Dallas, Houston) and Florida (Miami, Orlando, Tampa) — plus safety-driver Bay Area service. Coming soon: Las Vegas, Phoenix, Jacksonville, San Antonio. Elluswamy on the Q3 call: 'We do six cities now.' Six unsupervised metros is a small fraction of US population — not a quarter to half of the United States. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.notateslaapp.com/news/4860/tesla-names-next-robotaxi-cities-shares-miles-driven-safety-data"
+    "summary": "Fetched Nov 5 2026: Wikipedia Tesla Robotaxi — unsupervised service in Texas (Austin, Dallas, Fort Worth, Houston) and Florida (Miami, Orlando, Tampa), plus safety-supervisor Bay Area rides. Fort Worth launched Nov 2 (Not a Tesla App). Seven metros in two states is not a quarter to half of the United States. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi"
    }
   },
   {
@@ -1528,8 +1528,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 22 2026: Tesla Q3 2026 revenue is still auto-dominated ($20.6B automotive vs $2.9B energy vs $4.6B services). Optimus is listed as Early Ramp in Fremont with no disclosed robot revenue. Analysts still treat Optimus as option value, not ~80% of Tesla. Deadline 2035. Status stays pending.",
-    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+    "summary": "Fetched Nov 5 2026: Humanoids Daily — Tesla's Q3 2026 letter lists California Optimus as an early ramp of production-quality bots, with outside customer deliveries toward end of 2027 and no disclosed robot revenue. Automotive still dominates Tesla. Deadline 2035. Status stays pending.",
+    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
   {
@@ -1857,7 +1857,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 22 2026: Wikipedia Neuralink still describes Telepathy-class computer, wheelchair, and robotic-arm control plus speech BCI (VOICE). Blindsight remains a development effort with FDA breakthrough status, not restored walking or full body function below a spinal injury. Deadline 2030. Status stays pending.",
+    "summary": "Fetched Nov 5 2026: Wikipedia Neuralink still lists Telepathy and Blindsight as products; human testing is computer/voice BCI, not restored walking or full body function below a spinal injury. Deadline 2030. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Neuralink"
    }
   },
@@ -1888,7 +1888,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 23 2026: Neuralink remains a medical-restoration BCI (Telepathy / VOICE); Blindsight is still a development effort, not shipped superintelligence or extra-wavelength vision. China approved a rival commercial implant (NEO); Neuralink is still investigational in the US. Deadline 2035. Status stays pending.",
+    "summary": "Fetched Nov 5 2026: Neuralink remains a medical-restoration BCI (Telepathy / Blindsight in development). No shipped superintelligence or extra-wavelength vision. Deadline 2035. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Neuralink"
    }
   },
@@ -2366,7 +2366,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: SpaceX’s Mars page still lists Starship cargo flights no earlier than 2028 and first human explorers as future work; Starship remains in uncrewed tests (Flight 15 NET Nov 8). The 2029 crewed-mission deadline has not passed. Status stays pending.",
+    "summary": "Fetched Nov 5 2026: Wikipedia SpaceX Mars colonization still lists cargo Starships no earlier than 2028 and first human explorers as future work. Starship Flight 15 is unflown (Wikipedia NET Nov 12; The Space Road 0 ship catches). The 2029 crewed-mission deadline has not passed. A Jul 29 2026 'people on Mars in 5 to 7 years' post does not restate this card's ~12-person crew claim (already covered by #39/#346). Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -2942,7 +2942,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still pending (deadline end of 2026). Encrypted chats/calls shipped; X Money publicly launched to U.S. users in June 2026. Fetched Oct 23 2026: X Money is P2P payments plus a debit card — no in-app travel booking, no native brokerage. Payments + social is progress, not a WeChat-style everything app. Status stays pending.",
+    "summary": "Still pending (deadline end of 2026). Encrypted chats/calls shipped; X Money publicly launched. Fetched Nov 5 2026: Travelers Today still describes X Money as P2P payments plus a debit card — no in-app flight/hotel booking. OpenTweet (Nov 2) and BankNearMe (Nov 4) cover rates/APY caps, not a WeChat-style everything app. Status stays pending.",
     "url": "https://www.travelerstoday.com/articles/60321/20260630/x-money-goes-live-what-elon-musks-new-payments-app-does-does-not-do-travelers.htm"
    }
   },
@@ -3227,8 +3227,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 22 2026: Wikipedia Optimus still has Generation 3 unrevealed. Tesla's Q3 2026 letter reports early Fremont production of production-quality bots, not surgical capability. No Tesla/exec claim that Optimus performs surgery, let alone better than the best human surgeons. Deadline Jan 6 2029. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
+    "summary": "Fetched Nov 5 2026: Humanoids Daily — Optimus Gen 3 still unrevealed; Tesla's Q3 letter reports early Fremont production, not surgical capability. No Tesla/exec claim that Optimus performs surgery. Deadline Jan 2029. Status stays pending.",
+    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
   {
@@ -3388,7 +3388,7 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 4 2026: Tesla's Oct 21 Q3 letter confirmed early Fremont production of production-quality bots (that's #135 SOP) but has not shown the Gen 3 body as an official unveil. Humanoids Daily (Oct 26, still current) has no public reveal; an Optimus video is only a maybe in a month or two. Status stays missed.",
+    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 5 2026: Humanoids Daily (Oct 26) — Tesla still has not shown Gen 3 as an official unveil despite Fremont production of production-quality bots. Status stays missed.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -3507,8 +3507,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 22 2026: Tesla's Robotaxi safety report (Oct 21) lists unsupervised commercial service in two states — Texas (Austin, Dallas, Houston) and Florida (Miami, Orlando, Tampa) — plus safety-driver service in California (San Francisco Bay Area). Coming soon: Nevada (Las Vegas), Arizona (Phoenix), Jacksonville (FL) and San Antonio (TX). That is 2 unsupervised states / 3 with any live service, not a dozen. Cybercab Dallas next month does not add a state. Deadline end-2026. Status stays pending.",
-    "url": "https://www.notateslaapp.com/news/4860/tesla-names-next-robotaxi-cities-shares-miles-driven-safety-data"
+    "summary": "Fetched Nov 5 2026: Wikipedia Tesla Robotaxi — unsupervised in Texas and Florida only (7 metros including Fort Worth as of Nov 2); California Bay Area still has a safety supervisor. That is 2 unsupervised states, not a dozen. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi"
    }
   },
   {
@@ -4990,7 +4990,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 4 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; Grok cabin commands (calls, climate, music) exist, but no FSD voice routing. Supercharged Daily's Nov 4 tracker shows 2026.39.6 as a minor FSD/Halloween build, not conversational FSD. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 5 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; Grok cabin/errand commands exist, but no FSD voice routing. Status stays missed.",
     "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 4 2026: GitHub xai-org/x-algorithm README is still the For You ranking stack (notable update Oct 26: Brazil 2026 election filter removed). No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 5 2026: GitHub xai-org/x-algorithm is still described as the algorithm powering the For You feed on X. No public drop of the full X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 4 2026: docs.x.ai still lists Grok 4.7 as flagship (last updated Sep 21); no grok-4.8. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 5 2026: docs.x.ai still lists Grok 4.7 as Latest; no grok-4.8. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6836,7 +6836,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 4 2026: docs.x.ai still has no grok-4.8; flagship is Grok 4.7, last updated Sep 21. Status stays missed.",
+    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 5 2026: docs.x.ai still has no grok-4.8; flagship is Grok 4.7 Latest. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -12038,7 +12038,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about November 17, 2026. Grok Bot for Enterprise was listed on x.ai as of Sep 3 (early/trusted deployment, which the Oct 20 quote already acknowledged). Fetched Nov 4 2026: no new x.ai/news wide-enterprise rollout receipt since the Nov 2 Data Bot case study; docs still describe Enterprise as an admin enable-switch, not a completed wide deployment. Status stays pending.",
+    "summary": "Pending until about November 17, 2026. Fetched Nov 5 2026: x.ai/news/grok-bot-for-enterprise is still the Sep 3 2026 enterprise announcement (thousands of orgs, admin enable-switch). No later xAI news receipt of a completed wide-enterprise rollout after Musk's Oct 20 'early deployment / wide in a few weeks' line. Status stays pending.",
     "url": "https://x.ai/news/grok-bot-for-enterprise"
    }
   },
@@ -12131,8 +12131,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 21, 2026.",
-    "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/"
+    "summary": "Pending until Dec 21, 2026. Fetched Nov 5 2026: Humanoids Daily (Oct 26, still current) — Tesla has not released the unscripted Optimus video Musk said on the Oct 21 Q3 call might come in a month or two; Gen 3 is still unrevealed. Status stays pending.",
+    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
   {
