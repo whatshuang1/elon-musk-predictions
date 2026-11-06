@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-05",
+ "retrieved": "2026-11-06",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 349,
- "statements": 466,
- "count": 466,
+ "claims": 350,
+ "statements": 467,
+ "count": 467,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -1314,7 +1314,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.reddit.com/r/spacex/comments/590wi9/comment/d94txm0/",
    "source_type": "blog",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 90,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 106,
@@ -2244,7 +2244,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=IgKWPdJWuBQ",
    "source_type": "video",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 143,
@@ -3147,7 +3147,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067128845623611830",
    "source_type": "tweet",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 192,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 216,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 238,
@@ -4502,7 +4502,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2093810234141634702",
    "source_type": "tweet",
-   "last_checked": "2026-10-22"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 258,
@@ -5036,7 +5036,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1531328534169493506",
    "source_type": "tweet",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 283,
@@ -5483,7 +5483,7 @@
    "goalpost_history": [],
    "primary_source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q25-transcript",
    "source_type": "transcript",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 305,
@@ -5525,7 +5525,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.cnbc.com/2025/05/20/cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-today-.html",
    "source_type": "transcript",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 307,
@@ -5777,7 +5777,7 @@
    "goalpost_history": [],
    "primary_source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript",
    "source_type": "transcript",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 319,
@@ -6323,7 +6323,7 @@
    "goalpost_history": [],
    "primary_source": "https://elonmuskarchive.org/video/fii8-riyadh-2024-musk",
    "source_type": "transcript",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-06"
   },
   {
    "id": 346,
@@ -9873,6 +9873,27 @@
    "primary_source": "https://x.com/elonmusk/status/2116596535433871630",
    "source_type": "tweet",
    "last_checked": "2026-10-31"
+  },
+  {
+   "id": 520,
+   "slug": "cybertruck-wind-down-giga-texas-mid-2027",
+   "claim_id": "c520",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-wind-down-giga-texas-mid-2027",
+   "title": "Tesla winds down Cybertruck production at Giga Texas around mid-2027",
+   "company": "Tesla",
+   "topic": "Cars & Energy",
+   "category": "Vehicles",
+   "quote": "Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-06",
+   "deadline": "2027-06-30",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2118591788701421573",
+   "source_type": "tweet",
+   "last_checked": "2026-11-06"
   }
  ]
 }

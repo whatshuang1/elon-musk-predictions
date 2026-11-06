@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-05",
+ "retrieved": "2026-11-06",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -2366,7 +2366,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 5 2026: Wikipedia SpaceX Mars colonization still lists cargo Starships no earlier than 2028 and first human explorers as future work. Starship Flight 15 is unflown (Wikipedia NET Nov 12; The Space Road 0 ship catches). The 2029 crewed-mission deadline has not passed. A Jul 29 2026 'people on Mars in 5 to 7 years' post does not restate this card's ~12-person crew claim (already covered by #39/#346). Status stays pending.",
+    "summary": "Fetched Nov 6 2026: Wikipedia SpaceX Mars colonization still lists the ~12-person first crew as the 2016 architecture and a crewed landing no earlier than 2029; cargo Starships remain future work and no humans have flown. Musk's Jul 29 2026 'people on Mars in 5 to 7 years' post does not restate this card's crew-size claim (already tracked on #39/#346). Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -3693,7 +3693,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 24 2026: EIA September STEO press release (Sep 9) puts U.S. electricity generation shares at natural gas 40% in 2025–2027, solar 7% (2025) / 8% (2026) / 9% (2027). Natural gas remains the plurality. Deadline Feb 27 2033. Status stays pending.",
+    "summary": "Fetched Nov 6 2026: EIA September STEO still puts U.S. generation shares at natural gas 40% in 2025–2027 and solar 8% (2026) / 9% (2027). EIA Electric Power Monthly through August 2026 (via Electrek Oct 27) has solar at ~10.5% of generation vs wind 10.6%; natural gas remains the plurality. Deadline Feb 27 2033. Status stays pending.",
     "url": "https://www.eia.gov/pressroom/releases/press592.php"
    }
   },
@@ -4894,8 +4894,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 24 2026: Tesla's Q3 letter says Optimus production began on Fremont high-volume lines for internal/commercial-process use. Wikipedia Optimus still has no spaceflight, self-replicating probe, or solar-panel legion in orbit or on another body. Undated aspiration. Status stays pending.",
-    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+    "summary": "Fetched Nov 6 2026: Wikipedia Optimus covers Fremont production-line install and a planned Texas factory; it has no spaceflight, self-replicating probe, or solar-panel legion in orbit or on another body. Tesla's Fremont line is early terrestrial production. Undated aspiration. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
    }
   },
   {
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 5 2026: GitHub xai-org/x-algorithm is still described as the algorithm powering the For You feed on X. No public drop of the full X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 6 2026: GitHub xai-org/x-algorithm is still described as the For You feed algorithm, with updates through Oct 26 2026. No public drop of the entire X codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6633,7 +6633,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 22 2026: the claim is a 2027 outcome (deadline Dec 31 2027) and has not resolved. Industry coverage still treats a multi-gigawatt 2027 power/transformer/cooling bottleneck as live (grid interconnection often 24–72 months; transformer lead times still years). No 2027 chip/power-on data exists yet. Status stays pending.",
+    "summary": "Fetched Nov 6 2026: the claim is a 2027 outcome (deadline Dec 31 2027) and has not resolved. EMSNow still treats datacenter capacity as short through at least 2027, with grid hookups 24–72 months and transformer lead times above 160 weeks. Brad Gerstner on Nov 4 estimated 10–15 GW of planned 2027 US build may not come online. Status stays pending.",
     "url": "https://www.emsnow.com/global-datacenter-capacity-where-are-the-bottlenecks/"
    }
   },
@@ -7762,7 +7762,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 24 2026: Tesla's unsupervised Robotaxi fleet is hundreds of vehicles (Austin 300+ Cybercabs; Texas registry on the order of ~800), not hundreds of thousands. Unsupervised FSD for customer-owned cars was pushed to Q2 2027 and only inside Robotaxi zones. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 6 2026: Tesla's unsupervised Robotaxi fleet is hundreds to low thousands of vehicles, not hundreds of thousands. Unsupervised FSD for customer-owned cars was pushed to Q2 2027 and only inside Robotaxi zones. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
    }
   },
@@ -8098,7 +8098,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 24 2026: Tesla Q3 2026 Update lists Texas Optimus as Construction (factory and tool installation), with no capacity figure. CFO Taneja said Tesla has started constructing a larger Austin Optimus factory than Fremont. Production has not started at Giga Texas. Deadline around summer 2027. Status stays pending.",
+    "summary": "Fetched Nov 6 2026: TeslaNorth (Oct 22) — Tesla Q3 2026 Update still lists Texas Optimus as Construction (factory and tool installation), with no capacity figure. CFO Taneja said Tesla has started constructing a larger Austin Optimus factory than Fremont. Production has not started at Giga Texas. Deadline around summer 2027. Status stays pending.",
     "url": "https://teslanorth.com/2026/10/22/tesla-austin-optimus-factory-bigger-fremont/"
    }
   },
@@ -8750,8 +8750,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 24 2026: Tesla just began early Optimus production at Fremont; Q3 Update lists no Optimus capacity figure. Global humanoid volumes remain in the tens of thousands. Far short of 10 billion. Deadline 2040. Status stays pending.",
-    "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
+    "summary": "Fetched Nov 6 2026: Wikipedia Optimus records Fremont production-line install and a planned Texas factory for up to 10 million units a year starting in 2027. Global humanoid volumes remain far short of 10 billion. Deadline 2040. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
    }
   },
   {
@@ -12258,8 +12258,39 @@
     "summary": "Pending until Dec 31, 2026.",
     "url": "https://x.com/elonmusk/status/2116596535433871630"
    }
+  },
+  {
+   "claim_id": "c520",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-wind-down-giga-texas-mid-2027",
+   "title": "Tesla winds down Cybertruck production at Giga Texas around mid-2027",
+   "company": "Tesla",
+   "topic": "Cars & Energy",
+   "status": "pending",
+   "first_said": "2026-11-06",
+   "first_deadline": "2027-06-30",
+   "current_deadline": "2027-06-30",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 520,
+     "date_made": "2026-11-06",
+     "deadline": "2027-06-30",
+     "change": "first",
+     "status": "pending",
+     "quote": "Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
+     "source": "https://x.com/elonmusk/status/2118591788701421573",
+     "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-wind-down-giga-texas-mid-2027"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Jun 30, 2027.",
+    "url": "https://x.com/elonmusk/status/2118591788701421573"
+   }
   }
  ],
- "statements": 466,
- "count": 349
+ "statements": 467,
+ "count": 350
 }
