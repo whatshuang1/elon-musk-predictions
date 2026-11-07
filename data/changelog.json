@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-06",
+ "retrieved": "2026-11-07",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 350,
- "statements": 467,
- "count": 402,
+ "statements": 469,
+ "count": 404,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-06",
+   "kind": "prediction",
+   "slug": "starmind-computer-details-unveil-2027",
+   "claim_id": "c248",
+   "change": "Elon Musk said when SpaceX unveils the details of the Starmind computer next year, it will blow people's minds (https://x.com/elonmusk/status/2118811926163841429).",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#starmind-computer-details-unveil-2027"
+  },
+  {
+   "date": "2026-11-06",
+   "kind": "prediction",
+   "slug": "spacex-gov-revenue-under-10pct-q4-under-5pct-nov-2027",
+   "claim_id": "c275",
+   "change": "Goalpost moved on SpaceX’s government-revenue share: on Nov 6 2026 Musk said government revenue will be less than 10% of SpaceX revenue this quarter and less than 5% a year from now (https://x.com/elonmusk/status/2118737725964837353), pushing the under-5% bar he set on Oct 2 for Q4 2026 out by about a year.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-gov-revenue-under-10pct-q4-under-5pct-nov-2027"
+  },
   {
    "date": "2026-11-04",
    "kind": "prediction",

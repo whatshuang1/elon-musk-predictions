@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-06",
+ "retrieved": "2026-11-07",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -1093,7 +1093,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 24 2026: Wikipedia Human mission to Mars: only robotic landers, rovers and a helicopter have been on Mars; as of 2026 the farthest humans have been is the Moon (Apollo and Artemis II flyby). No crewed Mars landing. Deadline 2036. Status stays pending.",
+    "summary": "Fetched Nov 7 2026: Wikipedia Human mission to Mars: only robotic landers, rovers and a helicopter have been on Mars; as of 2026 the farthest humans have been is the Moon (Apollo and Artemis II flyby). NASA's ESCAPADE twins (Nov 7/9 Earth flybys) are uncrewed and arrive at Mars in 2027. No crewed Mars landing. Deadline 2036. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Human_mission_to_Mars"
    }
   },
@@ -4832,7 +4832,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: azmth/CelesTrak live count as of Oct 25 07:53 UTC is 16,792 active satellites, of which 11,140 are Starlink (~66% of all active sats, ~1.97× the rest of the world's 5,652). Still far from 5× the rest of the world. Deadline 2031. Status stays pending.",
+    "summary": "Fetched Nov 7 2026: azmth/CelesTrak live count as of Nov 7 06:23 UTC is 16,872 active satellites, of which 11,204 are Starlink (~66% of all active sats, ~1.98× the rest of the world's 5,668). Still far from 5× the rest of the world. Deadline 2031. Status stays pending.",
     "url": "https://azmth.space/stats"
    }
   },
@@ -4863,7 +4863,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: Starship Flight 14 (Sep 28) remains the first orbital Starship mission (26 Starlink V3 sats, then splashdown). Flight 15 is still unflown (Wikipedia NET Nov 8). There is still no operational Starship cadence and no 1 million tons/year to orbit. Deadline 2031. Status stays pending.",
+    "summary": "Fetched Nov 7 2026: Starship Flight 14 (Sep 28) remains the first orbital Starship mission (26 Starlink V3 sats). Flight 15 is still unflown (Wikipedia NET Nov 13). The Space Road (updated Nov 7): 14 flights, 1 orbit, no operational cadence. Not 1 million tons/year to orbit. Deadline 2031. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -5021,8 +5021,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: FOMC Sep 16 2026 SEP remains the latest projection — median real GDP growth 2.3% (2026) / 2.4% (2027) / 2.2% (2028) — not a path to 10× world output by 2036. Deadline Dec 31 2036. Status stays pending.",
-    "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+    "summary": "Fetched Nov 7 2026: IMF October 2026 World Economic Outlook projects global growth of 3.1% in 2026 and 3.4% in 2027 — not a path to 10× world output by 2036. Deadline Dec 31 2036. Status stays pending.",
+    "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
    }
   },
   {
@@ -5083,8 +5083,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: FCC Oct 6 order (DA 26-1078) licensed a 15,000-sat D2D constellation using EchoStar AWS-4/H-block, but SpaceX may not start commercial operations in those bands until the EchoStar transfer closes (targeted Nov 2027). TechTimes Oct 23: Shotwell still points to next-gen Starlink Mobile by end of 2027, contingent on chipset availability. Today's T-Satellite service uses partner PCS, not the acquired EchoStar bands. No shipping handset is using that spectrum. Deadline Sep 30 2027. Status stays pending.",
-    "url": "https://www.techtimes.com/articles/329424/20261023/fcc-trades-tower-mandate-orbital-milestones-starlink-mid-band-license-transfer.htm"
+    "summary": "Fetched Nov 7 2026: Qualcomm (Nov 4) is supplying ground 5G masts for Starlink Mobile from 2027, not EchoStar-band handsets. Today's T-Satellite service uses partner PCS. EchoStar AWS-4/H-block transfer still targets Nov 2027 close; no shipping phone uses that acquired spectrum. Deadline Sep 30 2027. Status stays pending.",
+    "url": "https://thenextweb.com/news/spacex-qualcomm-starlink-mobile-5g-network"
    }
   },
   {
@@ -5145,7 +5145,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: American Airlines' Oct 8 newsroom release still says installations of Starlink across the entire mainline fleet (1,000+ aircraft) will begin in early 2027. No passenger Starlink service is flying on American yet. Deadline end of 2027. Status stays pending.",
+    "summary": "Fetched Nov 7 2026: American Airlines' Oct 8 newsroom release still says installations of Starlink across the entire mainline fleet (1,000+ aircraft) will begin in early 2027. No passenger Starlink service is flying on American yet. Deadline end of 2027. Status stays pending.",
     "url": "https://news.aa.com/news/news-details/2026/Full-fleet-full-speed-full-connection-American-Airlines-will-bring-Starlink-to-every-mainline-jet-MKG-OB-10/"
    }
   },
@@ -5176,7 +5176,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: Hugging Face xai-org still lists only grok-1 (Mar 2024) and grok-2 (Nov 2025). No 0.5T / 500B Grok weights. xAI has open-sourced Grok Build (a coding agent), not the 0.5T model. Deadline end of 2026. Status stays pending.",
+    "summary": "Fetched Nov 7 2026: Hugging Face xai-org still lists only grok-1 (Mar 2024) and grok-2 (updated Nov 2025). No 0.5T / 500B Grok weights. xAI has open-sourced Grok Build (a coding agent), not the 0.5T model. Deadline end of 2026. Status stays pending.",
     "url": "https://huggingface.co/xai-org"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 6 2026: GitHub xai-org/x-algorithm is still described as the For You feed algorithm, with updates through Oct 26 2026. No public drop of the entire X codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 7 2026: GitHub xai-org/x-algorithm is still described as the For You feed algorithm, with notable updates through Oct 26 2026. GitHub twitter org lists 102 existing OSS repos, not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6361,7 +6361,7 @@
    "goalpost_history": [
     "2027"
    ],
-   "statements": 2,
+   "statements": 3,
    "timeline": [
     {
      "statement_id": 248,
@@ -6382,10 +6382,20 @@
      "quote": "The Star Mind computer being co-engineered by SpaceX and Nvidia is far better than almost anyone expects and will reach volume production next year.",
      "source": "https://x.com/elonmusk/status/2110789964430786745",
      "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#spacex-nvidia-starmind-volume-production-2027"
+    },
+    {
+     "statement_id": 522,
+     "date_made": "2026-11-06",
+     "deadline": "2027-12-31",
+     "change": "restated",
+     "status": "pending",
+     "quote": "When we unveil the details of the Starmind computer next year, it will blow people's minds",
+     "source": "https://x.com/elonmusk/status/2118811926163841429",
+     "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#starmind-computer-details-unveil-2027"
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: SpaceX's Starmind page still plans Gigasat production of thousands of AI satellites as soon as late 2027; Orbital Radar lists 0 in orbit. Volume production of the Star Mind computer has not begun. Deadline Dec 31 2027. Status stays pending.",
+    "summary": "Pending until Dec 31, 2027. Grade only whether SpaceX/Nvidia publicly unveil Starmind computer details in 2027 — not whether launches begin.",
     "url": "https://www.spacex.com/spacexsi/starmind"
    }
   },
@@ -7153,11 +7163,14 @@
    "status": "pending",
    "first_said": "2026-10-02",
    "first_deadline": "2026-12-31",
-   "current_deadline": "2026-12-31",
+   "current_deadline": "2027-11-06",
    "resolved_date": null,
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
+   "times_moved": 1,
+   "goalpost_history": [
+    "2026",
+    "Nov 2027"
+   ],
+   "statements": 2,
    "timeline": [
     {
      "statement_id": 275,
@@ -7168,11 +7181,21 @@
      "quote": "Correct, roughly 90% of SpaceX’s revenue this year will be commercial. In Q4, our government revenue will be less than 5%!",
      "source": "https://x.com/elonmusk/status/2106085868209590570",
      "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-90pct-commercial-q4-gov-under-5-2026"
+    },
+    {
+     "statement_id": 521,
+     "date_made": "2026-11-06",
+     "deadline": "2027-11-06",
+     "change": "goalpost_moved",
+     "status": "pending",
+     "quote": "Moreover government revenue will be less than 10% of SpaceX revenue this quarter and less then 5% a year from now.",
+     "source": "https://x.com/elonmusk/status/2118737725964837353",
+     "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-gov-revenue-under-10pct-q4-under-5pct-nov-2027"
     }
    ],
    "resolution": {
-    "summary": "Musk (Oct 2) said roughly 90% of SpaceX 2026 revenue will be commercial and Q4 government revenue will be less than 5%. Fetched Oct 28 2026: SpaceX Q3 2026 10-Q — revenue $14.575B; Starlink enterprise & government $2.127B (~14.6% of group) plus Space/launch government contracts. Q4 government-share-under-5% has not arrived. Status stays pending.",
-    "url": "https://www.orbitalpha.cloud/results/spcx-q3-2026"
+    "summary": "Pending until Nov 6, 2027 (under-5% bar). This-quarter <10% checkable when Q4 2026 SpaceX figures publish.",
+    "url": "https://x.com/elonmusk/status/2118737725964837353"
    }
   },
   {
@@ -9215,7 +9238,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 24 2026: Tesla Q3 Update lists battery cell manufacturing at Nevada LFP 7 GWh (early ramp) and Texas 4680 >40 GWh, plus Megapack 40+20+50 GWh. Installed cell + pack capacity is on the order of ~0.1 TWh, not 3 TWh. Deadline 2030. Status stays pending.",
+    "summary": "Fetched Nov 7 2026: Tesla Q3 Update lists battery cell manufacturing at Nevada LFP 7 GWh (early ramp) and Texas 4680 >40 GWh, plus Megapack 40+20+50 GWh. Installed cell + pack capacity is on the order of ~0.1 TWh, not 3 TWh. Deadline 2030. Status stays pending.",
     "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
    }
   },
@@ -12291,6 +12314,6 @@
    }
   }
  ],
- "statements": 467,
+ "statements": 469,
  "count": 350
 }

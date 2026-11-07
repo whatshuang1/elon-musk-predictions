@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-06",
+ "retrieved": "2026-11-07",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 350,
- "statements": 467,
- "count": 467,
+ "statements": 469,
+ "count": 469,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -414,7 +414,7 @@
    ],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2022/10/20/tesla-tsla-q3-2022-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-06-18"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 24,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 106,
@@ -3084,7 +3084,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2065705276334833951",
    "source_type": "tweet",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 189,
@@ -3105,7 +3105,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2064519180464861192",
    "source_type": "tweet",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 190,
@@ -3234,7 +3234,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=N5KCm_55xeQ",
    "source_type": null,
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 197,
@@ -3276,7 +3276,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=qeZqZBRA-6Q",
    "source_type": "video",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 199,
@@ -3318,7 +3318,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2069535601892987275",
    "source_type": "tweet",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 201,
@@ -3339,7 +3339,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2058796067592736866",
    "source_type": "tweet",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 202,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 216,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 238,
@@ -6344,7 +6344,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2014435250214986003",
    "source_type": "tweet",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 347,
@@ -6659,7 +6659,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=l6T9xIeZTds&t=3803s",
    "source_type": "video",
-   "last_checked": "2026-10-24"
+   "last_checked": "2026-11-07"
   },
   {
    "id": 363,
@@ -9892,6 +9892,48 @@
    "times_moved": 0,
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2118591788701421573",
+   "source_type": "tweet",
+   "last_checked": "2026-11-06"
+  },
+  {
+   "id": 521,
+   "slug": "spacex-gov-revenue-under-10pct-q4-under-5pct-nov-2027",
+   "claim_id": "c275",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-gov-revenue-under-10pct-q4-under-5pct-nov-2027",
+   "title": "SpaceX government revenue under 10% this quarter and under 5% a year from now",
+   "company": "SpaceX",
+   "topic": "Business & Money",
+   "category": "Revenue",
+   "quote": "Moreover government revenue will be less than 10% of SpaceX revenue this quarter and less then 5% a year from now.",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-06",
+   "deadline": "2027-11-06",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2118737725964837353",
+   "source_type": "tweet",
+   "last_checked": "2026-11-06"
+  },
+  {
+   "id": 522,
+   "slug": "starmind-computer-details-unveil-2027",
+   "claim_id": "c248",
+   "url": "https://twoweeks.lol/predictions/gigawatt-space-ai-compute-2027/#starmind-computer-details-unveil-2027",
+   "title": "SpaceX unveils Starmind computer details in 2027",
+   "company": "SpaceX",
+   "topic": "AI",
+   "category": "AI Compute",
+   "quote": "When we unveil the details of the Starmind computer next year, it will blow people's minds",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-06",
+   "deadline": "2027-12-31",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2118811926163841429",
    "source_type": "tweet",
    "last_checked": "2026-11-06"
   }
