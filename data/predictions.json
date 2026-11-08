@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-07",
+ "retrieved": "2026-11-08",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 350,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-07"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 106,
@@ -1929,7 +1929,7 @@
    "goalpost_history": [],
    "primary_source": "https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/",
    "source_type": null,
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 124,
@@ -2076,7 +2076,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2035506574182199757",
    "source_type": "tweet",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 133,
@@ -3381,7 +3381,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2032816322929897506",
    "source_type": "tweet",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 204,
@@ -3423,7 +3423,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2007088281507488174",
    "source_type": "tweet",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 206,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-07"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 216,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-11-07"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 238,
@@ -4739,7 +4739,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2101011740574052697",
    "source_type": "tweet",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 269,
@@ -7499,7 +7499,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=_rQBZ3vKRA0&t=904s",
    "source_type": "video",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 404,
@@ -7520,7 +7520,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=aMcmuKTfr54&t=1352s",
    "source_type": "video",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 405,
@@ -7541,7 +7541,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=qeZqZBRA-6Q&t=1267s",
    "source_type": "video",
-   "last_checked": "2026-10-25"
+   "last_checked": "2026-11-08"
   },
   {
    "id": 406,

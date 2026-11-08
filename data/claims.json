@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-07",
+ "retrieved": "2026-11-08",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -3282,8 +3282,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: the Starship-to-Starship propellant-transfer demo has not flown. Wikipedia still lists it unscheduled (originally March 2025, then March 2026). Ars Technica's Oct 20 SpaceX earnings report quotes Gwynne Shotwell saying SpaceX will seek to complete the demo early in 2027 — company-exec, not Elon, so the end-2026 deadline is not moved. Flight 15 (NET Nov 8) is a catch attempt; Wikipedia notes docking/hatch aspects may begin testing, not a tanker-pair cryogenic transfer. Status stays pending.",
-    "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
+    "summary": "Fetched Nov 8 2026: the Starship-to-Starship propellant-transfer demo has not flown. Wikipedia lists it NET Q1 2027 and still unscheduled (originally March 2025, then March 2026). Flight 15 (NET Nov 13) is a catch attempt; Wikipedia notes docking/hatch aspects may begin testing, not a tanker-pair cryogenic transfer. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Starship_Propellant_Transfer_Demonstration"
    }
   },
   {
@@ -3476,8 +3476,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026 from the Tesla Q3 2026 earnings-call transcript: Musk said Terafab aspires to useful chips at volume around Q3 2028 (already carded as #511 vs #267) and that AI5 'comes in, hopefully in volume, around April of next year.' #132's deadline is keyed to AI5 volume in 2027, which that line restates rather than moves. Wikipedia/construction 2028 is the building, not a new Elon date for this card. Status stays pending.",
-    "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/"
+    "summary": "Fetched Nov 8 2026: 24/7 Wall St (Nov 7) reports Terafab makes no chips yet; Musk targeted a first SRAM test chip around May or June 2027 and volume production in Q3 2028, calling those dates very aggressive. #132's deadline is keyed to AI5 volume in 2027 (restated on Tesla's Q3 call as around April 2027). Status stays pending.",
+    "url": "https://247wallst.com/investing/2026/11/07/musk-says-his-terafab-chip-plant-could-cost-1-trillion/"
    }
   },
   {
@@ -5238,8 +5238,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: BenchLeader/Artificial Analysis Intelligence Index v4.3.2 lists Grok 4.7 (xhigh) 32nd at 46.5, behind Claude Opus 5.5 (57.6), Claude Sonnet 5.5 (56), Muse Wonder Full (55.8), Kimi K3.1 Pro (55.1) and GPT-6 Astra (52.7). xAI has not caught up to the leaders. Deadline end of 2026. Status stays pending.",
-    "url": "https://www.benchleader.com/benchmarks/aa_intelligence_index"
+    "summary": "Fetched Nov 8 2026: November 2026 composite leaderboards are led by Anthropic (Claude Opus 5.5), OpenAI (GPT-6 Astra) and Google (Gemini 4). Grok 4.7 sits a clear tier below the frontier (~63.5 composite / ~35 Artificial Analysis Intelligence). xAI has not caught up to the AI leaders. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://eptune.com/blog/articles/ai-model-rankings-november-2026"
    }
   },
   {
@@ -5300,7 +5300,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: English Wikipedia has 7,255,016 articles (Wikipedia:Size of Wikipedia, 12:12 UTC Oct 25). Grokipedia's own page still lists 6,092,140 articles (displayed total frozen since ~Jan 10 2026). Grokipedia has not far exceeded Wikipedia. Deadline end of 2026. Status stays pending.",
+    "summary": "Fetched Nov 8 2026: English Wikipedia has 7,261,024 articles (Wikipedia:Size of Wikipedia, 13:26 UTC Nov 8). Grokipedia's own page still lists 6,092,140 articles (displayed total frozen since ~Jan 10 2026). Grokipedia has not far exceeded Wikipedia. Deadline end of 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 7 2026: GitHub xai-org/x-algorithm is still described as the For You feed algorithm, with notable updates through Oct 26 2026. GitHub twitter org lists 102 existing OSS repos, not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 8 2026: GitHub xai-org/x-algorithm is still described as the For You feed algorithm (notable updates through Oct 26 2026). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6995,7 +6995,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: FOMC September 2026 SEP remains the latest projection — median real GDP growth 2.3% for 2026 and 2.4% for 2027 (range 2.0–2.9%) — not ~4%. Musk's 'next year' (~4%) window is calendar 2027; deadline Dec 31 2027. Status stays pending.",
+    "summary": "Fetched Nov 8 2026: FOMC September 2026 SEP remains the latest projection — median real GDP growth 2.3% for 2026 and 2.4% for 2027 — not ~4%. Musk's 'next year' (~4%) window is calendar 2027; deadline Dec 31 2027. Status stays pending.",
     "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
    }
   },
@@ -10039,7 +10039,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 25 2026: Wikipedia Tesla Robotaxi still lists unsupervised commercial service in six US metros (Austin, Dallas, Houston, Miami, Orlando, Tampa) plus safety-driver Bay Area rides — a rounding error of US vehicle-miles, not 50% of all miles driven. Deadline 2030. Status stays pending.",
+    "summary": "Fetched Nov 8 2026: Wikipedia Tesla Robotaxi lists unsupervised commercial service in seven US metros (Austin, Dallas, Fort Worth, Houston, Miami, Orlando, Tampa) plus safety-driver Bay Area rides, with over 3.3 million unsupervised miles as of Oct 2026 — a rounding error of US vehicle-miles, not 50% of all miles driven. Deadline 2030. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi"
    }
   },
