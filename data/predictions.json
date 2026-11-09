@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-08",
+ "retrieved": "2026-11-09",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 350,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 106,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 216,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 238,
@@ -7583,7 +7583,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=rz7B8fgY06c&t=488s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 408,
@@ -7604,7 +7604,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=rz7B8fgY06c&t=3500s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 409,
@@ -7877,7 +7877,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=pLjG7a-NX7U&t=2033s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 422,
@@ -8108,7 +8108,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=QbNODZwQQuw&t=768s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 433,
@@ -8192,7 +8192,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=PeKqlDURpf8&t=820s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 437,
@@ -8213,7 +8213,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=PeKqlDURpf8&t=820s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 438,
@@ -8801,7 +8801,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=akXMYvKjUxM&t=1601s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 466,
@@ -8864,7 +8864,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=jpcJ3jX-2DA&t=0s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 469,
@@ -8969,7 +8969,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=388P7IFSpwE&t=983s",
    "source_type": "video",
-   "last_checked": "2026-10-26"
+   "last_checked": "2026-11-09"
   },
   {
    "id": 474,

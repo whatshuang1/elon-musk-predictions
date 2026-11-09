@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-08",
+ "retrieved": "2026-11-09",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -2782,7 +2782,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: docs.x.ai still lists Grok 4.7 as the most capable text model ('For everything else, including code, use Grok 4.7'). x.ai/news newest model post is Introducing Grok 4.7 (Sep 21); Grok Voice 3.0 (Oct 14) is speech, not Grok 5. No grok-5 identifier. Deadline end-2026. Status stays pending.",
+    "summary": "Fetched Nov 9 2026: docs.x.ai still lists Grok 4.7 as the most capable text model ('For everything else, including code, use Grok 4.7'). x.ai/news newest model post is Introducing Grok 4.7 (Sep 21); Grok Voice 3.0 (Oct 14) and Grok Bot posts since then are not Grok 5. No grok-5 identifier. Deadline end-2026. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 8 2026: GitHub xai-org/x-algorithm is still described as the For You feed algorithm (notable updates through Oct 26 2026). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 9 2026: GitHub xai-org/x-algorithm is still described as the For You feed ranking code (notable updates through Oct 26 2026). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -9468,7 +9468,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: Tesla's Q3 2026 Update still brands FSD as Supervised (active driver supervision required; does not make the vehicle autonomous). California DMV (list dated Oct 21 2026) has Tesla Robotaxi LLC on drivered testing only, not driverless testing or deployment. Almost all new cars are not autonomous; July 2027 deadline has not passed. Status stays pending.",
+    "summary": "Fetched Nov 9 2026: Tesla's Q3 2026 Update still brands FSD as Supervised (active driver supervision required; does not make the vehicle autonomous). California DMV (drivered list dated Oct 23 2026) has Tesla Robotaxi LLC on testing-with-a-driver only, not driverless testing or deployment. Unsupervised robotaxis remain a small multi-city fleet. Almost all new cars are not autonomous; July 2027 deadline has not passed. Status stays pending.",
     "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/"
    }
   },
@@ -10101,7 +10101,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: independent trackers still count 26 Starlink V3 satellites in orbit, all from Starship Flight 14 on Sep 28 2026 (Jonathan McDowell / Upside Curve compiled Oct 26). Falcon 9 batches since then are not V3. About 1,000 V3s around Q2 2027 remains well ahead. Status stays pending.",
+    "summary": "Fetched Nov 9 2026: independent trackers still count 26 Starlink V3 satellites in orbit, all from Starship Flight 14 on Sep 28 2026 (Upside Curve compiled Nov 9). Falcon 9 batches since then are not V3. Flight 15 (NET Nov 13) has not flown. About 1,000 V3s around Q2 2027 remains well ahead. Status stays pending.",
     "url": "https://upsidecurve.com/trackers/starlink"
    }
   },
@@ -10623,7 +10623,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: x.ai/news since the Grok 4 launch is product releases (Grok 4.7, Voice 3.0, Grok Bot, Partner Network). No official or press receipt that Grok discovered a useful new technology. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 9 2026: x.ai/news since the Grok 4 launch is still product releases (Grok 4.7, Voice 3.0, Grok Bot, Partner Network). No official or press receipt that Grok discovered a useful new technology. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -10716,7 +10716,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: EIA Today in Energy (Oct 19) says battery-electric vehicles were 6% of US new light-duty sales in Q3 2026, down from 10% in Q3 2025, and 6% in the first nine months of 2026. More than half of new US vehicle production electric by July 2027 is not in sight. Status stays pending.",
+    "summary": "Fetched Nov 9 2026: EIA Today in Energy (Oct 19) says battery-electric vehicles were 6% of US new light-duty sales in Q3 2026, down from 10% in Q3 2025, and 6% in the first nine months of 2026. More than half of new US vehicle production electric by July 2027 is not in sight. Status stays pending.",
     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68325"
    }
   },
@@ -11088,8 +11088,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: no Starship has landed on the Moon. NASA (Oct 23) now targets a crewed lunar landing in 2028 (Artemis IV), with Artemis III in 2027 as an Earth-orbit docking demo with a Starship test article — not a lunar landing. Musk's March 2027 window has not passed. Status stays pending.",
-    "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+    "summary": "Fetched Nov 9 2026: no Starship has landed on the Moon. NASA (Nov 4 recap of Oct 23) still targets a crewed lunar landing in 2028 (Artemis IV), with Artemis III in 2027 as an Earth-orbit docking demo with a Starship test article — not a lunar landing. Musk's March 2027 window has not passed. Status stays pending.",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
    }
   },
   {
@@ -11181,7 +11181,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: Ember's April 2026 Global Electricity Review still has 2025 solar at 2,778 TWh versus coal at 10,476 TWh, so solar is not yet the largest source. Deadline is 2050. Status stays pending.",
+    "summary": "Fetched Nov 9 2026: Ember's Global Electricity Review 2026 still has 2025 solar at 2,778 TWh versus coal at 10,476 TWh; Ember's world page says coal remains the single largest source of electricity. Renewables as a group overtook coal, but solar alone has not. Deadline is 2050. Status stays pending.",
     "url": "https://ember-energy.org/latest-insights/global-electricity-review-2026/"
    }
   },
