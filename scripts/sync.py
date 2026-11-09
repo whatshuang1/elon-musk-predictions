@@ -24,6 +24,10 @@ for f in FILES:
         sys.exit(f"{f}: suspiciously small ({len(body)} bytes); not syncing")
     (ROOT / "data" / f).write_bytes(body)
 
+sys.path.insert(0, str(ROOT / "scripts"))
+import timelines
+timelines.build(ROOT)
+
 rows = list(csv.DictReader(open(ROOT / "data" / "claims.csv")))
 st = collections.Counter(r["status"] for r in rows)
 co = collections.Counter(r["company"] for r in rows)
@@ -45,7 +49,7 @@ txt = re.sub(r"<!-- stats -->.*?<!-- /stats -->", lambda m: "<!-- stats -->\n" +
 readme.write_text(txt)
 
 if git("status", "--porcelain").strip():
-    git("add", "data", "README.md")
+    git("add", "data", "timelines", "README.md")
     git("commit", "-q", "-m", f"data: sync {date.today():%Y-%m-%d}")
     git("push", "-q")
     print("synced")

@@ -20,6 +20,17 @@ Of the 229 resolved claims, 50 were delivered on time (22%).
 By company: Tesla 174, SpaceX 94, xAI 36, General 20, Neuralink 11, X 11, Boring Company 4
 <!-- /stats -->
 
+## Timelines
+
+Every dated statement on the most-asked topics, in Musk's own words, with sources. Regenerated daily.
+
+- [Tesla Roadster](timelines/tesla-roadster.md)
+- [Humans on Mars](timelines/humans-on-mars.md)
+- [Tesla Cybercab](timelines/tesla-cybercab.md)
+- [Tesla Optimus](timelines/tesla-optimus.md)
+- [Grok 5](timelines/grok-5.md)
+- [Tesla Full Self-Driving](timelines/full-self-driving.md)
+
 ## Files
 
 | File | One row per | Use it for |
