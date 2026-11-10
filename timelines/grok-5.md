@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Grok 5
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-09 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-10 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Grok 5 released before end of 2025. **Verdict:** pending. **First said:** 2025-08-07. **First deadline:** 2025-12-31. **Current deadline:** 2026-12-31. **Times moved:** 3.
 
@@ -46,6 +46,8 @@ Deadlines in order: 2025 → 2026 → Mar 2026 → 2026.
 | 2026-10-20 | "We already are in early deployment with some trusted customers, and we expect to be in wide deployment within a few weeks for enterprise customers for GrokBot." | [source](https://x.com/cb_doge/status/2112653610953887818) |
 | 2026-10-31 | "Gun Range is tracking to be operational by end of November and Spam in December." | [source](https://x.com/elonmusk/status/2116587474021691629) |
 | 2026-10-31 | "There will be a total of around 1.2M Blackwells at Colossus 2 by end of year" | [source](https://x.com/elonmusk/status/2116596535433871630) |
+| 2026-11-10 | "But Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter." | [source](https://x.com/elonmusk/status/2120099798078656909) |
+| 2026-11-10 | "Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes." | [source](https://x.com/elonmusk/status/2120088070443655190) |
 
 ## Related claims
 
@@ -82,5 +84,7 @@ Deadlines in order: 2025 → 2026 → Mar 2026 → 2026.
 | [Grok Bot reaches wide enterprise deployment within a few weeks](https://twoweeks.lol/predictions/grok-5-release/#grok-bot-enterprise-wide-deployment-few-weeks) | pending | 2026-11-17 | 2026-11-17 | 0 |
 | [xAI's Gun Range data center in Memphis up and running by the end of November 2026](https://twoweeks.lol/predictions/grok-5-release/#xai-gun-range-data-center-operational-end-november-2026) | pending | 2026-11-30 | 2026-11-30 | 0 |
 | [About 1.2 million Nvidia Blackwell chips at xAI's Colossus 2 by the end of 2026](https://twoweeks.lol/predictions/grok-5-release/#xai-colossus-2-1-2-million-blackwells-end-2026) | pending | 2026-12-31 | 2026-12-31 | 0 |
+| [Grok 5 exceeds Claude Opus 5.5 in 2 or 3 months](https://twoweeks.lol/predictions/grok-5-release/#grok-5-exceeds-opus-5-5-in-2-3-months) | pending | 2027-02-10 | 2027-02-10 | 0 |
+| [Grok 4.8 soft-rolls out to Bot users later this week](https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-bot-soft-rollout-this-week) | pending | 2026-11-16 | 2026-11-16 | 0 |
 
 Full history, verdict method and sources: https://twoweeks.lol/predictions/grok-5-release/

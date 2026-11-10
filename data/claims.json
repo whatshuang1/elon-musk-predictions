@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-09",
+ "retrieved": "2026-11-10",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -6283,8 +6283,10 @@
    "current_deadline": "2026-12-31",
    "resolved_date": null,
    "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
+   "goalpost_history": [
+    "2026"
+   ],
+   "statements": 2,
    "timeline": [
     {
      "statement_id": 246,
@@ -6295,11 +6297,21 @@
      "quote": "As Bret mentioned, we are expecting to reach a $100 billion-plus ARR in December of this year.",
      "source": "https://www.fool.com/earnings/call-transcripts/2026/08/11/spacex-spcx-q2-2026-earnings-call-transcript/",
      "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-100-billion-arr-december-2026"
+    },
+    {
+     "statement_id": 526,
+     "date_made": "2026-11-06",
+     "deadline": "2026-12-31",
+     "change": "restated",
+     "status": "pending",
+     "quote": "So we are tracking to have an annual rate of revenue that is in excess of $100 billion in December. Obviously, December is pretty close, so I have good intent that. So unless there's some sort of natural disaster or something, we will meet that target.",
+     "source": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06",
+     "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-arr-over-100-billion-december-2026"
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 1 2026: SpaceX Q3 2026 call (Oct 20) — CFO Bret Johnsen said the company remains on track for $100B ARR by end of 2026, defined as December monthly revenue annualized. Q3 revenue $14.6B is not yet a $100B run-rate. Deadline Dec 31 2026 still open. Status stays pending.",
-    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/"
+    "summary": "Pending until December 2026. Restatement of #246 — same $100B-plus ARR in December target.",
+    "url": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06"
    }
   },
   {
@@ -12312,8 +12324,132 @@
     "summary": "Pending until Jun 30, 2027.",
     "url": "https://x.com/elonmusk/status/2118591788701421573"
    }
+  },
+  {
+   "claim_id": "c523",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-5-exceeds-opus-5-5-in-2-3-months",
+   "title": "Grok 5 exceeds Claude Opus 5.5 in 2 or 3 months",
+   "company": "xAI",
+   "topic": "AI",
+   "status": "pending",
+   "first_said": "2026-11-10",
+   "first_deadline": "2027-02-10",
+   "current_deadline": "2027-02-10",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 523,
+     "date_made": "2026-11-10",
+     "deadline": "2027-02-10",
+     "change": "first",
+     "status": "pending",
+     "quote": "But Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter.",
+     "source": "https://x.com/elonmusk/status/2120099798078656909",
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-5-exceeds-opus-5-5-in-2-3-months"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Feb 10, 2027. Grade whether a public Grok 5 exceeds Claude Opus 5.5, not only whether Grok 5 ships.",
+    "url": "https://x.com/elonmusk/status/2120099798078656909"
+   }
+  },
+  {
+   "claim_id": "c524",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-bot-soft-rollout-this-week",
+   "title": "Grok 4.8 soft-rolls out to Bot users later this week",
+   "company": "xAI",
+   "topic": "AI",
+   "status": "pending",
+   "first_said": "2026-11-10",
+   "first_deadline": "2026-11-16",
+   "current_deadline": "2026-11-16",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 524,
+     "date_made": "2026-11-10",
+     "deadline": "2026-11-16",
+     "change": "first",
+     "status": "pending",
+     "quote": "Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.",
+     "source": "https://x.com/elonmusk/status/2120088070443655190",
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-bot-soft-rollout-this-week"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Nov 16, 2026. Grade a Grok 4.8 soft rollout to Bot users, not enterprise Grok Bot and not training-complete.",
+    "url": "https://x.com/elonmusk/status/2120088070443655190"
+   }
+  },
+  {
+   "claim_id": "c525",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-q4-2026-revenue-70pct-above-q3",
+   "title": "SpaceX Q4 2026 revenue about 70% above Q3",
+   "company": "SpaceX",
+   "topic": "Business & Money",
+   "status": "pending",
+   "first_said": "2026-11-06",
+   "first_deadline": "2026-12-31",
+   "current_deadline": "2026-12-31",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 525,
+     "date_made": "2026-11-06",
+     "deadline": "2026-12-31",
+     "change": "first",
+     "status": "pending",
+     "quote": "I'm not sure what the exact numbers will be, Q3 to Q4, but probably something like 70% Q3 to Q4.",
+     "source": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06",
+     "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-q4-2026-revenue-70pct-above-q3"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Q4 2026 results. Grade sequential revenue growth vs Q3 $14.575B, not the separate $100B December ARR target.",
+    "url": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06"
+   }
+  },
+  {
+   "claim_id": "c527",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ton-to-orbit-below-air-freight-2-3-years",
+   "title": "Starship ton-to-orbit cost below air freight in 2 or 3 years",
+   "company": "SpaceX",
+   "topic": "Space",
+   "status": "pending",
+   "first_said": "2026-11-06",
+   "first_deadline": "2029-11-06",
+   "current_deadline": "2029-11-06",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 527,
+     "date_made": "2026-11-06",
+     "deadline": "2029-11-06",
+     "change": "first",
+     "status": "pending",
+     "quote": "I think actually in the limit, I mean, maybe within the same, probably two or three years, the cost of a ton to orbit will be less than the cost of air freight from California to Australia.",
+     "source": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06",
+     "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ton-to-orbit-below-air-freight-2-3-years"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Nov 6, 2029. Grade published $/ton to orbit vs California–Australia air freight, not the undated sub-$100/kg line from the same talk.",
+    "url": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06"
+   }
   }
  ],
- "statements": 469,
- "count": 350
+ "statements": 474,
+ "count": 354
 }

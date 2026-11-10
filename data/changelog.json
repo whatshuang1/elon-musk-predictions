@@ -1,13 +1,53 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-09",
+ "retrieved": "2026-11-10",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 350,
- "statements": 469,
- "count": 404,
+ "claims": 354,
+ "statements": 474,
+ "count": 409,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-10",
+   "kind": "prediction",
+   "slug": "grok-5-exceeds-opus-5-5-in-2-3-months",
+   "claim_id": "c523",
+   "change": "Elon Musk said Grok 5 should exceed Anthropic's Claude Opus 5.5 in two or three months (https://x.com/elonmusk/status/2120099798078656909).",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-5-exceeds-opus-5-5-in-2-3-months"
+  },
+  {
+   "date": "2026-11-10",
+   "kind": "prediction",
+   "slug": "grok-4-8-bot-soft-rollout-this-week",
+   "claim_id": "c524",
+   "change": "Elon Musk said Grok 4.8 is in reinforcement learning and that xAI will do a soft rollout to Grok Bot users later this week (https://x.com/elonmusk/status/2120088070443655190).",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-bot-soft-rollout-this-week"
+  },
+  {
+   "date": "2026-11-10",
+   "kind": "prediction",
+   "slug": "spacex-q4-2026-revenue-70pct-above-q3",
+   "claim_id": "c525",
+   "change": "Elon Musk said SpaceX revenue would probably rise something like 70% from Q3 to Q4 2026, speaking at the Baron Investment Conference.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-q4-2026-revenue-70pct-above-q3"
+  },
+  {
+   "date": "2026-11-10",
+   "kind": "prediction",
+   "slug": "spacex-arr-over-100-billion-december-2026",
+   "claim_id": "c246",
+   "change": "Elon Musk restated that SpaceX is tracking to an annual revenue run rate above $100 billion in December 2026 and said the company will meet that target unless there is a natural disaster.",
+   "url": "https://twoweeks.lol/predictions/spacex-revenue-exceeds-nasa-budget-2026/#spacex-arr-over-100-billion-december-2026"
+  },
+  {
+   "date": "2026-11-10",
+   "kind": "prediction",
+   "slug": "starship-ton-to-orbit-below-air-freight-2-3-years",
+   "claim_id": "c527",
+   "change": "Elon Musk said that probably within two or three years the cost of a ton to orbit will be less than air freight from California to Australia.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ton-to-orbit-below-air-freight-2-3-years"
+  },
   {
    "date": "2026-11-06",
    "kind": "prediction",

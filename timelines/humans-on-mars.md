@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for humans on Mars
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/humans-on-mars/), which scores each dated Musk claim against what happened. Generated 2026-11-09 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/humans-on-mars/), which scores each dated Musk claim against what happened. Generated 2026-11-10 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Humans on Mars. **Verdict:** pending. **First said:** 2011-04-22. **First deadline:** 2021-04-22. **Current deadline:** 2036-01-22. **Times moved:** 8.
 

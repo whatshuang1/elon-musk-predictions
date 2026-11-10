@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for the Tesla Cybercab
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/cybercab-production-before-2027/), which scores each dated Musk claim against what happened. Generated 2026-11-09 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/cybercab-production-before-2027/), which scores each dated Musk claim against what happened. Generated 2026-11-10 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Cybercab in production before 2027 (We, Robot). **Verdict:** delivered. **First said:** 2024-10-10. **First deadline:** 2026-06-30. **Current deadline:** 2026-06-30. **Times moved:** 1.
 
