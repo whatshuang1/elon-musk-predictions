@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-10",
+ "retrieved": "2026-11-11",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -956,8 +956,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: On Tesla's Oct 21 Q3 call Musk set a separate 5 million vehicles/year ~2030 target (already on board as #514) and did not withdraw the 2020 20 million promise. The Verge (Oct 22) treats 5 million as a quiet downgrade; that is press, not an Elon-primary goalpost. Tesla still has never sold 20 million vehicles in a year (Q3: 464,391 produced / 486,532 delivered). Deadline Dec 31 2030. Status stays pending.",
-    "url": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check"
+    "summary": "Fetched Nov 11 2026: Tesla Q3 2026 call (Oct 21) still has Musk aiming for 5 million vehicles a year by approximately 2030, already boarded as #514. He did not withdraw the 2020 20 million promise in his own words; press calling 5 million a quiet downgrade is not an Elon-primary goalpost. Tesla has never sold 20 million vehicles in a year. Deadline Dec 31 2030. Status stays pending.",
+    "url": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know"
    }
   },
   {
@@ -2866,7 +2866,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: x.ai/news has no game-studio title (latest: Grok Voice 3.0 Oct 14, Partner Network Oct 22, Grok 4.7 Sep 21). Grok Build can make user games; that is not an xAI studio release of a great AI-generated game. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 11 2026: x.ai/news has no xAI game-studio title (latest: Data Bot Nov 2, Grok Bot for sales Oct 27, Grok 4.7 Sep 21). Grok Build can make user games; that is not an xAI studio release of a great AI-generated game. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -3004,8 +3004,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: patients still play games with thought (WoW, chess, FPS via QuadStick+BCI) and a Oct 20 vacuum-control demo, but there is no receipt that a recipient has beaten most or all able-bodied humans at fast-reaction video games. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.neurapod.com/blog/neuralink-patient-zach-mcmanus-robot-vacuum"
+    "summary": "Fetched Nov 11 2026: patients still play games with thought (WoW, hybrid FPS aim with Quadstick). Nov 6 recaps of Rob Greiner's FPS session still describe aim-with-thoughts plus Quadstick for the rest, not beating most or all able-bodied humans at fast-reaction video games. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://x.com/AIDropDaily/status/2118764505727398227"
    }
   },
   {
@@ -5052,8 +5052,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: SpaceX Q3 2026 revenue $14.575B (Motley Fool transcript Oct 20); first-nine-month 2026 revenue $27.1B. Management guided $100B ARR by Dec 2026 and $500B–$1T ARR by end-2027 — still two orders of magnitude below ~$1T annual revenue in 2030. Status stays pending.",
-    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/"
+    "summary": "Fetched Nov 11 2026: SpaceX Q3 2026 revenue $14.6B; management is tracking ~$100B ARR by Dec 2026 and Musk put $500B–$1T ARR by end-2027, with ~2% odds on the $1T end (Baron, Nov 6). That is a 2027 run-rate guess, still well short of ~$1T of annual revenue in 2030. Status stays pending.",
+    "url": "https://www.fool.com/investing/2026/11/09/elon-musk-just-gave-the-top-end-of-his-spacex-revenue-forecast-about-a-2-chance-his-best-guess-sits-at-the-bottom-end/"
    }
   },
   {
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 9 2026: GitHub xai-org/x-algorithm is still described as the For You feed ranking code (notable updates through Oct 26 2026). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 11 2026: GitHub xai-org/x-algorithm is still described as the For You feed ranking code (updated Nov 11; README still has a 'What's not in this repo?' section). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -9312,7 +9312,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 4 2026: Wikipedia Starship flight 15 still lists NET November 12 2026; The Space Road (updated Nov 4) says there is no official date and the flight has not launched. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
+    "summary": "Fetched Nov 11 2026: Wikipedia Starship flight 15 still lists NET November 13 2026, 22:45 UTC; SpaceX's mission page targets Friday Nov 13 pending regulatory approval. The flight has not launched. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -11422,8 +11422,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: California DMV list dated Oct 21 2026 still has Tesla Robotaxi LLC on testing-with-a-driver only; Tesla is absent from driverless-testing and deployment lists. Cybercab paid rides remain Austin-only. Mid-2027 California commercial deadline has not passed. Status stays pending.",
-    "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/"
+    "summary": "Fetched Nov 11 2026: Tesla News Wire Robotaxi Tracker (updated Nov 9) still lists California as no driverless permits — CPUC charter-party only, Bay Area rides keep a safety driver, and CPUC said Tesla is not operating an AV service. Public Cybercab rides remain Austin-centered. Mid-2027 California commercial deadline has not passed. Status stays pending.",
+    "url": "https://teslanewswire.com/robotaxi-tracker"
    }
   },
   {
@@ -11546,8 +11546,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 26 2026: Tesla Q3 2026 Update reports unsupervised Robotaxi miles growing eightfold quarter over quarter from a small Austin Cybercab/Robotaxi base, while FSD remains Supervised on owner cars. AI is not driving 90% of distance. Deadline 2036. Status stays pending.",
-    "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
+    "summary": "Fetched Nov 11 2026: Tesla Robotaxi has a few million unsupervised miles (safety counter passed 4 million around Oct 30) across a handful of US metros, while FSD on owner cars remains Supervised. That is not 90% of all distance driven. Deadline 2036. Status stays pending.",
+    "url": "https://www.cybercab.news/article/robotaxi-4-million-miles-oct30"
    }
   },
   {
@@ -12073,8 +12073,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about November 17, 2026. Fetched Nov 5 2026: x.ai/news/grok-bot-for-enterprise is still the Sep 3 2026 enterprise announcement (thousands of orgs, admin enable-switch). No later xAI news receipt of a completed wide-enterprise rollout after Musk's Oct 20 'early deployment / wide in a few weeks' line. Status stays pending.",
-    "url": "https://x.ai/news/grok-bot-for-enterprise"
+    "summary": "Fetched Nov 11 2026: x.ai/news still lists the Sep 3 Grok Bot for Enterprise announcement as the enterprise launch; later posts (Data Bot Nov 2, Grok Bot for sales Oct 27) are product features, not a receipt that the Oct 20 'early trusted customers → wide enterprise in a few weeks' ramp is complete. Deadline ~Nov 17. Status stays pending.",
+    "url": "https://x.ai/news"
    }
   },
   {
@@ -12197,8 +12197,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Oct 31, 2029.",
-    "url": "https://x.com/elonmusk/status/2114774224015663608"
+    "summary": "Fetched Nov 11 2026: Qualcomm deal (Nov 4) starts terrestrial 5G sites in 2027; Gwynne Shotwell on the Oct 20 SpaceX call said Starlink Mobile service turns on in early 2028. Teslarati (Nov 11) reports the FCC accepted SpaceX's Grain 800 MHz transfer for public comment — acceptance is not approval, and the US carrier network is not built out. Deadline Oct 31 2029. Status stays pending.",
+    "url": "https://www.teslarati.com/spacex-fcc-verizon-att-approved/"
    }
   },
   {
@@ -12383,8 +12383,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 16, 2026. Grade a Grok 4.8 soft rollout to Bot users, not enterprise Grok Bot and not training-complete.",
-    "url": "https://x.com/elonmusk/status/2120088070443655190"
+    "summary": "Fetched Nov 11 2026: x.ai/news still has no Grok 4.8 post; latest flagship announcement is Grok 4.7 (Sep 21). Musk's Nov 10 'soft rollout to Bot users later this week' has not been confirmed as shipped. Deadline Nov 16 2026. Status stays pending.",
+    "url": "https://x.ai/news"
    }
   },
   {

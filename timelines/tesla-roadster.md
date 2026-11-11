@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for the Tesla Roadster
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/tesla-roadster-production/), which scores each dated Musk claim against what happened. Generated 2026-11-10 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/tesla-roadster-production/), which scores each dated Musk claim against what happened. Generated 2026-11-11 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Tesla Roadster enters production. **Verdict:** pending. **First said:** 2014-06-03. **First deadline:** 2019-12-31. **Current deadline:** 2028-12-31. **Times moved:** 8.
 
