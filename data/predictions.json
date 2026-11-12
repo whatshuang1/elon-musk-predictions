@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-11",
+ "retrieved": "2026-11-12",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 354,
- "statements": 474,
- "count": 474,
+ "statements": 475,
+ "count": 475,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -714,7 +714,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2024/07/24/tesla-tsla-q2-2024-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 51,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 106,
@@ -1632,7 +1632,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1953515379688714697",
    "source_type": "tweet",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 108,
@@ -2013,7 +2013,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 129,
@@ -3213,7 +3213,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067430722399539385",
    "source_type": null,
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 196,
@@ -3402,7 +3402,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2016575739655504070",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 205,
@@ -3444,7 +3444,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1998872465087541752",
    "source_type": "tweet",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 207,
@@ -3465,7 +3465,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1969988976259092692",
    "source_type": "tweet",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 208,
@@ -3507,7 +3507,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1929950051415273504",
    "source_type": "tweet",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 210,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 216,
@@ -3868,7 +3868,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071385784154759468",
    "source_type": "tweet",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 227,
@@ -3889,7 +3889,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=IgifEgm1-e0",
    "source_type": "video",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 228,
@@ -3910,7 +3910,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=yG5Quo6xA74",
    "source_type": "video",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 229,
@@ -4103,7 +4103,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2080876967839031712",
    "source_type": "tweet",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 238,
@@ -4589,7 +4589,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2097686835338375265",
    "source_type": "tweet",
-   "last_checked": "2026-10-27"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 262,
@@ -4628,13 +4628,13 @@
    "quote_is_paraphrase": false,
    "date_made": "2026-09-13",
    "deadline": "2026-09-20",
-   "resolved_date": null,
-   "status": "missed",
+   "resolved_date": "2026-11-10",
+   "status": "delivered-late",
    "times_moved": 0,
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2099308197802631191",
    "source_type": "tweet",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 264,
@@ -4823,7 +4823,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2103329761690865846",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 273,
@@ -4886,7 +4886,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2106085868209590570",
    "source_type": "tweet",
-   "last_checked": "2026-10-28"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 276,
@@ -6722,7 +6722,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=tUHHZsN7tPM",
    "source_type": "video",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 367,
@@ -9599,7 +9599,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 507,
@@ -9620,7 +9620,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 508,
@@ -9851,7 +9851,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2116587474021691629",
    "source_type": "tweet",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 519,
@@ -9977,7 +9977,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2120088070443655190",
    "source_type": "tweet",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-12"
   },
   {
    "id": 525,
@@ -10041,6 +10041,27 @@
    "primary_source": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06",
    "source_type": "transcript",
    "last_checked": "2026-11-10"
+  },
+  {
+   "id": 528,
+   "slug": "cybertruck-production-extended-end-of-summer-2027",
+   "claim_id": "c520",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-production-extended-end-of-summer-2027",
+   "title": "Cybertruck production extended through the end of summer 2027",
+   "company": "Tesla",
+   "topic": "Cars & Energy",
+   "category": "Vehicles",
+   "quote": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-11",
+   "deadline": "2027-09-22",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2120565056429814073",
+   "source_type": "tweet",
+   "last_checked": "2026-11-11"
   }
  ]
 }

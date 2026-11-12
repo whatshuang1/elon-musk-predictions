@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Tesla Full Self-Driving
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/), which scores each dated Musk claim against what happened. Generated 2026-11-11 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/), which scores each dated Musk claim against what happened. Generated 2026-11-12 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Unsupervised FSD in Texas and California in 2025 (We, Robot). **Verdict:** missed. **First said:** 2014-10-10. **First deadline:** 2018-06-01. **Current deadline:** 2025-12-31. **Times moved:** 12.
 

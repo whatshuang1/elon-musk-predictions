@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Grok 5
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-11 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-12 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Grok 5 released before end of 2025. **Verdict:** pending. **First said:** 2025-08-07. **First deadline:** 2025-12-31. **Current deadline:** 2026-12-31. **Times moved:** 3.
 
@@ -77,7 +77,7 @@ Deadlines in order: 2025 → 2026 → Mar 2026 → 2026.
 | [Grok 4.5 released to the public on July 9, 2026](https://twoweeks.lol/predictions/grok-5-release/#grok-4-5-public-release) | delivered | 2026-07-09 | 2026-07-09 | 0 |
 | [Grok 4.6 comes out in a week (by Aug 6, 2026)](https://twoweeks.lol/predictions/grok-5-release/#grok-4-6-out-in-a-week) | delivered-late | 2026-08-06 | 2026-08-06 | 0 |
 | [Grok 4.7 needs a few more days (by Sep 16, 2026)](https://twoweeks.lol/predictions/grok-5-release/#grok-4-7-out-in-10-days) | delivered-late | 2026-09-16 | 2026-09-16 | 1 |
-| [Grok 4.8 finishes training this week (by Sep 20, 2026)](https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-finish-training-this-week) | missed | 2026-09-20 | 2026-09-20 | 0 |
+| [Grok 4.8 finishes training this week (by Sep 20, 2026)](https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-finish-training-this-week) | delivered-late | 2026-09-20 | 2026-09-20 | 0 |
 | [SpaceX Fable/GPT-6-level model in 2–3 months](https://twoweeks.lol/predictions/grok-5-release/#spacex-fable-gpt6-level-model-2-3-months) | pending | 2026-12-24 | 2026-12-24 | 0 |
 | [Colossus +220k GB300 fully operational next week](https://twoweeks.lol/predictions/grok-5-release/#colossus-220k-gb300-operational-next-week) | missed | 2026-10-04 | 2026-10-04 | 0 |
 | [AI lets solo devs ship studio-quality games by 2027](https://twoweeks.lol/predictions/grok-5-release/#solo-devs-ship-ai-games-no-studio-2027) | pending | 2027-12-31 | 2027-12-31 | 0 |

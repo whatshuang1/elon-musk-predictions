@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-11",
+ "retrieved": "2026-11-12",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 354,
- "statements": 474,
- "count": 409,
+ "statements": 475,
+ "count": 411,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-12",
+   "kind": "prediction",
+   "slug": "grok-4-8-finish-training-this-week",
+   "claim_id": "c263",
+   "change": "Verdict: Missed → Delivered late. Elon Musk said on November 10 that Grok 4.8 pre-training is done and the model is now in reinforcement learning.",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-finish-training-this-week"
+  },
+  {
+   "date": "2026-11-11",
+   "kind": "prediction",
+   "slug": "cybertruck-production-extended-end-of-summer-2027",
+   "claim_id": "c520",
+   "change": "Goalpost moved on the Cybertruck wind-down: on Nov 11 2026 Musk said Cybertruck production will be extended through the end of summer 2027 to work through more of the order backlog (https://x.com/elonmusk/status/2120565056429814073), five days after he put the Giga Texas wind-down around mid-2027.",
+   "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-production-extended-end-of-summer-2027"
+  },
   {
    "date": "2026-11-10",
    "kind": "prediction",

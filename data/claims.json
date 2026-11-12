@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-11",
+ "retrieved": "2026-11-12",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -3388,7 +3388,7 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 5 2026: Humanoids Daily (Oct 26) — Tesla still has not shown Gen 3 as an official unveil despite Fremont production of production-quality bots. Status stays missed.",
+    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 12 2026: Tesla confirmed Fremont Optimus production on the Oct 21 Q3 call (that's #135 SOP) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -4990,7 +4990,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without the June 18 FSD planning-layer commands ('Hey Grok, turn right here' / drop-off-then-park). Fetched Nov 5 2026: Tesla software 2026.38.6 (Oct 29) only removes Grok's beta label; Grok cabin/errand commands exist, but no FSD voice routing. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed without FSD planning-layer commands ('Hey Grok, turn right here'). Fetched Nov 12 2026: no Tesla/Elon receipt of conversational Grok routing in FSD; 2026.38.6 only removed Grok's beta label. Status stays missed.",
     "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
@@ -5269,7 +5269,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 4 2026: Neuralink's official Sep 18 video 'Speaking With The Mind' (YouTube _j806JHhCRo) and Neura Pod's September recap confirm VOICE-trial participant Terry Mandable has a 3,000-channel implant (~3× the original ~1,024-electrode N1). The device is still an investigational trial implant, not an announced next-gen 3X product line or FDA-approved device. Deadline end of 2026. Status stays pending.",
+    "summary": "Sweep proposed delivered on Neuralink's Sep 18 'Speaking With The Mind' video. Fetched Nov 12 2026: Neura Pod still describes VOICE participant Terry Mandable's 3,000-channel implant as an investigational trial device (~3× the original ~1,024-electrode N1), not an announced next-gen 3X product line or FDA-approved device. Deadline end of 2026. Status stays pending.",
     "url": "https://www.neurapod.com/blog/neuralink-update-september-2026"
    }
   },
@@ -5331,8 +5331,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: Wikipedia List of Starlink launches counts 46 V3 satellites launched as of Oct 27 (20 on Flight 13 plus 26 orbital on Flight 14, Sep 28). Jonathan McDowell via X Oct 24: 26 V3s still raising orbits. SpaceX says V3 volume ramps through end-2026 and 2027. 46 birds is first orbital deploy, not 'launched at scale'. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/List_of_Starlink_and_Starshield_launches"
+    "summary": "Fetched Nov 12 2026: Supercharged Daily / McDowell counts still show 26 Starlink V3 satellites in orbit (Flight 14, Sep 28). NASASpaceflight posted Nov 11 that the Starlink Speed Loader left Starfactory to load Ship 42 with 26 more V3s for Flight 15 (NET Nov 13). 26 on orbit, with a second batch not yet launched, is not V3 launched at scale. Deadline Q4/Dec 31 2026. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
   {
@@ -5362,8 +5362,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: Elon Times mass-to-orbit tracker (updated Oct 27) has SpaceX at 1,672 t / 81.0% of 2,065 t YTD through Oct 17. BeInCrypto/ooinsights mid-Oct put the share near 80%. Motley Fool Q3 recap cited 90% mass-to-orbit in the quarter, still not >95% for the year. Starship is not yet flying frequently with real payloads. Deadline end of 2026. Status stays pending.",
-    "url": "https://elontimes.com/mass-to-orbit"
+    "summary": "Fetched Nov 12 2026: SpaceX Q3 2026 results still show 476 tonnes to orbit in the quarter, about three-quarters internal Starlink. Year-to-date mass share remains well below a clean >95% of Earth's payload; the 2026 calendar year is not over. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://www.spacecapex.com/en/analysis/spacex-q3-2026-results-ai-overtakes-starlink"
    }
   },
   {
@@ -5424,7 +5424,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: NASA FY2026 enacted appropriations remain $24.4 billion (Wikipedia Budget of NASA). SpaceX Q3 space+connectivity was $7.015B (Starlink $5.248B + rockets $1.767B); AI/SI $7.56B is not space-commercial. Nine-month space-commercial is still below NASA's budget and 2026 is not closed. Deadline end of 2026. Status stays pending.",
+    "summary": "Fetched Nov 12 2026: NASA FY2026 enacted appropriations remain $24.4 billion (Wikipedia Budget of NASA). SpaceX Q3 space+connectivity was $7.015B (Starlink $5.248B + rockets $1.767B); Super Intelligence $7.56B is not space-commercial revenue. Calendar 2026 is not over. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Budget_of_NASA"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 11 2026: GitHub xai-org/x-algorithm is still described as the For You feed ranking code (updated Nov 11; README still has a 'What's not in this repo?' section). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 12 2026: GitHub xai-org/x-algorithm is still described as the For You feed ranking code (README still has a 'What's not in this repo?' section). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5864,7 +5864,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 4 2026: Wikipedia Starship flight 15 NET November 12; dual booster-and-ship catch remains the plan. The Space Road (Nov 4) confirms 0 ship catches so far and no Flight 15 launch. Deadline Nov 30 2026. Status stays pending.",
+    "summary": "Fetched Nov 12 2026: Wikipedia Starship flight 15 NET November 13, 22:45 UTC, unflown; dual booster-and-ship catch remains the plan. No Flight 15 launch yet. Deadline Nov 30 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from a full C/C++ training-and-inference rewrite exact-mapped to GB300. Fetched Nov 5 2026: docs.x.ai still lists Grok 4.7 as Latest; no grok-4.8. Status stays missed.",
+    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from the C/C++ rewrite. Fetched Nov 12 2026: Musk's Nov 10 post confirms the JAX/SGLang dump and C/C++ rewrite and says 4.8 is in RL, but docs.x.ai still lists Grok 4.7 as Latest and Grok 4.8 has not shipped, so the gains are not public. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -5926,7 +5926,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: Electrek / AI Business (Oct 22) — first deliveries are to outside companies around end of 2027 for industrial work; no household-buyer date, no public Tesla sales route, MSRP or consumer orders. Deadline end of 2027. Status stays pending.",
+    "summary": "Fetched Nov 12 2026: Electrek / Q3 call still has first Optimus deliveries to outside companies around end of 2027 for industrial work; no household-buyer date, public Tesla sales route, MSRP or consumer orders. Deadline Dec 31 2027. Status stays pending.",
     "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/"
    }
   },
@@ -5957,7 +5957,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: no SpaceX orbital AI-compute constellation is flying at gigawatt scale. Open-sweep Oct 26: official Starmind page still plans Gigasat deployment of thousands of AI satellites as soon as late 2027. Earth-side Colossus is not space compute. Deadline end of 2027. Status stays pending.",
+    "summary": "Fetched Nov 12 2026: no SpaceX orbital AI-compute constellation is flying at gigawatt scale. SpaceX's Starmind page still dates first Gigasat production and deployment to late 2027. Deadline Dec 31 2027. Status stays pending.",
     "url": "https://www.spacex.com/spacexsi/starmind"
    }
   },
@@ -6782,7 +6782,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 27 2026: IMF October 2026 WEO still projects global growth of 3.1% in 2026, not a doubling. Deadline 2036-09-08. No Musk restatement of a new date. Status stays pending.",
+    "summary": "Fetched Nov 12 2026: IMF October 2026 WEO still projects global growth of about 3% a year, not a doubling of the world economy. Deadline 2036-09-08. No Musk restatement of a new date. Status stays pending.",
     "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
    }
   },
@@ -6837,11 +6837,11 @@
    "title": "Grok 4.8 finishes training this week (by Sep 20, 2026)",
    "company": "xAI",
    "topic": "AI",
-   "status": "missed",
+   "status": "delivered-late",
    "first_said": "2026-09-13",
    "first_deadline": "2026-09-20",
    "current_deadline": "2026-09-20",
-   "resolved_date": null,
+   "resolved_date": "2026-11-10",
    "times_moved": 0,
    "goalpost_history": [],
    "statements": 1,
@@ -6851,15 +6851,15 @@
      "date_made": "2026-09-13",
      "deadline": "2026-09-20",
      "change": "first",
-     "status": "missed",
+     "status": "delivered-late",
      "quote": "Grok 4.8, which is a 2.5T model trained with our new C++ software stack, will finish training this week and start RL",
      "source": "https://x.com/elonmusk/status/2099308197802631191",
      "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-finish-training-this-week"
     }
    ],
    "resolution": {
-    "summary": "Musk said Sep 14 that Grok 4.8 would finish training that week and start RL. Deadline Sep 20 passed with no public training-complete receipt. Fetched Nov 5 2026: docs.x.ai still has no grok-4.8; flagship is Grok 4.7 Latest. Status stays missed.",
-    "url": "https://docs.x.ai/docs/models"
+    "summary": "Musk said Sep 13 that Grok 4.8 would finish training that week and start RL. The Sep 20 deadline passed with no public receipt. On Nov 10 2026 he wrote that pre-training is done and 4.8 is in RL. Fetched Nov 12 2026: docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 — that is the ship date, not this training-complete claim. Status delivered-late.",
+    "url": "https://x.com/elonmusk/status/2120088070443655190"
    }
   },
   {
@@ -7131,8 +7131,8 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 4 2026: docs.x.ai/news is bot-walled; Musk's Oct 31 walkthrough said Macroharder and Minihard already have 220k GB300s each and Gun Range tracks end of November — not a dated receipt the Oct 4 extra tranche went live as promised. Construction Review (Nov 3) recaps the same Oct 31 names and dates. Status stays missed.",
-    "url": "https://constructionreviewonline.com/659m-spacexai-colossus-2-expansion-adds-two-mississippi-data-center-campuses/"
+    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 12 2026: his Oct 31 walkthrough still says Macroharder and Minihard already have 220k GB300s each and Gun Range tracks end of November — not a dated receipt the Oct 4 extra tranche went live as promised. Tennessee Tribune Nov 8 treats Gun Range as still a projection. Status stays missed.",
+    "url": "https://tntribune.com/musk-announces-two-more-data-centers-for-mid-south-ai-expansion/"
    }
   },
   {
@@ -9312,7 +9312,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: Wikipedia Starship flight 15 still lists NET November 13 2026, 22:45 UTC; SpaceX's mission page targets Friday Nov 13 pending regulatory approval. The flight has not launched. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
+    "summary": "Fetched Nov 12 2026: Wikipedia Starship flight 15 still lists NET November 13 2026, 22:45 UTC. The flight has not launched. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -12073,7 +12073,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: x.ai/news still lists the Sep 3 Grok Bot for Enterprise announcement as the enterprise launch; later posts (Data Bot Nov 2, Grok Bot for sales Oct 27) are product features, not a receipt that the Oct 20 'early trusted customers → wide enterprise in a few weeks' ramp is complete. Deadline ~Nov 17. Status stays pending.",
+    "summary": "Fetched Nov 12 2026: x.ai/news still lists the Sep 3 Grok Bot for Enterprise announcement as the enterprise launch. Nov 2 'Introducing Grok Bot 1.0' and the Nov 11 Bot changelog (meetings/Teams) are product features on existing plans, not a receipt that the Oct 20 'early trusted customers → wide enterprise in a few weeks' ramp is newly complete. Deadline ~Nov 17. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -12259,8 +12259,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 30, 2026. Fetched Nov 4 2026: Construction Review (Nov 3) recaps Musk's Oct 31 post that Gun Range is tracking end of November and Spam December; no receipt that Gun Range is already operational.",
-    "url": "https://constructionreviewonline.com/659m-spacexai-colossus-2-expansion-adds-two-mississippi-data-center-campuses/"
+    "summary": "Pending until Nov 30, 2026. Fetched Nov 12 2026: Tennessee Tribune (Nov 8) still treats Musk's Oct 31 'Gun Range tracking end of November' line as a projection, not independently confirmed as live. Data Center Dynamics and Construction Review recap the same Oct 31 dates. No receipt that Gun Range is operational.",
+    "url": "https://tntribune.com/musk-announces-two-more-data-centers-for-mid-south-ai-expansion/"
    }
   },
   {
@@ -12303,11 +12303,14 @@
    "status": "pending",
    "first_said": "2026-11-06",
    "first_deadline": "2027-06-30",
-   "current_deadline": "2027-06-30",
+   "current_deadline": "2027-09-22",
    "resolved_date": null,
-   "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
+   "times_moved": 1,
+   "goalpost_history": [
+    "Jun 2027",
+    "Sep 2027"
+   ],
+   "statements": 2,
    "timeline": [
     {
      "statement_id": 520,
@@ -12318,11 +12321,21 @@
      "quote": "Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
      "source": "https://x.com/elonmusk/status/2118591788701421573",
      "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-wind-down-giga-texas-mid-2027"
+    },
+    {
+     "statement_id": 528,
+     "date_made": "2026-11-11",
+     "deadline": "2027-09-22",
+     "change": "goalpost_moved",
+     "status": "pending",
+     "quote": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
+     "source": "https://x.com/elonmusk/status/2120565056429814073",
+     "url": "https://twoweeks.lol/predictions/cybertruck-volume-production/#cybertruck-production-extended-end-of-summer-2027"
     }
    ],
    "resolution": {
-    "summary": "Pending until Jun 30, 2027.",
-    "url": "https://x.com/elonmusk/status/2118591788701421573"
+    "summary": "Pending until Sep 22, 2027 (end of summer 2027). Replaces the mid-2027 wind-down date from Nov 6.",
+    "url": "https://x.com/elonmusk/status/2120565056429814073"
    }
   },
   {
@@ -12383,8 +12396,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: x.ai/news still has no Grok 4.8 post; latest flagship announcement is Grok 4.7 (Sep 21). Musk's Nov 10 'soft rollout to Bot users later this week' has not been confirmed as shipped. Deadline Nov 16 2026. Status stays pending.",
-    "url": "https://x.ai/news"
+    "summary": "Fetched Nov 12 2026: x.ai/news still has no Grok 4.8 post (flagship announcement is Grok 4.7, Sep 21). docs.x.ai/docs/models lists grok-4.7 as the most capable model and has no grok-4.8. Grok Bot changelog v1.0.1 (Nov 11) is meetings/Teams/connectors — no 4.8 model. Deadline Nov 16 2026. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -12450,6 +12463,6 @@
    }
   }
  ],
- "statements": 474,
+ "statements": 475,
  "count": 354
 }
