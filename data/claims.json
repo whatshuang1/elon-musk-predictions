@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-12",
+ "retrieved": "2026-11-13",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -3388,7 +3388,7 @@
     }
    ],
    "resolution": {
-    "summary": "On the Jan 28 2026 Q4 call Musk said Tesla would 'probably unveil Optimus 3 in a few months' (end of July 2026). Fetched Nov 12 2026: Tesla confirmed Fremont Optimus production on the Oct 21 Q3 call (that's #135 SOP) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 13 2026: Tesla confirmed Fremont Optimus production on the Oct 21 Q3 call (that's #135 SOP) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -4686,8 +4686,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: NASA Oct 23 — Artemis III is a 2027 low-Earth-orbit docking test with Blue Origin and SpaceX lander articles, not a landing; first crewed lunar landing is planned as Artemis IV in early 2028. No humans have landed on the Moon. Musk's 'less than 5 years' window from July 2026 runs through 2031. Status stays pending.",
-    "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+    "summary": "Fetched Nov 13 2026: NASA Nov 4 recap of the Oct 23 briefing still has Artemis III as a 2027 low-Earth-orbit docking test and the first crewed lunar landing as Artemis IV in 2028. No humans have landed on the Moon since Apollo 17. Musk's <5-year window runs to 2031. Status stays pending.",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
    }
   },
   {
@@ -4990,7 +4990,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed without FSD planning-layer commands ('Hey Grok, turn right here'). Fetched Nov 12 2026: no Tesla/Elon receipt of conversational Grok routing in FSD; 2026.38.6 only removed Grok's beta label. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 13 2026: no Tesla/Elon receipt of conversational Grok routing in FSD ('Grok, turn right'); 2026.38.6 only removed Grok's beta label. Status stays missed.",
     "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 12 2026: GitHub xai-org/x-algorithm is still described as the For You feed ranking code (README still has a 'What's not in this repo?' section). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 13 2026: GitHub xai-org/x-algorithm is still the For You feed ranking stack (README 'X For You Feed Algorithm'; last notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Deadline Sep 30 2026 passed with no public receipt of 'truly massive gains' from the C/C++ rewrite. Fetched Nov 12 2026: Musk's Nov 10 post confirms the JAX/SGLang dump and C/C++ rewrite and says 4.8 is in RL, but docs.x.ai still lists Grok 4.7 as Latest and Grok 4.8 has not shipped, so the gains are not public. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 13 2026: Musk's Nov 10 post confirms the C/C++ rewrite and 4.8 in RL, but docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6019,8 +6019,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: 'Working will be optional' remains a long-horizon claim (deadline 2045). Tesla's Oct 21 Q3 update still lists Optimus as a Fremont early ramp for Tesla's own use, not a labor replacement that makes working a hobby. Status stays pending.",
-    "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
+    "summary": "Fetched Nov 13 2026: 'Working will be optional' remains a long-horizon claim (deadline 2045). Tesla's Oct 21 Q3 update still lists Optimus as a Fremont early ramp for Tesla's own use, not a labor replacement that makes working a hobby. Status stays pending.",
+    "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828026066738/tsla-20261021-gen.pdf"
    }
   },
   {
@@ -6050,8 +6050,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: the US has not entered a goods-and-services-growth-exceeds-money-supply-growth deflation regime. FOMC Sep 16 2026 SEP median real GDP is 2.3% (2026) / 2.4% (2027) / 2.2% (2028); median PCE inflation 3.7% / 2.3% / 2.1% — not deflation. Oct 28 FOMC is a hold with no new SEP. Deadline 2028. Status stays pending.",
-    "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+    "summary": "Fetched Nov 13 2026: the US has not entered a goods-and-services-growth-exceeds-money-supply deflation regime. Fed Vice Chair Bowman (Nov 10) said core PCE inflation likely moved up to 3.3% in October; BLS Oct CPI was +0.4% m/m (core +0.3%). Fed funds still 3.75–4%. Deadline 2028. Status stays pending.",
+    "url": "https://www.reuters.com/business/feds-bowman-says-still-work-to-do-inflation-2026-11-10/"
    }
   },
   {
@@ -6751,8 +6751,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: Tesla finished 2025 with 16,506 Austin-area employees (Travis County compliance report via Austin American-Statesman Sep 8). No newer official 2026 headcount at 30k. Deadline 2028. Status stays pending.",
-    "url": "https://www.statesman.com/business/article/tesla-expansion-mustang-ridge-austin-gigafactory-22414197.php"
+    "summary": "Fetched Nov 13 2026: Wikipedia Gigafactory Texas still cites 16,506 Austin-area employees from Tesla's 2025 Travis County compliance report. No newer official 2026 headcount at 30k. Night-shift reporting (Teslarati Nov 5) is production hours, not a 30k headcount. Deadline 2028. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Gigafactory_Texas"
    }
   },
   {
@@ -7069,7 +7069,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: Musk's Sep 22 claim that AI will beat all fields by end of 2027 or 2028 latest remains untested. No independent receipt that AI has surpassed humans across all scientific and professional fields. Deadline Dec 31 2028. Status stays pending.",
+    "summary": "Fetched Nov 13 2026: Musk's Sep 22 claim that AI will beat all fields by end of 2027 or 2028 latest remains untested. No independent receipt that AI has surpassed humans across all scientific and professional fields. Deadline Dec 31 2028. Status stays pending.",
     "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-ai-will-master-all-fields-by-2028-3001054-2026-09-23"
    }
   },
@@ -7131,7 +7131,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) said another 220k GB300 would be fully operational next week (outer bound Oct 4). Fetched Nov 12 2026: his Oct 31 walkthrough still says Macroharder and Minihard already have 220k GB300s each and Gun Range tracks end of November — not a dated receipt the Oct 4 extra tranche went live as promised. Tennessee Tribune Nov 8 treats Gun Range as still a projection. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 13 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Musk's Oct 31 walkthrough still has Macroharder/Minihard at 220k GB300s each and Gun Range tracking end of November. Status stays missed.",
     "url": "https://tntribune.com/musk-announces-two-more-data-centers-for-mid-south-ai-expansion/"
    }
   },
@@ -9312,7 +9312,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 12 2026: Wikipedia Starship flight 15 still lists NET November 13 2026, 22:45 UTC. The flight has not launched. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
+    "summary": "Fetched Nov 13 2026: Wikipedia Starship flight 15 still lists NET November 13 2026, 22:45 UTC, unflown, pending regulatory approval. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -11732,7 +11732,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: x.ai/news still has no xAI game-studio title (latest: Grok Voice 3.0 Oct 14, Partner Network Oct 22, Grok 4.7 Sep 21). Grok Build can make user games; that is not solo developers shipping studio-quality games as a market. Deadline Dec 31 2027. Status stays pending.",
+    "summary": "Fetched Nov 13 2026: x.ai/news still has no xAI game-studio title (latest: Grok Bot 1.0 Nov 2, Grok 4.7 Sep 21). Grok Build can make user games; that is not solo developers shipping studio-quality games as a market. Deadline 2027. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -11763,8 +11763,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: Reuters — CXMT, China's largest DRAM maker (~10% of global DRAM revenue), plans limited HBM3E production in the next two months at 20–30% yields. TrendForce/Counterpoint: CXMT DRAM wafers ~320k/month now, targeting ~500–600k by 2028. The 2028 'a LOT of RAM' claim is still a forecast. Status stays pending.",
-    "url": "https://insidetelecom.com/chinas-cxmt-to-start-advanced-ai-memory-production-despite-poor-yields-sources-say/"
+    "summary": "Fetched Nov 13 2026: CXMT held 9.5% of global DRAM revenue in Q2 2026 (TrendForce) and is expanding wafers toward ~600k/month by 2028; Dan Niles (Nov 3) cites ~8% share aiming at 20% by 2028. China is making more RAM, but the 2028 'a lot of RAM' claim is still ahead. Status stays pending.",
+    "url": "https://eastasiabrief.com/semiconductors/cxmt-plans-4f2-server-dram-launch-hitting-memory-shares-681"
    }
   },
   {
@@ -11794,8 +11794,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 28 2026: StockAnalysis — SpaceX (SPCX) market cap $2.02 trillion as of the Oct 27 close. Far short of $100 trillion. Deadline Oct 14 2036. Status stays pending.",
-    "url": "https://stockanalysis.com/stocks/spcx/market-cap/"
+    "summary": "Fetched Nov 13 2026: SpaceX (SPCX) trades around a ~$1.9T market cap (Motley Fool citing $139.94 close Nov 12), far below $100 trillion. Deadline 2036. Status stays pending.",
+    "url": "https://www.fool.com/investing/2026/10/31/is-spacex-stock-a-buy-after-plummeting-28/"
    }
   },
   {
@@ -12073,7 +12073,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 12 2026: x.ai/news still lists the Sep 3 Grok Bot for Enterprise announcement as the enterprise launch. Nov 2 'Introducing Grok Bot 1.0' and the Nov 11 Bot changelog (meetings/Teams) are product features on existing plans, not a receipt that the Oct 20 'early trusted customers → wide enterprise in a few weeks' ramp is newly complete. Deadline ~Nov 17. Status stays pending.",
+    "summary": "Fetched Nov 13 2026: x.ai/news still lists Sep 3 'Grok Bot for Enterprise' as the enterprise launch. Nov 2 'Introducing Grok Bot 1.0' and docs.x.ai/grok-bot/teams-and-enterprises are product features on existing plans. Coforge joining the partner network (Nov 9) is a partner, not a GA that trusted-customer early deployment has become wide. Deadline Nov 17. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -12396,7 +12396,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 12 2026: x.ai/news still has no Grok 4.8 post (flagship announcement is Grok 4.7, Sep 21). docs.x.ai/docs/models lists grok-4.7 as the most capable model and has no grok-4.8. Grok Bot changelog v1.0.1 (Nov 11) is meetings/Teams/connectors — no 4.8 model. Deadline Nov 16 2026. Status stays pending.",
+    "summary": "Fetched Nov 13 2026: x.ai/news still has no Grok 4.8 post (latest flagship is Grok 4.7, Sep 21; newest posts are Grok Bot 1.0 Nov 2). docs.x.ai/docs/models lists grok-4.7 as the most capable model and has no grok-4.8. Deadline is Nov 16. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },

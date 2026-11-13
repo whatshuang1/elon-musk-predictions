@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Grok 5
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-12 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-13 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Grok 5 released before end of 2025. **Verdict:** pending. **First said:** 2025-08-07. **First deadline:** 2025-12-31. **Current deadline:** 2026-12-31. **Times moved:** 3.
 
