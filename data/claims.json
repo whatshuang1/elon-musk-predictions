@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-13",
+ "retrieved": "2026-11-14",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -624,8 +624,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 29 2026: Tesla owners still cannot add or subtract personal cars from the Robotaxi network. On the Oct 21 Q3 2026 earnings call, Tesla VP Ashok Elluswamy said the first customer vehicles could join around Q2 2027 (The Verge) — a company delay, not an Elon goalpost. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings"
+    "summary": "Fetched Nov 14 2026: Tesla AI chief Ashok Elluswamy told the Oct 21 Q3 call that the first customer-owned cars in the Robotaxi fleet are around Q2 2027, not 2026. Teslanewswire (Nov 13) still has customer cars on FSD Supervised. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
    }
   },
   {
@@ -2056,7 +2056,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: Wikipedia's SpaceX Mars colonization page still describes a proposed program, not a city. No Starship has launched to Mars, and no self-sustaining settlement exists. Deadline 2050. Goal has not been abandoned. Status stays pending.",
+    "summary": "Fetched Nov 14 2026: no self-sustaining Mars city exists. Deadline 2050. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -2835,8 +2835,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 29 2026: The Guardian Oct 27 reports Grok Imagine posted a seven-minute Odyssey Episode 1 on Oct 23 (Wonder Studios), labeled a series, not a full-length movie. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan"
+    "summary": "Fetched Nov 14 2026: no public release of a full-length Grok Imagine Odyssey movie. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -2973,8 +2973,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 29 2026: TokenPost Oct 24 lists Neuralink's Blindsight vision study as upcoming, with no active human trial. Inside Deep Tech Oct 25: Neuralink's updates page lists no Blindsight human implant. Unverified blogs claiming a patient read letters are not a company receipt. Grade stays pending until Dec 31 2026.",
-    "url": "https://www.tokenpost.com/news/technology/40180"
+    "summary": "Fetched Nov 14 2026: Musk said Oct 30 that Blindsight is ready from an engineering standpoint and waiting on regulatory approval. No public confirmation of restored limited sight in a 2026 human implant that would close this card. Status stays pending.",
+    "url": "https://driveteslacanada.ca/news/elon-musk-neuralink-blindsight-ready-regulatory-approval/"
    }
   },
   {
@@ -3097,8 +3097,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 29 2026: Neura Pod's by-the-numbers page lists 27+ publicly known patients as of October 2026. Inside Deep Tech (updated Oct 25) still describes early-feasibility trials, not high-volume device production or an almost entirely automated high-volume surgical process. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.neurapod.com/neuralink-by-the-numbers"
+    "summary": "Fetched Nov 14 2026: last official Neuralink implant count remains 21 trial participants (Jan 28 2026). No public high-volume production or fully automated-surgery receipt for 2026. Status stays pending.",
+    "url": "https://intnews.it/en/neuralink-competitors/"
    }
   },
   {
@@ -3196,7 +3196,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: no public receipt that AI exceeds the sum of all human intelligence. Deadline 2031. Status stays pending.",
+    "summary": "Fetched Nov 14 2026: no lab or product claims that AI exceeds the sum of all human intelligence. Deadline ~2031. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -3388,8 +3388,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 13 2026: Tesla confirmed Fremont Optimus production on the Oct 21 Q3 call (that's #135 SOP) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
-    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
+    "summary": "Still missed. Fetched Nov 14 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update / earnings) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
+    "url": "https://www.insidedeeptech.com/tesla-optimus-humanoid-robot-fremont-production-full-guide/"
    }
   },
   {
@@ -4990,8 +4990,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 13 2026: no Tesla/Elon receipt of conversational Grok routing in FSD ('Grok, turn right'); 2026.38.6 only removed Grok's beta label. Status stays missed.",
-    "url": "https://gettesla.com/articles/tesla-software-update-2026-38-6-grok-leaves-beta-fsd-streaks-more"
+    "summary": "Still missed. Fetched Nov 14 2026: Teslanewswire (Nov 13) says customer cars remain on FSD (Supervised) v14.3.13 / v14.3 Lite; no Tesla/Elon receipt of conversational Grok routing in FSD ('Grok, turn right'). Status stays missed.",
+    "url": "https://teslanewswire.com/robotaxi-tracker"
    }
   },
   {
@@ -5207,8 +5207,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 29 2026: Wikipedia List of Starship vehicles shows 2026 flights of Ship 39 (Flight 12, May 21, expended), Ship 40 (Flight 13, Jul 24, retired after ocean recovery), and Ship 41 (Flight 14, Sep 28, expended). Ship 42 has completed static fire and awaits Flight 15; Ships 43–46 are in cryo/construction. That is three completed 2026 ships plus a handful in the pipeline, not ~10 finished this year. Deadline end of 2026. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/List_of_Starship_vehicles"
+    "summary": "Fetched Nov 14 2026: Flight 15 flew Ship 42, so 2026 Starship production continues, but there is no public count that SpaceX has completed ~10 more Starships this year. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
   {
@@ -5238,8 +5238,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 8 2026: November 2026 composite leaderboards are led by Anthropic (Claude Opus 5.5), OpenAI (GPT-6 Astra) and Google (Gemini 4). Grok 4.7 sits a clear tier below the frontier (~63.5 composite / ~35 Artificial Analysis Intelligence). xAI has not caught up to the AI leaders. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://eptune.com/blog/articles/ai-model-rankings-november-2026"
+    "summary": "Fetched Nov 14 2026: docs.x.ai still lists Grok 4.7 as the flagship. Musk's Nov 10 'Grok 5 should exceed Opus 5.5 in 2 or 3 months' post is already boarded as #523 and does not move this 2026 catch-up-to-all-leaders deadline. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 13 2026: GitHub xai-org/x-algorithm is still the For You feed ranking stack (README 'X For You Feed Algorithm'; last notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 14 2026: GitHub xai-org/x-algorithm README is still 'X For You Feed Algorithm' (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5864,7 +5864,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 12 2026: Wikipedia Starship flight 15 NET November 13, 22:45 UTC, unflown; dual booster-and-ship catch remains the plan. No Flight 15 launch yet. Deadline Nov 30 2026. Status stays pending.",
+    "summary": "Fetched Nov 14 2026: Flight 15 launched Nov 13 (the November window). Super Heavy B22 aborted the booster catch and ditched in the Gulf. Ship 42 is in orbit; the first ship tower-catch is still planned ~21:17 UTC Nov 14 and has not happened. Card note: delivered only if the tower catches the ship (booster too for full credit); missed if no catch by Nov 30. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -5895,7 +5895,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 13 2026: Musk's Nov 10 post confirms the C/C++ rewrite and 4.8 in RL, but docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 14 2026: docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. Status stays missed.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -6081,8 +6081,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: no receipt that self-driving is working on the Tesla Semi. Customer Semis still require a licensed commercial driver. High-volume Semi production launched Sep 24; TT News and Drive Tesla still describe FSD on the Semi as a late-2026/early-2027 target, not a shipped capability. Deadline Mar 31 2027. Status stays pending.",
-    "url": "https://www.ttnews.com/articles/tesla-semi-high-volume"
+    "summary": "Fetched Nov 14 2026: Tesla's Q2 2026 remarks still tie Semi autonomy to the 2027 high-volume scale-up; no receipt that self-driving is working on the Semi. Deadline early 2027. Status stays pending.",
+    "url": "https://driveteslacanada.ca/news/tesla-semi-high-volume-production-2027/"
    }
   },
   {
@@ -6112,8 +6112,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: no AI-robot singularity has occurred; the 2036 deadline is a decade out. Status stays pending.",
-    "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
+    "summary": "Fetched Nov 14 2026: no receipt of an AI-robot singularity. Deadline 2036. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -7131,8 +7131,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 13 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Musk's Oct 31 walkthrough still has Macroharder/Minihard at 220k GB300s each and Gun Range tracking end of November. Status stays missed.",
-    "url": "https://tntribune.com/musk-announces-two-more-data-centers-for-mid-south-ai-expansion/"
+    "summary": "Still missed. Fetched Nov 14 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Musk's Oct 31 walkthrough still has Macroharder/Minihard at 220k GB300s each and Gun Range tracking end of November. Status stays missed.",
+    "url": "https://www.dailycortex.com/colossus-2-adds-two-buildings"
    }
   },
   {
@@ -9291,11 +9291,11 @@
    "title": "Starship Flight 15 launches a little before Thanksgiving 2026",
    "company": "SpaceX",
    "topic": "Space",
-   "status": "pending",
+   "status": "delivered",
    "first_said": "2026-10-10",
    "first_deadline": "2026-11-25",
    "current_deadline": "2026-11-25",
-   "resolved_date": null,
+   "resolved_date": "2026-11-13",
    "times_moved": 0,
    "goalpost_history": [],
    "statements": 1,
@@ -9305,14 +9305,14 @@
      "date_made": "2026-10-10",
      "deadline": "2026-11-25",
      "change": "first",
-     "status": "pending",
+     "status": "delivered",
      "quote": "So we don't know the exact launch date, but probably about four weeks or so. Four to six weeks is about right. Probably launches a little bit before Thanksgiving is my guess.",
      "source": "https://www.youtube.com/watch?v=tUHHZsN7tPM",
      "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-15-before-thanksgiving-2026"
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 13 2026: Wikipedia Starship flight 15 still lists NET November 13 2026, 22:45 UTC, unflown, pending regulatory approval. Thanksgiving is Nov 26. Deadline Nov 25 2026. Status stays pending.",
+    "summary": "Delivered. Starship Flight 15 lifted off from Starbase on November 13, 2026 at 22:47:36 UTC (4:47 pm CST), two weeks before Thanksgiving (Nov 26). SpaceX posted 'Liftoff of Starship Flight 15'; Wikipedia and Ars Technica confirm Ship 42 reached orbit and deployed 26 Starlink V3 satellites. Fetched Nov 14 2026.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -12052,11 +12052,11 @@
    "title": "Grok Bot reaches wide enterprise deployment within a few weeks",
    "company": "SpaceX",
    "topic": "AI",
-   "status": "pending",
+   "status": "delivered",
    "first_said": "2026-10-20",
    "first_deadline": "2026-11-17",
    "current_deadline": "2026-11-17",
-   "resolved_date": null,
+   "resolved_date": "2026-11-02",
    "times_moved": 0,
    "goalpost_history": [],
    "statements": 1,
@@ -12066,15 +12066,15 @@
      "date_made": "2026-10-20",
      "deadline": "2026-11-17",
      "change": "first",
-     "status": "pending",
+     "status": "delivered",
      "quote": "We already are in early deployment with some trusted customers, and we expect to be in wide deployment within a few weeks for enterprise customers for GrokBot.",
      "source": "https://x.com/cb_doge/status/2112653610953887818",
      "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-bot-enterprise-wide-deployment-few-weeks"
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 13 2026: x.ai/news still lists Sep 3 'Grok Bot for Enterprise' as the enterprise launch. Nov 2 'Introducing Grok Bot 1.0' and docs.x.ai/grok-bot/teams-and-enterprises are product features on existing plans. Coforge joining the partner network (Nov 9) is a partner, not a GA that trusted-customer early deployment has become wide. Deadline Nov 17. Status stays pending.",
-    "url": "https://x.ai/news"
+    "summary": "Delivered. Fetched Nov 14 2026: x.ai/bot states Grok Bot is generally available for Enterprise and for teams on the Teams plan, matching this card's grade note (public enterprise or teams plan, not invite-only). The Nov 2 2026 'Introducing Grok Bot 1.0' post put Team Bots on Team and Enterprise plans, inside the Oct 20 'few weeks' window and before the Nov 17 deadline.",
+    "url": "https://x.ai/bot"
    }
   },
   {
@@ -12396,7 +12396,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 13 2026: x.ai/news still has no Grok 4.8 post (latest flagship is Grok 4.7, Sep 21; newest posts are Grok Bot 1.0 Nov 2). docs.x.ai/docs/models lists grok-4.7 as the most capable model and has no grok-4.8. Deadline is Nov 16. Status stays pending.",
+    "summary": "Fetched Nov 14 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. Deadline is Nov 16. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },

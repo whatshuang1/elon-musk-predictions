@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Grok 5
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-13 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-14 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Grok 5 released before end of 2025. **Verdict:** pending. **First said:** 2025-08-07. **First deadline:** 2025-12-31. **Current deadline:** 2026-12-31. **Times moved:** 3.
 
@@ -81,7 +81,7 @@ Deadlines in order: 2025 → 2026 → Mar 2026 → 2026.
 | [SpaceX Fable/GPT-6-level model in 2–3 months](https://twoweeks.lol/predictions/grok-5-release/#spacex-fable-gpt6-level-model-2-3-months) | pending | 2026-12-24 | 2026-12-24 | 0 |
 | [Colossus +220k GB300 fully operational next week](https://twoweeks.lol/predictions/grok-5-release/#colossus-220k-gb300-operational-next-week) | missed | 2026-10-04 | 2026-10-04 | 0 |
 | [AI lets solo devs ship studio-quality games by 2027](https://twoweeks.lol/predictions/grok-5-release/#solo-devs-ship-ai-games-no-studio-2027) | pending | 2027-12-31 | 2027-12-31 | 0 |
-| [Grok Bot reaches wide enterprise deployment within a few weeks](https://twoweeks.lol/predictions/grok-5-release/#grok-bot-enterprise-wide-deployment-few-weeks) | pending | 2026-11-17 | 2026-11-17 | 0 |
+| [Grok Bot reaches wide enterprise deployment within a few weeks](https://twoweeks.lol/predictions/grok-5-release/#grok-bot-enterprise-wide-deployment-few-weeks) | delivered | 2026-11-17 | 2026-11-17 | 0 |
 | [xAI's Gun Range data center in Memphis up and running by the end of November 2026](https://twoweeks.lol/predictions/grok-5-release/#xai-gun-range-data-center-operational-end-november-2026) | pending | 2026-11-30 | 2026-11-30 | 0 |
 | [About 1.2 million Nvidia Blackwell chips at xAI's Colossus 2 by the end of 2026](https://twoweeks.lol/predictions/grok-5-release/#xai-colossus-2-1-2-million-blackwells-end-2026) | pending | 2026-12-31 | 2026-12-31 | 0 |
 | [Grok 5 exceeds Claude Opus 5.5 in 2 or 3 months](https://twoweeks.lol/predictions/grok-5-release/#grok-5-exceeds-opus-5-5-in-2-3-months) | pending | 2027-02-10 | 2027-02-10 | 0 |

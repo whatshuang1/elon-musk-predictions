@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-13",
+ "retrieved": "2026-11-14",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 354,
  "statements": 475,
- "count": 411,
+ "count": 413,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-14",
+   "kind": "prediction",
+   "slug": "starship-flight-15-before-thanksgiving-2026",
+   "claim_id": "c366",
+   "change": "Verdict: Pending → Delivered. SpaceX launched Starship Flight 15 from Starbase on November 13, 2026, two weeks before Thanksgiving.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-15-before-thanksgiving-2026"
+  },
+  {
+   "date": "2026-11-14",
+   "kind": "prediction",
+   "slug": "grok-bot-enterprise-wide-deployment-few-weeks",
+   "claim_id": "c506",
+   "change": "Verdict: Pending → Delivered. xAI's Grok Bot site now says the product is generally available for Enterprise, after the November 2 Grok Bot 1.0 launch put Team Bots on Team and Enterprise plans.",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-bot-enterprise-wide-deployment-few-weeks"
+  },
   {
    "date": "2026-11-12",
    "kind": "prediction",

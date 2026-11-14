@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Tesla Optimus
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/), which scores each dated Musk claim against what happened. Generated 2026-11-13 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/), which scores each dated Musk claim against what happened. Generated 2026-11-14 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Optimus high-volume external production 2026. **Verdict:** pending. **First said:** 2024-07-01. **First deadline:** 2026-12-31. **Current deadline:** 2027-12-31. **Times moved:** 1.
 
