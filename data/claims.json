@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-14",
+ "retrieved": "2026-11-15",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -860,7 +860,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until December 31, 2028. Fetched Oct 30 2026: Wikipedia Tesla Roadster (second generation) still lists production as yet to commence, planned for 2028. The Oct 15 McGregor event was an unveil, not the start of production.",
+    "summary": "Pending until December 31, 2028. Fetched Nov 15 2026: Wikipedia Tesla Roadster (second generation) still lists production as yet to commence, planned for 2028. The Oct 15 McGregor event was an unveil, not the start of production.",
     "url": "https://en.wikipedia.org/wiki/Tesla_Roadster_(second_generation)"
    }
   },
@@ -1420,7 +1420,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 31 2026: $20,000–$30,000 remains Tesla's stated long-term / at-scale Optimus target, not a current sticker. Optimus is not on public sale; Tesla confirmed early Fremont production (Oct 21) but has published no consumer price and has not unveiled Gen 3. Deadline 2030. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: $20,000–$30,000 remains Tesla's stated long-term / at-scale Optimus target, not a current sticker. Optimus is not on public sale. Deadline 2030. Status stays pending.",
     "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
    }
   },
@@ -5579,7 +5579,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 14 2026: GitHub xai-org/x-algorithm README is still 'X For You Feed Algorithm' (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 15 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5806,11 +5806,11 @@
    "title": "Starship upper stage caught toward end of 2024",
    "company": "SpaceX",
    "topic": "Space",
-   "status": "pending",
+   "status": "delivered-late",
    "first_said": "2023-10-05",
    "first_deadline": "2024-12-31",
-   "current_deadline": "2026-11-30",
-   "resolved_date": null,
+   "current_deadline": "2024-12-31",
+   "resolved_date": "2026-11-14",
    "times_moved": 5,
    "goalpost_history": [
     "2024",
@@ -5847,7 +5847,7 @@
      "date_made": "2026-07-25",
      "deadline": "2026-12-31",
      "change": "goalpost_moved",
-     "status": "pending",
+     "status": "delivered",
      "quote": "Unless we discover problems after mission data review, SpaceX will attempt to catch the ship with the tower on next flight",
      "source": "https://x.com/elonmusk/status/2080876967839031712",
      "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#spacex-ship-tower-catch-next-flight"
@@ -5857,14 +5857,14 @@
      "date_made": "2026-10-20",
      "deadline": "2026-11-30",
      "change": "restated",
-     "status": "pending",
+     "status": "partial",
      "quote": "For Flight 15, which we expect to happen next month, we're going to attempt to catch both the booster and the ship. This will be, if we succeed, will be the first time that an orbital launch vehicle has been fully recovered.",
      "source": "https://x.com/cb_doge/status/2112653610953887818",
      "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-15-catch-booster-and-ship-november-2026"
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 14 2026: Flight 15 launched Nov 13 (the November window). Super Heavy B22 aborted the booster catch and ditched in the Gulf. Ship 42 is in orbit; the first ship tower-catch is still planned ~21:17 UTC Nov 14 and has not happened. Card note: delivered only if the tower catches the ship (booster too for full credit); missed if no catch by Nov 30. Status stays pending.",
+    "summary": "Delivered. On November 14, 2026 at 21:20 UTC (3:20 pm CST) the Starbase tower caught Ship 42 at Orbital Launch Pad 2 after a 22.5-hour Flight 15, the first tower catch of a Starship upper stage. SpaceX posted “Mechazilla catches Starship!” The original “next flight” after Flight 13 was Flight 14; the catch was goalposted onto Flight 15 and landed before the card’s end-2026 deadline. Fetched Nov 15 2026.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -6174,7 +6174,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: money still matters; the 2036 deadline is a decade out. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: money still matters; the 2036 deadline is a decade out. Status stays pending.",
     "url": "https://www.businessinsider.com/elon-musk-ai-robots-only-way-solve-debt-2026-10"
    }
   },
@@ -6205,7 +6205,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: Starship is still weeks between flights (Flight 14 Sep 28; Flight 15 NET Nov 8), not once a day. Deadline Aug 4 2027. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: Starship is still weeks between flights (Flight 14 Sep 28; Flight 15 Nov 13), not once a day. Deadline Aug 4 2027. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -6236,7 +6236,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: Terafab is still a planned Austin fab (equipment commissioning 2027 per Tesla Q3); it is not 50× the Pentagon. No deadline. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: Terafab is still a planned Austin/Grimes County fab, not 50× the Pentagon. No deadline. Status stays pending.",
     "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
    }
   },
@@ -6267,7 +6267,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 31 2026: Starship has flown 14 times through Flight 14 (Sep 28 2026), the first orbital mission, which still carried no crew. Wikipedia's launch list shows none crewed. Flight 15 is upcoming NET Nov 12 and uncrewed. No SpaceX/Musk claim that the vehicle is already human-rated. Deadline end of 2027. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: Starship has flown 15 times through Flight 15 (Nov 13–14 2026). None were crewed. Wikipedia’s launch list shows no human flight. Deadline end of 2027. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/List_of_Starship_launches"
    }
   },
@@ -6354,7 +6354,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: no Starship upper stage has been reflown. Flight 15 is planned with new Ship 42. Deadline Mar 31 2027. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: Ship 42 was caught on Flight 15 (Nov 14) but no Starship upper stage has been reflown. Deadline Mar 31 2027. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -6686,7 +6686,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Oct 30 2026: Tesla has begun early Optimus production at Fremont, far short of a billion humanoid robots. Deadline 2036. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: Tesla has begun early Optimus production at Fremont, far short of a billion humanoid robots. Deadline 2036. Status stays pending.",
     "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
    }
   },
@@ -7100,7 +7100,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) was 'cautiously optimistic' SpaceX would have a Fable/GPT-6 level model in 2 to 3 months (deadline Dec 24 2026). Fetched Oct 31 2026: docs.x.ai flagship is still grok-4.7; Grok 4.8 has not shipped. Status stays pending.",
+    "summary": "Musk (Sep 24) was “cautiously optimistic” SpaceX would have a Fable/GPT-6 level model in 2 to 3 months (deadline Dec 24 2026). Fetched Nov 15 2026: docs.x.ai flagship is still grok-4.7; Grok 4.8 has not shipped. Anthropic’s Claude Fable 5.2 launched Nov 9 and leads the Artificial Analysis index. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -12228,7 +12228,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 31, 2028.",
+    "summary": "Pending until Dec 31, 2028. Fetched Nov 15 2026: no public receipt that monthly orbital compute has passed new terrestrial data-center build. Status stays pending.",
     "url": "https://x.com/elonmusk/status/2116359819258990946"
    }
   },
@@ -12396,7 +12396,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 14 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. Deadline is Nov 16. Status stays pending.",
+    "summary": "Fetched Nov 15 2026: docs.x.ai lists Grok 4.7 as the most capable model and has no grok-4.8; x.ai/news latest model post is still Grok 4.7 (Sep 21). Deadline is Nov 16. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },

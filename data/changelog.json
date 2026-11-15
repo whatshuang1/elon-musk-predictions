@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-14",
+ "retrieved": "2026-11-15",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 354,
  "statements": 475,
- "count": 413,
+ "count": 415,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-15",
+   "kind": "prediction",
+   "slug": "spacex-ship-tower-catch-next-flight",
+   "claim_id": "c224",
+   "change": "Verdict: Pending → Delivered. SpaceX caught Ship 42 with the tower chopsticks at Starbase on November 14, 2026, the first tower catch of a Starship upper stage.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#spacex-ship-tower-catch-next-flight"
+  },
+  {
+   "date": "2026-11-15",
+   "kind": "prediction",
+   "slug": "starship-flight-15-catch-booster-and-ship-november-2026",
+   "claim_id": "c224",
+   "change": "Verdict: Pending → Partial. Starship Flight 15 caught the ship at the tower on November 14, 2026, but Super Heavy booster 22 ditched in the Gulf after the pad catch was aborted.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-flight-15-catch-booster-and-ship-november-2026"
+  },
   {
    "date": "2026-11-14",
    "kind": "prediction",
