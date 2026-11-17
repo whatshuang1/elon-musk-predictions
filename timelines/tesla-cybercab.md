@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for the Tesla Cybercab
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/cybercab-production-before-2027/), which scores each dated Musk claim against what happened. Generated 2026-11-16 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/cybercab-production-before-2027/), which scores each dated Musk claim against what happened. Generated 2026-11-17 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Cybercab in production before 2027 (We, Robot). **Verdict:** delivered. **First said:** 2024-10-10. **First deadline:** 2026-06-30. **Current deadline:** 2026-06-30. **Times moved:** 1.
 
@@ -29,6 +29,7 @@ Deadlines in order: 2026 → Jun 2026.
 | 2026-01-28 | "We expect to have fully autonomous vehicles in probably somewhere between a quarter and half of the United States by the end of the year, pending regulatory approval." | [source](https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/) |
 | 2026-04-22 | "We certainly hope to have unsupervised FSD or Robotaxi operating in, I don't know, a dozen or so states by the end of this year." | [source](https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/) |
 | 2026-09-25 | "Probably by middle of next year it will be operating commercially in California" | [source](https://www.youtube.com/watch?v=34-5wOGmCKc&t=198s) |
+| 2026-11-16 | "Coming soon. If things well, may start trials next month. Much better to manage a fleet of cars than have to drive just one car by yourself!" | [source](https://x.com/elonmusk/status/2122449119570534680) |
 
 ## Related claims
 

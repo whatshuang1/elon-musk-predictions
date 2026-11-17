@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-15",
+ "retrieved": "2026-11-17",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 354,
- "statements": 475,
- "count": 475,
+ "statements": 476,
+ "count": 476,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -302,7 +302,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-14"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 18,
@@ -1096,7 +1096,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=H7Uyfqi_TE8",
    "source_type": null,
-   "last_checked": "2026-11-01"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 79,
@@ -1180,7 +1180,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/01/29/tesla-tsla-q4-2024-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-01"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 83,
@@ -1201,7 +1201,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=remZ1KMR_Z4",
    "source_type": "video",
-   "last_checked": "2026-11-01"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 84,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-15"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 106,
@@ -1608,7 +1608,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1997706687155720229",
    "source_type": "tweet",
-   "last_checked": "2026-11-01"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 107,
@@ -1632,7 +1632,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1953515379688714697",
    "source_type": "tweet",
-   "last_checked": "2026-11-14"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 108,
@@ -2013,7 +2013,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-11-14"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 129,
@@ -3213,7 +3213,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067430722399539385",
    "source_type": null,
-   "last_checked": "2026-11-14"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 196,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-15"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 216,
@@ -3868,7 +3868,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071385784154759468",
    "source_type": "tweet",
-   "last_checked": "2026-11-14"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 227,
@@ -4823,7 +4823,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2103329761690865846",
    "source_type": "tweet",
-   "last_checked": "2026-11-14"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 273,
@@ -4844,7 +4844,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2104241521746649165",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 274,
@@ -9431,7 +9431,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2111136408484069470",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 499,
@@ -9452,7 +9452,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2111610981046452541",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 500,
@@ -9851,7 +9851,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2116587474021691629",
    "source_type": "tweet",
-   "last_checked": "2026-11-12"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 519,
@@ -9872,7 +9872,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2116596535433871630",
    "source_type": "tweet",
-   "last_checked": "2026-10-31"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 520,
@@ -9972,12 +9972,12 @@
    "date_made": "2026-11-10",
    "deadline": "2026-11-16",
    "resolved_date": null,
-   "status": "pending",
+   "status": "missed",
    "times_moved": 0,
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2120088070443655190",
    "source_type": "tweet",
-   "last_checked": "2026-11-15"
+   "last_checked": "2026-11-17"
   },
   {
    "id": 525,
@@ -10062,6 +10062,27 @@
    "primary_source": "https://x.com/elonmusk/status/2120565056429814073",
    "source_type": "tweet",
    "last_checked": "2026-11-11"
+  },
+  {
+   "id": 529,
+   "slug": "owner-cars-robotaxi-trials-december-2026",
+   "claim_id": "c16",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#owner-cars-robotaxi-trials-december-2026",
+   "title": "Owner cars may start Robotaxi trials next month (Dec 2026)",
+   "company": "Tesla",
+   "topic": "Self-Driving",
+   "category": "FSD",
+   "quote": "Coming soon. If things well, may start trials next month. Much better to manage a fleet of cars than have to drive just one car by yourself!",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-16",
+   "deadline": "2026-12-31",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2122449119570534680",
+   "source_type": "tweet",
+   "last_checked": "2026-11-16"
   }
  ]
 }

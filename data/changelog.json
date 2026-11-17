@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-15",
+ "retrieved": "2026-11-17",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 354,
- "statements": 475,
- "count": 415,
+ "statements": 476,
+ "count": 417,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-17",
+   "kind": "prediction",
+   "slug": "grok-4-8-bot-soft-rollout-this-week",
+   "claim_id": "c524",
+   "change": "Graded missed: the Nov 16 week for a Grok 4.8 soft rollout to Bot users closed with no listing on xAI's models page or news, and no confirmation it reached any Bot users.",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-bot-soft-rollout-this-week"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "prediction",
+   "slug": "owner-cars-robotaxi-trials-december-2026",
+   "claim_id": "c16",
+   "change": "On Nov 16 2026 Musk said owner cars joining Tesla's Robotaxi network are coming soon and, if things go well, trials may start next month (https://x.com/elonmusk/status/2122449119570534680). That puts a December 2026 date on his July 2025 promise that owners could add their car to the fleet in 2026.",
+   "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#owner-cars-robotaxi-trials-december-2026"
+  },
   {
    "date": "2026-11-15",
    "kind": "prediction",

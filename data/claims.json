@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-15",
+ "retrieved": "2026-11-17",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -590,7 +590,7 @@
     "2022",
     "2026"
    ],
-   "statements": 3,
+   "statements": 4,
    "timeline": [
     {
      "statement_id": 160,
@@ -621,11 +621,21 @@
      "quote": "I'd say confidently next year. I'm not sure when next year, but confidently next year, people would be able to add or subtract their car to the Tesla fleet.",
      "source": "https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/",
      "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#owner-cars-added-to-robotaxi-network"
+    },
+    {
+     "statement_id": 529,
+     "date_made": "2026-11-16",
+     "deadline": "2026-12-31",
+     "change": "restated",
+     "status": "pending",
+     "quote": "Coming soon. If things well, may start trials next month. Much better to manage a fleet of cars than have to drive just one car by yourself!",
+     "source": "https://x.com/elonmusk/status/2122449119570534680",
+     "url": "https://twoweeks.lol/predictions/cybercab-production-before-2027/#owner-cars-robotaxi-trials-december-2026"
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 14 2026: Tesla AI chief Ashok Elluswamy told the Oct 21 Q3 call that the first customer-owned cars in the Robotaxi fleet are around Q2 2027, not 2026. Teslanewswire (Nov 13) still has customer cars on FSD Supervised. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+    "summary": "Pending until Dec 31, 2026. Musk says owner-car trials on the Robotaxi network may start in December 2026 if things go well; Tesla's own Oct 21 earnings call pointed to around Q2 2027 for the first customer cars.",
+    "url": "https://x.com/elonmusk/status/2122449119570534680"
    }
   },
   {
@@ -2025,7 +2035,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 1 2026: no humans have landed on Mars. Wikipedia SpaceX Mars colonization program still records no crewed landing; Starship Flight 15 unflown. Status stays pending (2060 deadline).",
+    "summary": "Fetched Nov 17 2026: no humans have landed on Mars. Wikipedia SpaceX Mars colonization program still records no crewed landing; Starship Flight 15 was uncrewed. Status stays pending (2060 deadline).",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -2149,8 +2159,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 1 2026: Tesla Q3 letter / TechCrunch Oct 21 — Fremont started early production of production-quality Optimus; Musk said 20,000/week is at least a year away and Tesla disclosed no weekly unit count. A 10× year-on-year ramp through 2030 is not yet evidenced. Status stays pending.",
-    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+    "summary": "Fetched Nov 17 2026: Tesla's Oct 21 Q3 update still lists Fremont Optimus as early ramp; Musk said 20,000/week is at least a year away (late 2027). A 10× yearly ramp through 2030 is not yet evidenced. Status stays pending.",
+    "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-20000-week/"
    }
   },
   {
@@ -2180,8 +2190,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 1 2026: the 2024 claim was Tesla 10× the then-most-valuable company (Apple/Microsoft ~$3T class), i.e. tens of trillions. CompaniesMarketCap Nov 1: Apple $5.03T (world's most valuable), Tesla ~$1.58T — about 0.3× Apple, not 10×. Status stays pending (2035).",
-    "url": "https://companiesmarketcap.com/"
+    "summary": "Fetched Nov 17 2026: CompaniesMarketCap ranks Tesla #11 at $1.501T and Apple #1 at $5.126T — still ~0.3× today's leader and far from 10× the mid-2024 ~$3T class. 2035 deadline still open. Status stays pending.",
+    "url": "https://companiesmarketcap.com/tesla/marketcap/"
    }
   },
   {
@@ -3388,8 +3398,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 14 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update / earnings) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
-    "url": "https://www.insidedeeptech.com/tesla-optimus-humanoid-robot-fremont-production-full-guide/"
+    "summary": "Still missed. Fetched Nov 17 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update / earnings) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
+    "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-20000-week/"
    }
   },
   {
@@ -4990,7 +5000,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 14 2026: Teslanewswire (Nov 13) says customer cars remain on FSD (Supervised) v14.3.13 / v14.3 Lite; no Tesla/Elon receipt of conversational Grok routing in FSD ('Grok, turn right'). Status stays missed.",
+    "summary": "Still missed. Fetched Nov 17 2026: Tesla News Wire Robotaxi Tracker (updated Nov 16) says customer cars remain on FSD (Supervised) v14.3.13 / v14.3 Lite; no Tesla/Elon receipt of conversational Grok routing in FSD ('Grok, turn right'). Status stays missed.",
     "url": "https://teslanewswire.com/robotaxi-tracker"
    }
   },
@@ -5579,7 +5589,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 15 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 17 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5895,8 +5905,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 14 2026: docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. Status stays missed.",
-    "url": "https://docs.x.ai/docs/models"
+    "summary": "Still missed. Fetched Nov 17 2026: docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. The promised Nov 16 4.8 Bot soft rollout (#524) also missed. Status stays missed.",
+    "url": "https://docs.x.ai/developers/models"
    }
   },
   {
@@ -7131,7 +7141,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 14 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Musk's Oct 31 walkthrough still has Macroharder/Minihard at 220k GB300s each and Gun Range tracking end of November. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 17 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Daily Cortex's Nov 16 recap of Musk's Oct 31 walkthrough still has Macroharder/Minihard at 220k GB300s each and Gun Range tracking end of November. Status stays missed.",
     "url": "https://www.dailycortex.com/colossus-2-adds-two-buildings"
    }
   },
@@ -7162,7 +7172,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 27 2026) said Starship is 2 to 3 years away from hourly flights (deadline Sep 27 2029). Fetched Oct 31 2026: Starship has completed Flight 14 (Sep 28, first orbit + Starlink V3); Flight 15 is NET Nov 12 — weeks between flights, not hourly. Status pending.",
+    "summary": "Musk (Sep 27 2026) said Starship is 2 to 3 years away from hourly flights (deadline Sep 27 2029). Fetched Nov 17 2026: Wikipedia Starship flight 15 records the Nov 13–14 ship catch; Wikipedia Starship flight 16 is NET December 2026 from LC-39A, not announced as a date. Cadence is still weeks apart, not hourly. Status pending.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -11825,8 +11835,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Fetched Oct 31 2026: Samsung's Oct 29 earnings said memory shortages will worsen in 2027 and persist through 2028, with 2027 HBM supply already sold out; SK Hynix said demand will exceed supply through 2030. Musk's 'for sure in 2027' shortage call is still open.",
-    "url": "https://www.kedglobal.com/earnings/newsView/ked202610290005"
+    "summary": "Pending until the end of 2027. Fetched Nov 17 2026: Dataconomy (Nov 11) reports Team Group CEO Gerry Chen saying the memory-chip shortage will worsen through mid-2027, with supply/demand balancing no earlier than 2H 2028; SK Hynix still projects the crunch through 2030. Musk's 'for sure in 2027' shortage call is still open.",
+    "url": "https://dataconomy.com/2026/11/11/memory-chip-ceo-warns-shortages-will-worsen-through-mid-2027/"
    }
   },
   {
@@ -11856,8 +11866,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2030. Fetched Oct 31 2026: Anthropic's Jack Clark (Oct 17 IMF speech) cited an internal scenario of US GDP reaching ~$44T by 2030 (~50% vs ~$30T), which is the claim Musk endorsed as 'useful output'; it remains a forecast, not an outcome. Status stays pending.",
-    "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17/"
+    "summary": "Pending until the end of 2030. Fetched Nov 17 2026: BEA's Oct 29 2026 advance estimate shows Q3 2026 real GDP up 3.4% annualized (Q2 +2.2%), far short of 50% cumulative growth by 2030. The second estimate is due Nov 25. Status stays pending.",
+    "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
    }
   },
   {
@@ -12259,8 +12269,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 30, 2026. Fetched Nov 12 2026: Tennessee Tribune (Nov 8) still treats Musk's Oct 31 'Gun Range tracking end of November' line as a projection, not independently confirmed as live. Data Center Dynamics and Construction Review recap the same Oct 31 dates. No receipt that Gun Range is operational.",
-    "url": "https://tntribune.com/musk-announces-two-more-data-centers-for-mid-south-ai-expansion/"
+    "summary": "Pending until Nov 30, 2026. Fetched Nov 17 2026: Daily Cortex (Nov 16) still treats Musk's Oct 31 'Gun Range tracking end of November' line as a projection, not independently confirmed as live. No receipt that Gun Range is operational.",
+    "url": "https://www.dailycortex.com/colossus-2-adds-two-buildings"
    }
   },
   {
@@ -12290,8 +12300,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 31, 2026.",
-    "url": "https://x.com/elonmusk/status/2116596535433871630"
+    "summary": "Pending until Dec 31, 2026. Fetched Nov 17 2026: Daily Cortex recap of Musk's Oct 31 walkthrough still has Macroharder and Minihard at 220k GB300s each, Gun Range tracking end of November, and Spam in December — about 860k across the four named buildings, not 1.2M Blackwells online. Status stays pending.",
+    "url": "https://www.dailycortex.com/colossus-2-adds-two-buildings"
    }
   },
   {
@@ -12375,7 +12385,7 @@
    "title": "Grok 4.8 soft-rolls out to Bot users later this week",
    "company": "xAI",
    "topic": "AI",
-   "status": "pending",
+   "status": "missed",
    "first_said": "2026-11-10",
    "first_deadline": "2026-11-16",
    "current_deadline": "2026-11-16",
@@ -12389,15 +12399,15 @@
      "date_made": "2026-11-10",
      "deadline": "2026-11-16",
      "change": "first",
-     "status": "pending",
+     "status": "missed",
      "quote": "Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.",
      "source": "https://x.com/elonmusk/status/2120088070443655190",
      "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-bot-soft-rollout-this-week"
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 15 2026: docs.x.ai lists Grok 4.7 as the most capable model and has no grok-4.8; x.ai/news latest model post is still Grok 4.7 (Sep 21). Deadline is Nov 16. Status stays pending.",
-    "url": "https://docs.x.ai/docs/models"
+    "summary": "Missed. On Nov 10 2026 Musk said xAI would do a Grok 4.8 soft rollout to Bot users later that week (deadline Nov 16). Fetched Nov 17 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8; x.ai/news latest model post is still Grok 4.7 (Sep 21) and the latest product post is Grok Bot 1.0 (Nov 2). No xAI or Musk confirmation that 4.8 reached any Bot users by the deadline.",
+    "url": "https://docs.x.ai/developers/models"
    }
   },
   {
@@ -12463,6 +12473,6 @@
    }
   }
  ],
- "statements": 475,
+ "statements": 476,
  "count": 354
 }
