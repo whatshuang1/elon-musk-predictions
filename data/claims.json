@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-17",
+ "retrieved": "2026-11-18",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -2736,8 +2736,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 1 2026: Musk's Aug 14 'only way to scale AI probably sometime in 2029' remains a 2029 forecast. Oct 30 tweet 2116359819258990946 is a distinct monthly-deployment crossover claim, already carded as #517 (deadline end-2028), not a moved deadline of this card. No orbital-compute satellites in orbit. Status stays pending.",
-    "url": "https://x.com/elonmusk/status/2116359819258990946"
+    "summary": "Fetched Nov 18 2026: Musk’s Aug 14 ‘only way to scale AI probably sometime in 2029’ remains a 2029 forecast. TeslaNorth (Oct 31) recaps his Oct 30 monthly-deployment crossover claim, already carded as #517, not a moved deadline of this card. No orbital-compute constellation in orbit. Status stays pending.",
+    "url": "https://teslanorth.com/2026/10/31/elon-orbital-compute-2028/"
    }
   },
   {
@@ -3045,8 +3045,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 1 2026: public Neuralink patient counts remain in the low dozens, not thousands per year. IQ Metrics / Neuralink Jan 28 2026 company count is 21; independent trackers ~27+ as of October. Deadline 2030. Status stays pending.",
-    "url": "https://iqmetrics.org/research/brain-implant-count/"
+    "summary": "Fetched Nov 18 2026: Neura Pod counts 27+ publicly reported Neuralink patients as of November 2026; Neuralink’s last official total remains 21 (Jan 28 2026). That is dozens, not thousands per year. Deadline 2030. Status stays pending.",
+    "url": "https://www.neurapod.com/how-many-people-have-neuralink"
    }
   },
   {
@@ -3076,8 +3076,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 1 2026: BEA advance estimate Oct 29 — real GDP +3.4% annualized in Q3 2026 (Q2 +2.2%). That is not double-digit growth. The 12–18 month window from Dec 24 2025 runs to mid-2027. Status stays pending.",
-    "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+    "summary": "Fetched Nov 18 2026: BEA advance estimate Oct 29 — real GDP +3.4% annualized in Q3 2026. Atlanta Fed GDPNow (updated Nov 17) nowcasts Q4 2026 at +3.4% SAAR. That is not double-digit growth. The 12–18 month window from Dec 24 2025 runs to mid-2027. Status stays pending.",
+    "url": "https://www.atlantafed.org/research-and-data/data/gdpnow"
    }
   },
   {
@@ -3548,8 +3548,8 @@
     }
    ],
    "resolution": {
-    "summary": "Quote promised Version 15 as a complete software-architecture overhaul that 'will run on AI5,' hopefully by end of 2026 / certainly early 2027. Fetched Nov 2 2026: Tesla Oracle (Nov 2) and Supercharged Daily (Nov 2) still have customer cars on FSD (Supervised) v14.3.13 / 2026.38–39 builds. Robotaxi fleets have run early v15 builds since July on Hardware 4 — not a customer FSD v15 complete overhaul on AI5. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://www.teslaoracle.com/tag/fsd-beta/"
+    "summary": "Quote promised Version 15 as a complete software-architecture overhaul that 'will run on AI5,' hopefully by end of 2026 / certainly early 2027. Fetched Nov 18 2026: Supercharged Daily still maps customer cars to FSD (Supervised) v14.3.13 / v14.3 Lite on 2026.38–44 builds. Robotaxi fleets have run early v15 builds — not a customer FSD v15 complete overhaul on AI5. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://superchargeddaily.com/updates.html"
    }
   },
   {
@@ -5589,7 +5589,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 17 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 18 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6448,7 +6448,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 2 2026: The Space Road Starship tracker (updated Nov 2) still counts 14 full-stack flights total as of Flight 14 (Sep 28), not 30+ per day. Flight 15 has not launched (NET November). Deadline 2030-12-31. Status stays pending.",
+    "summary": "Fetched Nov 18 2026: The Space Road Starship tracker (updated Nov 18) counts 15 full-stack flights total after Flight 15 (Nov 13–14), not 30+ per day. Flight 16 has not been announced. Deadline 2030-12-31. Status stays pending.",
     "url": "https://thespaceroad.com/launches/starship/"
    }
   },
@@ -11897,8 +11897,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Fetched Nov 1 2026: no public program, SEC filing, or follow-up from Musk that the 2027 share giveaway has started. Status stays pending.",
-    "url": "https://x.com/elonmusk/status/2112089556615123114"
+    "summary": "Pending until the end of 2027. Fetched Nov 18 2026: The Verge (Oct 19) still records Musk’s ‘every kid in America’ SpaceX-share gift as a 2027 pledge; Shotwell’s separate December 2026 gift to about 2 million Trump Accounts is not that program. Status stays pending.",
+    "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children"
    }
   },
   {
@@ -12471,8 +12471,39 @@
     "summary": "Pending until Nov 6, 2029. Grade published $/ton to orbit vs California–Australia air freight, not the undated sub-$100/kg line from the same talk.",
     "url": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06"
    }
+  },
+  {
+   "claim_id": "c530",
+   "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-general-release-week-or-two",
+   "title": "Grok 4.8 general release in a week or two (by Dec 1, 2026)",
+   "company": "xAI",
+   "topic": "AI",
+   "status": "pending",
+   "first_said": "2026-11-17",
+   "first_deadline": "2026-12-01",
+   "current_deadline": "2026-12-01",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 530,
+     "date_made": "2026-11-17",
+     "deadline": "2026-12-01",
+     "change": "first",
+     "status": "pending",
+     "quote": "We did do a soft rollout to some Bot users, but still have another week or two of polish before general release",
+     "source": "https://x.com/elonmusk/status/2122758986483269956",
+     "url": "https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-general-release-week-or-two"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Dec 1, 2026. Musk says Grok 4.8 has had a soft rollout to some Bot users and needs another week or two of polish before its general release.",
+    "url": "https://x.com/elonmusk/status/2122758986483269956"
+   }
   }
  ],
- "statements": 476,
- "count": 354
+ "statements": 477,
+ "count": 355
 }

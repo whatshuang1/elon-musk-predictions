@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Grok 5
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-17 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/grok-5-release/), which scores each dated Musk claim against what happened. Generated 2026-11-18 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Grok 5 released before end of 2025. **Verdict:** pending. **First said:** 2025-08-07. **First deadline:** 2025-12-31. **Current deadline:** 2026-12-31. **Times moved:** 3.
 
@@ -48,6 +48,7 @@ Deadlines in order: 2025 → 2026 → Mar 2026 → 2026.
 | 2026-10-31 | "There will be a total of around 1.2M Blackwells at Colossus 2 by end of year" | [source](https://x.com/elonmusk/status/2116596535433871630) |
 | 2026-11-10 | "But Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter." | [source](https://x.com/elonmusk/status/2120099798078656909) |
 | 2026-11-10 | "Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes." | [source](https://x.com/elonmusk/status/2120088070443655190) |
+| 2026-11-17 | "We did do a soft rollout to some Bot users, but still have another week or two of polish before general release" | [source](https://x.com/elonmusk/status/2122758986483269956) |
 
 ## Related claims
 
@@ -86,5 +87,6 @@ Deadlines in order: 2025 → 2026 → Mar 2026 → 2026.
 | [About 1.2 million Nvidia Blackwell chips at xAI's Colossus 2 by the end of 2026](https://twoweeks.lol/predictions/grok-5-release/#xai-colossus-2-1-2-million-blackwells-end-2026) | pending | 2026-12-31 | 2026-12-31 | 0 |
 | [Grok 5 exceeds Claude Opus 5.5 in 2 or 3 months](https://twoweeks.lol/predictions/grok-5-release/#grok-5-exceeds-opus-5-5-in-2-3-months) | pending | 2027-02-10 | 2027-02-10 | 0 |
 | [Grok 4.8 soft-rolls out to Bot users later this week](https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-bot-soft-rollout-this-week) | missed | 2026-11-16 | 2026-11-16 | 0 |
+| [Grok 4.8 general release in a week or two (by Dec 1, 2026)](https://twoweeks.lol/predictions/grok-5-release/#grok-4-8-general-release-week-or-two) | pending | 2026-12-01 | 2026-12-01 | 0 |
 
 Full history, verdict method and sources: https://twoweeks.lol/predictions/grok-5-release/
