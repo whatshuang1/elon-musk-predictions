@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Tesla Optimus
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/), which scores each dated Musk claim against what happened. Generated 2026-11-18 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/), which scores each dated Musk claim against what happened. Generated 2026-11-19 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Optimus high-volume external production 2026. **Verdict:** pending. **First said:** 2024-07-01. **First deadline:** 2026-12-31. **Current deadline:** 2027-12-31. **Times moved:** 1.
 
@@ -38,6 +38,7 @@ Deadlines in order: 2026 → 2027.
 | 2026-10-21 | "I do expect these issues to be solved around the end of next year. That's the time to expect when we're delivering Optimus to companies outside of Tesla." | [source](https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/) |
 | 2026-10-21 | "We do have the vast majority of a million unit per line production line landed in Fremont right now. I would expect that it takes us probably at least a year, maybe a little longer, to get to that annualized rate, to get to 20,000 units a week." | [source](https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/) |
 | 2026-10-21 | "So I want to release a video where it is Optimus doing things that are not pre-programmed. I think that is maybe a month or 2 for that to have a demo that you can believe what you see type of thing." | [source](https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/) |
+| 2026-11-18 | "picking up, say, a plate that's still got food remnants on it, so a dirty plate, and then wiping the food off the plate, putting it under the sink, washing it, drying it, and then putting it safely back in the closet is actually very— there's no humanoid robot that can do that. Really hard. There's no humanoid robot that can do that at all. So, but I think Optimus will be able to do it in 12 to 18 months." | [source](https://www.youtube.com/watch?v=DY8clym2-jQ&t=1550s) |
 
 ## Related claims
 
@@ -62,5 +63,6 @@ Deadlines in order: 2026 → 2027.
 | [A legion of Optimus robots will form the first Von Neumann probe](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-von-neumann-probe) | pending |  |  | 0 |
 | [Well over a billion humanoid robots within 10 years](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#billion-humanoid-robots-ten-years) | pending | 2036-09-01 | 2036-09-01 | 0 |
 | [Tesla shows Optimus doing unscripted tasks on video within a month or two](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-unscripted-video-month-or-two) | pending | 2026-12-21 | 2026-12-21 | 0 |
+| [Optimus washes, dries and puts away dishes in 12 to 18 months](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-wash-dry-put-away-dishes-18-months) | pending | 2028-05-18 | 2028-05-18 | 0 |
 
 Full history, verdict method and sources: https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/

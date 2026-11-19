@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-18",
+ "retrieved": "2026-11-19",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 355,
- "statements": 477,
- "count": 477,
+ "claims": 357,
+ "statements": 479,
+ "count": 479,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -581,7 +581,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1900774290682683612",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 40,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-18"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 106,
@@ -1845,7 +1845,7 @@
    "goalpost_history": [],
    "primary_source": "https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/",
    "source_type": null,
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 120,
@@ -3171,7 +3171,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/2066880262668247091",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 193,
@@ -3297,7 +3297,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071184354756477041",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 200,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-18"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 216,
@@ -4376,7 +4376,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2092292773915537580",
    "source_type": "tweet",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 252,
@@ -4397,7 +4397,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2093063724282138821",
    "source_type": "tweet",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 253,
@@ -4418,7 +4418,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=3PTCFgmUVaE",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 254,
@@ -4697,7 +4697,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
    "source_type": "video",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 267,
@@ -9494,7 +9494,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 502,
@@ -9515,7 +9515,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-02"
+   "last_checked": "2026-11-19"
   },
   {
    "id": 503,
@@ -10104,6 +10104,48 @@
    "primary_source": "https://x.com/elonmusk/status/2122758986483269956",
    "source_type": "tweet",
    "last_checked": "2026-11-17"
+  },
+  {
+   "id": 531,
+   "slug": "spacex-1-gw-ai-compute-per-month-end-2027",
+   "claim_id": "c531",
+   "url": "https://twoweeks.lol/predictions/spacex-13-gigawatts-ai-compute-end-2027/#spacex-1-gw-ai-compute-per-month-end-2027",
+   "title": "SpaceX adds over 1 GW of AI compute a month by the end of 2027",
+   "company": "SpaceX",
+   "topic": "AI",
+   "category": "AI Compute",
+   "quote": "we'll be accelerating that next year to over a gigawatt a month of AI or probably at that point deservedly superintelligence compute every month by the end of next year",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-18",
+   "deadline": "2027-12-31",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/wallstengine/status/2123212558438134157",
+   "source_type": "video",
+   "last_checked": "2026-11-18"
+  },
+  {
+   "id": 532,
+   "slug": "optimus-wash-dry-put-away-dishes-18-months",
+   "claim_id": "c532",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-wash-dry-put-away-dishes-18-months",
+   "title": "Optimus washes, dries and puts away dishes in 12 to 18 months",
+   "company": "Tesla",
+   "topic": "Robots",
+   "category": "Robots",
+   "quote": "picking up, say, a plate that's still got food remnants on it, so a dirty plate, and then wiping the food off the plate, putting it under the sink, washing it, drying it, and then putting it safely back in the closet is actually very— there's no humanoid robot that can do that. Really hard. There's no humanoid robot that can do that at all. So, but I think Optimus will be able to do it in 12 to 18 months.",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-18",
+   "deadline": "2028-05-18",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://www.youtube.com/watch?v=DY8clym2-jQ&t=1550s",
+   "source_type": "video",
+   "last_checked": "2026-11-19"
   }
  ]
 }

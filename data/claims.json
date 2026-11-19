@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-18",
+ "retrieved": "2026-11-19",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -2290,8 +2290,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 2 2026: Wikipedia Starship flight 15 still lists a first dual tower-catch (NET Nov 12); The Space Road (Nov 2) counts 0 ship catches and Flight 14 splashdowns, so full reusability with rapid reflight is not achieved. Deadline 2027-12-31. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
+    "summary": "Fetched Nov 19 2026: Aviation Week (Nov 14) reports Flight 15 caught Ship 42 at the Starbase tower — the first orbital ship catch — but the Super Heavy V3 booster aborted and splashed in the Gulf. Rapid reflight of either stage has not been demonstrated; Ship 42 has no reflight date. Full reusability with rapid reflight is not achieved. Deadline 2027-12-31. Status stays pending.",
+    "url": "https://aviationweek.com/space/operations-safety/starship-flight-15-ends-first-ship-tower-catch"
    }
   },
   {
@@ -3162,7 +3162,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 3 2026: x.ai/news has no AGI or Grok 5 announcement. Latest public flagship is Grok 4.7 (Sep 21). Nobody has a consensus AGI system in production. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 19 2026: x.ai/news has no AGI or Grok 5 announcement. Latest public flagship is still Grok 4.7 (Sep 21); Nov posts are Grok Bot 1.0 (Nov 11) and accounting/data bots. Nobody has a consensus AGI system in production. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -4938,7 +4938,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 3 2026: docs.x.ai and x.ai/news still lead with Grok 4.7 (Sep 21) as SpaceXAI's latest public coding/knowledge-work model. Grok 4.8 remains unreleased. Not Stockfish-level coding and general computer use. Status stays pending.",
+    "summary": "Fetched Nov 19 2026: docs.x.ai still lists Grok 4.7 as SpaceXAI's latest public coding/knowledge-work model (no grok-4.8). Independent coding boards (The AI Rankings, BenchLeader, Nov 19) put frontier models in the 60–74 coding range, not Stockfish-level superhuman coding and general computer use. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -5124,7 +5124,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 3 2026: x.ai/news latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drops are Grok Voice 3.0 (Oct 14) and Grok Bot posts; Nov 2 Data Bot is a Team Bot case study, not a completely-from-scratch new foundation model. Grok 4.8 remains unreleased. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 19 2026: x.ai/news latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drop is Grok Voice 3.0 (Oct 14); November's is Grok Bot 1.0 (Nov 11) — not completely-from-scratch new foundation models. Grok 4.8 remains unreleased (Musk Nov 10: RL + Bot soft rollout; Nov 19: several variants in beta). Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -5589,7 +5589,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 18 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 19 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6479,7 +6479,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 2 2026: Wikipedia SpaceX Starbase, Louisiana still lists the site as planned (Vermilion Parish; construction expected 2027, first launch targeting 2029; Musk on the Oct 20 call floated an internal 2028 first-launch aspiration). No towers built, no launches. Deadline 2030-12-31. Status stays pending.",
+    "summary": "Fetched Nov 19 2026: Wikipedia SpaceX Starbase, Louisiana still lists the site as planned (Vermilion Parish; construction expected 2027, first launch targeting 2029). No towers built, no launches. Deadline 2030-12-31. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Starbase,_Louisiana"
    }
   },
@@ -6510,8 +6510,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 2 2026: Exploding Topics (updated Oct 21 from SpaceX's Q3 2026 earnings release) reports Q3 2026 revenue of $14.58 billion and $27.08 billion in the first nine months of 2026 — still not a $3.5 trillion annual run-rate. Deadline 2033-12-31. Status stays pending.",
-    "url": "https://explodingtopics.com/blog/spacex-revenue"
+    "summary": "Fetched Nov 19 2026: Arincen (updated Nov 14 from SEC filings) reports SpaceX Q3 2026 revenue of $14.58 billion and TTM revenue of $32.04 billion through 30 Sept 2026 — still not a $3.5 trillion annual run-rate. Deadline 2033-12-31. Status stays pending.",
+    "url": "https://en.arincen.com/instruments/SPCX/revenue"
    }
   },
   {
@@ -6541,8 +6541,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 3 2026: Tesla confirmed early Fremont Optimus production (Oct 21) and Humanoids Daily still describes internal/test units, not a global installed base of 100 million humanoid robots. Deadline 2031. Status stays pending.",
-    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
+    "summary": "Fetched Nov 19 2026: Tesla confirmed early Fremont Optimus production (Oct 21 Q3 update / TechCrunch). Musk called it early production and said 20,000 units a week is about a year away (end of 2027). That is nowhere near a global installed base of 100 million humanoid robots. Deadline 2031. Status stays pending.",
+    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
    }
   },
   {
@@ -11928,8 +11928,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Fetched Nov 2 2026: Musk's Oct 31 Colossus 2 update still points to ~1.2 million Blackwells by year-end 2026, far short of 13 GW, and SpaceX's Oct 26 Vera Rubin financing is for H1 2027 delivery. Deadline 2027-12-31.",
-    "url": "https://x.com/elonmusk/status/2116587474021691629"
+    "summary": "Pending until the end of 2027. Fetched Nov 19 2026: Wccftech covering Musk's Nov 19 DealBook/TomorrowX remarks says SpaceX is bringing about half a gigawatt of AI compute online per month (~220,000 GB300s), targeting 2.5–3 GW by end-2026 and ~13 GW by end-2027. Not there yet. Deadline 2027-12-31.",
+    "url": "https://wccftech.com/elon-musk-says-anthropic-wants-to-rent-an-additional-10-gw-of-compute-from-spacex-warning-power-is-the-real-limiting-factor-as-his-starbase-clears-1456-mws-of-gas-turbines/"
    }
   },
   {
@@ -11959,8 +11959,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2026. Fetched Nov 2 2026: on Oct 31 Musk said Macroharder and Minihard already have 220k GB300s each, with Gun Range tracking end of November and Spam in December, so the rest-of-2026 monthly pace is still open through the 2026-12-31 deadline.",
-    "url": "https://x.com/elonmusk/status/2116587474021691629"
+    "summary": "Pending until the end of 2026. Fetched Nov 19 2026: Musk at TomorrowX (via Wccftech) said SpaceX is bringing on about half a gigawatt per month, “roughly 220,000 GB300s.” That is in the ballpark of the 200,000/month pace; the rest-of-2026 monthly claim remains open through the 2026-12-31 deadline.",
+    "url": "https://wccftech.com/elon-musk-says-anthropic-wants-to-rent-an-additional-10-gw-of-compute-from-spacex-warning-power-is-the-real-limiting-factor-as-his-starbase-clears-1456-mws-of-gas-turbines/"
    }
   },
   {
@@ -12502,8 +12502,70 @@
     "summary": "Pending until Dec 1, 2026. Musk says Grok 4.8 has had a soft rollout to some Bot users and needs another week or two of polish before its general release.",
     "url": "https://x.com/elonmusk/status/2122758986483269956"
    }
+  },
+  {
+   "claim_id": "c531",
+   "url": "https://twoweeks.lol/predictions/spacex-13-gigawatts-ai-compute-end-2027/#spacex-1-gw-ai-compute-per-month-end-2027",
+   "title": "SpaceX adds over 1 GW of AI compute a month by the end of 2027",
+   "company": "SpaceX",
+   "topic": "AI",
+   "status": "pending",
+   "first_said": "2026-11-18",
+   "first_deadline": "2027-12-31",
+   "current_deadline": "2027-12-31",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 531,
+     "date_made": "2026-11-18",
+     "deadline": "2027-12-31",
+     "change": "first",
+     "status": "pending",
+     "quote": "we'll be accelerating that next year to over a gigawatt a month of AI or probably at that point deservedly superintelligence compute every month by the end of next year",
+     "source": "https://x.com/wallstengine/status/2123212558438134157",
+     "url": "https://twoweeks.lol/predictions/spacex-13-gigawatts-ai-compute-end-2027/#spacex-1-gw-ai-compute-per-month-end-2027"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until the end of 2027. On Nov 18 2026 Musk put SpaceX's current pace at about half a gigawatt of new AI compute a month and said it will pass a gigawatt a month by the end of 2027.",
+    "url": "https://x.com/wallstengine/status/2123212558438134157"
+   }
+  },
+  {
+   "claim_id": "c532",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-wash-dry-put-away-dishes-18-months",
+   "title": "Optimus washes, dries and puts away dishes in 12 to 18 months",
+   "company": "Tesla",
+   "topic": "Robots",
+   "status": "pending",
+   "first_said": "2026-11-18",
+   "first_deadline": "2028-05-18",
+   "current_deadline": "2028-05-18",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 532,
+     "date_made": "2026-11-18",
+     "deadline": "2028-05-18",
+     "change": "first",
+     "status": "pending",
+     "quote": "picking up, say, a plate that's still got food remnants on it, so a dirty plate, and then wiping the food off the plate, putting it under the sink, washing it, drying it, and then putting it safely back in the closet is actually very— there's no humanoid robot that can do that. Really hard. There's no humanoid robot that can do that at all. So, but I think Optimus will be able to do it in 12 to 18 months.",
+     "source": "https://www.youtube.com/watch?v=DY8clym2-jQ&t=1550s",
+     "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-wash-dry-put-away-dishes-18-months"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until May 18, 2028. On Nov 18 2026 Musk said Optimus should be able to pick up a dirty plate, wash it, dry it, and put it away in 12 to 18 months. The card uses the 18-month end of that range.",
+    "url": "https://www.youtube.com/watch?v=DY8clym2-jQ&t=1550s"
+   }
   }
  ],
- "statements": 477,
- "count": 355
+ "statements": 479,
+ "count": 357
 }

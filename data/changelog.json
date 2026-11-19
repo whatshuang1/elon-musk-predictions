@@ -1,13 +1,29 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-18",
+ "retrieved": "2026-11-19",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 355,
- "statements": 477,
- "count": 418,
+ "claims": 357,
+ "statements": 479,
+ "count": 420,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-19",
+   "kind": "prediction",
+   "slug": "optimus-wash-dry-put-away-dishes-18-months",
+   "claim_id": "c532",
+   "change": "At the TomorrowX Summit on Nov 18 2026, Musk said Tesla's Optimus robot should be able to pick up a dirty plate, wash it, dry it, and put it away in 12 to 18 months, by May 18, 2028.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-wash-dry-put-away-dishes-18-months"
+  },
+  {
+   "date": "2026-11-18",
+   "kind": "prediction",
+   "slug": "spacex-1-gw-ai-compute-per-month-end-2027",
+   "claim_id": "c531",
+   "change": "At the New York Times DealBook Summit on Nov 18 2026, Musk said SpaceX now adds about half a gigawatt of AI computing power a month and will speed that up to more than a gigawatt a month on Earth by the end of 2027.",
+   "url": "https://twoweeks.lol/predictions/spacex-13-gigawatts-ai-compute-end-2027/#spacex-1-gw-ai-compute-per-month-end-2027"
+  },
   {
    "date": "2026-11-17",
    "kind": "prediction",
