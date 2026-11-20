@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Tesla Optimus
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/), which scores each dated Musk claim against what happened. Generated 2026-11-19 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/), which scores each dated Musk claim against what happened. Generated 2026-11-20 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Optimus high-volume external production 2026. **Verdict:** pending. **First said:** 2024-07-01. **First deadline:** 2026-12-31. **Current deadline:** 2027-12-31. **Times moved:** 1.
 
@@ -62,7 +62,7 @@ Deadlines in order: 2026 → 2027.
 | [At least 100 million humanoid robots within 5 years](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#100-million-humanoid-robots-five-years) | pending | 2031-05-19 | 2031-05-19 | 0 |
 | [A legion of Optimus robots will form the first Von Neumann probe](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-von-neumann-probe) | pending |  |  | 0 |
 | [Well over a billion humanoid robots within 10 years](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#billion-humanoid-robots-ten-years) | pending | 2036-09-01 | 2036-09-01 | 0 |
-| [Tesla shows Optimus doing unscripted tasks on video within a month or two](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-unscripted-video-month-or-two) | pending | 2026-12-21 | 2026-12-21 | 0 |
+| [Tesla shows Optimus doing unscripted tasks on video within a month or two](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-unscripted-video-month-or-two) | pending | 2027-01-18 | 2027-01-18 | 1 |
 | [Optimus washes, dries and puts away dishes in 12 to 18 months](https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-wash-dry-put-away-dishes-18-months) | pending | 2028-05-18 | 2028-05-18 | 0 |
 
 Full history, verdict method and sources: https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/

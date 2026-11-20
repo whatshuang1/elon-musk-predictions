@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-19",
+ "retrieved": "2026-11-20",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 357,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-19"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 106,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-19"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 216,
@@ -4439,7 +4439,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=3PTCFgmUVaE",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 255,
@@ -4460,7 +4460,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2093794565274669068",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 256,
@@ -4481,7 +4481,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2094242307511853196",
    "source_type": "tweet",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 257,
@@ -4718,7 +4718,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 268,
@@ -9536,7 +9536,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 504,
@@ -9557,7 +9557,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 505,
@@ -9578,7 +9578,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 506,
@@ -9641,7 +9641,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/cb_doge/status/2112653610953887818",
    "source_type": "video",
-   "last_checked": "2026-11-03"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 509,
@@ -9781,14 +9781,17 @@
    "quote": "So I want to release a video where it is Optimus doing things that are not pre-programmed. I think that is maybe a month or 2 for that to have a demo that you can believe what you see type of thing.",
    "quote_is_paraphrase": false,
    "date_made": "2026-10-21",
-   "deadline": "2026-12-21",
+   "deadline": "2027-01-18",
    "resolved_date": null,
    "status": "pending",
-   "times_moved": 0,
-   "goalpost_history": [],
+   "times_moved": 1,
+   "goalpost_history": [
+    "2026-12-21 (month or two from Oct 21 Q3 call)",
+    "2027-01-18 (month or two from Nov 18 TomorrowX)"
+   ],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 516,
@@ -9893,7 +9896,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2118591788701421573",
    "source_type": "tweet",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-20"
   },
   {
    "id": 521,

@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-19",
+ "retrieved": "2026-11-20",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -5589,7 +5589,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 19 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 20 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6572,7 +6572,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 3 2026: IMF October 2026 World Economic Outlook still projects global growth of 3.1% in 2026 and 3.4% in 2027 — not a doubling. Global output has not doubled since the May 19 2026 statement. Deadline 2033-05-19. Status stays pending.",
+    "summary": "Fetched Nov 20 2026: IMF October 2026 World Economic Outlook still projects global growth of 3.1% in 2026 and 3.4% in 2027 — not a doubling. Global output has not doubled since the May 19 2026 statement. Deadline 2033-05-19. Status stays pending.",
     "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
    }
   },
@@ -6603,7 +6603,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 3 2026: AustinIO Bastrop foundry page — construction/buildout underway, hiring active; operational date not announced. No independent receipt that in-house casting has accelerated nat-gas turbines by up to 18 months. Status stays pending.",
+    "summary": "Fetched Nov 20 2026: AustinIO Bastrop foundry page — operating date not announced; construction/buildout and hiring still underway. No independent receipt that in-house casting has accelerated nat-gas turbines by up to 18 months. Status stays pending.",
     "url": "https://austinio.com/bastrop-turbine-blade-foundry.html"
    }
   },
@@ -6634,7 +6634,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 3 2026: docs.x.ai still leads with Grok 4.7 (Sep 21), SpaceXAI's latest public model for coding and knowledge work. Digital-superhuman-by-EOY-2027 still unmet. Status stays pending.",
+    "summary": "Fetched Nov 20 2026: docs.x.ai still leads with Grok 4.7 as the flagship text and coding model; Grok 4.8 remains in RL/beta. Digital-superhuman-by-EOY-2027 still unmet. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -11339,8 +11339,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Fetched Nov 3 2026: Wikipedia / The Space Road show Flight 15 still unflown (NET Nov 12); weekly then twice-weekly cadence has not started. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
+    "summary": "Pending until the end of 2027. Fetched Nov 20 2026: Wikipedia Starship flight 16 — Flight 16 is NET December 2026 and not yet announced by SpaceX; Flight 15 (Nov 13) was the latest, 46 days after Flight 14. Weekly then twice-weekly cadence has not started. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/Starship_flight_16"
    }
   },
   {
@@ -11990,8 +11990,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until June 30, 2027. Fetched Nov 3 2026: SpaceX's Oct 26 IR release still schedules Vera Rubin GPU deliveries for H1 2027; the 440,000-unit Q2 2027 training cluster is not online, and Elon has not restated a new date.",
-    "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/"
+    "summary": "Pending until June 30, 2027. Fetched Nov 20 2026: Tom's Hardware Nov 11 reports SpaceX/xAI is still designing custom Vera Rubin NVL72 'Kessel' racks; related coverage says GPU financing is for deliveries in H1 2027. The 440,000-unit Q2 2027 training cluster is not online. Status stays pending.",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board"
    }
   },
   {
@@ -12021,8 +12021,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Fetched Nov 3 2026: SpaceX's Oct 26 IR release covers GPU financing, not a $500 billion–$1 trillion ARR figure. No receipt that ARR has reached that range. Status stays pending.",
-    "url": "https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/"
+    "summary": "Pending until the end of 2027. Fetched Nov 20 2026: Motley Fool Nov 9 — SpaceX Q3 revenue $14.6B (~$58B annualized); Musk at Baron Nov 6 restated $500B ARR in Dec 2027 as a best guess, not a current figure. No receipt that ARR has reached $500B–$1T. Status stays pending.",
+    "url": "https://www.fool.com/investing/2026/11/09/elon-musk-just-gave-the-top-end-of-his-spacex-revenue-forecast-about-a-2-chance-his-best-guess-sits-at-the-bottom-end/"
    }
   },
   {
@@ -12052,8 +12052,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until about October 2029. Fetched Nov 3 2026: no receipt that Starlink bandwidth is ~100× today's constellation. Status stays pending.",
-    "url": "https://thespaceroad.com/launches/starship/"
+    "summary": "Pending until about October 2029. Fetched Nov 20 2026: Starship Flight 15 (Nov 13) deployed another 26 Starlink V3 satellites (The Space Road / Wikipedia Flight 16). That is a small V3 add-on to today's constellation, not ~100× current bandwidth. Status stays pending.",
+    "url": "https://thespaceroad.com/articles/when-is-starship-flight-16/"
    }
   },
   {
@@ -12157,17 +12157,20 @@
    "topic": "Robots",
    "status": "pending",
    "first_said": "2026-10-21",
-   "first_deadline": "2026-12-21",
-   "current_deadline": "2026-12-21",
+   "first_deadline": "2027-01-18",
+   "current_deadline": "2027-01-18",
    "resolved_date": null,
-   "times_moved": 0,
-   "goalpost_history": [],
+   "times_moved": 1,
+   "goalpost_history": [
+    "2026-12-21 (month or two from Oct 21 Q3 call)",
+    "2027-01-18 (month or two from Nov 18 TomorrowX)"
+   ],
    "statements": 1,
    "timeline": [
     {
      "statement_id": 515,
      "date_made": "2026-10-21",
-     "deadline": "2026-12-21",
+     "deadline": "2027-01-18",
      "change": "first",
      "status": "pending",
      "quote": "So I want to release a video where it is Optimus doing things that are not pre-programmed. I think that is maybe a month or 2 for that to have a demo that you can believe what you see type of thing.",
@@ -12176,8 +12179,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 21, 2026. Fetched Nov 5 2026: Humanoids Daily (Oct 26, still current) — Tesla has not released the unscripted Optimus video Musk said on the Oct 21 Q3 call might come in a month or two; Gen 3 is still unrevealed. Status stays pending.",
-    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
+    "summary": "Goalpost moved. At the TomorrowX Summit on Nov 18 2026 Musk restated the authentic/unscripted Optimus demo as still upcoming and 'might be in a month or two' (YouTube DY8clym2-jQ ~21:59). L10 two-month end from Nov 18 is Jan 18 2027. Tesla's Nov 19 manufacturing clip shows an Optimus head on a fixture, not unscripted tasks. Status stays pending.",
+    "url": "https://pjfp.com/elon-musk-tomorrowx-summit-starship-catch-starmind-compute/"
    }
   },
   {

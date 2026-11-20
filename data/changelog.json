@@ -1,13 +1,21 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-19",
+ "retrieved": "2026-11-20",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 357,
  "statements": 479,
- "count": 420,
+ "count": 421,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-20",
+   "kind": "prediction",
+   "slug": "optimus-unscripted-video-month-or-two",
+   "claim_id": "c515",
+   "change": "Goalpost moved: at the TomorrowX Summit on Nov 18 2026 Musk restated the unscripted Optimus demo as still upcoming and 'might be in a month or two,' pushing the Oct 21 window out to about Jan 18 2027.",
+   "url": "https://twoweeks.lol/predictions/optimus-high-volume-external-production-2026/#optimus-unscripted-video-month-or-two"
+  },
   {
    "date": "2026-11-19",
    "kind": "prediction",
