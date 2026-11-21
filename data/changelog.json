@@ -1,13 +1,21 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-20",
+ "retrieved": "2026-11-21",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 357,
- "statements": 479,
- "count": 421,
+ "statements": 480,
+ "count": 422,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-21",
+   "kind": "prediction",
+   "slug": "fsd-v15-wide-release-december-2026",
+   "claim_id": "c134",
+   "change": "On Nov 21 2026 Musk wrote that FSD V15 goes to wide release next month and will be something special (https://x.com/elonmusk/status/2124042864891982292). That puts a December 2026 date on the version 15 he promised in April for the end of this year.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-wide-release-december-2026"
+  },
   {
    "date": "2026-11-20",
    "kind": "prediction",

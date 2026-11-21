@@ -1,6 +1,6 @@
 # Every date Elon Musk has given for Tesla Full Self-Driving
 
-Source: [twoweeks.lol](https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/), which scores each dated Musk claim against what happened. Generated 2026-11-20 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
+Source: [twoweeks.lol](https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/), which scores each dated Musk claim against what happened. Generated 2026-11-21 from [`data/claims.json`](../data/claims.json). CC BY 4.0.
 
 **Main claim:** Unsupervised FSD in Texas and California in 2025 (We, Robot). **Verdict:** missed. **First said:** 2014-10-10. **First deadline:** 2018-06-01. **Current deadline:** 2025-12-31. **Times moved:** 12.
 
@@ -57,6 +57,7 @@ Deadlines in order: Oct 2020 → 2018 → Oct 2018 → Jun 2018 → Apr 2019 →
 | 2026-05-18 | "probably 90% of all distance driven will be driven by the AI in a self driving car" | [source](https://www.youtube.com/watch?v=NgsUPJBNZcc&t=504s) |
 | 2026-06-18 | "This functionality will be there in about 3 months or so." | [source](https://x.com/elonmusk/status/2067430722399539385) |
 | 2026-10-21 | "We are now approved in many countries in Europe, and we are hoping for an EU-wide approval. It is hard to predict, but maybe within a few months, but I would be surprised if it takes longer than Q1." | [source](https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/) |
+| 2026-11-21 | "FSD V15 goes to wide release next month. It will be something special." | [source](https://x.com/elonmusk/status/2124042864891982292) |
 
 ## Related claims
 

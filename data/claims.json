@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-20",
+ "retrieved": "2026-11-21",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -1387,7 +1387,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Fetched Nov 4 2026: Tesla confirmed early Fremont Optimus production on the Oct 21 Q3 call, and Humanoids Daily still has outside-company deliveries targeted around end of 2027. No outside-customer deliveries yet.",
+    "summary": "Pending until the end of 2027. Fetched Nov 21 2026: Humanoids Daily still has Tesla building production-quality Optimus at Fremont with outside-company deliveries targeted around end of 2027. Latest EV News (Nov 15) repeats that timeline. No outside-customer deliveries yet.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -1507,8 +1507,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2027. Fetched Nov 4 2026: Tesla has started early production on the Fremont high-volume line; Musk on the Oct 21 call said reaching 20,000 units a week will take at least a year, maybe longer. No 20k/week output.",
-    "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-20000-week/"
+    "summary": "Pending until the end of 2027. Fetched Nov 21 2026: Latest EV News (Nov 15) says Fremont is in early production on a line designed for about 20,000 Optimus a week / 1 million a year, with ramp-up expected to take at least a year. No 20k/week output.",
+    "url": "https://www.latestevnews.com/articles/tesla-optimus-customer-deliveries-not-until-late-2027"
    }
   },
   {
@@ -1538,7 +1538,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 5 2026: Humanoids Daily — Tesla's Q3 2026 letter lists California Optimus as an early ramp of production-quality bots, with outside customer deliveries toward end of 2027 and no disclosed robot revenue. Automotive still dominates Tesla. Deadline 2035. Status stays pending.",
+    "summary": "Fetched Nov 21 2026: Humanoids Daily still lists Tesla Optimus as an early Fremont ramp with outside deliveries toward end of 2027 and no disclosed robot revenue. Automotive still dominates Tesla. Deadline 2035. Status stays pending.",
     "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
@@ -1867,8 +1867,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 5 2026: Wikipedia Neuralink still lists Telepathy and Blindsight as products; human testing is computer/voice BCI, not restored walking or full body function below a spinal injury. Deadline 2030. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Neuralink"
+    "summary": "Fetched Nov 21 2026: TeslaNorth Nov 7 — Musk restated that Neuralink will enable walking and using hands 'in the coming years,' a goal TeslaNorth notes has not been demonstrated. Wikipedia Neuralink still lists Telepathy/Blindsight BCI (computer/voice), not restored walking. Deadline 2030. Status stays pending.",
+    "url": "https://teslanorth.com/2026/11/07/musk-neuralink-walk-hands-coming-years/"
    }
   },
   {
@@ -1898,8 +1898,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 5 2026: Neuralink remains a medical-restoration BCI (Telepathy / Blindsight in development). No shipped superintelligence or extra-wavelength vision. Deadline 2035. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Neuralink"
+    "summary": "Fetched Nov 21 2026: Drive Tesla Oct 30 — Musk said Blindsight is engineering-complete and waiting on regulatory approval. Wikipedia Neuralink still lists Telepathy and Blindsight as medical BCI products. No shipped superintelligence or extra-wavelength vision. Deadline 2035. Status stays pending.",
+    "url": "https://driveteslacanada.ca/news/elon-musk-neuralink-blindsight-ready-regulatory-approval/"
    }
   },
   {
@@ -2345,8 +2345,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of April 2027. Fetched Nov 4 2026: AI5 is in Samsung Taylor trial production; Musk's Oct 21 line still puts AI5 into Optimus around April 2027. No Optimus AI5 integration yet.",
-    "url": "https://semiconductorx.com/tesla-terafab-supply-chain.html"
+    "summary": "Pending until the end of April 2027. Fetched Nov 21 2026: Humanoids Daily still has Musk targeting around April 2027 to integrate AI5 into Optimus (about 10x AI4 compute). No Optimus AI5 integration yet.",
+    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
    }
   },
   {
@@ -3533,8 +3533,10 @@
    "current_deadline": "2026-12-31",
    "resolved_date": null,
    "times_moved": 0,
-   "goalpost_history": [],
-   "statements": 1,
+   "goalpost_history": [
+    "2026"
+   ],
+   "statements": 2,
    "timeline": [
     {
      "statement_id": 134,
@@ -3545,11 +3547,21 @@
      "quote": "Version 15, hopefully by the end of this year, but certainly by early next year. That will be a complete overhaul of the software architecture, and will run on AI5.",
      "source": "https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/",
      "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-end-of-2026"
+    },
+    {
+     "statement_id": 533,
+     "date_made": "2026-11-21",
+     "deadline": "2026-12-31",
+     "change": "restated",
+     "status": "pending",
+     "quote": "FSD V15 goes to wide release next month. It will be something special.",
+     "source": "https://x.com/elonmusk/status/2124042864891982292",
+     "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-wide-release-december-2026"
     }
    ],
    "resolution": {
-    "summary": "Quote promised Version 15 as a complete software-architecture overhaul that 'will run on AI5,' hopefully by end of 2026 / certainly early 2027. Fetched Nov 18 2026: Supercharged Daily still maps customer cars to FSD (Supervised) v14.3.13 / v14.3 Lite on 2026.38–44 builds. Robotaxi fleets have run early v15 builds — not a customer FSD v15 complete overhaul on AI5. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://superchargeddaily.com/updates.html"
+    "summary": "Pending until Dec 31, 2026. Musk says FSD V15 goes to wide release in December 2026, likely with Tesla's holiday update. As of Nov 18 2026, customer cars were still on FSD (Supervised) v14.3.",
+    "url": "https://x.com/elonmusk/status/2124042864891982292"
    }
   },
   {
@@ -5589,7 +5601,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 20 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 21 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6986,8 +6998,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of Q3 2028. Fetched Nov 4 2026: no useful Terafab chip at volume; the Oct 21 Q3 call still has the first test chip around May/June 2027 and volume around Q3 2028. SemiconductorX (Oct 26) repeats that timeline.",
-    "url": "https://semiconductorx.com/tesla-terafab-supply-chain.html"
+    "summary": "Pending until the end of Q3 2028. Fetched Nov 21 2026: TweakTown (Nov 9, citing Nikkei) says Terafab has not built its first fab and is targeting mass production in the second half of 2028 and about 1 million wafers a month by 2032. No useful chips at volume.",
+    "url": "https://www.tweaktown.com/news/114562/terafab-wants-to-produce-700000-memory-wafers-monthly-by-2032-matching-samsungs-entire-dram-output/index.html"
    }
   },
   {
@@ -12114,8 +12126,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of Q1 2027. Fetched Nov 4 2026: FSD Europe Tracker lists 10 of 27 EU states approved (14.3% of population); Electrek Nov 3 says the Dutch RDW capped the speed margin at 10% and renamed the system Tesla Assisted Driving ahead of a possible December TCMV vote. EU-wide approval has not happened.",
-    "url": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/"
+    "summary": "Pending until the end of Q1 2027. Fetched Nov 21 2026: Electrek Nov 20 and FSD Europe Tracker (Nov 21) show Italy as the 12th EU country and first large market to approve Tesla Assisted Driving. Tracker: 12 of 27 states, 28.7% of EU population. The TCMV EU-wide vote is still pending (December at earliest). Not EU-wide approval.",
+    "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/"
    }
   },
   {
@@ -12145,8 +12157,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until the end of 2030. Fetched Nov 4 2026: Tesla has not withdrawn the Oct 21 '5 million vehicles a year by approximately 2030' target and has never produced 5 million vehicles in a year. Status stays pending.",
-    "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/"
+    "summary": "Pending until the end of 2030. Fetched Nov 21 2026: Tesla produced 464,391 vehicles in Q3 2026 and delivered 1,324,681 through three quarters (Electrek Oct 2). It has never produced 5 million vehicles in a year. Status stays pending.",
+    "url": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/"
    }
   },
   {
@@ -12569,6 +12581,6 @@
    }
   }
  ],
- "statements": 479,
+ "statements": 480,
  "count": 357
 }

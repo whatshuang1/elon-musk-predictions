@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-20",
+ "retrieved": "2026-11-21",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 357,
- "statements": 479,
- "count": 479,
+ "statements": 480,
+ "count": 480,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -777,7 +777,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1962618811141812475",
    "source_type": "tweet",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 55,
@@ -970,7 +970,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=YreDYmXTYi4",
    "source_type": "video",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 73,
@@ -991,7 +991,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=QGJysv_Qzkw&t=2443s",
    "source_type": "video",
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 74,
@@ -1248,7 +1248,7 @@
    ],
    "primary_source": "https://elonmuskinterviews.wordpress.com/2021/03/27/starship-presentation-2019-english/",
    "source_type": null,
-   "last_checked": "2026-11-05"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 86,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-20"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 106,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-20"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 216,
@@ -9662,7 +9662,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 510,
@@ -9683,7 +9683,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 511,
@@ -9704,7 +9704,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 512,
@@ -9725,7 +9725,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 513,
@@ -9746,7 +9746,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 514,
@@ -9767,7 +9767,7 @@
    "goalpost_history": [],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-04"
+   "last_checked": "2026-11-21"
   },
   {
    "id": 515,
@@ -10149,6 +10149,27 @@
    "primary_source": "https://www.youtube.com/watch?v=DY8clym2-jQ&t=1550s",
    "source_type": "video",
    "last_checked": "2026-11-19"
+  },
+  {
+   "id": 533,
+   "slug": "fsd-v15-wide-release-december-2026",
+   "claim_id": "c134",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-wide-release-december-2026",
+   "title": "FSD V15 goes to wide release next month (Dec 2026)",
+   "company": "Tesla",
+   "topic": "Self-Driving",
+   "category": "FSD",
+   "quote": "FSD V15 goes to wide release next month. It will be something special.",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-21",
+   "deadline": "2026-12-31",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2124042864891982292",
+   "source_type": "tweet",
+   "last_checked": "2026-11-21"
   }
  ]
 }
