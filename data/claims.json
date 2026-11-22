@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-21",
+ "retrieved": "2026-11-22",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -569,7 +569,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 5 2026: Wikipedia Tesla Robotaxi — unsupervised service in Texas (Austin, Dallas, Fort Worth, Houston) and Florida (Miami, Orlando, Tampa), plus safety-supervisor Bay Area rides. Fort Worth launched Nov 2 (Not a Tesla App). Seven metros in two states is not a quarter to half of the United States. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 22 2026: Wikipedia Tesla Robotaxi — unsupervised service in Texas (Austin, Dallas, Fort Worth, Houston, San Antonio) and Florida (Miami, Orlando, Tampa), plus safety-supervisor Bay Area rides. Fort Worth launched Nov 2 and San Antonio Nov 9. Eight metros in two states is not a quarter to half of the United States. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi"
    }
   },
@@ -2376,7 +2376,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 6 2026: Wikipedia SpaceX Mars colonization still lists the ~12-person first crew as the 2016 architecture and a crewed landing no earlier than 2029; cargo Starships remain future work and no humans have flown. Musk's Jul 29 2026 'people on Mars in 5 to 7 years' post does not restate this card's crew-size claim (already tracked on #39/#346). Status stays pending.",
+    "summary": "Fetched Nov 22 2026: Wikipedia SpaceX Mars colonization still lists the ~12-person first crew as the 2016 architecture; SpaceX deprioritized Mars in 2026 to focus on a lunar base, and no humans have flown to Mars. Crewed landing remains no earlier than 2029 in older plans; Musk's Jul 2026 'people on Mars in 5 to 7 years' post does not restate this card's crew-size claim. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program"
    }
   },
@@ -2952,8 +2952,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still pending (deadline end of 2026). Encrypted chats/calls shipped; X Money publicly launched. Fetched Nov 5 2026: Travelers Today still describes X Money as P2P payments plus a debit card — no in-app flight/hotel booking. OpenTweet (Nov 2) and BankNearMe (Nov 4) cover rates/APY caps, not a WeChat-style everything app. Status stays pending.",
-    "url": "https://www.travelerstoday.com/articles/60321/20260630/x-money-goes-live-what-elon-musks-new-payments-app-does-does-not-do-travelers.htm"
+    "summary": "Still pending (deadline end of 2026). Encrypted chats/calls shipped; X Money publicly launched. Fetched Nov 22 2026: PANews Nov 19 — X Money international-wire beta to 27 countries. Travelers Today (page current Nov 22) still describes X Money as P2P payments plus a debit card — no in-app flight/hotel booking. Status stays pending.",
+    "url": "https://www.panews.io/articles/01a1f135-43e5-7489-a65a-1efec7504f41"
    }
   },
   {
@@ -3237,8 +3237,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 5 2026: Humanoids Daily — Optimus Gen 3 still unrevealed; Tesla's Q3 letter reports early Fremont production, not surgical capability. No Tesla/exec claim that Optimus performs surgery. Deadline Jan 2029. Status stays pending.",
-    "url": "https://www.humanoidsdaily.com/features/tesla-optimus-gen-3-figure-04-next-apollo-reveal-timeline"
+    "summary": "Fetched Nov 22 2026: The Verge Oct 22 — Tesla's Fremont Optimus line is early production for industrial work; Musk said the AI is not yet useful for open-ended tasks and outside deliveries are around end of 2027. Wikipedia Optimus has no surgical-capability claim. Deadline Jan 2029. Status stays pending.",
+    "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
    }
   },
   {
@@ -3517,7 +3517,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 5 2026: Wikipedia Tesla Robotaxi — unsupervised in Texas and Florida only (7 metros including Fort Worth as of Nov 2); California Bay Area still has a safety supervisor. That is 2 unsupervised states, not a dozen. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 22 2026: Wikipedia Tesla Robotaxi — unsupervised in Texas and Florida only (8 metros including Fort Worth Nov 2 and San Antonio Nov 9); California Bay Area still has a safety supervisor. Announced but not launched: Phoenix, Las Vegas, Jacksonville. That is 2 unsupervised states, not a dozen. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi"
    }
   },
@@ -3715,8 +3715,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 6 2026: EIA September STEO still puts U.S. generation shares at natural gas 40% in 2025–2027 and solar 8% (2026) / 9% (2027). EIA Electric Power Monthly through August 2026 (via Electrek Oct 27) has solar at ~10.5% of generation vs wind 10.6%; natural gas remains the plurality. Deadline Feb 27 2033. Status stays pending.",
-    "url": "https://www.eia.gov/pressroom/releases/press592.php"
+    "summary": "Fetched Nov 22 2026: EIA November STEO (released Nov 10) puts utility-scale solar at 8% of U.S. generation in 2026 and nearly 10% in 2027, versus natural gas close to 40%. Solar is not a plurality. Deadline Feb 27 2033. Status stays pending.",
+    "url": "https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php"
    }
   },
   {
@@ -4916,7 +4916,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 6 2026: Wikipedia Optimus covers Fremont production-line install and a planned Texas factory; it has no spaceflight, self-replicating probe, or solar-panel legion in orbit or on another body. Tesla's Fremont line is early terrestrial production. Undated aspiration. Status stays pending.",
+    "summary": "Fetched Nov 22 2026: Wikipedia Optimus covers Fremont production-line install and a planned Texas factory; it has no spaceflight, self-replicating probe, or solar-panel legion in orbit or on another body. Tesla's Fremont line is early terrestrial production. Undated aspiration. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
    }
   },
@@ -5601,7 +5601,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 21 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (latest notable update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 22 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (76 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6677,7 +6677,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 6 2026: the claim is a 2027 outcome (deadline Dec 31 2027) and has not resolved. EMSNow still treats datacenter capacity as short through at least 2027, with grid hookups 24–72 months and transformer lead times above 160 weeks. Brad Gerstner on Nov 4 estimated 10–15 GW of planned 2027 US build may not come online. Status stays pending.",
+    "summary": "Fetched Nov 22 2026: the claim is a 2027 outcome (deadline Dec 31 2027) and has not resolved. EMSNow still treats datacenter capacity as short through at least 2027, with grid hookups 24–72 months and transformer lead times above 160 weeks. Status stays pending.",
     "url": "https://www.emsnow.com/global-datacenter-capacity-where-are-the-bottlenecks/"
    }
   },

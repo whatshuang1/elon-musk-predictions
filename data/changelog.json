@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-21",
+ "retrieved": "2026-11-22",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 357,
@@ -13,7 +13,7 @@
    "kind": "prediction",
    "slug": "fsd-v15-wide-release-december-2026",
    "claim_id": "c134",
-   "change": "On Nov 21 2026 Musk wrote that FSD V15 goes to wide release next month and will be something special (https://x.com/elonmusk/status/2124042864891982292). That puts a December 2026 date on the version 15 he promised in April for the end of this year.",
+   "change": "New prediction: On Nov 21 2026 Musk wrote that FSD V15 goes to wide release next month and will be something special (https://x.com/elonmusk/status/2124042864891982292). It counts as delivered if V15 goes out to customers generally by Dec 31 2026, not just Robotaxi fleets or early access.",
    "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-wide-release-december-2026"
   },
   {
