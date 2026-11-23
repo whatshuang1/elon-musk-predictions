@@ -1,11 +1,11 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-22",
+ "retrieved": "2026-11-23",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 357,
- "statements": 480,
- "count": 480,
+ "claims": 358,
+ "statements": 481,
+ "count": 481,
  "note": "One row per statement (each time he said it). Group by claim_id for claims; see claims.json.",
  "predictions": [
   {
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-22"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 106,
@@ -3084,7 +3084,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2065705276334833951",
    "source_type": "tweet",
-   "last_checked": "2026-11-07"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 189,
@@ -3105,7 +3105,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2064519180464861192",
    "source_type": "tweet",
-   "last_checked": "2026-11-07"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 190,
@@ -3234,7 +3234,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=N5KCm_55xeQ",
    "source_type": null,
-   "last_checked": "2026-11-07"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 197,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-22"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 216,
@@ -5036,7 +5036,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1531328534169493506",
    "source_type": "tweet",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 283,
@@ -5483,7 +5483,7 @@
    "goalpost_history": [],
    "primary_source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q25-transcript",
    "source_type": "transcript",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 305,
@@ -5525,7 +5525,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.cnbc.com/2025/05/20/cnbc-transcript-elon-musk-sits-down-with-cnbcs-david-faber-live-on-cnbc-today-.html",
    "source_type": "transcript",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 307,
@@ -5777,7 +5777,7 @@
    "goalpost_history": [],
    "primary_source": "https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript",
    "source_type": "transcript",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 319,
@@ -6323,7 +6323,7 @@
    "goalpost_history": [],
    "primary_source": "https://elonmuskarchive.org/video/fii8-riyadh-2024-musk",
    "source_type": "transcript",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 346,
@@ -9917,7 +9917,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2118737725964837353",
    "source_type": "tweet",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 522,
@@ -9938,7 +9938,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2118811926163841429",
    "source_type": "tweet",
-   "last_checked": "2026-11-06"
+   "last_checked": "2026-11-23"
   },
   {
    "id": 523,
@@ -10170,6 +10170,27 @@
    "primary_source": "https://x.com/elonmusk/status/2124042864891982292",
    "source_type": "tweet",
    "last_checked": "2026-11-21"
+  },
+  {
+   "id": 534,
+   "slug": "starlink-in-every-tesla-end-of-2027",
+   "claim_id": "c534",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-in-every-tesla-end-of-2027",
+   "title": "Starlink built into every Tesla model by end of 2027 (except China)",
+   "company": "Tesla",
+   "topic": "Space",
+   "category": "Starlink",
+   "quote": "Hopefully available towards the end of next year. This will be important for unsupervised FSD, so passengers have high bandwidth everywhere for work and entertainment.",
+   "quote_is_paraphrase": false,
+   "date_made": "2026-11-22",
+   "deadline": "2027-12-31",
+   "resolved_date": null,
+   "status": "pending",
+   "times_moved": 0,
+   "goalpost_history": [],
+   "primary_source": "https://x.com/elonmusk/status/2124673053246312848",
+   "source_type": "tweet",
+   "last_checked": "2026-11-22"
   }
  ]
 }

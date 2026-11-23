@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-22",
+ "retrieved": "2026-11-23",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -4854,7 +4854,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: azmth/CelesTrak live count as of Nov 7 06:23 UTC is 16,872 active satellites, of which 11,204 are Starlink (~66% of all active sats, ~1.98× the rest of the world's 5,668). Still far from 5× the rest of the world. Deadline 2031. Status stays pending.",
+    "summary": "Fetched Nov 23 2026: azmth/CelesTrak live count as of Nov 23 03:38 UTC is 16,904 active satellites, of which 11,199 are Starlink (~66% of all active sats, ~1.96× the rest of the world's 5,705). Still far from 5× the rest of the world. Deadline 2031. Status stays pending.",
     "url": "https://azmth.space/stats"
    }
   },
@@ -4885,8 +4885,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: Starship Flight 14 (Sep 28) remains the first orbital Starship mission (26 Starlink V3 sats). Flight 15 is still unflown (Wikipedia NET Nov 13). The Space Road (updated Nov 7): 14 flights, 1 orbit, no operational cadence. Not 1 million tons/year to orbit. Deadline 2031. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
+    "summary": "Fetched Nov 23 2026: Starship Flight 15 (Nov 13) was the second orbital Starship mission (26 Starlink V3 sats, ~120 t payload). Elon Times / GCAT: 2,305 tonnes to orbit in 2026 year-to-date as of Nov 14 — not 1 million tons. Flight 16 is unflown (NET Dec 10). Deadline 2031. Status stays pending.",
+    "url": "https://elontimes.com/mass-to-orbit"
    }
   },
   {
@@ -5043,7 +5043,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: IMF October 2026 World Economic Outlook projects global growth of 3.1% in 2026 and 3.4% in 2027 — not a path to 10× world output by 2036. Deadline Dec 31 2036. Status stays pending.",
+    "summary": "Fetched Nov 23 2026: IMF October 2026 World Economic Outlook projects global growth of 3.1% in 2026 and 3.4% in 2027 — not a path to 10× world output by 2036. Deadline Dec 31 2036. Status stays pending.",
     "url": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
    }
   },
@@ -5601,7 +5601,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 22 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (76 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 23 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (76 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -6429,8 +6429,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 31, 2027. Grade only whether SpaceX/Nvidia publicly unveil Starmind computer details in 2027 — not whether launches begin.",
-    "url": "https://www.spacex.com/spacexsi/starmind"
+    "summary": "Pending until Dec 31, 2027. Fetched Nov 23 2026: GSMDome (Nov 9) recaps Musk at Baron — first Starmind launches estimated Q3 2027, and he still framed a public details unveil as next year. No 2027 details unveil has happened yet (it is still 2026). Status stays pending.",
+    "url": "https://www.gsmdome.com/spacex-targets-q3-2027-for-first-starmind-orbital-ai-computer-launches"
    }
   },
   {
@@ -7228,8 +7228,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 6, 2027 (under-5% bar). This-quarter <10% checkable when Q4 2026 SpaceX figures publish.",
-    "url": "https://x.com/elonmusk/status/2118737725964837353"
+    "summary": "Pending until Nov 6, 2027 (under-5% bar). Fetched Nov 23 2026: SpaceX Q3 2026 results (Orbit Alpha from the Oct 20 filing) show $14.58B revenue; Starlink enterprise-and-government was $2.13B and Space (launch, including government) $1.77B — Q4 2026 figures have not been published, so the this-quarter <10% bar is not yet checkable. Status stays pending.",
+    "url": "https://www.orbitalpha.cloud/results/spcx-q3-2026"
    }
   },
   {
@@ -7819,8 +7819,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 6 2026: Tesla's unsupervised Robotaxi fleet is hundreds to low thousands of vehicles, not hundreds of thousands. Unsupervised FSD for customer-owned cars was pushed to Q2 2027 and only inside Robotaxi zones. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/"
+    "summary": "Fetched Nov 23 2026: Self Drive News (Nov 17) — JPMorgan estimated ~700 active Tesla Robotaxis nationally and ~1,306 Tesla vehicles registered in Texas as of Nov 14. Unsupervised owner FSD remains Q2 2027 and geofenced. That is low thousands, not hundreds of thousands of self-driving Teslas in the US. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://selfdrivenews.com/tesla-robotaxi-miles-5-million-owner-car-trials/"
    }
   },
   {
@@ -8155,7 +8155,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 6 2026: TeslaNorth (Oct 22) — Tesla Q3 2026 Update still lists Texas Optimus as Construction (factory and tool installation), with no capacity figure. CFO Taneja said Tesla has started constructing a larger Austin Optimus factory than Fremont. Production has not started at Giga Texas. Deadline around summer 2027. Status stays pending.",
+    "summary": "Fetched Nov 23 2026: TeslaNorth (Oct 22) — Tesla Q3 2026 Update still lists Texas Optimus as Construction (factory and tool installation), with no capacity figure. CFO Taneja said Tesla has started constructing a larger Austin Optimus factory than Fremont. Fremont is Early Ramp; Giga Texas production has not started. Deadline around summer 2027. Status stays pending.",
     "url": "https://teslanorth.com/2026/10/22/tesla-austin-optimus-factory-bigger-fremont/"
    }
   },
@@ -8807,8 +8807,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 6 2026: Wikipedia Optimus records Fremont production-line install and a planned Texas factory for up to 10 million units a year starting in 2027. Global humanoid volumes remain far short of 10 billion. Deadline 2040. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
+    "summary": "Fetched Nov 23 2026: Behind Robotics (Oct 26) — Omdia estimated ~13,000 humanoids shipped worldwide in 2025; AgiBot's cumulative total is ~20,000; Unitree ~11,000 G1s. Tesla has begun Fremont Optimus production but has not disclosed a unit count. Global volumes remain far short of 10 billion. Deadline 2040. Status stays pending.",
+    "url": "https://hive.behindrobotics.com/tesla-optimus-fremont/"
    }
   },
   {
@@ -12579,8 +12579,39 @@
     "summary": "Pending until May 18, 2028. On Nov 18 2026 Musk said Optimus should be able to pick up a dirty plate, wash it, dry it, and put it away in 12 to 18 months. The card uses the 18-month end of that range.",
     "url": "https://www.youtube.com/watch?v=DY8clym2-jQ&t=1550s"
    }
+  },
+  {
+   "claim_id": "c534",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-in-every-tesla-end-of-2027",
+   "title": "Starlink built into every Tesla model by end of 2027 (except China)",
+   "company": "Tesla",
+   "topic": "Space",
+   "status": "pending",
+   "first_said": "2026-11-22",
+   "first_deadline": "2027-12-31",
+   "current_deadline": "2027-12-31",
+   "resolved_date": null,
+   "times_moved": 0,
+   "goalpost_history": [],
+   "statements": 1,
+   "timeline": [
+    {
+     "statement_id": 534,
+     "date_made": "2026-11-22",
+     "deadline": "2027-12-31",
+     "change": "first",
+     "status": "pending",
+     "quote": "Hopefully available towards the end of next year. This will be important for unsupervised FSD, so passengers have high bandwidth everywhere for work and entertainment.",
+     "source": "https://x.com/elonmusk/status/2124673053246312848",
+     "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-in-every-tesla-end-of-2027"
+    }
+   ],
+   "resolution": {
+    "summary": "Pending until Dec 31, 2027. On Nov 22 2026 Musk said built-in Starlink for all Tesla models should hopefully arrive toward the end of 2027, except in China. Sawyer Merritt reported the same day that Cybercabs in Dallas already carry Starlink, though riders can't connect to it yet; no Tesla sold to customers offers it.",
+    "url": "https://x.com/elonmusk/status/2124673053246312848"
+   }
   }
  ],
- "statements": 480,
- "count": 357
+ "statements": 481,
+ "count": 358
 }

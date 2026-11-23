@@ -1,13 +1,21 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-22",
+ "retrieved": "2026-11-23",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
- "claims": 357,
- "statements": 480,
- "count": 422,
+ "claims": 358,
+ "statements": 481,
+ "count": 423,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-22",
+   "kind": "prediction",
+   "slug": "starlink-in-every-tesla-end-of-2027",
+   "claim_id": "c534",
+   "change": "New prediction: On Nov 22 2026 Musk said built-in Starlink for every Tesla model should hopefully arrive toward the end of 2027, everywhere except China, so riders get fast internet on any road (https://x.com/elonmusk/status/2124673053246312848).",
+   "url": "https://twoweeks.lol/predictions/starlink-spectrum-phones-2-years/#starlink-in-every-tesla-end-of-2027"
+  },
   {
    "date": "2026-11-21",
    "kind": "prediction",
