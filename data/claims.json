@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-23",
+ "retrieved": "2026-11-24",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -1103,7 +1103,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: Wikipedia Human mission to Mars: only robotic landers, rovers and a helicopter have been on Mars; as of 2026 the farthest humans have been is the Moon (Apollo and Artemis II flyby). NASA's ESCAPADE twins (Nov 7/9 Earth flybys) are uncrewed and arrive at Mars in 2027. No crewed Mars landing. Deadline 2036. Status stays pending.",
+    "summary": "Fetched Nov 24 2026: Wikipedia Human mission to Mars still says only robotic landers, rovers and a helicopter have been on Mars; as of 2026 the farthest humans have been is the Moon (Apollo and Artemis II flyby). No crewed Mars landing. Deadline 2036. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Human_mission_to_Mars"
    }
   },
@@ -1280,8 +1280,8 @@
     }
    ],
    "resolution": {
-    "summary": "Not achieved by the 2025 deadline. Neuralink participants set BCI records (first patient Noland Arbaugh reached 8-9+ bits per second on Webgrid, roughly double the prior brain-interface record), but the median able-bodied user scores around 10 BPS — patients approached, and did not surpass, people using their hands. Musk himself was still predicting in November 2025 that recipients would 'soon' beat humans at fast-reaction tasks.",
-    "url": "https://www.technologyreview.com/2025/01/16/1110017/what-to-expect-from-neuralink-in-2025/"
+    "summary": "Not achieved by the 2025 deadline, and still not met as of Nov 24 2026. Neuralink now has over 30 patients (Musk at TomorrowX Nov 18); a participant played GTA 6 by thought in November 2026. Those are capability demos, not proof that a quadriplegic operates a phone faster than someone with working hands. Median able-bodied Webgrid remains ~10 BPS vs patient records of ~8–9 BPS. Status stays missed.",
+    "url": "https://www.neurapod.com/blog/neuralink-30-patients-elon-musk"
    }
   },
   {
@@ -3292,8 +3292,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 8 2026: the Starship-to-Starship propellant-transfer demo has not flown. Wikipedia lists it NET Q1 2027 and still unscheduled (originally March 2025, then March 2026). Flight 15 (NET Nov 13) is a catch attempt; Wikipedia notes docking/hatch aspects may begin testing, not a tanker-pair cryogenic transfer. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Starship_Propellant_Transfer_Demonstration"
+    "summary": "Fetched Nov 24 2026: the Starship-to-Starship propellant-transfer demo has not flown. Wikipedia still lists it NET Q1 2027 and unscheduled. TechTimes Nov 23 quotes a NASA program manager putting the demonstration in Q1 2027. Flight 15 was a ship catch, not a tanker-pair cryogenic transfer. Status stays pending.",
+    "url": "https://www.techtimes.com/articles/331315/20261123/nasa-artemis-program-faces-major-milestone-spacex-advances-starship-refueling.htm"
    }
   },
   {
@@ -3398,8 +3398,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 17 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update / earnings) but has not shown the Gen 3 body as an official unveil. Status stays missed.",
-    "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-20000-week/"
+    "summary": "Still missed. Fetched Nov 24 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update) but has not shown the Gen 3 body as an official unveil. Inside Deep Tech (Nov 11, still current) says later 2026 shareholder updates do not mention a V3 reveal. Status stays missed.",
+    "url": "https://www.insidedeeptech.com/tesla-optimus-humanoid-robot-fremont-production-full-guide/"
    }
   },
   {
@@ -5012,8 +5012,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 17 2026: Tesla News Wire Robotaxi Tracker (updated Nov 16) says customer cars remain on FSD (Supervised) v14.3.13 / v14.3 Lite; no Tesla/Elon receipt of conversational Grok routing in FSD ('Grok, turn right'). Status stays missed.",
-    "url": "https://teslanewswire.com/robotaxi-tracker"
+    "summary": "Still missed. Fetched Nov 24 2026: Tesla software 2026.26 release notes (updated Nov 24) list Grok Commands for phone, music, climate and Controls search, not FSD routing. No Tesla/Elon receipt of conversational Grok telling FSD to turn or park. Customer cars remain FSD (Supervised). Status stays missed.",
+    "url": "https://tesla-info.com/release/2026.26"
    }
   },
   {
@@ -5105,7 +5105,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: Qualcomm (Nov 4) is supplying ground 5G masts for Starlink Mobile from 2027, not EchoStar-band handsets. Today's T-Satellite service uses partner PCS. EchoStar AWS-4/H-block transfer still targets Nov 2027 close; no shipping phone uses that acquired spectrum. Deadline Sep 30 2027. Status stays pending.",
+    "summary": "Fetched Nov 24 2026: Starlink Mobile’s US partner page and the Nov 4 Qualcomm ground-5G deal still point to 2027 mast rollout, not EchoStar-band handsets. No shipping phone uses the acquired spectrum. Deadline Sep 30 2027. Status stays pending.",
     "url": "https://thenextweb.com/news/spacex-qualcomm-starlink-mobile-5g-network"
    }
   },
@@ -5167,7 +5167,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: American Airlines' Oct 8 newsroom release still says installations of Starlink across the entire mainline fleet (1,000+ aircraft) will begin in early 2027. No passenger Starlink service is flying on American yet. Deadline end of 2027. Status stays pending.",
+    "summary": "Fetched Nov 24 2026: American Airlines’ Oct 8 newsroom release still says installations of Starlink across the entire mainline fleet (1,000+ aircraft) will begin in early 2027. No passenger Starlink service is flying on American yet. Deadline end of 2027. Status stays pending.",
     "url": "https://news.aa.com/news/news-details/2026/Full-fleet-full-speed-full-connection-American-Airlines-will-bring-Starlink-to-every-mainline-jet-MKG-OB-10/"
    }
   },
@@ -5198,7 +5198,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: Hugging Face xai-org still lists only grok-1 (Mar 2024) and grok-2 (updated Nov 2025). No 0.5T / 500B Grok weights. xAI has open-sourced Grok Build (a coding agent), not the 0.5T model. Deadline end of 2026. Status stays pending.",
+    "summary": "Fetched Nov 24 2026: Hugging Face xai-org still lists only grok-1 (Mar 2024) and grok-2 (updated Nov 2025). No 0.5T / 500B Grok weights. xAI has open-sourced Grok Build (a coding agent), not the 0.5T model. Deadline end of 2026. Status stays pending.",
     "url": "https://huggingface.co/xai-org"
    }
   },
@@ -5601,7 +5601,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 23 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (76 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 24 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (77 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5917,7 +5917,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 17 2026: docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. The promised Nov 16 4.8 Bot soft rollout (#524) also missed. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 24 2026: docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. The promised Nov 16 4.8 Bot soft rollout (#524) also missed; Musk on Nov 19 said 4.8 is still several beta variants. Status stays missed.",
     "url": "https://docs.x.ai/developers/models"
    }
   },
@@ -7122,8 +7122,8 @@
     }
    ],
    "resolution": {
-    "summary": "Musk (Sep 24) was “cautiously optimistic” SpaceX would have a Fable/GPT-6 level model in 2 to 3 months (deadline Dec 24 2026). Fetched Nov 15 2026: docs.x.ai flagship is still grok-4.7; Grok 4.8 has not shipped. Anthropic’s Claude Fable 5.2 launched Nov 9 and leads the Artificial Analysis index. Status stays pending.",
-    "url": "https://docs.x.ai/docs/models"
+    "summary": "Musk (Sep 24) was “cautiously optimistic” SpaceX would have a Fable/GPT-6 level model in 2 to 3 months (deadline Dec 24 2026). Fetched Nov 24 2026: docs.x.ai flagship is still grok-4.7; Grok 4.8 has not shipped. Status stays pending.",
+    "url": "https://docs.x.ai/developers/models"
    }
   },
   {
@@ -7153,8 +7153,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 17 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Daily Cortex's Nov 16 recap of Musk's Oct 31 walkthrough still has Macroharder/Minihard at 220k GB300s each and Gun Range tracking end of November. Status stays missed.",
-    "url": "https://www.dailycortex.com/colossus-2-adds-two-buildings"
+    "summary": "Still missed. Fetched Nov 24 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Compute Atlas and Colossus coverage still describe Macroharder/Minihard and a Gun Range site tracking end of November, not a receipt the promised Oct 4 extra 220k is live. Status stays missed.",
+    "url": "https://www.compute-atlas.com/facilities/xai-minihard-memphis-tn"
    }
   },
   {
@@ -9272,8 +9272,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 7 2026: Tesla Q3 Update lists battery cell manufacturing at Nevada LFP 7 GWh (early ramp) and Texas 4680 >40 GWh, plus Megapack 40+20+50 GWh. Installed cell + pack capacity is on the order of ~0.1 TWh, not 3 TWh. Deadline 2030. Status stays pending.",
-    "url": "https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q3-2026-Update.pdf"
+    "summary": "Fetched Nov 24 2026: Tesla Q3 2026 still lists Texas 4680 installed capacity >40 GWh, Nevada LFP 7 GWh early ramp, and Megapack 110 GWh across three sites. That is on the order of ~0.1 TWh of cell-plus-pack capacity, not 3 TWh a year. Deadline 2030. Status stays pending.",
+    "url": "https://teslanorth.com/2026/11/10/tesla-giga-texas-4680-largest-cell-plant/"
    }
   },
   {
@@ -12284,8 +12284,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 30, 2026. Fetched Nov 17 2026: Daily Cortex (Nov 16) still treats Musk's Oct 31 'Gun Range tracking end of November' line as a projection, not independently confirmed as live. No receipt that Gun Range is operational.",
-    "url": "https://www.dailycortex.com/colossus-2-adds-two-buildings"
+    "summary": "Pending until Nov 30, 2026. Fetched Nov 24 2026: Compute Atlas still lists Minihard as operational and Colossus as operating-plus-expansion; no independent receipt that the Southaven Gun Range hall is live. Musk's Oct 31 line remains a projection with six days left on the deadline.",
+    "url": "https://www.compute-atlas.com/facilities/xai-minihard-memphis-tn"
    }
   },
   {
@@ -12421,7 +12421,7 @@
     }
    ],
    "resolution": {
-    "summary": "Missed. On Nov 10 2026 Musk said xAI would do a Grok 4.8 soft rollout to Bot users later that week (deadline Nov 16). Fetched Nov 17 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8; x.ai/news latest model post is still Grok 4.7 (Sep 21) and the latest product post is Grok Bot 1.0 (Nov 2). No xAI or Musk confirmation that 4.8 reached any Bot users by the deadline.",
+    "summary": "Still missed. Deadline was Nov 16. Fetched Nov 24 2026: docs.x.ai still grok-4.7 with no grok-4.8; x.ai/news has no 4.8 post. Musk on Nov 17 said 4.8 had not rolled out for general use, only trials behind the scenes, and on Nov 19 that several variants are in beta. Status stays missed.",
     "url": "https://docs.x.ai/developers/models"
    }
   },
@@ -12514,8 +12514,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 1, 2026. Musk says Grok 4.8 has had a soft rollout to some Bot users and needs another week or two of polish before its general release.",
-    "url": "https://x.com/elonmusk/status/2122758986483269956"
+    "summary": "Pending until Dec 1, 2026. Fetched Nov 24 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. Musk on Nov 17 said 4.8 had only behind-the-scenes trials, and on Nov 19 that several variants are in beta with no pick yet for wide release. General release has not happened.",
+    "url": "https://docs.x.ai/developers/models"
    }
   },
   {
