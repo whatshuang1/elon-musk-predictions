@@ -1,13 +1,21 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-24",
+ "retrieved": "2026-11-25",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 358,
  "statements": 481,
- "count": 423,
+ "count": 424,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-25",
+   "kind": "prediction",
+   "slug": "fsd-v15-end-of-2026",
+   "claim_id": "c134",
+   "change": "Verdict: Pending → Partial. Tesla started rolling FSD v15 to the first wave of customer cars on Nov 21 2026, but it runs on AI4 rather than the promised AI5 rewrite and remains supervised.",
+   "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-end-of-2026"
+  },
   {
    "date": "2026-11-22",
    "kind": "prediction",

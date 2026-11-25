@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-24",
+ "retrieved": "2026-11-25",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 358,
@@ -1587,7 +1587,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/",
    "source_type": "transcript",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 106,
@@ -1632,7 +1632,7 @@
    ],
    "primary_source": "https://x.com/elonmusk/status/1953515379688714697",
    "source_type": "tweet",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 108,
@@ -1674,7 +1674,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1975064769729327545",
    "source_type": "tweet",
-   "last_checked": "2026-11-11"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 110,
@@ -2013,7 +2013,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/",
    "source_type": null,
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 129,
@@ -2076,7 +2076,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2035506574182199757",
    "source_type": "tweet",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 133,
@@ -2112,13 +2112,13 @@
    "quote_is_paraphrase": false,
    "date_made": "2026-04-22",
    "deadline": "2026-12-31",
-   "resolved_date": null,
-   "status": "pending",
+   "resolved_date": "2026-11-21",
+   "status": "partial",
    "times_moved": 0,
    "goalpost_history": [],
    "primary_source": "https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/",
    "source_type": null,
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 135,
@@ -2832,7 +2832,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=l6T9xIeZTds",
    "source_type": "video",
-   "last_checked": "2026-08-01"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 175,
@@ -3213,7 +3213,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2067430722399539385",
    "source_type": null,
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 196,
@@ -3297,7 +3297,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071184354756477041",
    "source_type": "tweet",
-   "last_checked": "2026-11-19"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 200,
@@ -3423,7 +3423,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2007088281507488174",
    "source_type": "tweet",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 206,
@@ -3637,7 +3637,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1996989600602996811",
    "source_type": "tweet",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 216,
@@ -3784,7 +3784,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1930689309860045184",
    "source_type": "tweet",
-   "last_checked": "2026-07-21"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 223,
@@ -3847,7 +3847,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/1907326226517168139",
    "source_type": "tweet",
-   "last_checked": "2026-07-21"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 226,
@@ -3868,7 +3868,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2071385784154759468",
    "source_type": "tweet",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 227,
@@ -4292,7 +4292,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2090305535937851863",
    "source_type": "tweet",
-   "last_checked": "2026-11-15"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 248,
@@ -4739,7 +4739,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2101011740574052697",
    "source_type": "tweet",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 269,
@@ -4823,7 +4823,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2103329761690865846",
    "source_type": "tweet",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 273,
@@ -7478,7 +7478,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=tdUX3ypDVwI&t=1382s",
    "source_type": "video",
-   "last_checked": "2026-10-12"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 403,
@@ -7499,7 +7499,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=_rQBZ3vKRA0&t=904s",
    "source_type": "video",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 404,
@@ -7520,7 +7520,7 @@
    "goalpost_history": [],
    "primary_source": "https://www.youtube.com/watch?v=aMcmuKTfr54&t=1352s",
    "source_type": "video",
-   "last_checked": "2026-11-08"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 405,
@@ -9791,7 +9791,7 @@
    ],
    "primary_source": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
    "source_type": "transcript",
-   "last_checked": "2026-11-20"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 516,
@@ -9854,7 +9854,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2116587474021691629",
    "source_type": "tweet",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 519,
@@ -9980,7 +9980,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2120088070443655190",
    "source_type": "tweet",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 525,
@@ -10022,7 +10022,7 @@
    "goalpost_history": [],
    "primary_source": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06",
    "source_type": "transcript",
-   "last_checked": "2026-11-10"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 527,
@@ -10106,7 +10106,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2122758986483269956",
    "source_type": "tweet",
-   "last_checked": "2026-11-24"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 531,
@@ -10169,7 +10169,7 @@
    "goalpost_history": [],
    "primary_source": "https://x.com/elonmusk/status/2124042864891982292",
    "source_type": "tweet",
-   "last_checked": "2026-11-21"
+   "last_checked": "2026-11-25"
   },
   {
    "id": 534,

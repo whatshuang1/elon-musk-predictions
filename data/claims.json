@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-24",
+ "retrieved": "2026-11-25",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -1343,8 +1343,8 @@
     }
    ],
    "resolution": {
-    "summary": "No 'legion' materialized: against a ~5,000-unit target, Tesla built only 'hundreds' by mid-2025, and Musk admitted in Jan 2026 that zero Optimus robots were doing useful factory work.",
-    "url": null
+    "summary": "No 2025 'legion' materialized. Fetched Nov 25 2026: Tesla's Q3 2026 letter says Optimus production began on Fremont high-volume lines as early production; Musk put 20,000 units a week at least a year away. That 2026 ramp does not convert the 2025 legion miss into a delivery. Status stays missed.",
+    "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-20000-week/"
    }
   },
   {
@@ -2876,7 +2876,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: x.ai/news has no xAI game-studio title (latest: Data Bot Nov 2, Grok Bot for sales Oct 27, Grok 4.7 Sep 21). Grok Build can make user games; that is not an xAI studio release of a great AI-generated game. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 25 2026: x.ai/news has no xAI game-studio title (latest: Grok Bot 1.0 Nov 11, Grok Bot for accounting Nov 16, Grok 4.7 Sep 21). Grok Build can make user games; that is not an xAI studio release of a great AI-generated game. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -3398,8 +3398,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 24 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update) but has not shown the Gen 3 body as an official unveil. Inside Deep Tech (Nov 11, still current) says later 2026 shareholder updates do not mention a V3 reveal. Status stays missed.",
-    "url": "https://www.insidedeeptech.com/tesla-optimus-humanoid-robot-fremont-production-full-guide/"
+    "summary": "Still missed. Fetched Nov 25 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update) but has not shown the Gen 3 body as an official unveil. App leaks and a promised unscripted video (#515) are not an Optimus 3 reveal. Status stays missed.",
+    "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-20000-week/"
    }
   },
   {
@@ -3486,8 +3486,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 8 2026: 24/7 Wall St (Nov 7) reports Terafab makes no chips yet; Musk targeted a first SRAM test chip around May or June 2027 and volume production in Q3 2028, calling those dates very aggressive. #132's deadline is keyed to AI5 volume in 2027 (restated on Tesla's Q3 call as around April 2027). Status stays pending.",
-    "url": "https://247wallst.com/investing/2026/11/07/musk-says-his-terafab-chip-plant-could-cost-1-trillion/"
+    "summary": "Fetched Nov 25 2026: Terafab still makes no chips. On Tesla's Oct 21 Q3 call Musk targeted a first test chip around May or June 2027 and useful chips at volume around Q3 2028. Samsung Taylor is in AI5 trial/yield work, not Tesla's own fab. #132's deadline is keyed to 2027. Status stays pending.",
+    "url": "https://evwire.com/p/tesla-terafab-first-test-chip-2027-volume-production-2028"
    }
   },
   {
@@ -3543,7 +3543,7 @@
      "date_made": "2026-04-22",
      "deadline": "2026-12-31",
      "change": "first",
-     "status": "pending",
+     "status": "partial",
      "quote": "Version 15, hopefully by the end of this year, but certainly by early next year. That will be a complete overhaul of the software architecture, and will run on AI5.",
      "source": "https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/",
      "url": "https://twoweeks.lol/predictions/unsupervised-fsd-texas-california-2025/#fsd-v15-end-of-2026"
@@ -3560,8 +3560,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 31, 2026. Musk says FSD V15 goes to wide release in December 2026, likely with Tesla's holiday update. As of Nov 18 2026, customer cars were still on FSD (Supervised) v14.3.",
-    "url": "https://x.com/elonmusk/status/2124042864891982292"
+    "summary": "Pending until Dec 31, 2026. Musk said FSD V15 goes to wide release in December 2026. Fetched Nov 25 2026: Tesla started an early-access/first-wave customer rollout of FSD (Supervised) v15.0.1 on Nov 21; trackers still show a tiny share of the fleet. Wide/holiday-update release has not happened. Status stays pending.",
+    "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
    }
   },
   {
@@ -5012,8 +5012,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 24 2026: Tesla software 2026.26 release notes (updated Nov 24) list Grok Commands for phone, music, climate and Controls search, not FSD routing. No Tesla/Elon receipt of conversational Grok telling FSD to turn or park. Customer cars remain FSD (Supervised). Status stays missed.",
-    "url": "https://tesla-info.com/release/2026.26"
+    "summary": "Still missed. Fetched Nov 25 2026: Tesla software 2026.44.1 added a Grok button in the navigation search bar for voice requests such as finding nearby hospitals, and 2026.26 Grok Commands still cover phone, music, climate and Controls search. That is not conversational Grok telling FSD to turn or park. Customer cars remain FSD (Supervised).",
+    "url": "https://tescamstudio.com/news/2026-11-20-evening"
    }
   },
   {
@@ -5136,7 +5136,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 19 2026: x.ai/news latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drop is Grok Voice 3.0 (Oct 14); November's is Grok Bot 1.0 (Nov 11) — not completely-from-scratch new foundation models. Grok 4.8 remains unreleased (Musk Nov 10: RL + Bot soft rollout; Nov 19: several variants in beta). Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 25 2026: x.ai/news latest public foundation model is still Grok 4.7 (Sep 21). October's newsroom drop is Grok Voice 3.0 (Oct 14); November's are Grok Bot products — not completely-from-scratch new foundation models. Grok 4.8 remains unreleased. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -5322,7 +5322,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 8 2026: English Wikipedia has 7,261,024 articles (Wikipedia:Size of Wikipedia, 13:26 UTC Nov 8). Grokipedia's own page still lists 6,092,140 articles (displayed total frozen since ~Jan 10 2026). Grokipedia has not far exceeded Wikipedia. Deadline end of 2026. Status stays pending.",
+    "summary": "Fetched Nov 25 2026: English Wikipedia has 7,269,056 articles (Wikipedia:Size of Wikipedia, 13:20 UTC Nov 25). Grokipedia has not far exceeded Wikipedia; prior counts put it around 6 million with a frozen homepage total. Deadline end of 2026. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia"
    }
   },
@@ -5601,7 +5601,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 24 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (77 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 25 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (78 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5787,8 +5787,8 @@
     }
    ],
    "resolution": {
-    "summary": "Tesla never brought Dojo 2 online: Musk shut down the entire Dojo project and disbanded the team in August 2025, calling Dojo 2 'an evolutionary dead end' and pivoting to AI5/AI6.",
-    "url": null
+    "summary": "Tesla never brought Dojo 2 online: Musk shut down the Dojo project and disbanded the team in August 2025, calling Dojo 2 'an evolutionary dead end' and pivoting to AI5/AI6. Fetched Nov 25 2026: later 'Dojo 3' restart talk is a different program around AI5, not a revival of Dojo 2. Status stays cancelled.",
+    "url": "https://techcrunch.com/2025/08/11/elon-musk-confirms-shutdown-of-tesla-dojo-an-evolutionary-dead-end/"
    }
   },
   {
@@ -5917,7 +5917,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 24 2026: docs.x.ai still lists Grok 4.7 as the flagship and has no grok-4.8 / public massive-gains receipt. The promised Nov 16 4.8 Bot soft rollout (#524) also missed; Musk on Nov 19 said 4.8 is still several beta variants. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 25 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news latest model post is still Grok 4.7 (Sep 21). The Nov 16 Bot soft-rollout of 4.8 (#524) also missed. No public massive-gains receipt for the new C++ stack.",
     "url": "https://docs.x.ai/developers/models"
    }
   },
@@ -6332,7 +6332,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until December 2026. Restatement of #246 — same $100B-plus ARR in December target.",
+    "summary": "Pending until December 2026. Restatement of #246 — same $100B-plus ARR in December target. Fetched Nov 25 2026: no new SpaceX filing or Musk restatement that December annualized revenue has crossed $100 billion. Status stays pending.",
     "url": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06"
    }
   },
@@ -6376,8 +6376,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 15 2026: Ship 42 was caught on Flight 15 (Nov 14) but no Starship upper stage has been reflown. Deadline Mar 31 2027. Status stays pending.",
-    "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
+    "summary": "Fetched Nov 25 2026: Ship 42 was caught on Flight 15 (Nov 14) but no Starship upper stage has been reflown. Starship Desk lists Flight 16 NET Dec 10 2026 with Ship 43, not a reflight of S42. Deadline Mar 31 2027. Status stays pending.",
+    "url": "https://starshipdesk.com/flights/"
    }
   },
   {
@@ -7029,8 +7029,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 8 2026: FOMC September 2026 SEP remains the latest projection — median real GDP growth 2.3% for 2026 and 2.4% for 2027 — not ~4%. Musk's 'next year' (~4%) window is calendar 2027; deadline Dec 31 2027. Status stays pending.",
-    "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm"
+    "summary": "Fetched Nov 25 2026: Apollo's Torsten Slok (Nov 19) says AI investment added about 1.3 percentage points to real GDP growth over the last three quarters, or about 65% of roughly 2% cumulative growth — not a doubling of US GDP growth to ~4%. Q3 2026 GDP grew 3.4% annualized; the 2027 ~4% window is still open. Status stays pending.",
+    "url": "https://www.apollo.com/insights-news/insights/daily-spark/ai-spending-powers-65-percent-of-gdp-growth"
    }
   },
   {
@@ -7153,7 +7153,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 24 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Compute Atlas and Colossus coverage still describe Macroharder/Minihard and a Gun Range site tracking end of November, not a receipt the promised Oct 4 extra 220k is live. Status stays missed.",
+    "summary": "Still missed. Fetched Nov 25 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Compute Atlas Minihard brief (updated Nov 20) still lists Minihard as operational and Colossus as operating-plus-expansion; Gun Range remains a separate end-of-November projection (#518), not a receipt the promised Oct 4 extra 220k is live.",
     "url": "https://www.compute-atlas.com/facilities/xai-minihard-memphis-tn"
    }
   },
@@ -10073,7 +10073,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 8 2026: Wikipedia Tesla Robotaxi lists unsupervised commercial service in seven US metros (Austin, Dallas, Fort Worth, Houston, Miami, Orlando, Tampa) plus safety-driver Bay Area rides, with over 3.3 million unsupervised miles as of Oct 2026 — a rounding error of US vehicle-miles, not 50% of all miles driven. Deadline 2030. Status stays pending.",
+    "summary": "Fetched Nov 25 2026: Tesla Robotaxi unsupervised commercial service remains a handful of US metros plus safety-driver rides elsewhere. Fleet miles are a rounding error of US vehicle-miles, not 50% of all miles driven. Deadline 2030. Status stays pending.",
     "url": "https://en.wikipedia.org/wiki/Tesla_Robotaxi"
    }
   },
@@ -12191,7 +12191,7 @@
     }
    ],
    "resolution": {
-    "summary": "Goalpost moved. At the TomorrowX Summit on Nov 18 2026 Musk restated the authentic/unscripted Optimus demo as still upcoming and 'might be in a month or two' (YouTube DY8clym2-jQ ~21:59). L10 two-month end from Nov 18 is Jan 18 2027. Tesla's Nov 19 manufacturing clip shows an Optimus head on a fixture, not unscripted tasks. Status stays pending.",
+    "summary": "Goalpost moved. At the TomorrowX Summit on Nov 18 2026 Musk restated the authentic/unscripted Optimus demo as still upcoming and 'might be in a month or two' (YouTube DY8clym2-jQ ~21:59). L10 two-month end from Nov 18 is Jan 18 2027. Fetched Nov 25 2026: no Tesla video of Optimus doing unscripted tasks has been released. Status stays pending.",
     "url": "https://pjfp.com/elon-musk-tomorrowx-summit-starship-catch-starmind-compute/"
    }
   },
@@ -12284,7 +12284,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 30, 2026. Fetched Nov 24 2026: Compute Atlas still lists Minihard as operational and Colossus as operating-plus-expansion; no independent receipt that the Southaven Gun Range hall is live. Musk's Oct 31 line remains a projection with six days left on the deadline.",
+    "summary": "Pending until Nov 30, 2026. Fetched Nov 25 2026: Compute Atlas still lists Minihard as operational and Colossus as operating-plus-expansion; no independent receipt that the Southaven Gun Range hall is live. Musk's Oct 31 line remains a projection with five days left on the deadline.",
     "url": "https://www.compute-atlas.com/facilities/xai-minihard-memphis-tn"
    }
   },
@@ -12421,7 +12421,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Deadline was Nov 16. Fetched Nov 24 2026: docs.x.ai still grok-4.7 with no grok-4.8; x.ai/news has no 4.8 post. Musk on Nov 17 said 4.8 had not rolled out for general use, only trials behind the scenes, and on Nov 19 that several variants are in beta. Status stays missed.",
+    "summary": "Still missed. Deadline was Nov 16. Fetched Nov 25 2026: docs.x.ai still grok-4.7 with no grok-4.8; x.ai/news has no 4.8 post. Musk on Nov 17 said 4.8 had not rolled out for general use, only trials behind the scenes, and on Nov 19 that several variants are in beta. Status stays missed.",
     "url": "https://docs.x.ai/developers/models"
    }
   },
@@ -12514,7 +12514,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 1, 2026. Fetched Nov 24 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. Musk on Nov 17 said 4.8 had only behind-the-scenes trials, and on Nov 19 that several variants are in beta with no pick yet for wide release. General release has not happened.",
+    "summary": "Pending until Dec 1, 2026. Fetched Nov 25 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news has no 4.8 announcement. Musk on Nov 19 said several variants are in beta with no pick yet for wide release. General release has not happened; six days left.",
     "url": "https://docs.x.ai/developers/models"
    }
   },
