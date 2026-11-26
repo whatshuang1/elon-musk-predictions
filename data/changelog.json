@@ -1,13 +1,21 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-25",
+ "retrieved": "2026-11-26",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 358,
  "statements": 481,
- "count": 424,
+ "count": 425,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-26",
+   "kind": "prediction",
+   "slug": "spacex-shares-to-every-kid-in-america",
+   "claim_id": "c500",
+   "change": "Update: On Nov 26 2026 Musk said his own SpaceX share for every kid will be transferred when his stock lockup expires in June 2027, and a separate share from SpaceX itself goes out next month (https://x.com/elonmusk/status/2125832205301878841). Still pending; the deadline stays Dec 31 2027.",
+   "url": "https://twoweeks.lol/predictions/spacex-shares-to-every-kid-in-america/"
+  },
   {
    "date": "2026-11-25",
    "kind": "prediction",

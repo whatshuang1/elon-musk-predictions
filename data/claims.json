@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-25",
+ "retrieved": "2026-11-26",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -966,8 +966,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: Tesla Q3 2026 call (Oct 21) still has Musk aiming for 5 million vehicles a year by approximately 2030, already boarded as #514. He did not withdraw the 2020 20 million promise in his own words; press calling 5 million a quiet downgrade is not an Elon-primary goalpost. Tesla has never sold 20 million vehicles in a year. Deadline Dec 31 2030. Status stays pending.",
-    "url": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know"
+    "summary": "Fetched Nov 26 2026: Tesla produced 464,391 vehicles in Q3 2026 and delivered 1,324,681 through three quarters (Electrek Oct 2). It has never sold 20 million vehicles in a year. The Oct 21 Q3 call's ~5 million a year by ~2030 is a separate target already boarded as #514; Musk did not withdraw the 2020 20 million promise in his own words. Deadline Dec 31 2030. Status stays pending.",
+    "url": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/"
    }
   },
   {
@@ -2792,7 +2792,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 9 2026: docs.x.ai still lists Grok 4.7 as the most capable text model ('For everything else, including code, use Grok 4.7'). x.ai/news newest model post is Introducing Grok 4.7 (Sep 21); Grok Voice 3.0 (Oct 14) and Grok Bot posts since then are not Grok 5. No grok-5 identifier. Deadline end-2026. Status stays pending.",
+    "summary": "Fetched Nov 26 2026: docs.x.ai still lists Grok 4.7 as the most capable text model ('For everything else, including code, use Grok 4.7'). x.ai/news newest model post is Introducing Grok 4.7 (Sep 21); Grok Voice 3.0 (Oct 14) and Grok Bot posts since then are not Grok 5. No grok-5 identifier. Deadline end-2026. Status stays pending.",
     "url": "https://docs.x.ai/docs/models"
    }
   },
@@ -3560,8 +3560,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 31, 2026. Musk said FSD V15 goes to wide release in December 2026. Fetched Nov 25 2026: Tesla started an early-access/first-wave customer rollout of FSD (Supervised) v15.0.1 on Nov 21; trackers still show a tiny share of the fleet. Wide/holiday-update release has not happened. Status stays pending.",
-    "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/"
+    "summary": "Pending until Dec 31, 2026. Musk said FSD V15 goes to wide release in December 2026. Fetched Nov 26 2026: Tesla started an early-access/first-wave customer rollout of FSD (Supervised) v15.0.1 on Nov 21; Die Signal (Nov 25) cites TeslaFi at 27 U.S. Hardware 4 Model Ys. Wide/holiday-update release has not happened. Status stays pending.",
+    "url": "https://diesignal.com/articles/tesla-fsd-v15-rolls-out-with-25x-safety-claim-and-no-baseline"
    }
   },
   {
@@ -5601,7 +5601,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 25 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (78 commits; latest notable README update Oct 26 2026 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 26 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (78 commits; latest commit Nov 25 2026). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -10135,8 +10135,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 9 2026: independent trackers still count 26 Starlink V3 satellites in orbit, all from Starship Flight 14 on Sep 28 2026 (Upside Curve compiled Nov 9). Falcon 9 batches since then are not V3. Flight 15 (NET Nov 13) has not flown. About 1,000 V3s around Q2 2027 remains well ahead. Status stays pending.",
-    "url": "https://upsidecurve.com/trackers/starlink"
+    "summary": "Fetched Nov 26 2026: carrierdepth's Starlink tracker counts 52 V3 satellites in orbit — 26 from Starship Flight 14 (Sep 28) and 26 from Flight 15 (Nov 13). Falcon 9 batches since then are not V3. About 1,000 V3s around Q2 2027 remains well ahead. Status stays pending.",
+    "url": "https://carrierdepth.com/starlink"
    }
   },
   {
@@ -12284,8 +12284,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 30, 2026. Fetched Nov 25 2026: Compute Atlas still lists Minihard as operational and Colossus as operating-plus-expansion; no independent receipt that the Southaven Gun Range hall is live. Musk's Oct 31 line remains a projection with five days left on the deadline.",
-    "url": "https://www.compute-atlas.com/facilities/xai-minihard-memphis-tn"
+    "summary": "Pending until Nov 30, 2026. Fetched Nov 26 2026: Compute Atlas still lists Minihard as operational and the Southaven Gun Range hall as under construction. No independent receipt that Gun Range is running AI workloads. Musk's Oct 31 line remains a projection with four days left on the deadline.",
+    "url": "https://www.compute-atlas.com/operators/xai"
    }
   },
   {
@@ -12514,8 +12514,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 1, 2026. Fetched Nov 25 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news has no 4.8 announcement. Musk on Nov 19 said several variants are in beta with no pick yet for wide release. General release has not happened; six days left.",
-    "url": "https://docs.x.ai/developers/models"
+    "summary": "Pending until Dec 1, 2026. Fetched Nov 26 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news newest model post is still Introducing Grok 4.7 (Sep 21). General release has not happened; five days left.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
