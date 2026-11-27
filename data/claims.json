@@ -1,6 +1,6 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-26",
+ "retrieved": "2026-11-27",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": [
@@ -3014,8 +3014,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: patients still play games with thought (WoW, hybrid FPS aim with Quadstick). Nov 6 recaps of Rob Greiner's FPS session still describe aim-with-thoughts plus Quadstick for the rest, not beating most or all able-bodied humans at fast-reaction video games. Deadline Dec 31 2026. Status stays pending.",
-    "url": "https://x.com/AIDropDaily/status/2118764505727398227"
+    "summary": "Fetched Nov 27 2026: Neuralink posted Nov 20 that participant Billy played GTA VI with the implant (2 joysticks + 12 buttons). Tom's Hardware (Nov 22) covers the same demo. Playing a game with thought is not beating most or all able-bodied humans at fast-reaction video games. Deadline Dec 31 2026. Status stays pending.",
+    "url": "https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller"
    }
   },
   {
@@ -3398,8 +3398,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 25 2026: Tesla has Optimus in early-ramp Fremont production (Q3 update) but has not shown the Gen 3 body as an official unveil. App leaks and a promised unscripted video (#515) are not an Optimus 3 reveal. Status stays missed.",
-    "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-20000-week/"
+    "summary": "Still missed. Fetched Nov 27 2026: Tesla has Optimus in early-ramp Fremont production but has not shown the Gen 3 body as an official unveil. App leaks and a promised unscripted video are not an Optimus 3 reveal. Status stays missed.",
+    "url": "https://en.wikipedia.org/wiki/Optimus_(robot)"
    }
   },
   {
@@ -3560,8 +3560,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 31, 2026. Musk said FSD V15 goes to wide release in December 2026. Fetched Nov 26 2026: Tesla started an early-access/first-wave customer rollout of FSD (Supervised) v15.0.1 on Nov 21; Die Signal (Nov 25) cites TeslaFi at 27 U.S. Hardware 4 Model Ys. Wide/holiday-update release has not happened. Status stays pending.",
-    "url": "https://diesignal.com/articles/tesla-fsd-v15-rolls-out-with-25x-safety-claim-and-no-baseline"
+    "summary": "Pending until Dec 31, 2026. Musk said FSD V15 goes to wide release in December 2026. Fetched Nov 27 2026: Tesla started an early-access/first-wave customer rollout of FSD (Supervised) v15.0.1 on Nov 21; December wide/holiday-update release has not happened. Status stays pending.",
+    "url": "https://evxl.co/2026/11/21/tesla-fsd-v15-wide-release-december-musk-hw3/"
    }
   },
   {
@@ -3622,7 +3622,7 @@
     }
    ],
    "resolution": {
-    "summary": "Musk demoed battery swapping on June 20 2013 and pitched swap stations across Tesla's network. Only one pilot station was ever built (Harris Ranch, opened ~March 2015) and it was shut down by 2016 after minimal use — of ~200 invited owners, only about five tried it. Musk himself buried the idea at the June 9 2015 annual shareholder meeting: owners \"don't seem to be very interested\" in pack swap and, \"based on what we're seeing here, it's unlikely to be something that's worth expanding.\" Tesla abandoned swapping for Superchargers; the network never materialized.",
+    "summary": "Musk demoed battery swapping on June 20 2013 and pitched swap stations across Tesla's network. Only one pilot station was ever built (Harris Ranch, opened ~March 2015) and it was shut down by 2016 after minimal use. Musk buried the idea at the June 9 2015 annual shareholder meeting. Fetched Nov 27 2026: Tesla's Thanksgiving 2026 charging push added Supercharger stalls, not pack-swap stations; Wikipedia Tesla battery station still records the program as discontinued. Status stays cancelled.",
     "url": "https://en.wikipedia.org/wiki/Tesla_battery_station"
    }
   },
@@ -4960,11 +4960,11 @@
    "title": "Recover the Starship upper stage intact in 2025",
    "company": "SpaceX",
    "topic": "Space",
-   "status": "missed",
+   "status": "delivered-late",
    "first_said": "2025-02-28",
    "first_deadline": "2025-12-31",
    "current_deadline": "2025-12-31",
-   "resolved_date": null,
+   "resolved_date": "2026-11-14",
    "times_moved": 0,
    "goalpost_history": [],
    "statements": 1,
@@ -4974,15 +4974,15 @@
      "date_made": "2025-02-28",
      "deadline": "2025-12-31",
      "change": "first",
-     "status": "missed",
+     "status": "delivered-late",
      "quote": "We just want—if we can get the damn ship back intact, we can iterate a lot better. I think we'll get it back intact this year. We might be able to refly one with a fair bit of work by the end of this year.",
      "source": "https://www.youtube.com/watch?v=sSOxPJD-VNo",
      "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#recover-starship-ship-intact-2025"
     }
    ],
    "resolution": {
-    "summary": "Said on JRE #2281 (Feb 28, 2025), so 'this year' = 2025. SpaceX never recovered a Starship upper-stage SHIP intact in 2025. Across all 2025 flights the ship was either destroyed or, at best, did a controlled ocean splashdown and was NOT brought back: Flight 7 (Jan 16) ship exploded over Turks & Caicos; Flight 8 (Mar 6) ship lost attitude control and was lost; Flight 9 (May 27, Ship 35) broke up on re-entry; Flight 10 (Aug 26) made a powered splashdown in the Indian Ocean (not recovered); Flight 11 (Oct 13, the final flight of 2025) softly splashed down in the Indian Ocean then tipped over and exploded. Only the Super Heavy BOOSTER was caught by the tower during 2025 — catching the booster ≠ recovering the ship. No ship was caught by the tower or returned to land intact in 2025. The 'get it back intact this year' milestone was MISSED.",
-    "url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
+    "summary": "Delivered late. On Joe Rogan #2281 (Feb 28 2025) Musk said SpaceX would get the Starship upper stage back intact in 2025; no 2025 flight recovered a ship. On Nov 14 2026 at 21:20 UTC the Starbase tower caught Ship 42 after Flight 15 — the first intact recovery of a Starship upper stage from orbit. The separate 'might refly one this year' line is tracked as #402 (still missed; Ship 42 has not reflown). Fetched Nov 27 2026.",
+    "url": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/"
    }
   },
   {
@@ -5012,7 +5012,7 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 25 2026: Tesla software 2026.44.1 added a Grok button in the navigation search bar for voice requests such as finding nearby hospitals, and 2026.26 Grok Commands still cover phone, music, climate and Controls search. That is not conversational Grok telling FSD to turn or park. Customer cars remain FSD (Supervised).",
+    "summary": "Still missed. Fetched Nov 27 2026: Tesla software 2026.44.1 added a Grok button in the navigation search bar for voice requests such as finding nearby hospitals, and 2026.26 Grok Commands still cover phone, music, climate and Controls search. That is not conversational Grok telling FSD to turn or park. Customer cars remain FSD (Supervised).",
     "url": "https://tescamstudio.com/news/2026-11-20-evening"
    }
   },
@@ -5074,7 +5074,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: SpaceX Q3 2026 revenue $14.6B; management is tracking ~$100B ARR by Dec 2026 and Musk put $500B–$1T ARR by end-2027, with ~2% odds on the $1T end (Baron, Nov 6). That is a 2027 run-rate guess, still well short of ~$1T of annual revenue in 2030. Status stays pending.",
+    "summary": "Fetched Nov 27 2026: SpaceX Q3 2026 revenue remains ~$14.6B with management tracking ~$100B ARR by Dec 2026. That is still well short of ~$1T of annual revenue in 2030. Status stays pending.",
     "url": "https://www.fool.com/investing/2026/11/09/elon-musk-just-gave-the-top-end-of-his-spacex-revenue-forecast-about-a-2-chance-his-best-guess-sits-at-the-bottom-end/"
    }
   },
@@ -5291,8 +5291,8 @@
     }
    ],
    "resolution": {
-    "summary": "Sweep proposed delivered on Neuralink's Sep 18 'Speaking With The Mind' video. Fetched Nov 12 2026: Neura Pod still describes VOICE participant Terry Mandable's 3,000-channel implant as an investigational trial device (~3× the original ~1,024-electrode N1), not an announced next-gen 3X product line or FDA-approved device. Deadline end of 2026. Status stays pending.",
-    "url": "https://www.neurapod.com/blog/neuralink-update-september-2026"
+    "summary": "Fetched Nov 27 2026: TeslaNorth (Nov 25) reports FDA clearance of Neuralink's LINK pivotal trial of the current implant in people with ALS; the device remains investigational. That is not an announced next-gen 3X product line ready for use. Terry Mandable's 3,000-channel VOICE implant is still a trial device. Deadline end of 2026. Status stays pending.",
+    "url": "https://teslanorth.com/2026/11/25/neuralink-fda-link-pivotal-brain-implant-trial-als/"
    }
   },
   {
@@ -5601,7 +5601,7 @@
     }
    ],
    "resolution": {
-    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 26 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (78 commits; latest commit Nov 25 2026). It is not the full X production codebase. Status stays partial.",
+    "summary": "Partial — algorithm only (Jan 20 2026). Fetched Nov 27 2026: GitHub xai-org/x-algorithm README is still “X For You Feed Algorithm” (78 commits; Oct 26 Brazil-election filter removal). It is not the full X production codebase. Status stays partial.",
     "url": "https://github.com/xai-org/x-algorithm"
    }
   },
@@ -5849,7 +5849,7 @@
      "date_made": "2023-10-05",
      "deadline": "2024-12-31",
      "change": "first",
-     "status": "missed",
+     "status": "delivered-late",
      "quote": "if we get lucky, we might catch the ship towards the end of next year",
      "source": "https://www.youtube.com/watch?v=z0Hrz_Kv2L8&t=266s",
      "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-catch-end-of-2024"
@@ -5859,7 +5859,7 @@
      "date_made": "2025-05-14",
      "deadline": "2025-12-31",
      "change": "goalpost_moved",
-     "status": "missed",
+     "status": "delivered-late",
      "quote": "Later this year, if fate smiles upon SpaceX, the ship will be caught by the tower, just like the booster",
      "source": "https://x.com/elonmusk/status/1922585324766507425",
      "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-caught-by-tower-2025"
@@ -5886,7 +5886,7 @@
     }
    ],
    "resolution": {
-    "summary": "Delivered. On November 14, 2026 at 21:20 UTC (3:20 pm CST) the Starbase tower caught Ship 42 at Orbital Launch Pad 2 after a 22.5-hour Flight 15, the first tower catch of a Starship upper stage. SpaceX posted “Mechazilla catches Starship!” The original “next flight” after Flight 13 was Flight 14; the catch was goalposted onto Flight 15 and landed before the card’s end-2026 deadline. Fetched Nov 15 2026.",
+    "summary": "Delivered late. In October 2023 Musk said SpaceX might catch the ship toward the end of 2024. Super Heavy boosters were caught from October 2024, but no upper stage was caught in 2024 or 2025. On Nov 14 2026 the Starbase tower caught Ship 42 after Flight 15, the first Starship upper-stage catch. Fetched Nov 27 2026.",
     "url": "https://en.wikipedia.org/wiki/Starship_flight_15"
    }
   },
@@ -5917,8 +5917,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 25 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news latest model post is still Grok 4.7 (Sep 21). The Nov 16 Bot soft-rollout of 4.8 (#524) also missed. No public massive-gains receipt for the new C++ stack.",
-    "url": "https://docs.x.ai/developers/models"
+    "summary": "Still missed. Fetched Nov 27 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news latest model post is still Grok 4.7 (Sep 21). The Nov 16 Bot soft-rollout of 4.8 (#524) also missed. No public massive-gains receipt for the new C++ stack.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -7153,8 +7153,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Fetched Nov 25 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Compute Atlas Minihard brief (updated Nov 20) still lists Minihard as operational and Colossus as operating-plus-expansion; Gun Range remains a separate end-of-November projection (#518), not a receipt the promised Oct 4 extra 220k is live.",
-    "url": "https://www.compute-atlas.com/facilities/xai-minihard-memphis-tn"
+    "summary": "Still missed. Fetched Nov 27 2026: no tranche-live post that the Oct 4 extra 220k GB300 hall is operational. Compute Atlas lists Minihard as operational and Gun Range as under construction — not a receipt the promised Oct 4 extra tranche is live. Status stays missed.",
+    "url": "https://www.compute-atlas.com/operators/xai"
    }
   },
   {
@@ -9502,8 +9502,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 9 2026: Tesla's Q3 2026 Update still brands FSD as Supervised (active driver supervision required; does not make the vehicle autonomous). California DMV (drivered list dated Oct 23 2026) has Tesla Robotaxi LLC on testing-with-a-driver only, not driverless testing or deployment. Unsupervised robotaxis remain a small multi-city fleet. Almost all new cars are not autonomous; July 2027 deadline has not passed. Status stays pending.",
-    "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/"
+    "summary": "Fetched Nov 27 2026: Tesla FSD V15 early-access cars still run FSD (Supervised); Musk's December wide-release line is the same supervised stack. Unsupervised robotaxis remain a small multi-city fleet. Almost all new cars are not autonomous; July 2027 deadline has not passed. Status stays pending.",
+    "url": "https://evxl.co/2026/11/21/tesla-fsd-v15-wide-release-december-musk-hw3/"
    }
   },
   {
@@ -10657,7 +10657,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 9 2026: x.ai/news since the Grok 4 launch is still product releases (Grok 4.7, Voice 3.0, Grok Bot, Partner Network). No official or press receipt that Grok discovered a useful new technology. Deadline Dec 31 2026. Status stays pending.",
+    "summary": "Fetched Nov 27 2026: x.ai/news since the Grok 4 launch is still product releases (Grok 4.7, Voice 3.0, Grok Bot, Partner Network). No official or press receipt that Grok discovered a useful new technology. Deadline Dec 31 2026. Status stays pending.",
     "url": "https://x.ai/news"
    }
   },
@@ -10750,7 +10750,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 9 2026: EIA Today in Energy (Oct 19) says battery-electric vehicles were 6% of US new light-duty sales in Q3 2026, down from 10% in Q3 2025, and 6% in the first nine months of 2026. More than half of new US vehicle production electric by July 2027 is not in sight. Status stays pending.",
+    "summary": "Fetched Nov 27 2026: EIA Today in Energy (Oct 19) says battery-electric vehicles were 6% of US new light-duty sales in Q3 2026, down from 10% in Q3 2025, and 6% in the first nine months of 2026. More than half of new US vehicle production electric by July 2027 is not in sight. Status stays pending.",
     "url": "https://www.eia.gov/todayinenergy/detail.php?id=68325"
    }
   },
@@ -11122,7 +11122,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 9 2026: no Starship has landed on the Moon. NASA (Nov 4 recap of Oct 23) still targets a crewed lunar landing in 2028 (Artemis IV), with Artemis III in 2027 as an Earth-orbit docking demo with a Starship test article — not a lunar landing. Musk's March 2027 window has not passed. Status stays pending.",
+    "summary": "Fetched Nov 27 2026: no Starship has landed on the Moon. NASA's Nov 4 recap of the Oct 23 Artemis update still targets a crewed lunar landing in 2028 (Artemis IV), with Artemis III in 2027 as an Earth-orbit docking demo with Starship and Blue Moon test articles — not a lunar landing. Musk's March 2027 window has not passed. Status stays pending.",
     "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
    }
   },
@@ -11215,7 +11215,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 9 2026: Ember's Global Electricity Review 2026 still has 2025 solar at 2,778 TWh versus coal at 10,476 TWh; Ember's world page says coal remains the single largest source of electricity. Renewables as a group overtook coal, but solar alone has not. Deadline is 2050. Status stays pending.",
+    "summary": "Fetched Nov 27 2026: Ember's Global Electricity Review 2026 still has 2025 solar at 2,778 TWh versus coal at 10,476 TWh (33.0%). Renewables as a group overtook coal (33.8% vs 33.0%), but solar alone has not. Deadline is 2050. Status stays pending.",
     "url": "https://ember-energy.org/latest-insights/global-electricity-review-2026/"
    }
   },
@@ -11444,8 +11444,8 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: Tesla News Wire Robotaxi Tracker (updated Nov 9) still lists California as no driverless permits — CPUC charter-party only, Bay Area rides keep a safety driver, and CPUC said Tesla is not operating an AV service. Public Cybercab rides remain Austin-centered. Mid-2027 California commercial deadline has not passed. Status stays pending.",
-    "url": "https://teslanewswire.com/robotaxi-tracker"
+    "summary": "Fetched Nov 27 2026: TeslaNorth (Nov 24) reports a CPUC Dec 3 vote on robotaxi rules; the proposal does not grant Tesla a driverless permit. California DMV still lists Tesla for testing with a safety driver, not driverless deployment. Public Cybercab rides remain Texas-centered. Mid-2027 California commercial Cybercab stays pending.",
+    "url": "https://teslanorth.com/2026/11/24/california-robotaxi-rules-december-3-vote/"
    }
   },
   {
@@ -11568,7 +11568,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: Tesla Robotaxi has a few million unsupervised miles (safety counter passed 4 million around Oct 30) across a handful of US metros, while FSD on owner cars remains Supervised. That is not 90% of all distance driven. Deadline 2036. Status stays pending.",
+    "summary": "Fetched Nov 27 2026: Tesla Robotaxi is live unsupervised in a handful of US metros while owner-car FSD remains Supervised. That is not 90% of all distance driven. Deadline 2036. Status stays pending.",
     "url": "https://www.cybercab.news/article/robotaxi-4-million-miles-oct30"
    }
   },
@@ -12222,7 +12222,7 @@
     }
    ],
    "resolution": {
-    "summary": "Fetched Nov 11 2026: Qualcomm deal (Nov 4) starts terrestrial 5G sites in 2027; Gwynne Shotwell on the Oct 20 SpaceX call said Starlink Mobile service turns on in early 2028. Teslarati (Nov 11) reports the FCC accepted SpaceX's Grain 800 MHz transfer for public comment — acceptance is not approval, and the US carrier network is not built out. Deadline Oct 31 2029. Status stays pending.",
+    "summary": "Fetched Nov 27 2026: Gwynne Shotwell on the Oct 20 SpaceX call still targets Starlink Mobile service on SpaceX's own airwaves in early 2028. The FCC accepted SpaceX's Grain 800 MHz transfer for comment (Teslarati Nov 11) but has not approved it. A US carrier network is not built out. Deadline Oct 31 2029. Status stays pending.",
     "url": "https://www.teslarati.com/spacex-fcc-verizon-att-approved/"
    }
   },
@@ -12284,7 +12284,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 30, 2026. Fetched Nov 26 2026: Compute Atlas still lists Minihard as operational and the Southaven Gun Range hall as under construction. No independent receipt that Gun Range is running AI workloads. Musk's Oct 31 line remains a projection with four days left on the deadline.",
+    "summary": "Pending until Nov 30, 2026. Fetched Nov 27 2026: Compute Atlas still lists xAI's Gun Range data center (Tulane Road, Southaven) as under construction. Minihard is operational; Gun Range is not. No independent receipt that Gun Range is running AI workloads. Three days left on the deadline.",
     "url": "https://www.compute-atlas.com/operators/xai"
    }
   },
@@ -12359,7 +12359,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Sep 22, 2027 (end of summer 2027). Replaces the mid-2027 wind-down date from Nov 6.",
+    "summary": "Pending until Sep 22, 2027 (end of summer 2027). Fetched Nov 27 2026: no Tesla/Elon walk-back of the Nov 11 extension of Cybertruck production through end of summer 2027. Status stays pending.",
     "url": "https://x.com/elonmusk/status/2120565056429814073"
    }
   },
@@ -12390,8 +12390,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Feb 10, 2027. Grade whether a public Grok 5 exceeds Claude Opus 5.5, not only whether Grok 5 ships.",
-    "url": "https://x.com/elonmusk/status/2120099798078656909"
+    "summary": "Pending until Feb 10, 2027. Fetched Nov 27 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-5; x.ai/news newest model post is still Introducing Grok 4.7 (Sep 21). Grok 5 has not shipped, so it cannot exceed Claude Opus 5.5. Status stays pending.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -12421,8 +12421,8 @@
     }
    ],
    "resolution": {
-    "summary": "Still missed. Deadline was Nov 16. Fetched Nov 25 2026: docs.x.ai still grok-4.7 with no grok-4.8; x.ai/news has no 4.8 post. Musk on Nov 17 said 4.8 had not rolled out for general use, only trials behind the scenes, and on Nov 19 that several variants are in beta. Status stays missed.",
-    "url": "https://docs.x.ai/developers/models"
+    "summary": "Still missed. Deadline was Nov 16. Fetched Nov 27 2026: docs.x.ai still lists Grok 4.7 as the most capable model with no grok-4.8; x.ai/news has no 4.8 post. Status stays missed.",
+    "url": "https://docs.x.ai/docs/models"
    }
   },
   {
@@ -12452,7 +12452,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Q4 2026 results. Grade sequential revenue growth vs Q3 $14.575B, not the separate $100B December ARR target.",
+    "summary": "Pending until Q4 2026 results. Fetched Nov 27 2026: SpaceX has not published Q4 2026 revenue. Q3 was $14.575B; the sequential ~70% claim is untestable until the quarter closes. Status stays pending.",
     "url": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06"
    }
   },
@@ -12483,8 +12483,8 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Nov 6, 2029. Grade published $/ton to orbit vs California–Australia air freight, not the undated sub-$100/kg line from the same talk.",
-    "url": "https://elonmuskarchive.org/video/baron-investment-conference-2026-11-06"
+    "summary": "Pending until Nov 6, 2029. Fetched Nov 27 2026: Wikipedia List of Starship launches records 15 flights through Nov 14 with the first ship catch on Flight 15; no published $/ton-to-orbit figure below California–Australia air freight. Status stays pending.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Starship_launches"
    }
   },
   {
@@ -12514,7 +12514,7 @@
     }
    ],
    "resolution": {
-    "summary": "Pending until Dec 1, 2026. Fetched Nov 26 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news newest model post is still Introducing Grok 4.7 (Sep 21). General release has not happened; five days left.",
+    "summary": "Pending until Dec 1, 2026. Fetched Nov 27 2026: docs.x.ai still lists Grok 4.7 as the most capable model and has no grok-4.8. x.ai/news newest model post is still Introducing Grok 4.7 (Sep 21). General release has not happened; four days left.",
     "url": "https://docs.x.ai/docs/models"
    }
   },

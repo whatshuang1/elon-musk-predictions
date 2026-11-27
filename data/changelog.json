@@ -1,19 +1,51 @@
 {
  "license": "CC BY 4.0 — attribution required: link to https://twoweeks.lol",
- "retrieved": "2026-11-26",
+ "retrieved": "2026-11-27",
  "schema_version": "2.0",
  "schema": "https://twoweeks.lol/data/schema.json",
  "claims": 358,
  "statements": 481,
- "count": 425,
+ "count": 429,
  "note": "Newest first. Same entries as /feed.xml.",
  "changes": [
+  {
+   "date": "2026-11-27",
+   "kind": "prediction",
+   "slug": "recover-starship-ship-intact-2025",
+   "claim_id": "c193",
+   "change": "Verdict: Missed → Delivered late. On Nov 14 2026 SpaceX's Starbase tower caught Ship 42 after Flight 15, the first intact recovery of a Starship upper stage from orbit.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#recover-starship-ship-intact-2025"
+  },
+  {
+   "date": "2026-11-27",
+   "kind": "prediction",
+   "slug": "starship-ship-caught-by-tower-2025",
+   "claim_id": "c224",
+   "change": "Verdict: Missed → Delivered late. SpaceX caught the Starship upper stage with the tower on Nov 14 2026 (Ship 42, Flight 15), the first ship catch.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-caught-by-tower-2025"
+  },
+  {
+   "date": "2026-11-27",
+   "kind": "prediction",
+   "slug": "starship-ship-catch-end-of-2024",
+   "claim_id": "c224",
+   "change": "Verdict: Missed → Delivered late. The Starship upper-stage tower catch he hoped for by the end of 2024 happened on Nov 14 2026, when the Starbase tower caught Ship 42 after Flight 15.",
+   "url": "https://twoweeks.lol/predictions/starship-next-flight-v3-2026/#starship-ship-catch-end-of-2024"
+  },
   {
    "date": "2026-11-26",
    "kind": "prediction",
    "slug": "spacex-shares-to-every-kid-in-america",
    "claim_id": "c500",
    "change": "Update: On Nov 26 2026 Musk said his own SpaceX share for every kid will be transferred when his stock lockup expires in June 2027, and a separate share from SpaceX itself goes out next month (https://x.com/elonmusk/status/2125832205301878841). Still pending; the deadline stays Dec 31 2027.",
+   "url": "https://twoweeks.lol/predictions/spacex-shares-to-every-kid-in-america/"
+  },
+  {
+   "date": "2026-11-26",
+   "kind": "prediction",
+   "slug": "spacex-shares-to-every-kid-in-america",
+   "claim_id": "c500",
+   "change": "Update: Later on Nov 26 2026 Musk said he will donate another SpaceX share to all kids in America every year (https://x.com/elonmusk/status/2126064597039997254). Still pending; the first transfer of his own share is due by Dec 31 2027.",
    "url": "https://twoweeks.lol/predictions/spacex-shares-to-every-kid-in-america/"
   },
   {
